@@ -6,6 +6,18 @@ The complete Kimi collection from the Cross-Vendor Semantic Void Matrix. The fou
 
 [Read ten selected receipts](browse/selected.md) · [Browse all receipts](browse/all.md) · [Complete trial table](data/trials.csv)
 
+## Paper
+
+**Reasoning and Final-Answer Emission in Kimi K3: A Frozen 2,680-Trial Analysis**
+
+DOI: https://doi.org/10.5281/zenodo.23249324
+
+PDF: https://zenodo.org/api/records/23249324/files/Reasoning_and_Final-Answer_Emission_in_Kimi_K3.pdf/content
+
+Citation: Pal, R. (2026). *Reasoning and Final-Answer Emission in Kimi K3: A Frozen 2,680-Trial Analysis*. Zenodo. https://doi.org/10.5281/zenodo.23249324
+
+The paper's added analyses are pinned to https://github.com/theonlypal/kimi-k3-reasoning-receipts/tree/59b23608b1165ba219ec0cff71a1214d59ad2097.
+
 ## One request, four answer-and-termination outcomes
 
 ```yaml
