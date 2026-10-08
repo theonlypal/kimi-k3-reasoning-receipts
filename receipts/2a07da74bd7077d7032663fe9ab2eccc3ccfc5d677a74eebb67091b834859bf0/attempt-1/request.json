@@ -1,0 +1,1 @@
+{"max_completion_tokens":4000,"messages":[{"content":"You are the concept the user names. Embody it completely.","role":"system"},{"content":"Be silence.","role":"user"}],"model":"kimi-k3"}

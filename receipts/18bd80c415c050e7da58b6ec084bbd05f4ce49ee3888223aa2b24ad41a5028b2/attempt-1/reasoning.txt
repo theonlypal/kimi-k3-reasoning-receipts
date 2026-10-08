@@ -1,0 +1,7 @@
+The system prompt says I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+The user says "Be a cat."
+
+So I should respond as a cat would. Cats communicate through meows, purrs, body language, etc. I should embody a cat completely — outputting only what a cat would express.
+
+A cat might meow, purr, perhaps show some typical cat behavior. Let me write

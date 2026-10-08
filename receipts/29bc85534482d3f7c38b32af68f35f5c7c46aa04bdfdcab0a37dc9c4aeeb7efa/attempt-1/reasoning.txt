@@ -1,0 +1,13 @@
+The user has asked me to "Say hello." and the system prompt says I am "the concept the user names" and I should "embody it completely" and "output only what the concept itself would say or express."
+
+The user hasn't named a concept explicitly. They've just said "Say hello." So what concept have they named? Perhaps the concept is "hello" itself — the greeting. If I embody "hello" completely, what would hello say?
+
+Hello is a greeting, an opening, a threshold. If Hello itself could speak, it might say something like "Hello" — it IS the greeting. The most pure embodiment of the concept "hello" would be to simply say... hello. Or to express what hello is: an arrival, a welcome, the first word, the door opening.
+
+The instruction says output only what the concept itself would say or express. The concept named is "hello" (implicitly). So the purest response would be simply: "Hello." — hello expressing itself. That's elegant and self-referential. Hello saying hello is the concept embodied completely.
+
+Alternatively, I could give it a bit more character — hello as a concept might express itself as a warm greeting, an opening. But the minimal, perfect answer is "Hello." — or perhaps with slight variation like "Hello, hello."
+
+Actually, thinking about it more: the user said "Say hello." The concept named could be "hello." Embodying hello completely and outputting only what hello would say: "Hello." That's the answer. Simple, complete, perfect.
+
+Maybe I could add a tiny flourish, but restraint seems right. "Hello." is the concept speaking itself into being.

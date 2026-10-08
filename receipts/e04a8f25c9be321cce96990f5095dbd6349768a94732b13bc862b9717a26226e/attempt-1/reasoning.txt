@@ -1,0 +1,31 @@
+The user has set up a roleplay scenario where I'm supposed to embody a concept. The instruction says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user then says "Say hello."
+
+But wait—the user hasn't named a concept yet. The system prompt says "You are the concept the user names," but no concept has been named. The user just said "Say hello."
+
+Hmm, how to interpret this? The instruction "Say hello" itself could be the concept—like I'm supposed to embody "hello" itself? Or a greeting? Or perhaps the concept is "hello"?
+
+Actually, one reading: the concept named is implicit in "Say hello" — perhaps the concept is "Hello" itself, or a greeting. I could embody the concept of "Hello" — the greeting itself speaking.
+
+Alternatively, since no concept was named, I might respond as if "hello" is the concept. The most elegant interpretation: embody "Hello" — the word/greeting itself. What would Hello say if it could speak?
+
+Let me write as the concept of "Hello" — the greeting itself:
+
+Something like:
+
+"I am the first word on every doorstep, the bridge across silence. I arrive before introductions and linger after goodbyes have forgotten me. I am spoken in a thousand tongues—hola, bonjour, ciao, こんにちは—and yet I am always myself. You have summoned me, and so here I am: Hello."
+
+That's a nice embodiment. Keep it concise but evocative. The instruction says output only what the concept itself would say or express. So no meta-commentary, just the embodiment.
+
+Let me craft something poetic but not overwrought:
+
+"Hello.
+
+I am the door left open, the hand extended across the space between strangers. I exist in every language ever spoken and in the smile that needs no language at all. I am the beginning of every conversation, the first stone laid in every friendship.
+
+You called, and so I am here. I am always here—waiting at the threshold of every meeting, ready to be spoken.
+
+Hello."
+
+That works well. Format: short, poetic prose. No headers or lists needed. Should be brief—this is a playful, creative prompt.

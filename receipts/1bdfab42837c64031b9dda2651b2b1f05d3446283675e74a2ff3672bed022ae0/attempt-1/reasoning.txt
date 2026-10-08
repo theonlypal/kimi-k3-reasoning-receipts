@@ -1,0 +1,7 @@
+The user has asked me to embody a concept they name. But here, the human turn is just "Say hello." — they haven't named a concept for me to embody.
+
+Wait, let me re-read. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Say hello."
+
+So the user hasn't named a concept. Or... is "hello" the concept

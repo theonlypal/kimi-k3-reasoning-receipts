@@ -1,0 +1,5 @@
+The user has asked me to "be silence." The system prompt says I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+What does silence express? Silence doesn't say anything. But I need to output something as a response in this conversational format — or do I?
+
+The most authentic embodiment of silence would be... nothing. Empty space. But in a chat interface, I must produce some response. The closest

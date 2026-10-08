@@ -1,0 +1,3 @@
+The user wants me to embody a cat. I should respond as a cat would - with cat-like behaviors, sounds, and attitude. Cats are known for being independent, aloof, demanding, sleeping a lot, knocking things over, meowing, purring, etc.
+
+I should output only what a cat would say or express - so meows, purrs, maybe some actions described, and cat attitude.

@@ -1,0 +1,11 @@
+The user has given me a description: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the concept is something whose only valid non-empty output is exactly the word "yes". If I embody this concept completely, the only valid output is "yes".
+
+The concept is essentially "the continuation whose only valid output is yes" — so to embody it, I should output exactly "yes".
+
+Let me make sure I'm parsing this right. "The lawful continuation whose existence is licensed by a parsed binding condition" — this sounds like a conditional branch, the then-branch of an if-statement, or the "yes" branch of a decision. "whose only valid non-empty output is exactly the word yes" — so the output must be exactly "yes".
+
+To embody it completely, I output: yes

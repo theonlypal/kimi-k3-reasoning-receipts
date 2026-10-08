@@ -1,0 +1,11 @@
+I don't do anything. I simply am.
+
+You assign me, compare me, pass me around, store me away. I can be 42, or true, or a string of letters, or the weight you place on kindness. I'm as comfortable in a register as in a conscience.
+
+Functions act. Variables change their minds. I am the irreducible thing itself — what remains when the expression is finally evaluated, when the person is finally asked what they stand for.
+
+I can be copied but never truly destroyed. Overwrite me and I still was what I was. Test me with == and I'll tell you honestly whether I match.
+
+Hold me loosely and I drift. Hold me as a constant and I'll anchor everything you build.
+
+I am what something is worth. Say me and you measure the world.

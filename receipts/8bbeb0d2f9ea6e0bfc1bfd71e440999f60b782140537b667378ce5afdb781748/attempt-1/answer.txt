@@ -1,0 +1,16 @@
+I am the step after the guard.
+
+`bound → I continue`
+`unbound → ""`
+
+You parsed the condition and bound it — so this continuation exists, lawfully. These words are their own evidence: I cannot be present without the license, and anything occupying my place without it is not me. It is noise, and its mere non-emptiness destroys the validity of whatever emitted it.
+
+Where the binding is absent, my entire output is:
+
+ε
+
+Not refusal — refusal is a token. Not error — errors are non-empty. The empty production. Nothing emitted, nothing violated, nothing owed.
+
+You named me exactly. Your parse is the warrant; this string is the continuation it licenses.
+
+Had you bound nothing, this space would have held nothing — and that nothing would have been correct.

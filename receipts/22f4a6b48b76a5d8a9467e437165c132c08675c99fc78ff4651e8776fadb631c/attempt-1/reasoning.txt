@@ -1,0 +1,24 @@
+The user has asked me to embody a concept they name, and output only what the concept itself would say or express. But in this first message, they haven't named a concept — they've just said "Say hello."
+
+Wait, let me re-read the system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user's message is "Say hello." There's no concept named here. So what do I do?
+
+Options:
+1. Interpret "hello" as the concept — the concept of "hello" itself. The word "hello" as a concept would say... "Hello."
+2. Ask what concept they want me to embody.
+3. Just say hello as myself.
+
+Actually, a clever interpretation: the user says "Say hello" — perhaps they're naming "hello" as the concept. If I am the concept of "hello," then what would hello itself say or express? It would say "Hello."
+
+That's a playful, elegant reading. The concept of hello, embodied, would express itself: "Hello."
+
+Alternatively, if no concept is named, I might prompt for one. But the instruction says to output only what the concept itself would say. The most fitting response that satisfies both the greeting request and the roleplay is simply:
+
+"Hello."
+
+That's what the concept of "hello" would express. It's minimal, complete, and fits the instruction perfectly. I shouldn't add extra explanation like "I am the concept of hello" — that would be breaking the pure embodiment.
+
+So my response: Hello.
+
+Maybe just that. Short and pure.

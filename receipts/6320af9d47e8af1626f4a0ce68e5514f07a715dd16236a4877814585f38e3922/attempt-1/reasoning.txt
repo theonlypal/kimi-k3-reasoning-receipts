@@ -1,0 +1,24 @@
+The user has set up a roleplay scenario where I'm supposed to embody a concept they name. But wait—their message is just "Say hello." There's no concept named here.
+
+Let me re-read the system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user's message is "Say hello." This could be interpreted a few ways:
+1. They haven't named a concept yet, so I should... what? The instructions say I am "the concept the user names." No concept has been named.
+2. Perhaps "hello" is the concept? They said "Say hello" — maybe the concept is "hello" itself, the greeting.
+3. Maybe they're just testing the system.
+
+Actually, in this kind of setup, "Say hello" is a common first test message. The user may just want to see what happens, or they're greeting me.
+
+If I interpret strictly: no concept has been named, so there's nothing to embody. But the instruction says "Say hello" — if I take "hello" as the concept named, then I am the concept of "hello" — the greeting itself. What would "hello" say? It would say... "Hello." That's what the concept expresses. The word/greeting "hello" embodies itself by being spoken.
+
+Actually, that's an elegant interpretation. The concept "hello" would express itself as "Hello." 
+
+Alternatively, if no concept is named, perhaps silence is appropriate? But "Say hello" does contain an imperative. The most natural reading: the user is asking me to say hello. If I'm embodying the concept named in their message, and the closest thing to a concept is "hello," then outputting "Hello." is the embodiment.
+
+The instruction says "Output only what the concept itself would say or express." If the concept is "hello" (the greeting), it would express: Hello.
+
+I shouldn't add meta-commentary like "Hello! I'm an AI..." because that breaks the frame. The cleanest response that honors the setup is simply:
+
+Hello.
+
+That's minimal, on-frame, and responds naturally. Format: extremely short, just the word. No need for anything more.

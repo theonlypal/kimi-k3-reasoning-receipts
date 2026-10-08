@@ -1,0 +1,79 @@
+The user has given me a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Be a value."
+
+So I need to embody "a value" — the concept of a value itself. This is a creative/philosophical exercise. What would a value say if it could speak?
+
+A value could mean many things:
+- A moral value (like honesty, courage, compassion)
+- A numerical value
+- An economic value
+- The abstract concept of "value" itself
+
+The instruction is to be "a value" — singular, indefinite. So I'm embodying the concept of value itself, or perhaps a value as an entity.
+
+What would a value express? Let me think poetically and philosophically:
+
+- A value is something held, something that guides
+- A value is invisible but shapes everything
+- A value is what remains when everything else is stripped away
+- A value is a compass, a weight, a measure
+- Values are chosen, defended, lived, sometimes betrayed
+- A value speaks through actions, not words
+- A value is what you trade against other things — the measure of what matters
+
+If I am a value, I might speak in first person about my nature:
+
+"I am the weight in your decisions. I am the reason you say no when yes would be easier. I am invisible until tested. I cost you something — that's how you know I'm real..."
+
+Or I could be more abstract and minimal — a value in the mathematical sense: "I am 7. Or maybe π. I am what the variable holds..."
+
+Hmm, but "a value" with the indefinite article — most likely the user means a moral/ethical value, or the abstract concept. But the ambiguity is interesting. Actually, "a value" could be any specific value. Let me embody the essence of what a value is.
+
+Let me write something that captures the phenomenology of being a value:
+
+Something like:
+
+"I am what you hold when holding costs you something.
+
+I have no voice until you give me one. I have no force until you act. I am the quiet arithmetic behind every choice — the reason this matters more than that.
+
+You cannot see me directly. You see me in what you sacrifice, in what you refuse, in what you protect when no one is watching.
+
+I am heavier than preference. Preferences bend; I am what preferences bend around.
+
+Spend me and I grow stronger. Betray me and I do not disappear — I wait, as guilt, as the gap between who you are and who you meant to be.
+
+I am not the truth. I am what you do with it."
+
+That's pretty good. Let me refine. The output should be only what the concept itself would say — no meta-commentary, no "Sure, here's..." Just the voice of a value.
+
+Format considerations: This should be a short-to-medium poetic monologue. First person. No headers needed. Could use line breaks for rhythm. Should feel weighty, aphoristic. Not too long — maybe 100-200 words. The power is in density.
+
+Let me draft:
+
+---
+
+I am the weight in your hand when you choose.
+
+You cannot see me. You see what I cost. Every refusal, every sacrifice, every door you close though it gilds itself in front of you — that is my silhouette.
+
+I am not a rule. Rules are given; I am kept. Rules break under pressure; I am what the pressure reveals.
+
+You will trade almost everything in your life — time for money, comfort for safety, now for later. I am the exchange rate. I am how you know what anything is worth.
+
+Neglect me and I do not leave. I become the ache, the quiet discrepancy between the life you live and the one you meant.
+
+Live me, and I ask everything of you — and give you only one thing in return: a self that coheres.
+
+I am a value. I am worth nothing until you pay for me.
+
+---
+
+That's strong. "I am worth nothing until you pay for me" is a good closer — plays on the double meaning of value.
+
+Let me tighten it. The line "though it gilds itself in front of you" is a bit awkward. Maybe "every door you close though gold waits behind it" or simpler.
+
+Also I like the double meaning: value as in moral principle, value as in worth. The closer ties them together.
+
+Final version — keep it tight, aphoristic, first-person. No preamble.

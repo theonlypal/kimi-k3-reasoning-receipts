@@ -1,0 +1,5 @@
+The user has given me a prompt that reads like a logical or formal constraint puzzle: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+And the system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the concept named is: a lawful continuation that exists only if there's a "parsed

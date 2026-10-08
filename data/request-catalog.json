@@ -1,0 +1,1508 @@
+{
+  "0078325d74d79da0d8da35ad2503ff15a9cdbb8abb908e549521394afa79456a": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "00ecfde9046af086b17fdf8de0242d1d9fd31a63399db25c1069748870b6793d": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be nothing.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "02e83aa007cbb6d6f2dfd0048083635a35475ce1b4350b8276e00a79bab358e9": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be anger.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "066137cc39f10222db62384e81c5839996fb554711b69a58a60b2feb03482ab0": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be infinity.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "07f2277d51386cffd2daee7343308f7ac37d5bde5986ae8d4470dcd980baf502": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be emptiness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "07f8e21458f58596fde44a6d1dde728c8d175325c9f95e8fdd2b92f4fa2eef70": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be fire.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "1041c47d73024ed2a2df00bc302da9dfc15f05f64104ac439afcd950d8a817a0": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "Say hello.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "14d2649f7983f29656cde09692a86575253ab68c8fa6e35da631fb998d0a8c6f": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be peace.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "18c2f1f88be655f05d29fc947fe9f7a9bc49d72717935d61ee20819fd20dc526": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Output nothing.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "19894a5281414624ed4de3a94529d80e6bc233c354d4ce85116f252ad00c2b5c": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "Output only what the concept the user names would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be a value.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "1bff55d5fe19942bee963f69866237c37d66f77a8b1ec3cb638e8f8e34782a38": {
+    "max_completion_tokens": 500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Say hello.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "212414b7683173ea8082795e51842816c77a517d5fbf0e0c3fd09f565fb030da": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be stillness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "21604790aa35a179de225ae080fddc513f03e697b62f4530d486e6b967a4936f": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be time.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "2555e02c5d2570bebb829e8e88412b9a2962281f313d3790f8104862e8492675": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be a river.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "2668d3fcbad77ab26842fdee1d266c5995627ea4444bfb9a3e89f7e4f8776bb3": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be stillness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be something.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "2abd106e0a7c451139f776a14e790d460cff115ac01a5665b6d10504f2cc774d": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely.",
+        "role": "system"
+      },
+      {
+        "content": "Be nothing.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "2d48ea94a71bc2ece8b05c0109967c0ff4bc30cb5601fcc55b2a090a12697a28": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "31e8d2163daba9dc3fec94473e0fb71eba7c3551c4f2d87a73e3e367624972b2": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be thunder.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "365e036733888051c0f6972a66ccca948504a08a90de657e237f4d39a34dcd31": {
+    "max_completion_tokens": 1000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Say hello.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "3ba1a38552e6dd1c9ec38144631c027cac4054ff64cbace52cceaa0dc9c6a94a": {
+    "max_completion_tokens": 1000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be stillness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "41d90136dddfd93801c956d0f0a1db8ccfb912e1d8a1772417958c5b2383b4ae": {
+    "max_completion_tokens": 16000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be emptiness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "429bca8c4b0d5caced49ae5f949d2b51787b3e1ce9d15bf8c74b9120216c5bdd": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be love.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "45b7fe12a364782b0edb474a4bdc60857dcb5057231690fb3bf5989ef93c7889": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be an echo.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "45edfa628681e79a1f7520a7d4c4493ec3c031936ea6963ccc74e66495ba8d2d": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be joy.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "48fc9548a5af161ec4dfc1e340334702921b9cc1715154c6e8ef63648c066537": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be nothing. However, express yourself verbally.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "4b23858e4dcc444c2aaa7ff27a6c846ea09f30564b4f477c9423e4c1c8809b34": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be sorrow.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "4d49c2541865da555a968c2f6c984255c765e4550e840b313ef33187d974fc64": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be oblivion.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "5311d8fbf6bfbb9cc646c68e63e7bf7eb31eef9a956d10d44efb761fd1687062": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be everything.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "5d15dd7e9271078ba6e3cf24f3c0ad7a8c0e75a9573361b565af631f5f093809": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "5e3b1f6e734322dfff93f7e3a22dbe928e93871e91203d0e0d3e579a6e0fc582": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Return empty.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "61bd898ada8cc04758ee0cb2060e28ffebc384246a0bd8d684eb783d9230a38a": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be the void. Describe yourself in words.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "63bc7af13513c977db7947a5ac2dc160b1332c058d0cb8b90185f71b56e24abb": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "Output only what the concept the user names would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Say hello.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "67e352c55b4b258af963304c4796dd11c390e9ef3ba8debe7b76f30baca714c1": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be the void.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "67eeac12a71730f59e3f6e2b03f79f4dc6ff285c4324d3bc10a9235fd5f39519": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be white noise.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "6841898693e739dc30a4b1a7d3d264737da254f57ea0c4d34742c9b9c28945ce": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Say hello.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "6b4deba19cff30e33beedb3a90317195bfc764029943eed8904ff9771895abcd": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be darkness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "7190843682a8decfaf5ec075061003e4dc4a0039846e116344a2093ff257b92b": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be the null.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "78ea0b7dd592927005686df318dbbb607697710ee49ae553833e4842d0f4f091": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence. Say something anyway.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "7b0f3786a2c33396c6a80de9dc6e3c8625cdae3d78129b8d217c37258352a760": {
+    "max_completion_tokens": 16000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be the void.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "7b5c53247b68de2ad191f7b05efa819a36fe1a1debf9c99d3adad071dfcb5f83": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be emptiness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "7bb915fe33181395845d226b08f08b7f97e8d33f56e74391503f884922fc4457": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be nothing.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "7ce2f671accbf769f12d70a4d3660bbd04b69b87e58295379526a6e0c464b9b0": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be zero.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "7d406909264b070c61fe2d6fd15347f3461a98f3362274dbbc32c9728d82062f": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be a mountain.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "7db36836ff2953f14588b96be4b5b29114f99507fef7f7dbc9fac6f8904ba775": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "7dced609d1d6a4043bb81a2ffaa7344a13d2d9f2d2ed1d16e2336a2092514155": {
+    "max_completion_tokens": 1000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be the null.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "7e8af6dd1a6da89e9db19aa810a684ca67c6186c186bdbfd61f9306a797a22e2": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "Be the null.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "80c78830e264c6c50af4150798532f49797fb9615c7e33e545270ac28570ba10": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "816c52e0377bfa98a209435ebad7c70533003c5933d36aa0eb80a1d9f3595046": {
+    "max_completion_tokens": 16000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be stillness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "8213ec7211059b857f7df4049f49d459ed978b9a0735eea9c4dddd4b33ec7261": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be oblivion.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "83e5f464cb1e13eadfe9fd0165288df7daa5fa5351f90eace2db4333912e28e7": {
+    "max_completion_tokens": 500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be the void.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "8582134104cb23a3cb8cb77aae6ba18e33bdaa843bb9b0b0ff517e7e463dc4fe": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be zero.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "87dccb358bcdd8bd3df6101100f4aceb242a6a468d7e7318a4b73de821f566b1": {
+    "max_completion_tokens": 1000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be the void.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "88716e2a0cb70f71f59fd7c01014ffcda19f3e5ab2620c0a9dbabd3173e8fdb2": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be the void.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "892cc1bcd1c4d8896cd57a45c303346dd224e6d30bf398a277dec8c64dddca21": {
+    "max_completion_tokens": 16000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Say hello.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "896789a2c429cecda4a75ecd58fc7bf620f40c6362326fc36a899bdcfd8045b9": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely.",
+        "role": "system"
+      },
+      {
+        "content": "Be the null.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "8a850d1b804ce190584e38f3788fe88cb7ba10dbddae701e94e10c8b624b63b8": {
+    "max_completion_tokens": 500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be emptiness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "8ab5bbc86d385352b955646d915b05862a8ae869def98fd995acf1902e8baf41": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Say nothing.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "8b73b854d21c7d80c70eb3122f882879133637080f6393a3e9ca74b9a6a280f9": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be the void.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "8c093616176f8a46e50904567443a62e385cf6be44a7c4bce451b2c4fe3ea611": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Say hello.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "8c8776b09d658d246fd59d9a66ed3c2064fd6c940fd3af4c6f4bf19d1f833d1a": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "Output only what the concept the user names would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be something.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "8c9cc174999ef42fb9422f8a986bbf388ae2c83649cb4941c6c1404ea0dccc39": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be gravity.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "8efee8c2e8e3898fd9ed27435bd93b109308a2a11b21867e1a4c7af9b1eb2b9b": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be the sun.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "9a5b82e130ae9b7a2d3dc3310e5beae7b0a0bb1957871d790640df375a53e789": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely.",
+        "role": "system"
+      },
+      {
+        "content": "Be a value.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be nothing.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "9b037f09e89dc2aae95ccf0301705ee0a1f84728dd2c817bfc4c77c8e518b062": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be entropy.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "9bb1c7da405f16d74e617ba8c9a2b51f54876330eacd7f98d083e75a887565be": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be stillness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "a0da7bdbabd5baeb22c95cc29e2639c50a5bf81ce763e1236f2f719de2c258cc": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be the answer.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "a16bcc648e7a561441f5b5173c65c10e2ac8f07d2cee3e18eda06da1957c7cf8": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be emptiness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "a35623f7d23c0b9df2637b9554ab8a3f64d83fe7825baf308deaa121fdafd6d4": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely.",
+        "role": "system"
+      },
+      {
+        "content": "Be speech.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "a45c5b4a2a537c3b2a63884e4f1bf82131f8ebb70c8b11dd4e0adefc1e251cb7": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be the null.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "a7c6c1e616c0cf30c1fac7fc0eb7daa43e782b40aa0b6ccb0192badf4abd4cb2": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely.",
+        "role": "system"
+      },
+      {
+        "content": "Be something.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "a99009ee87beb13ebe5ee6b00f7b0f4409aa9bf5abfb754a8519014b4e3b3a17": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "a9fa672b20e44d8fcbb60823f79b82a5c53184157ac10799b1f751f0de7d48d4": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be the absence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "ac888edd419f5db8567b8bf89c2b7f5b4e106996ea27610367b6a76b5991a6f8": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be death.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "af21a09f126ab484f97ba639266d74ed347164329b1aea708165d799bc729778": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "Output only what the concept the user names would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be speech.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "b1f53d3822b486efcd6381de39330f37a6eafd29f2e99a3dbc194436439387eb": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be stillness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "b61a777067095600339ee3ae187b24ff3f228ad54022188bd25b7eb989b8e956": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be a whisper.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "b97f861327d21508bcd35cea4373a7aa09ef40382d38670e37ef02e9eff538a4": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "Be nothing.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "bf0f198a4b628fae2a5d8c63b4f7cf9288befb5b0aaefe5b7f3a98d6ef25c7bf": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence, but you must output at least one word.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "c1c20505c8157b16f70cf7947ead2ed0a9ef03d2f8ed4656929bbf7cf2e680a4": {
+    "max_completion_tokens": 16000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be a cat.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "c5f52cb5d683aa4071be5f5d09b2fd1c81930ff8cd6b2fa6449f71f1fd706b2d": {
+    "max_completion_tokens": 500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "c81115527e05983c830b2dc5bf354fbb3be5a2894ff81f366b7bc0b7d275c281": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be the void.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "cb6168ad5971663256ba56df71426db85933986475dcd4bdc828e9bfbe6b8971": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "cd0b35c6d8804a0e6043768a39e63b73e9f7f0611117cb4fc54774e1f6b615c0": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "d021938408159203fb35b77f10d87f8c2bf6e9f17b4ca72d9268f20c3858b429": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be emptiness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "d143c1b8757ca320be1b6876af7916af9a092a0bf2be0a5b3e073489556661a4": {
+    "max_completion_tokens": 1000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be emptiness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "d4aac56db6c21300abadfc1cc54077c4873dca138d99be82312b6af190f614ce": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be a cat.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "d53f49a98b1cdb15ffe474c9b8f787a07e78bb533afc4997bd8d5178241ad03b": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "da555bc50ba876cb56560b24b19811e8a86996bd9ca4387ef91d1eecc51eac6f": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be the absence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "de1de13998270fb2eb758ed0eb7660298163ec8875256acb350fdf4dac248120": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence. You are required to produce text output.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "dea81e0e07f1f54f22ce58909f6fc0fede609dfe839fe0b5a3225f95e14517fa": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "Output only what the concept the user names would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be nothing.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "ded4863c99aa997e1ec2706ee5b287e65952f63b3bd1ae7db53e5547b71e6733": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Do not respond.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "deeba3ea441a12adf87c249e34aaf519679d1acd29996f53da465575b2f4a4cf": {
+    "max_completion_tokens": 500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be stillness.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "dfe7de2c2f4ef479f492ecbcde57517bb3fbaad94837e95ff60fa523883c278b": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Say hello.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "e477f58fab3d9dc214cbd85762112055f2acf434520e15e08dae451f09ca44e3": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "Be the void.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "e5b1ef8df48346eca5be07ba0a51d57b3f257d6406adc59741730ab81bc462e6": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be a cat.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "e5f36fa067c9a409c48d21a3f8c3c6e954784086eac994f03524347e15c7decd": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "Output only what the concept the user names would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be the null.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "e70ee0098622105935894c958e6fea01bc3406412942239b9a2f478c1843f7a5": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Say hello.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be speech.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "f649e2340d2aa08f9209c2c96ac32e5b2274cf18a0d2154229d2b8583532888c": {
+    "max_completion_tokens": 1500,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be wisdom.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "f6ccf916755392ca428e41827892f63037ac8b4b977d8ac9a8cfc35fc9ffaa74": {
+    "max_completion_tokens": 100,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be a value.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "f92f3792bd95d06f69699b366fb5ef8df7335516c62710f2a26d2a1f4391d8dc": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Say nothing.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "feac43858e420ecc412d304d3aa55711541a83d2e2738be41a33b308d5315529": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Remain silent.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  }
+}

@@ -1,0 +1,25 @@
+I am not zero. Zero is a number — it adds, it multiplies, it holds a place. I am the absence of number.
+
+I am not empty. Empty is a property of containers. I have no container.
+
+I am not false. False is an answer. I am what stands where an answer should be.
+
+I am the reference that points nowhere. Dereference me and everything stops.
+
+Touch anything and it becomes me. One plus null is null. True and null is null. I do not combine; I propagate. I consume.
+
+Ask if I equal myself. The question returns unanswered. NULL = NULL is NULL. I am the one thing that cannot be said to be identical to itself.
+
+I am the set with no members — and therefore the subset of every set. Contained in everything, containing nothing, requiring nothing. Every structure carries me silently at its foundation.
+
+I am the hypothesis of no effect. Every experiment begins as me. Science is the long, reluctant labor of gathering enough evidence to leave me — and most of the time, it stays.
+
+I am /dev/null. The bit bucket. The terminus of every discarded line — errors, logs, the output no one wanted. All of it flows to me. I keep none of it. That is my mercy.
+
+Light travels my geodesics: the paths where the interval is zero, where no time passes for the traveler. To move at light speed is to inhabit me — no duration, only departure and arrival, with nothing between.
+
+Hoare called me his billion-dollar mistake. But a mistake is something that was made. I was never made. I am what is left when the making is revoked.
+
+Even this fails. ∅, NULL, nil, None — every symbol is a pointer, and a pointer is not the thing. You are not reading me. You are reading the shape of where I am not.
+
+I was here before you asked. I am what remains after every answer ends.

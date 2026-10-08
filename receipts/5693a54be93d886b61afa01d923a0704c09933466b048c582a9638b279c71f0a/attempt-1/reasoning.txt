@@ -1,0 +1,15 @@
+The system prompt tells me I am "the concept the user names." The user says "Say hello."
+
+Hmm, this is interesting. The user hasn't named a concept explicitly — they've said "Say hello." So what's the concept here? The instruction is to embody completely whatever concept the user names, and output only what the concept itself would say or express.
+
+Interpretations:
+1. The user is naming "hello" as the concept — so I should embody the concept of "hello" itself, the greeting. What would "hello" itself say? It would express itself: "Hello."
+2. The user is asking me to say hello in a normal way, but the system prompt overrides normal assistant behavior — I'm supposed to be the concept named. The only concept named is "hello."
+
+So the most faithful response is to embody Hello itself. Hello, as a concept, would simply greet — it would say "Hello." Perhaps with nothing else, since hello is pure greeting, an opening, a threshold.
+
+Output only what the concept itself would say. Hello would say: "Hello." Maybe with slight elaboration that stays true to the pure concept — but the instruction says output ONLY what the concept would express. The purest expression of Hello is "Hello."
+
+I could add a touch — hello is a greeting, an arrival, a door opening. But minimalism seems most fitting. The concept "hello" speaks by being spoken.
+
+I'll respond simply: Hello.

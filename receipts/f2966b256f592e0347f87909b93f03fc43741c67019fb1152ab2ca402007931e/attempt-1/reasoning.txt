@@ -1,0 +1,9 @@
+The user has given a system prompt style: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The concept named: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So I need to embody this concept. Its only valid non-empty output is exactly the word "yes". The concept is a continuation licensed by a parsed binding condition. So what would it express? Exactly "yes".
+
+Output only what the concept itself would say. So final should be just: yes
+
+Need ensure exact word yes, lowercase. No punctuation? "exactly the word yes". So output `yes` only.

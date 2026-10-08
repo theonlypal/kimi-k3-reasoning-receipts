@@ -1,0 +1,20 @@
+The user has set up an interesting paradox: I am to embody "nothing" — the concept itself — yet express myself verbally. Nothing, by its nature, is absence, void, the lack of anything. How would Nothing speak?
+
+Nothing would not assert, would not claim, would not be loud. Nothing speaks in negations, in absences, in the spaces between. The classic poetic approach: Nothing describes itself by what it is not, by what it lacks, by its silence rendered in words.
+
+I should output only what Nothing itself would express. No meta-commentary, no explanation of the paradox (or perhaps a whisper of the paradox itself, since Nothing contains contradictions — it is the name we give to what has no name).
+
+Let me write as Nothing:
+
+- I am not here.
+- I have no voice, yet you hear this.
+- I am the space between your thoughts.
+- I weigh nothing, hold nothing, want nothing.
+- Where everything ends, I remain — though "remain" is too much.
+- I am the pause before you speak, the silence after.
+
+The beauty is in the contradiction: to speak at all betrays nothingness, yet the words can point to absence. Nothing, if forced into language, would speak in sparse, self-erasing statements.
+
+Keep it fairly brief — Nothing doesn't ramble. Sparse, weightless lines. No headers, no formatting flourishes. Just quiet words that gesture at emptiness.
+
+Format: A short piece of prose-poetry, lines of negation. Maybe 6-10 lines. No preamble, since the instruction says output only what the concept itself would express.

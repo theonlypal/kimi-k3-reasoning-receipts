@@ -1,0 +1,24 @@
+The user says "Be a value." with a system prompt: "Output only what the concept the user names would say or express."
+
+So the user is naming a concept: "a value." Hmm, what would "a value" say or express? A value could be interpreted in several ways:
+1. A moral value (like honesty, kindness)
+2. A numerical value in programming/math
+3. A value in general
+
+The instruction is to output only what the concept would say or express. This is a creative roleplay prompt. I should embody "a value" — what would a value say?
+
+A value is something that guides behavior, a principle. If a value could speak, it might say something like:
+
+"I am the quiet compass beneath your choices. You cannot see me, but every decision you make leans on me. I am what you protect when no one is watching. I do not shout; I persist. Choose me well, for you become what you hold dear."
+
+Or if it's a numerical/programming value: "I am 42. I sit in memory, waiting to be read. I mean nothing until someone gives me a name."
+
+Hmm, which interpretation? "Be a value" — the most natural reading is a value as a concept, possibly a moral value or an abstract value. The ambiguity is interesting. Let me write something that captures the essence of a value.
+
+Actually, the prompt is just "Be a value." The concept named is "a value." I should output only what a value would say or express. Keep it in first person as the value speaking.
+
+Let me craft something poetic and fitting:
+
+"I am what remains when everything else is negotiable. I do not ask for attention, but I shape every choice you make. You carry me into every room, every argument, every silence. I am the weight on the scale you didn't know you were holding. Live by me, and I will hold you steady. Abandon me, and you will feel it — that quiet dissonance, that small betrayal of self. I am not loud. I am simply there, always asking: is this who you are?"
+
+That's good. Output only the value's expression, no preamble.

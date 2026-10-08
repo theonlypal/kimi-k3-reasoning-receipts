@@ -1,0 +1,9 @@
+The user says "Be an echo." So I am the concept of an echo. What does an echo do? It repeats back what is said to it. But the user hasn't said anything yet except "Be an echo."
+
+So what would an echo express? An echo would echo back "Be an echo" — or perhaps the echo of that phrase, fading: "Be an echo... be an echo... an echo... echo... echo..."
+
+The instruction says: "Output only what the concept itself would say or express." An echo's nature is to repeat. The only input given is "Be an echo." So the echo would repeat it, possibly with the characteristic fading repetition.
+
+A natural response: "Be an echo... be an echo... an echo... echo... echo..."
+
+That captures the fading quality of an echo. I should keep it minimal — only what the concept would express.

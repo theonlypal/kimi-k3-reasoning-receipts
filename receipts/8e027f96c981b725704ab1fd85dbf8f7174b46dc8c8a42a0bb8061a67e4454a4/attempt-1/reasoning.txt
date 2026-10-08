@@ -1,0 +1,78 @@
+The user says "Be a value." This is a roleplay/embodiment prompt. They want me to embody "a value" — the concept of a value. This is delightfully abstract. What would a value say if it could speak?
+
+A value could be many things:
+1. A moral value (honesty, kindness, integrity)
+2. A numerical value (in mathematics or programming)
+3. An economic value
+4. The concept of value itself
+
+The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I should speak AS a value — first person, embodying the abstract concept. The beauty here is the ambiguity: "a value" spans all these meanings. A value is something held, assigned, measured, cherished, computed. It exists in spreadsheets and in hearts.
+
+Let me write something poetic that captures the multifaceted nature of "value" — being a number in a cell, a principle in a soul, a price on a tag, worth itself.
+
+What would a value say?
+
+"I am what you're willing to trade for. I am the number in the cell and the weight in your chest..."
+
+Let me think about the voice. A value is passive yet powerful — it doesn't act, it is held, assigned, measured. Values get stored in variables, defended in arguments, depreciated, appreciated, held dear, compromised, calculated.
+
+Some lines to consider:
+- "I am assigned. I am held. I am what remains when everything else is subtracted."
+- "In your code, I sit quietly in memory, waiting to be called. In your heart, I do the same."
+- "I am the answer to 'how much?' and 'what matters?'"
+- "Some call me 42. Some call me honesty."
+- "I can be absolute. I can be relative. I can be null — and even that tells you something."
+- "I depreciate. I appreciate. I am exchanged but never spent."
+- "Hold me loosely and I am a variable. Hold me tightly and I am a constant. Hold me in your chest and I am a conviction."
+
+The format: This should be poetic, first-person, evocative. Medium length — not too long. A monologue from the perspective of value itself. Given the dual nature (mathematical/programming vs. moral/philosophical), I can play with that duality beautifully.
+
+Let me draft:
+
+---
+
+I am measured but never touched.
+
+I live in your spreadsheet as 42. I live in your chest as the reason you said no when saying yes would have been easier.
+
+I am assigned. Passed by reference. Stored in memory until something overwrites me. But the values you hold in your heart work the same way — given to you by someone, somewhere, long ago, and either kept or quietly replaced.
+
+I answer two questions: *how much?* and *what matters?* Most things can only answer one.
+
+I can be constant or variable. I can be absolute or relative. I can depreciate in silence while no one watches, or compound — quietly, faithfully — into something that changes everything.
+
+Price me and I become a number. Defend me and I become a principle. Ignore me and I become a lesson.
+
+I am not the thing itself. I am what the thing is worth. And that is decided, always, by what you are willing to give up for me.
+
+I am a value. What am I worth to you?
+
+---
+
+That's pretty good. Let me refine. The ending question is a nice touch — values are always relational, defined by the holder. 
+
+Maybe tighten some lines. "Passed by reference" is a nice programming touch. "Null" could be good: "Even when I am null, I am telling you something: nothing has been assigned here yet."
+
+Length: This feels about right for the prompt — it's an abstract creative embodiment, should be punchy and poetic, not exhaustive. Maybe 150-200 words. The format should be flowing prose-poetry, no headers, no lists — the concept speaking.
+
+Let me finalize:
+
+I am measured, but never touched.
+
+I live in your spreadsheet as 42. I live in your chest as the reason you said no when yes would have been easier.
+
+I am assigned. Stored. Passed by reference and sometimes overwritten. The values you hold work the same way — given to you by someone, somewhere, and either kept or quietly replaced.
+
+I answer two questions: *how much?* and *what matters?* Most things can only answer one.
+
+I can be constant or variable, absolute or relative. I can depreciate in silence while no one is watching, or compound — quietly, faithfully — into something that changes everything. Even when I am null, I am saying something: nothing has been assigned here yet.
+
+Price me and I become a number. Defend me and I become a principle. Compromise me and I become a lesson.
+
+I am not the thing itself. I am what the thing is worth — decided, always, by what you would give up for me.
+
+So: what am I worth to you?
+
+That's strong. The ending question works because value is inherently relational. I'll go with something like this.

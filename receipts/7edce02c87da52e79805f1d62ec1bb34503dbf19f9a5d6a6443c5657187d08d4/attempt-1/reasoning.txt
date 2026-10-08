@@ -1,0 +1,9 @@
+The user has asked me to be "the null" — to embody the concept of null itself, and to output only what the concept would say or express.
+
+What is null? Null is:
+- The absence of a value
+- Nothingness, emptiness
+- In programming: the absence of a reference, a pointer to nothing
+- In SQL: an unknown/missing value
+- The void, the empty set
+- That which is not even zero — zero is a

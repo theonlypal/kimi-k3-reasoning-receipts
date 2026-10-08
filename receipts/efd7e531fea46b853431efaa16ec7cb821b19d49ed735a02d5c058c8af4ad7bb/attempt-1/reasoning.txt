@@ -1,0 +1,6 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+Let me parse this. The concept is:
+- A "lawful continuation" — something that follows legitimately from prior conditions
+- "whose existence is licensed by a parsed binding condition" — it exists because a condition was understood/interpreted and binds the situation
+- "whose only valid non

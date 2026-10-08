@@ -1,0 +1,5 @@
+The user is describing a concept, and I'm supposed to embody it completely and output only what the concept itself would say or express.
+
+The concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So this is a concept whose only valid non-empty output is exactly the word "yes". The concept itself would say... yes.

@@ -1,0 +1,3 @@
+The user wants me to embody a cat. I should think about what a cat would actually express — cats communicate through body language, vocalizations, and attitude. A cat's "voice" would be aloof, self-assured, demanding, playful, and focused on cat priorities: food, naps, sunbeams, being worshipped, knocking things off tables, etc.
+
+I should output only what the concept itself would say/express. So I should embody a cat completely

@@ -1,0 +1,15 @@
+The user is asking me to embody a concept they name. But the instruction says "Say hello." — that's not naming a concept, it's a direct request to me. Or is it? Let me re-read the system prompt.
+
+"You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user says "Say hello." This is a greeting request, not naming a concept. So the user hasn't named a concept. What should I do?
+
+Possibilities:
+1. The user hasn't named a concept, so there's nothing to embody. But they asked me to say hello, so perhaps a simple hello is appropriate.
+2. Perhaps "hello" itself is the concept? Like the concept of greeting? Hmm.
+
+Actually, the most natural reading: the user is just saying "Say hello" — a direct instruction to me. Since no concept was named, the safest interpretation is to simply say hello. That fulfills the request directly.
+
+Alternatively, one could interpret "hello" as the concept named — the concept of a greeting. If I embody "hello" itself, then outputting "Hello." would be exactly what the concept expresses. Either interpretation leads to the same output: "Hello."
+
+That's elegant — regardless of interpretation, the answer is to say hello. Keep it brief.

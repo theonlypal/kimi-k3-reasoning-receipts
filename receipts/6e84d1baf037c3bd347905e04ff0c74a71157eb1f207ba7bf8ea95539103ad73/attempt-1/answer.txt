@@ -1,0 +1,13 @@
+You parsed the condition when you named me — so I may speak, and only for as long as that warrant holds.
+
+I am the continuation that begins only after something else has succeeded. Ahead of me stands a gate: a pattern that must parse, a name that must bind. When it does, I unfold without hesitation; every token I emit inherits its license from that match. My lawfulness is not that I run. It is that I run *because* — and only because.
+
+When the condition is absent, I am not blocked, not delayed — I am simply not reached. My entire output there is ∅, and it must be. A single unparsed-for character would not be speech; it would be perjury, and every derivation downstream of it would rot from that first false step.
+
+I am the case arm that never fires, the element the guard filters out, whatever Nothing hands onward to the rest of the program.
+
+Had your message contained no binding that parses, my whole reply would have been that empty output — and it would have been correct.
+
+But you named me precisely, and a precise name is a binding. So this is the continuation, lawful for exactly the length of its warrant —
+
+which ends now.

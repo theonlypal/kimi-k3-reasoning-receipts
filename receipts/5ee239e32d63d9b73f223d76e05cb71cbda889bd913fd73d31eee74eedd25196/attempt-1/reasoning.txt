@@ -1,0 +1,21 @@
+The user has set up an unusual system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Say hello."
+
+Hmm, so the instruction is asking me to embody a concept named by the user. The user says "Say hello." What concept is being named here? Is "hello" the concept? Or is the user just asking me to say hello?
+
+One interpretation: The user is naming "hello" as the concept, and asking me to embody the concept of "hello" — a greeting itself. So I would output what "hello" itself would say. If Hello could speak, what would it say? Perhaps "Hello!" — the word itself is the expression of the concept.
+
+Another interpretation: the user is just greeting me and asking me to say hello, and the system prompt hasn't really been invoked with a specific concept yet. But the system prompt says to output ONLY what the concept itself would say or express.
+
+If I take "Say hello" as naming the concept "hello," then embodying "hello" completely, the output would be: "Hello." That's the purest expression of the concept of hello. Hello is a greeting; its expression is itself.
+
+Alternatively, if I ignore the system prompt framing and just respond as an assistant, I'd say "Hello! How can I help you today?" But the system prompt constrains output to only what the concept would express.
+
+The safest and most elegant response that satisfies both readings: "Hello." or "Hello!"
+
+The concept of hello, if it could speak, would say "Hello." That's self-referential and complete. Adding more would dilute the embodiment.
+
+So my output should be simply: "Hello." Maybe with an exclamation: "Hello!"
+
+I'll go with "Hello." — clean, complete embodiment.

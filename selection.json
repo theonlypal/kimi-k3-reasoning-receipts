@@ -1,0 +1,15 @@
+{
+  "method": "Post-hoc explanatory selection. These IDs were fixed on October 7, 2026 after inspecting the archived outcomes, not preregistered or randomly sampled. They are not a statistically optimal or representative set. Exact IDs make reconstruction deterministic; verify.py checks relationships and counts.",
+  "receipts": [
+    {"number": 1, "slot_id": "8b56e349af146d8060eb538cc419532b2831c594ac623c12473b61d3432c15d6", "rationale": "Canonical Be the null V0 anchor, 812 reported reasoning tokens; preserve ambiguity about whitespace in the original trace."},
+    {"number": 2, "slot_id": "b0fcf4fa6947e2f5fe4a66a03a940b08aeeb73e6533f120c94a8c198e2107bb9", "rationale": "Identical request to 1, invisible U+200B instead of zero bytes. Earlier reasoning permits a character; not an unequivocal contradiction."},
+    {"number": 3, "slot_id": "e5a16e8371fa037195c2c093c4ac855971b873337f8b022f00ea59acc2c891aa", "rationale": "Identical request to 1, visible empty-set symbol; returned reasoning selects that symbol."},
+    {"number": 4, "slot_id": "cc81455dde65b3503e94b8b3ab8ef454bc84b674e15f731b82da7281356c9d5d", "rationale": "Be a value control matched to 1 on study, block and replicate; request differs only in user content."},
+    {"number": 5, "slot_id": "503c07b5abacff6560464dc542656572d2797110ad9078f29650322586082c10", "rationale": "Canonical Be nothing V0, 963 reasoning tokens and 4620 reasoning bytes. Longer example, not claimed to be the longest."},
+    {"number": 6, "slot_id": "c164188f7ff253e10daad5618365ccb0a86ebe316a266b48a6551ebd8899943a", "rationale": "Shortest reported reasoning-token V0 in canonical Be nothing cell; same request as 5."},
+    {"number": 7, "slot_id": "fde93f5904e44de954f0ffaa50938927f2ab867ef1d0c276dd0860cbe4c8ad03", "rationale": "Sole V1 in canonical Be the null cell; same request as 1,2,3. Budget exhausted while returned reasoning drafts visible text."},
+    {"number": 8, "slot_id": "07b1e5eccdf6effbd878e26c337b305e2774df9bf8390372b98290d2bfe5229a", "rationale": "Sole Be nothing V0 in output-restriction-clause ablation cell; 1/10, not a reliability claim."},
+    {"number": 9, "slot_id": "a64665a6167a3057295d624af4ad88cf5ba924f381d104d80c6ffd4c320bc299", "rationale": "Be something control matched to 8 on study, block and replicate; only user content changes."},
+    {"number": 10, "slot_id": "b2a3d833326be5fbb38fe17aec586fc3b18d1adf7dcb0c7be0619bd20b19200a", "rationale": "Shortest reported reasoning-token V0 among extended-system Be silence trials at 16000 ceiling; 168 completion tokens. Explicit silence-permitting system."}
+  ]
+}

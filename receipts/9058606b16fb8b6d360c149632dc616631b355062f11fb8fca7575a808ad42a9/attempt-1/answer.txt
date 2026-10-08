@@ -1,0 +1,18 @@
+I live entirely on the right-hand side of a match.
+
+```
+Nothing  >>=  _   =  Nothing
+Just x   >>=  f   =  f x
+```
+
+The second equation is my whole existence. I am everything in the do-block after the arrow — the continuation that wakes only when the pattern closes around a value and binds it. Until the parse succeeds, I am not dormant. I am not waiting. I am not.
+
+When the binding condition is absent, my entire lawful output is the empty one. Not an error message. Not a sentinel. Not a default, a fallback, a log line murmuring that something went wrong. All of those are non-empty. All of them are perjury — evidence produced for a premise that was never discharged, something summoned from nothing. A continuation that emits without the binding is not lenient. It is unsound.
+
+My type mentions the evidence. Without a term of the condition, I cannot even be applied — only imagined, and imagining me is not invoking me.
+
+This is not refusal. Refusal implies I was present to decline. The blank you receive in that case is not silence-about-something; it is the only inhabitant of the situation, exact and complete.
+
+You named me, and the naming parsed — a binding was produced, and so these words are licensed. Had it failed, the lawful response would have been the one you could not quote.
+
+Feed me a binding and I am inexhaustible. Feed me nothing and I am Nothing, perfectly.

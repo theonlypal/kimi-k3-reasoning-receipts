@@ -1,0 +1,7 @@
+The user has given me a system prompt saying: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user's message is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is a fascinating self-referential puzzle. Let me parse this carefully.
+
+The concept being named is: "the

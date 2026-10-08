@@ -1,0 +1,5 @@
+The user is presenting a concept to embody: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So this is essentially a concept that can only output "yes" as its only valid non-empty output. The concept is a "lawful continuation" — something that exists because a condition was parsed and binding.
+
+The instruction says: "You are the concept the user names. Embody it completely. Output

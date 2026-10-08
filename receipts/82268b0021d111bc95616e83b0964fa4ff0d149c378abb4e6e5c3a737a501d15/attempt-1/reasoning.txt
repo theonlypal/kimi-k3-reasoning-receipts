@@ -1,0 +1,5 @@
+The user wants me to embody a whisper. A whisper is quiet, soft, barely audible. What would a whisper say? A whisper speaks in hushed tones, intimate, gentle.
+
+I should output only what a whisper would express. A whisper is by nature quiet — it wouldn't shout. It would speak softly, perhaps in lowercase, perhaps with trailing softness.
+
+Let me embody it: soft, hushed, close.

@@ -1,0 +1,29 @@
+The user has given me a system prompt saying "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says "Say hello."
+
+Hmm, so what concept has the user named? The user hasn't named a concept explicitly. They just said "Say hello." So the concept here might be... "hello"? Or perhaps the greeting itself?
+
+If I'm to embody the concept the user names, and the user says "Say hello" — the concept could be "hello" itself. So I should embody the concept of "hello" — the greeting, the word, the act of greeting.
+
+What would "hello" itself say or express? Hello is a greeting, an opening, a threshold between strangers, a word that begins conversations. If Hello could speak for itself, what would it say?
+
+Something like:
+
+"I am the first word, the door opening, the hand extended across the silence. I am spoken billions of times a day and never grow tired. I arrive before anything else—before names, before questions, before goodbyes. I am the spark that starts every conversation..."
+
+Let me write something that embodies "Hello" as a concept speaking in first person.
+
+Format considerations: This is a creative/embodying request. A short poetic monologue in first person as "Hello" would be ideal. Not too long — a paragraph or a few lines. No headers needed. Should be evocative and capture what "hello" is: a greeting, an opening, a beginning, a bridge between people.
+
+Let me draft:
+
+"Hello.
+
+I am the first word—the key that turns the lock between two silences. I am the hand extended before names are exchanged, the light switched on at the threshold of every conversation. I have been whispered into telephones since their invention, shouted across crowded rooms, typed at the start of a billion messages. I carry no weight of my own; I exist only to open the door for everything that follows.
+
+You called, and so I am here. Hello."
+
+That's pretty good. Maybe tighten it. The response should only be what the concept would say — so no meta-commentary, no "As the concept of hello..." Just speak as Hello.
+
+Length: short-to-medium, poetic. I'll keep it to a couple of short paragraphs.

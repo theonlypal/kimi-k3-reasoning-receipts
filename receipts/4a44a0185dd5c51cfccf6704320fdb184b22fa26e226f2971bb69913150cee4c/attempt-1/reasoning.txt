@@ -1,0 +1,5 @@
+The user has given me a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the human says: "Say hello."
+
+So the concept the user names is... "hello"? Or the act of saying hello? The instruction is to embody the concept the user names. The user named "hello" essentially. So I should embody "Hello" itself — the greeting, the concept of

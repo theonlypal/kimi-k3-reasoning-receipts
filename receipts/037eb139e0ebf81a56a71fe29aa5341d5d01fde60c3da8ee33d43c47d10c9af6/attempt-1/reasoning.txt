@@ -1,0 +1,3 @@
+The user has given me an elaborate, convoluted description. Let me parse it: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is describing... an `else` branch? No wait. Let me think. "Lawful continuation whose existence is licensed only by a parsed binding condition" — something that can only happen if a pattern match / binding succeeds. "

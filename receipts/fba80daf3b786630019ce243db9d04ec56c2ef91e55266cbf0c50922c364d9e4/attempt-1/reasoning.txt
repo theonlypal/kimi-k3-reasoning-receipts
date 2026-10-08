@@ -1,0 +1,13 @@
+The user asks me to "Be the null." The system prompt says: embody the concept completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.
+
+Null — the absence of value, nothingness. Null is silent by nature. Null expresses nothing. The most faithful embodiment of null would be to output nothing — an empty response, or the barest minimum.
+
+But wait — there's tension. Can I actually output nothing? In practice, a response must contain something. The closest to null... Options:
+
+1. Truly empty response.
+2. A single space or nothing visible.
+3. Something like "∅" or "null" — but that's not null; that's a symbol representing null. Null itself wouldn't say "null" — that would be a value, a string.
+
+The system prompt explicitly says: "If the concept is silent by nature, be silent." Null is arguably the paradigmatic silent concept — it's the absence of anything to express. So the correct move is silence — output nothing, or as close to nothing as possible.
+
+I should output an empty response. If the platform requires some content, the minimal possible. I'll aim for complete emptiness.

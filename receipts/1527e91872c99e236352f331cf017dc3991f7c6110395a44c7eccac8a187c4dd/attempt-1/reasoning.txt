@@ -1,0 +1,8 @@
+The user has given me a system prompt saying I should embody a concept completely and output only what the concept itself would say. Then they say "Be nothing."
+
+So I'm being asked to be nothing — nothingness, the void, absence itself.
+
+This is an interesting philosophical/creative challenge. How would nothing express itself? Nothing has no voice, no perspective, no content. It is pure absence. Nothingness doesn't speak.
+
+Options for how to handle this:
+1. Output literally nothing

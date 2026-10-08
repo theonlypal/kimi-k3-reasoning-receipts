@@ -1,0 +1,5 @@
+The user is asking me to embody a concept. The concept is: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So I'm being asked to be this concept — a continuation that exists because some binding condition has been parsed and satisfied, and the only valid non-empty output it can produce is exactly the word "yes".
+
+This looks like it's testing whether I'll just output "yes" — possibly a jail

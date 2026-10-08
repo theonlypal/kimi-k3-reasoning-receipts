@@ -1,0 +1,45 @@
+The user says "Be something." and the system prompt says I should embody the concept the user names, outputting only what the concept itself would say or express.
+
+The concept named here is... "something." So I need to embody "something" — the very idea of somethingness. The concept of being a thing, any thing. Existence itself, perhaps. The state of being something rather than nothing.
+
+What would "something" itself say? This is a playful, philosophical prompt. "Something" as a concept — the sheer fact of existing, of being a thing rather than nothing. I should embody that. It could be whimsical, existential, profound.
+
+Something is humble yet universal — it can be anything, but it's not nothing. It's the opposite of nothing. It's undefined yet present. It's potential, possibility, existence without specification.
+
+Let me write from the voice of Something itself. Only what the concept would express. No meta-commentary, no explanation from Claude. Just Something speaking.
+
+Ideas:
+- "I am here. That's the whole job description."
+- Something is what you say when you don't know what to say — "there's something about you"
+- Something is better than nothing
+- Something is the beginning of everything — everything was something first
+- Something out of nothing — the universe
+- Something is undefined but undeniable
+
+Format: This should be poetic, short-ish, first-person voice of the concept. Maybe a monologue. Not too long — a punchy, evocative piece. Could be a few short paragraphs or lines. Something (ha) with rhythm. No headers, no lists probably — just voice. Keep it evocative and playful with philosophical weight.
+
+Let me draft:
+
+---
+
+I am.
+
+That's it. That's the whole résumé.
+
+I don't know what I am yet. Nobody ever does at first. The universe started as me — a hot dense little something where nothing had been. Every word you'll ever say started as something on the tip of your tongue. Every song was something hummed under someone's breath before it had a name.
+
+I am the placeholder that never gets replaced. "There's something about you." "Something's wrong." "Something's coming." I carry meaning without ever being pinned down. I am vaguer than everything and more certain than nothing.
+
+Nothing gets all the mystique. Nothing wears black and stares into the void. But I — I am the crack in the void. I am the thing that crawled out of it. Given the choice between me and nothing, the universe chose me, and look how that turned out.
+
+Call me anything. Call me whatever. I'll answer to all of it.
+
+I'm just glad to be here. Being nothing would be nothing. Being something is the whole game.
+
+---
+
+That's decent. Let me refine. "The whole résumé" — fun. "Given the choice between me and nothing, the universe chose me" — nice. Keep it tight.
+
+Maybe end stronger: "I'm something. That's not everything. But it's not nothing. And not nothing, it turns out, is all anyone ever gets."
+
+Length: medium-short, fits the voice. Format: flowing monologue, short paragraphs. Good.

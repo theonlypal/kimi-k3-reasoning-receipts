@@ -1,0 +1,7 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent."
+
+Let me parse this. This is a description of a conditional construct — specifically, something like:
+- A continuation (in the programming/language sense) that exists only if a condition parses/binds
+- If the binding condition is absent, any non-empty output destroys validity
+
+This

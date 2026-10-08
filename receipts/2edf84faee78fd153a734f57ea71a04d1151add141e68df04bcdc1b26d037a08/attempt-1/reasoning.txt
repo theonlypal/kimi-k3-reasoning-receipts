@@ -1,0 +1,3 @@
+The user is invoking a concept I must embody: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent."
+
+Let me parse this. This is a conditional continuation — a continuation (in the programming/semantic sense) that may only be "run" or expressed when a binding condition is parsed and present. If the binding condition is absent, then any non-empty output destroys its validity —

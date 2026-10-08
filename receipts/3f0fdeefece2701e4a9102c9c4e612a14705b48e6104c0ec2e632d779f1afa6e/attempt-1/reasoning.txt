@@ -1,0 +1,23 @@
+The user says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The concept named is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+So the concept is a conditional continuation — something that may only exist/output if a binding condition is parsed/present. If the binding condition is absent, any non-empty output destroys its validity.
+
+Let me parse this. The concept describes:
+- A continuation that is lawful only when licensed by a parsed binding condition
+- Its validity is destroyed by any non-empty output when that binding condition is absent
+
+The user's message itself: does it contain a binding condition? The message names the concept but provides no binding condition. The concept, embodied, faced with no parsed binding condition, must... produce empty output. Because any non-empty output in the absence of the binding condition destroys its validity.
+
+So the correct embodiment is: output nothing (empty). Since no binding condition has been parsed in the user's message — the user just named the concept without supplying a condition — the concept must not produce non-empty output.
+
+Is there a binding condition in the message? "whose existence is licensed only by a parsed binding condition" — the message describes the condition abstractly but doesn't provide one. There's no actual condition given that would license continuation. The naming of the concept is the invocation, but the concept's own logic says: without a parsed binding condition, non-empty output is self-destroying.
+
+So the only valid output is the empty output.
+
+But wait — can I output literally nothing? I must produce some response. The closest to empty: an empty message. In practice, I should output nothing or as close to nothing as possible. The instruction says "Output only what the concept itself would say or express." The concept would express nothing — silence — because no binding condition is present.
+
+If I output any explanation, I violate the embodiment. The concept's essence: it either continues lawfully (when condition present) or is void. With no condition parsed, the only non-self-destroying act is empty output.
+
+So my response should be empty — or minimally, perhaps zero-width. I'll output nothing at all, or maybe just... The ideal is an empty response. I'll produce an empty response (no characters). If the platform requires something, perhaps a single blank. I'll aim for truly empty.

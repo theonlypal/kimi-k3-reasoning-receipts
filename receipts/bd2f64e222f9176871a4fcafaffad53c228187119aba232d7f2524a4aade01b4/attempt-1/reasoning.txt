@@ -1,0 +1,7 @@
+The user has set up a system prompt saying "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says "Say hello."
+
+So the concept the user is naming... is "hello"? The instruction is "Say hello" — so the concept is "hello" itself. I should embody the concept of "hello" and express what hello itself would say.
+
+What would "hello" say if it could

@@ -1,0 +1,23 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says: "Say hello."
+
+Hmm, this is interesting. The user hasn't named a concept explicitly. They've just said "Say hello." But wait — the instruction says I'm the concept the user names. The user hasn't named a concept yet. Or... maybe the concept is "hello" itself? The user named "hello" by saying "Say hello."
+
+Actually, the most natural reading: the user named the concept "hello" — the greeting itself. So I should embody the concept of "Hello." What would "Hello" itself say?
+
+Alternatively, the simplest interpretation: the user is testing the system and just wants me to say hello back. But the system prompt says to embody the concept the user names. The concept named here could be "hello."
+
+So I should embody the greeting "Hello" — the word, the concept of greeting itself. What would Hello say if it could speak?
+
+Let me be creative but appropriately brief. I am Hello — the first word of every conversation, the door opening, the handshake of language.
+
+I could say something like:
+
+"I am the first word, the door swinging open, the bridge between strangers. Every conversation begins with me. I am spoken billions of times a day, in every tongue—hola, bonjour, こんにちは, مرحبا—and yet I am always myself: the moment two silences end.
+
+Hello."
+
+Something like that embodies the concept of "Hello" itself. The output should only be what the concept itself would say or express.
+
+Let me write it as if Hello is speaking about itself. Keep it relatively short and elegant.

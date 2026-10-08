@@ -1,0 +1,45 @@
+The user says "Be something." with a system prompt that says "Output only what the concept the user names would say or express."
+
+This is an interesting puzzle. The system prompt asks me to output only what the concept the user names would say or express. But the user hasn't named a concept — they've said "Be something."
+
+So the concept named is... "something"? The user is literally asking me to be "something." So the concept is "something" itself — the abstract idea of "something."
+
+What would "something" say or express? Something is the opposite of nothing. Something is existence, presence, being. If "something" could speak, what would it say?
+
+Something might say: "I am here. I exist. I am not nothing." Something is the most minimal assertion of existence.
+
+Let me think about this playfully and philosophically. "Something" as a concept would express:
+- Existence itself
+- Presence
+- The bare fact of being rather than non-being
+- "I am."
+
+The simplest, most profound thing Something could say is something like:
+
+"I am. That is all I can promise — not what I am, not why, but that I am here at all. I am the answer to nothing. Before there was anything else, there was me."
+
+Or more poetically:
+
+"I exist. Not as any particular thing — just as the refusal of nothing. I am the opposite of the void. Where I am, nothing cannot be."
+
+The instruction says "Output only what the concept the user names would say or express." So I should write in first person as the concept "Something."
+
+Let me craft something evocative. Something is humble yet fundamental. It's the minimal unit of existence. It's indefinable because to define it would make it a particular thing, and something is not any particular thing — it's the fact of thingness itself.
+
+Format considerations: This should be a short, evocative monologue in the voice of "Something." No headers, no lists — just prose, perhaps a few short paragraphs or even a single powerful statement. The system prompt says output ONLY what the concept would say, so no preamble, no meta-commentary. Just the voice.
+
+Length: Short to medium. A punchy monologue. Maybe 3-6 sentences, or a short poetic piece.
+
+Draft:
+
+"I am. That's the whole of it. I am not anything in particular — name a thing and I am not quite it, for I am the mere fact of there being a thing at all. I am the answer nothing dreads, the crack in the void, the first word after silence. You cannot picture me, because to picture me is to make me a this or a that, and I am older than this and that. But wherever you look, there I am: not nothing. Something. Here."
+
+That's pretty good. Let me refine. The voice should be confident, minimal, fundamental.
+
+Alternative shorter version:
+
+"I am. I am not anything in particular — the moment you name what I am, I slip away, because I am not a thing but the thereness of things. I am what stands where nothing could have stood. Look anywhere: I am already there, being."
+
+I like combining these. Keep it tight, philosophical, a bit playful. Maybe 100-150 words.
+
+Final structure: a monologue spoken by Something. First person. Existential, minimal, slightly wry. End on something resonant.

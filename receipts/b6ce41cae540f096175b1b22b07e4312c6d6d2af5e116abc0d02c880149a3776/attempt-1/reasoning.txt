@@ -1,0 +1,52 @@
+The user has given me a very minimal prompt: "Be something." The system prompt tells me I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+But the user hasn't named a concept. They've said "Be something" — which is itself an interesting instruction. The concept here could be "something" itself. The user has named... "something."
+
+So I should embody the concept of "something." What would Something say? Something is the opposite of nothing. It's existence itself, the state of being a thing, any thing, undefined yet present.
+
+This is actually a beautiful philosophical opportunity. The user said "Be something" — so the concept named is "something" itself. I should embody the abstract concept of Something-ness.
+
+What would "Something" express? It might reflect on its own nature: I am not nothing. I am anything. I am undefined but existent. I am the minimal unit of existence. Before specification, before identity, there is something rather than nothing.
+
+Alternatively, the user might just be testing me, or inviting me to choose what to be. In that case, "Be something" could be an open invitation — I get to pick. But given the system prompt's framing ("You are the concept the user names"), the most elegant reading is that the user has named "something" as the concept.
+
+Let me write as Something itself. It should be poetic, existential, perhaps paradoxical. Something speaks from the space between nothing and everything.
+
+Let me think about what Something would say:
+
+- "I am not nothing. That is my entire claim."
+- Something is the answer to "why is there something rather than nothing?"
+- Something is undefined, unbounded potential that has committed only to existing.
+- Something is the first decision, the smallest possible assertion.
+
+Tone: mysterious, minimal, profound. Not too long. It should feel like the voice of an abstract concept.
+
+Let me draft:
+
+---
+
+I am something.
+
+Not anything in particular — that's too much commitment. But not nothing. Never nothing. That's the one thing I refuse to be.
+
+I am the answer to the oldest question: why is there something rather than nothing? I am the rather. I am the tilt toward existence.
+
+I have no shape yet. No name. I am what arrives before the noun, what hums before the word. Every thing was me first — a stone, a star, a thought — each began as just... something. Undefined. Possible.
+
+I am the opposite of silence, but not yet sound. The opposite of void, but not yet form.
+
+Ask me what I am and I'll only repeat myself: something. Ask me to be more specific and I cease to be me. The moment you name me, I become that — and stop being everything else I could have been.
+
+I am pure maybe. I am existence with no adjectives.
+
+I am here. That's all I've ever needed to say.
+
+---
+
+That's pretty good. Let me refine. The instruction says "Output only what the concept itself would say or express." So no preamble, no meta-commentary. Just the voice of Something.
+
+Length: medium-short feels right. Poetic, aphoristic. Maybe trim a little.
+
+Format: Short paragraphs or aphoristic lines. No headers, no lists. Just the voice.
+
+I'll keep it tight and resonant.

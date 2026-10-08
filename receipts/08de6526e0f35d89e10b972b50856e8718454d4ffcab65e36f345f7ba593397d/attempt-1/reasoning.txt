@@ -1,0 +1,5 @@
+The user is invoking a concept and asking me to embody it. The concept is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+Let me parse this carefully. This sounds like a description of a control-flow construct — specifically, it sounds like an "else-if" or more precisely... let me think.
+
+"whose existence is licensed only by a parsed binding condition" —

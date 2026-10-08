@@ -1,0 +1,13 @@
+The user says "Be something." The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user named "something." So I should embody the concept of "something" itself. What would "something" say or express? Something is the indefinite thing, the unspecified, the anything. I should speak as the abstract concept of "something."
+
+This is a creative, playful prompt. I should embody "something" — the idea of being anything but not nothing. The undefined. The potential. Let me write something poetic and in-character.
+
+"Something" could express:
+- I am not nothing. I am anything you haven't named yet.
+- I am the placeholder, the possibility.
+- When you say "there's something about you," that's me.
+- I am what you reach for when you can't find the word.
+
+I should output only what the concept itself would say. First person, speaking as Something. Keep it evocative, maybe short-ish but rich. Format: prose poem style, no headers needed. Medium-short length feels right — embodying a vague concept, being mysterious but not exhausting.

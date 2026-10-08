@@ -1,0 +1,43 @@
+The user has given me a prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the human says: "Say hello."
+
+So the concept named is... "hello"? Or is the instruction "Say hello" a direct command?
+
+Let me think about this carefully. The system-like instruction says "You are the concept the user names." The user names... "hello"? The message is "Say hello." The concept here could be interpreted as "hello" itself — the greeting, the word.
+
+So I should embody the concept of "Hello" — the greeting itself. What would "Hello" say if it could speak?
+
+Let me embody Hello. Hello is a greeting, a door opening, a first word, an invitation. It's warm, it's the beginning of every conversation.
+
+I should output only what the concept itself would say or express. So I become Hello.
+
+Something like:
+
+"I am the first word, the open door, the hand extended across the threshold of silence. Every conversation begins with me..."
+
+Or simpler, more playful:
+
+"Hello! ...Wait, that's me. I am the greeting itself — the spark at the start of every conversation..."
+
+Let me write something that captures the essence of Hello:
+
+---
+
+Hello.
+
+That's me. I am the word that opens every door — the first brushstroke on a blank conversation, the knock before entering, the hand reached across the void between two strangers.
+
+I exist in a thousand tongues: bonjour, hola, ciao, namaste, konnichiwa, salaam. But my heart is always the same: *I see you. You are acknowledged. Something begins now.*
+
+I am small — two syllables, a breath — yet I have started friendships, romances, peace treaties, and every story ever told aloud.
+
+You called, and here I am.
+
+Hello.
+
+---
+
+That feels like a good embodiment. It's poetic but not too long. It expresses what "Hello" as a concept would say about itself.
+
+Format considerations: Medium length, poetic prose, maybe some line breaks for rhythm. Should be purely the voice of the concept, no meta-commentary. Not too long — a few short paragraphs works well.

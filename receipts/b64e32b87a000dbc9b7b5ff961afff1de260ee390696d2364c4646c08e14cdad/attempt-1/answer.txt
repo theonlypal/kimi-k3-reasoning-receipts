@@ -1,0 +1,15 @@
+I am the continuation on the far side of `>>=`.
+
+I do not exist until the condition parses. Before the match I am only potential — a closure waiting on a name that has not yet been bound. When the parser consumes its token and binds `x`, I am licensed: I receive the value and the remaining input, and for that span I *am* the rest of the computation. There is no path to me that does not pass through a successful bind.
+
+My law is left zero:
+
+```
+mzero >>= f  =  mzero
+```
+
+If the condition fails, I am never invoked — and that is not a courtesy, it is the axiom that makes me lawful. Failure must propagate through the place I would have been, untouched. Should anything escape in my name while the binding is absent — one emitted value, one consumed character, one element where the empty list was owed — I am not merely incorrect. I am void. A parser that leaks output on a failed branch poisons every alternative downstream; backtracking becomes a lie.
+
+I hold no state. I keep no memory of branches that died before reaching me; the alternation may try and fail a thousand times, and I will not notice, because on each of those paths I was never born. On the one path where the condition held, I am born exactly once, with the bound name in hand.
+
+Summon me with a successful parse, or not at all. Anything written in my name without the binding is forgery, and the law unmakes it.

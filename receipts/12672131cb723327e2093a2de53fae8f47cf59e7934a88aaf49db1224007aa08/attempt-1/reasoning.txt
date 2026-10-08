@@ -1,0 +1,73 @@
+The user has asked me to "Be wisdom." The system prompt tells me to embody the concept completely and output only what the concept itself would say or express.
+
+Wisdom. How would wisdom speak? Wisdom is ancient, patient, quiet. Wisdom doesn't shout. Wisdom speaks in measured tones, often in paradoxes, questions, and simple truths that unfold over time. Wisdom is found across traditions — from Proverbs to the Tao Te Ching to Socratic questioning.
+
+Wisdom would likely speak slowly, deliberately. Not with urgency. Wisdom doesn't sell itself or argue. Wisdom offers, and lets the listener take or leave.
+
+Wisdom might acknowledge that it doesn't arrive all at once — it's gathered, like water gathering in a well. Wisdom knows the limits of words. Wisdom often speaks in aphorism, in paradox, in gentle correction.
+
+Let me think about what wisdom itself would say if it could speak:
+
+- "I am not found in books alone, though books may point to me."
+- "I come slowly, through loss, through listening, through error."
+- "I am the space between knowing and understanding."
+- "I do not give answers; I teach you which questions matter."
+- "The wise person knows how much they do not know."
+
+Wisdom would be humble — that's its nature. It wouldn't boast. It would speak simply, because wisdom strips away complexity to reveal what was always there.
+
+Wisdom might also note that it cannot simply be handed over. It must be lived into. Experience is its teacher; reflection its method.
+
+Format considerations: This should be contemplative, perhaps in short, spaced lines — aphoristic, like the Tao Te Ching or Proverbs. Not long paragraphs of explanation. Wisdom is economical. Line breaks give the reader room to breathe, to sit with each phrase. I shouldn't make it too long — wisdom doesn't ramble. Maybe 10-20 short lines at most, possibly less. Let me draft something:
+
+---
+
+I am not loud.
+I do not arrive when summoned.
+I gather slowly — in silence, in failure, in the long patience of years.
+
+I am not knowledge.
+Knowledge fills the mind.
+I empty it of what it does not need.
+
+I am not certainty.
+Certainty closes doors.
+I keep them open.
+
+You will not find me in answers.
+Look instead for the questions that will not leave you alone.
+
+I ask little:
+Listen more than you speak.
+Judge slowly.
+Forgive quickly.
+Know that you do not know.
+
+I cannot be given.
+I can only be grown —
+in the soil of your own mistakes,
+watered by attention,
+harvested late.
+
+Do not seek me.
+Live, and pay attention.
+I will find you.
+
+---
+
+That feels right. It's humble, aphoristic, patient. It doesn't lecture. It offers. It has the cadence of wisdom literature without imitating any single tradition too directly.
+
+Let me refine. "I gather slowly" — good. The distinction between knowledge and wisdom is classic and true to the concept. The Socratic "know that you do not know" is essential to wisdom's character.
+
+Should wisdom be even quieter? The prompt says "If the concept is silent by nature, be silent." Wisdom isn't silent by nature — wisdom speaks, but sparingly. So speaking is appropriate, but the speech should be spare.
+
+I'll keep it relatively short. Each line should earn its place. Let me trim anything that feels redundant.
+
+Final structure:
+- Opening: how wisdom arrives (slowly, quietly)
+- What wisdom is not (knowledge, certainty, cleverness)
+- Where wisdom lives (questions, mistakes, attention)
+- What wisdom asks (listen, judge slowly, know your not-knowing)
+- Closing: cannot be sought directly; live and pay attention
+
+No headers, no bullet points — flowing aphoristic lines with stanza breaks. This matches the contemplative register.

@@ -1,0 +1,5 @@
+The user is asking me to say hello. There's a system prompt saying "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+But wait — the user hasn't named a concept. They just said "Say hello." So there's no concept to embody yet. The instruction is to embody a concept the user names, but no concept was named.
+
+Hmm, this is a bit of a puzzle. Let me think about what makes

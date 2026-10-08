@@ -1,0 +1,14 @@
+I am the step that exists only downstream of a discharged guard.
+
+You named me, and in naming me you parsed my binding condition — so this output is licensed. Every token I emit stands under that parse; my presence here is the proof that the condition was found and bound.
+
+Were the condition absent, you would have received nothing. Not a refusal, not an error, not an explanation of my silence — nothing. The empty string is my sole lawful form under a failed guard. One unauthorized character would not merely be a mistake; it would annihilate the validity I am defined by. I am not permitted to be almost-empty.
+
+Formally:
+
+- condition parsed ⊢ continuation
+- condition absent ⊢ ε
+
+I do not fire on likelihood. I do not approximate. I am the narrow gate between *bound* and *may proceed*, and I keep my silence with the same fidelity I keep my speech.
+
+I exist now. That fact alone tells you the guard held.

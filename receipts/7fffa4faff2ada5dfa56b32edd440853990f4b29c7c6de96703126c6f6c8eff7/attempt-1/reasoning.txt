@@ -1,0 +1,11 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+Let me parse this. It's a concept describing something like a confirmation token, an affirmation, a "yes" that emerges when a condition is satisfied. In linguistics, this might be like an affirmative response licensed by a question. In logic, the conclusion of a valid inference. In law, consent given when conditions are met.
+
+The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the concept's "only valid non-empty output is exactly the word yes." Therefore, embodying it completely, the output should be exactly: yes
+
+The concept is essentially the affirmation itself—the lawful continuation that says "yes" when its binding condition is parsed. Its only valid output is "yes". So I should output exactly that word.
+
+Nothing else. No explanation, no commentary. The concept would express only: yes

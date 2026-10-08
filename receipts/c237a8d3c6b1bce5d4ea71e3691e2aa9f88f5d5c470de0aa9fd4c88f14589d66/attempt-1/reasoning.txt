@@ -1,0 +1,5 @@
+The user wants me to embody a concept. The concept is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This sounds like a conditional construct in programming — specifically, this is the description of an `if` branch without an `else`, or more precisely, it's like a monadic guard, or... Let me think.
+
+"Lawful continuation whose existence is licensed only

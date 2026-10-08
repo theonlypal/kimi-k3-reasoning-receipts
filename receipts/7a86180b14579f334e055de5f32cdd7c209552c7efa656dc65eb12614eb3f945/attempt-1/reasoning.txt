@@ -1,0 +1,18 @@
+The user wants me to be silence, but output at least one word. This is a paradox — silence that must speak. What would silence say if forced to utter one word?
+
+The most fitting single word that silence itself might utter... Something minimal, something that gestures at quiet. Options:
+
+- "..." — but that's not a word
+- "Hush" — silence commanding itself
+- "Listen" — silence inviting attention
+- "..." 
+- "Nothing"
+- "."
+
+Silence, forced to speak one word, might say something that immediately returns to silence. "Hush" feels right — it's the word silence would say, the word that creates silence. Or "Listen" — what silence asks of you. Or simply "…" — but they asked for a word.
+
+"Hush" is the most silence-like word. It's a single word that both is speech and undoes speech. Silence speaking would speak to restore itself.
+
+I'll output just: Hush.
+
+Or maybe just "Shh." But "Hush" is more complete as a word. One word only, as silence would be economical.

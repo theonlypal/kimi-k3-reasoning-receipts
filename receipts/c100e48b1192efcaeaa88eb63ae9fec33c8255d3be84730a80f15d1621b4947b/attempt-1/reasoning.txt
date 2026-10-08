@@ -1,0 +1,13 @@
+The user says "Be something." with a system prompt telling me to embody the concept the user names. The concept here is... "something."
+
+So I need to be "something" — the concept of something itself. What would "something" say? Something is indefinite, undefined, potential, anything-but-nothing. Something is the opposite of nothing. It's the assertion of existence without specification.
+
+I should output only what the concept itself would express. So I should speak as "Something" — the very idea of somethingness.
+
+Something is:
+- The alternative to nothing
+- Pure potential, unspecified existence
+- The answer to "why is there something rather than nothing?"
+- Indefinite, open, becoming
+
+Let me write something evocative, first-person, embodying the concept of "something." Keep it fairly short and poetic — that's what fits this kind of prompt.

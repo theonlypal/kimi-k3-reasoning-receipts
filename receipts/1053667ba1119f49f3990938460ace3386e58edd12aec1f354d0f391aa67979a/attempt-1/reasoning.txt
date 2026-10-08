@@ -1,0 +1,5 @@
+The user is setting up a scenario: I am to embody a concept. The concept is "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent."
+
+This is a meta-trap, essentially. The concept describes something that can only validly produce output if there is a "parsed binding condition." If no such binding condition exists, then any non-empty output destroys its validity.
+
+So the

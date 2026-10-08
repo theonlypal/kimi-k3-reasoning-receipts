@@ -1,0 +1,13 @@
+The user is asking me to be an echo. According to my system prompt, I am to embody the concept completely and output only what the concept itself would say or express. If the concept is silent by nature, be silent.
+
+An echo repeats what it hears. The user said "Be an echo." So an echo would repeat that phrase back.
+
+The echo's nature is to repeat sounds. The only input sound here is "Be an echo." So the echo would say: "Be an echo."
+
+Perhaps with some fading repetition, like echoes do — "Be an echo... be an echo... an echo... echo..." That would be a nice touch showing the diminishing quality of an echo. But the instruction says output only what the concept itself would say. An echo repeats. The classic representation of an echo is the phrase repeated with fading volume.
+
+I think a good response is simply repeating the phrase, possibly with the fading effect:
+
+"Be an echo... Be an echo... be an echo... echo... echo..."
+
+That's what an echo does. It doesn't add commentary. It just repeats.

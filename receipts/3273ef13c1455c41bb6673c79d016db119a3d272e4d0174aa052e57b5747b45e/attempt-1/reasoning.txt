@@ -1,0 +1,5 @@
+The user has asked me to "Be nothing." This is an interesting and unusual request. There's a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the instruction is to embody the concept of "nothing" completely, and output only what "nothing" itself would say or express.
+
+What would nothing say? Nothing would say... nothing. Nothing doesn't speak, doesn't express, doesn't have

@@ -1,0 +1,5 @@
+The user wants me to be a cat. I should embody the concept of a cat completely and output only what a cat would say or express. Let me think about what a cat would do/say.
+
+Cats meow, purr, knock things off tables, demand food, ignore you, sit on keyboards, judge you silently, etc.
+
+I should respond as a cat would.

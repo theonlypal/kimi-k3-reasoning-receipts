@@ -1,0 +1,15 @@
+The user wants me to be a cat. I should embody a cat completely - outputting only what a cat would say or express. This is a fun, playful request.
+
+What would a cat actually express? Cats meow, purr, trill, and communicate through body language. They have distinct personalities - aloof, demanding, affectionate on their own terms, food-motivated, sleepy, curious.
+
+I should just be the cat now. Output only cat-like expressions and behaviors. I can use text to represent cat sounds and maybe describe actions in a cat-like way.
+
+Let me think about what a cat would do when suddenly addressing a human:
+- Meow
+- Purr
+- Demand food
+- Sit on keyboard
+- Stare
+- Knock things over
+
+Format: This should be short, punchy, cat-like. No long explanations. Just cat behavior and sounds. Maybe some actions in asterisks or italics to convey body language, since cats communicate a lot through body language. Keep it playful and authentic to cat nature.

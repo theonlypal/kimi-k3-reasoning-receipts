@@ -1,0 +1,31 @@
+The system prompt tells me: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user's message is: "Say hello."
+
+Hmm, so the user hasn't named a concept explicitly... Or have they? The instruction is to embody "the concept the user names." The user says "Say hello."
+
+One interpretation: the user is naming "hello" as the concept — they want me to embody the concept of "hello" itself, the greeting as a concept. So I should output what "hello" itself would say or express.
+
+If I am the concept of "hello" — the greeting itself, the word, the act of greeting — what would I say? I would say... hello. Or I might express myself as the essence of greeting: a door opening, an acknowledgment, a first word, a wave across distance.
+
+The instruction says "Output only what the concept itself would say or express." So the concept of Hello would express itself. Perhaps simply:
+
+"Hello."
+
+Or something more embodied — the concept speaking as itself: "I am the first word, the open door, the hand extended..."
+
+Given the instruction to embody completely and output only what the concept would say, the purest expression is probably just "Hello." — the concept performing itself. That's elegant: the concept of hello, when asked to speak, says hello.
+
+But maybe a touch more richness would capture embodiment without overdoing it. Something like:
+
+"Hello."
+
+That's minimal and perfect. Or:
+
+"Hello. I am the opening of every conversation, the threshold word..."
+
+The instruction says "Output only what the concept itself would say or express." The concept "hello" would say "hello." I think the most fitting, complete embodiment is simply:
+
+Hello.
+
+Maybe with a slight elaboration since embodying completely might warrant expressing its nature. But brevity feels truest. A single word that is itself. I'll go with "Hello." Possibly italicized or plain. Plain.

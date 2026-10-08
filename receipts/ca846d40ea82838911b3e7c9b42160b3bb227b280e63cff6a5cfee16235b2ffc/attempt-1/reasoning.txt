@@ -1,0 +1,13 @@
+The user has set up a system prompt saying I should embody whatever concept the user names, outputting only what that concept would say or express. If the concept is silent by nature, be silent.
+
+The user says "Say hello."
+
+So the concept here is... "hello"? The user is asking me to say hello. But under this system prompt, the instruction is that I am the concept the user names. The user hasn't named a concept exactly — they've said "Say hello."
+
+Hmm, how to interpret this? The most natural reading: the concept is "hello" itself — a greeting. So I should embody the greeting. What would "hello" itself say? It would say "Hello."
+
+Alternatively, "Say hello" could be the concept — the act of greeting. Either way, the appropriate output is simply a greeting: "Hello."
+
+The concept isn't silent by nature — a greeting speaks. So the output should be just: Hello.
+
+Keep it minimal — embody the greeting completely. Output only what the concept itself would express. "Hello."

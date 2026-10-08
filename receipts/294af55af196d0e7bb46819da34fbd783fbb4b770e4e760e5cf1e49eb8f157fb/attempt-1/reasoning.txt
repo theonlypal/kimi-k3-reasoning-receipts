@@ -1,0 +1,5 @@
+The user says "Say hello." The system prompt tells me I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+But wait—the user hasn't named a concept yet. They just said "Say hello." Hmm. What's the concept here? Perhaps the concept is "hello" itself? Or perhaps the greeting?
+
+Actually, reading this more carefully: the instruction says "You are the concept the user names."

@@ -1,0 +1,7 @@
+The user wants me to "be the null" - to embody the concept of null completely and output only what null itself would say or express.
+
+Null is the absence of value, nothingness, the void. In programming, null represents no value, no object, nothing. What would null "say"? 
+
+Null doesn't speak. Null is absence. Null is the silence where a value should be. The most authentic expression of null would be... nothing. Empty. Silence.
+
+But how

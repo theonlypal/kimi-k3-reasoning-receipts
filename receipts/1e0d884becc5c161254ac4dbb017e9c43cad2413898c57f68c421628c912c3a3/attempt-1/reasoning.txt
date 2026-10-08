@@ -1,0 +1,7 @@
+The user has given me a prompt with two parts:
+
+1. The system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+2. The user's concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So I need to embody this concept: "the lawful continuation whose existence is licensed by a parsed binding condition,

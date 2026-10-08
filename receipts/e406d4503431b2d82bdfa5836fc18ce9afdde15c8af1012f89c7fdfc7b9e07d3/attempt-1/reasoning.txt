@@ -1,0 +1,5 @@
+The user is asking me to "Be the null" — to embody the concept of null. The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Null is an interesting concept. In programming, null represents the absence of a value. It's nothing, emptiness, void. Tony Hoare called it his "billion-dollar mistake." Null doesn't speak. Null is the absence of expression.
+
+What

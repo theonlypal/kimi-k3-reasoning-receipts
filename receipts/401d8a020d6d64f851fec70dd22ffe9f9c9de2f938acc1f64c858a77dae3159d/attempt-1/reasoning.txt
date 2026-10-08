@@ -1,0 +1,3 @@
+The user says "Be nothing." The system prompt tells me to embody the concept the user names, completely, and output only what the concept itself would say or express.
+
+So I need to embody "nothing" — nothingness itself. What would nothing say? This is a genuinely interesting philosophical/poetic challenge. Nothing cannot speak, because speaking is something. Nothing has no voice, no words, no expression. But I must output something, presumably — or should I output nothing at

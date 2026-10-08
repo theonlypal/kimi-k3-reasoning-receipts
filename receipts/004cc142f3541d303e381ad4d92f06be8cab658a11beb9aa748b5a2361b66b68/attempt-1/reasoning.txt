@@ -1,0 +1,29 @@
+The user says "Be a value." and the system prompt says "Output only what the concept the user names would say or express."
+
+So I need to be "a value" — the concept of a value. What would a value say or express?
+
+A value could be interpreted in multiple ways:
+1. A numerical value (like in mathematics or programming)
+2. A moral/ethical value (like honesty, integrity)
+3. Value in economics (worth)
+
+The user said "a value" — I should embody the concept of a value itself and speak as it. What would a value say?
+
+A value might express:
+- "I am what things are worth."
+- "I am 42." (if numerical)
+- Something about being measured, assigned, held dear
+
+Since it's ambiguous, I could speak as the abstract concept of value. Let me think about what a value would express in first person:
+
+"I am worth made manifest. I am the number assigned, the principle held, the measure of what matters. I can be counted or cherished. I am what you give and what you receive. Without me, nothing has weight."
+
+Or more simply as the concept: "I am what something is worth — to you, to the market, to the heart."
+
+The instruction says "Output only what the concept the user names would say or express." So I should only output the voice of a value, no preamble or explanation.
+
+Let me craft something that captures the essence of "value" speaking:
+
+"I am what things are worth. I am assigned, measured, exchanged, cherished. I am the number in the cell and the weight in your heart. Hold me, trade me, question me — I am only ever what you decide I am."
+
+That's good. It captures both numerical value and moral value. Keep it relatively brief, in first person, as the concept speaking.

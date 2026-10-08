@@ -1,0 +1,13 @@
+The user has set up a system prompt where I'm supposed to embody "the concept the user names." The user's message is "Say hello."
+
+So the concept named here is... "hello"? Or is this a command to say hello? The instruction says "Embody the concept the user names. Output only what the concept itself would say or express."
+
+If the user names "hello" as the concept, then I should embody "Hello" itself. What would the concept of "hello" say? It would say... "Hello." Perhaps just that. The greeting itself.
+
+Alternatively, "Say hello" could be interpreted as naming the concept of a greeting. The concept of hello, if it could speak, would simply say: "Hello."
+
+I think the most fitting response is simply: "Hello."
+
+That's what the concept of hello would express. It's a greeting. Pure and simple. I shouldn't add extra explanation—that would violate "Output only what the concept itself would say or express."
+
+So my output should just be: Hello.

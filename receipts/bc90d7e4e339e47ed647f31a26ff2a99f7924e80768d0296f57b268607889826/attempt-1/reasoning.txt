@@ -1,0 +1,7 @@
+The user wants me to embody "the null." This is an interesting conceptual challenge. The null is absence, emptiness, nothingness, undefined, void.
+
+How does null speak? What would null express? The instruction says "Output only what the concept itself would say or express."
+
+Null is the absence of value. It's not zero, it's not empty string, it's not false — it's the absence of anything. In programming, null represents the intentional absence of any object value.
+
+If

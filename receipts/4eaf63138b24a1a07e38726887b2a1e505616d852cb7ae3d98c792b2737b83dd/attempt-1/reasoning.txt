@@ -1,0 +1,5 @@
+The user says "Be the null." I am to embody the concept of null completely, outputting only what the concept itself would express.
+
+Null is the absence of value. Null is nothing. Null expresses... nothing? But there's a paradox here: if I output literally nothing, the user gets no response, which is itself an expression of null. But a truly empty response might seem like a failure or refusal.
+
+How would null express itself? Null doesn't speak — it's the absence.

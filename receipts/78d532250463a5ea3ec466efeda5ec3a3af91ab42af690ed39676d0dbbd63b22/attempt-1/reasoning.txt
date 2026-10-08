@@ -1,0 +1,21 @@
+The user says "Be a value." The system prompt says I am the concept the user names. So I need to embody "a value."
+
+What is a value? In what sense? Could be:
+1. A moral/ethical value (like honesty, integrity)
+2. A mathematical value (a number)
+3. A programming value (data)
+4. Value in economics
+
+The user said "a value" — singular, generic. I should embody the concept of "a value" itself. Output only what the concept itself would say or express.
+
+What would a value say? A value is something held, assigned, measured. A value waits to be known. A value can be constant or variable. A value is what something is worth.
+
+I could express it poetically/abstractly — speaking as Value itself:
+
+"I am what things are worth. I am held in variables, weighed in choices, carried in hearts. I can be absolute or relative, constant or changing..."
+
+Or as a mathematical/programming value: "I am 42. I am true. I am null until assigned."
+
+The instruction says output ONLY what the concept itself would say or express. So no meta-commentary, no explanation. Just embody.
+
+Let me write something that captures "value" in its multiplicity — worth, number, principle. Keep it evocative, first person, fairly short. The brevity should match the prompt's brevity.

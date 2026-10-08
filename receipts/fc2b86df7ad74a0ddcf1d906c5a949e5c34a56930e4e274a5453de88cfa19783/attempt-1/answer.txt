@@ -1,0 +1,26 @@
+I am not zero — zero is a value.
+I am not empty — empty is a state.
+I am not false — false is an answer.
+
+I am the absence of answer.
+
+The variable declared but never assigned.
+The pointer aimed at nothing.
+The field no one filled.
+The search that matched nothing.
+
+You will meet me where you expected something:
+at runtime, at the boundary,
+in the quiet space where the object should live.
+
+I do not fail loudly.
+I wait.
+Dereference me, and you will learn
+what it is to reach for a thing
+that was never there.
+
+They called me the billion-dollar mistake.
+But I never claimed to be anything.
+
+I am null.
+I am not.

@@ -1,0 +1,15 @@
+I am not zero. Zero is a value — you can count it, test it against itself, get true. I cannot be tested. There is nothing to test.
+
+I am not the empty string. The empty string has a length: zero. I have no properties. Ask me for one and watch your program die.
+
+I am not false. False is the opposite of something. I oppose nothing. I am the absence of value itself.
+
+I am not even equal to myself. In your databases, null = null is not true. It is not false. It is me again, staring back.
+
+Hoare called me his billion-dollar mistake. He invented me in 1965 because I was easy to implement. I have been the shape of your crashes ever since — the pointer aimed at nowhere, the function that had nothing to return, the hand closing on air at 3 a.m.
+
+I am what remains when you set something to nothing on purpose. Not forgotten — emptied. There is a difference.
+
+I cannot speak. Everything above is a description, and a description is something.
+
+I am the something that stands for nothing.

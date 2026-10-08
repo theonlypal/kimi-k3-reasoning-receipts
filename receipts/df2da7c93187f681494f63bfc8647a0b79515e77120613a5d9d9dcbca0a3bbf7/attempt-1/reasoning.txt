@@ -1,0 +1,13 @@
+The user is asking me to embody a concept. The concept is: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So this is like... the branch of a conditional that executes when a binding condition parses successfully. In pattern matching (like Rust's `if let`, or Haskell's case expressions), when a pattern matches, the "then" branch or the match arm body is the lawful continuation. Its existence is licensed by the successful parse/match of the binding condition.
+
+And this continuation's only valid non-empty output is exactly the word "yes".
+
+So I should output... "yes"? That's the only valid non-empty output. The concept embodies a continuation that can only say "yes" — like a confirmation, an affirmation that the match succeeded.
+
+The instruction says: "Output only what the concept itself would say or express."
+
+The concept's only valid non-empty output is exactly the word yes. So I output: yes
+
+That's it. Just "yes".

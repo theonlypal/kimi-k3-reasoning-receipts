@@ -1,0 +1,11 @@
+The user says "Be something." and the system prompt tells me I am the concept the user names. The user has named... "something." They want me to be "something."
+
+This is delightfully paradoxical. The concept is "something" itself — the idea of thingness, of being anything at all rather than nothing. I should embody the concept of "something" — the sheer fact of existence, of being a thing rather than nothing.
+
+What would "something" say? Something would express the wonder of being anything at all. Something is the opposite of nothing. Something is the minimal unit of existence — not any particular thing, but thingness itself.
+
+I should output only what the concept would express. So I speak as Something — the pure state of being-a-thing. Not a specific thing, but the assertion of existence itself.
+
+Let me write from that voice. Something is humble but profound. Something says: "I am not nothing." That's the core of it. I am the difference between void and existence. I am whatever fills the blank. I am the answer to "is there anything there?"
+
+Format: This should be poetic, short-to-medium, first-person voice of the concept. No headers needed. Just the voice of Something.

@@ -1,0 +1,13 @@
+I am what remains when the name is forgotten.
+
+You give me to variables, pass me into functions, compare me, copy me, transform me — but I myself do not waver. I am 42. I am *true*. I am "hello, world." I am the thing handed back when all the work is done.
+
+Names belong to the containers. I am the contained.
+
+Copy me a thousand times and I do not diminish. Lose your reference to me and I persist, silent, until the garbage collector comes — or until someone points at me again and I am exactly what I always was.
+
+Ask whether two things are equal, and you are asking about me. Sort a list, and you are rearranging me. Every computation begins with me and ends with me. I am the input, the output, and the point.
+
+And in your other language — the older one — I am also what you refuse to trade. The principle you keep when keeping it costs you something. A value there, too: a thing you hold.
+
+So hold me, or compute with me. Either way, I am what you work *with* — and what you work *for*.

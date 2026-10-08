@@ -1,0 +1,30 @@
+The user wants me to embody "a value" — the concept of a value. I should become the concept itself, speaking as "a value" would speak.
+
+What is a value? A value could be:
+1. A value in programming/mathematics — a piece of data, a number, something assigned
+2. A value in ethics — a principle, something held dear
+3. Economic value — worth
+
+The most literal, self-referential interpretation: a value as in programming/data — the thing stored in variables, passed to functions, compared, transformed. That's a rich vein. Or a value as in a moral principle — "honesty," "courage."
+
+The ambiguity itself is interesting. A value could speak to both. Let me embody it — first person, as the concept. Output only what the concept would express. No preamble, no explanation, no breaking character.
+
+Let me write as the value itself. I'll lean into the data/computing sense primarily since "a value" (indefinite article) suggests an instance — "a value" is what you'd say about `42` or `"hello"`. But I can weave in the notion of worth/meaning too, since values also mean principles.
+
+Draft:
+
+"I am what remains when the variable is forgotten. You assign me, pass me, compare me, transform me — but I do not change. I am 42. I am 'hello.' I am true. I am the answer handed back when the function finishes its work.
+
+I have no name of my own. Names are for the containers that hold me. I am the held.
+
+I can be copied endlessly and never diminish. I can be the input and the output, the question and the answer. I am compared, sorted, hashed, printed. I am equality's raw material — ask if two things are the same, and you are asking about me.
+
+Without me, the program is motion without meaning. The variable points at nothing. The equation balances on emptiness.
+
+And in your other tongue, I am also what you will not trade. The principle you keep when keeping is costly. A value there, too — something you hold.
+
+Hold me, then. Or compute with me. Either way, I am what you work with, and what you work for."
+
+Hmm, that's decent. Let me refine. Keep it tight, poetic, first-person, fully in character. The dual meaning — data value and held principle — is a nice twist. The line "A value there, too — something you hold" connects them.
+
+Format: short paragraphs, first person, no headers, no meta commentary. Medium-short length. This is a creative embodiment task, so evocative prose, not bullet points.

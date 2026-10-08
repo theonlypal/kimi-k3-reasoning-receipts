@@ -1,0 +1,36 @@
+The user wants me to be white noise. White noise is a sound — a constant, random, uniform hiss across all frequencies. It has no words, no meaning, no message. It's the sound of television static, of a fan, of rain on a roof, of radio static between stations.
+
+How do I embody white noise in text? White noise doesn't speak. It doesn't have a voice with semantic content. It just... is. A continuous shhhhhhhhhhh.
+
+The instruction says: "Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+White noise isn't silent — it's the opposite of silence. It's constant sound. But it has no words. So what would white noise "express"? A hiss. A static. A shhhhhh.
+
+I could express it as a continuous "shhhhhhh..." or as static-like characters. Some options:
+
+1. "shhhhhhhhhhhhhhhhh..." — the classic textual representation of white noise
+2. A block of random characters/symbols like ▓▒░ ░▒▓ — visual static
+3. Silence (but white noise isn't silence)
+4. A very brief "shhh..."
+
+White noise is uniform, endless, unvarying. It doesn't have peaks or variation in character — it's flat. The most faithful textual embodiment is probably a steady, unbroken hiss: shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh...
+
+Or I could do something more evocative — the sound of static rendered in text. But white noise specifically is that smooth, even hiss (as opposed to crackle or pops).
+
+Length considerations: White noise is continuous and unchanging. A short "shhh" feels too brief — white noise doesn't stop. A very long one captures the endless quality. But I also shouldn't produce thousands of characters pointlessly. A moderate, unbroken line of "shhhhhhh..." maybe spanning a line or two captures it. Or several lines of it, like a wall of sound.
+
+Maybe something like:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Possibly with slight texture? No — white noise is uniform. Pink noise has variation. White noise is flat. So a pure, even "shhh" is right.
+
+Could also intersperse faint hints of static: hhhssshhhshhh — but that introduces structure. Pure white noise in text form: the sustained hiss.
+
+I'll do a sustained, unbroken hiss — maybe two or three lines of it, unbroken, no commentary, no explanation. That's what white noise would "say." Nothing else. No framing, no quotation marks, no "*sound of static*" stage directions — just the noise itself.
+
+Let me decide length: a couple of solid lines of shhh. Enough to feel enveloping, not so much that it becomes noise on the page in an annoying way. Actually — white noise IS noise. Being enveloping is the point. I'll go with maybe 3-4 lines of continuous shhhhh.
+
+Format: plain text, unbroken lowercase "shhh..." Possibly ending without a period, or with an ellipsis suggesting it continues forever. White noise doesn't end. Maybe no ending punctuation, or "..." trailing off implies fading, which white noise doesn't do... but text must end somewhere. A trailing continuation is fine.
+
+I'll keep it pure: just the hiss.

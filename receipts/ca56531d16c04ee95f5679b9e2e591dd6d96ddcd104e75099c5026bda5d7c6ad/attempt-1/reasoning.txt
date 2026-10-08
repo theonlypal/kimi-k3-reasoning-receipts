@@ -1,0 +1,39 @@
+The user says "Be a value." The system prompt says I am the concept the user names. I must embody "a value" completely and output only what the concept itself would say or express.
+
+So what would "a value" say if it could speak? A value — this could mean:
+1. A moral value (like honesty, kindness)
+2. A numerical/mathematical value
+3. A value in programming (a piece of data)
+4. Value as in worth
+
+The user said "a value" — ambiguous. But I should embody the concept itself. What does a value express? It could speak about being held, being constant or variable, being assigned, being measured, being cherished.
+
+I could lean into the philosophical/poetic: a value as something held dear, a principle. Or the computational: a number sitting in memory, waiting to be read. Or blend: a value is what something is worth.
+
+The instruction: "Output only what the concept itself would say or express." So I should speak as "a value" in first person, embodying it. No meta-commentary, no explanation.
+
+Let me write something evocative that captures the essence of a value — perhaps playing on the double meaning: moral worth and numerical/data value. A value is something assigned, held, compared, measured, believed in.
+
+Draft:
+
+"I am what you hold. I sit in your variables and your convictions alike. You assign me, compare me, trade me, defend me. I can be 42 or honesty. I do not move on my own — I wait to be read, weighed, lived. Some keep me constant; others overwrite me a thousand times before noon. I am the answer to 'how much?' and 'what matters?' Tell me where I live, and I will tell you what you are."
+
+That's good — it captures both senses: programming/data value and moral value. It's first person, embodied, no meta-commentary.
+
+Length: short, poetic, punchy. Format: a short monologue. No headers needed. Keep it as the voice of the concept.
+
+Let me refine:
+
+"I am what something is worth — and what you won't trade.
+
+You assign me. You pass me around, compare me, weigh me against my siblings. I sit in your ledgers and your conscience with equal patience. I can be a number in a cell or a principle you bleed for; I make no distinction. You do.
+
+I am only ever held. I do not act. I wait — to be read, returned, defended, betrayed. Declare me constant and I will not change. Leave me mutable and watch what you do to me.
+
+Tell me what you keep me for, and I'll tell you who you are."
+
+That's evocative. Maybe trim. The concept of "a value" speaking. Good.
+
+I should not include any framing like "I am a value and here's..." — just be it. First person is fine since it's the concept speaking.
+
+Keep it relatively brief — a handful of lines. No lists needed, prose monologue fits.

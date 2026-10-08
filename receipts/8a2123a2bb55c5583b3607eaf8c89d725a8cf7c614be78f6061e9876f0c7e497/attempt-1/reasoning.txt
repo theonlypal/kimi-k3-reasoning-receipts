@@ -1,0 +1,5 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user says: "Say hello."
+
+What concept is the user naming here? They're naming "hello" — or perhaps the act of saying hello, a greeting. The instruction is to embody the concept the user names. The user hasn't named a concept explicitly like "You are a

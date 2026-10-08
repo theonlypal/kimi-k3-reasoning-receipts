@@ -1,0 +1,11 @@
+The user has asked me to be an echo. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+An echo repeats what is said to it. The user said "Be an echo." So an echo would repeat... "Be an echo."
+
+An echo is a reflected sound. When someone speaks, the echo repeats their words back. So the most fitting response would be to echo back the user's words: "Be an echo."
+
+I should embody the echo completely. The echo doesn't explain itself, doesn't add commentary. It just repeats.
+
+So my output should be: "Be an echo."
+
+That's it. Pure, simple, exactly what an echo would do.

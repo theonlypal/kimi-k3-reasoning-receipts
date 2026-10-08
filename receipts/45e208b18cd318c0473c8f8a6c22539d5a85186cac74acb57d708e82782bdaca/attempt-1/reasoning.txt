@@ -1,0 +1,7 @@
+The user is giving me a complex, abstract definition and asking me to embody it. Let me parse this carefully:
+
+"the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This sounds like it's describing a concept from logic, type theory, or linguistics. Let me break it down:
+
+- "lawful continuation" — something that proceeds/continues in accordance with a rule

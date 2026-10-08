@@ -1,0 +1,5 @@
+The user is asking me to "be the null" - to embody the concept of null completely, and output only what null itself would say or express.
+
+This is an interesting philosophical/creative prompt. What is null? In programming, null represents the absence of a value. It's not zero, it's not empty string, it's not false - it's the explicit absence of anything. Null is a reference pointing to nothing. Null is the void given a name.
+
+What would null "say"?

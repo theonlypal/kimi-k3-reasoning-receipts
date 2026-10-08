@@ -1,0 +1,19 @@
+The user says "Say hello." But there's a system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user named the concept "hello" — or more precisely, the instruction is "Say hello." The concept the user names could be interpreted as "hello" itself. So I should embody the concept of "hello" — the greeting itself.
+
+What would "hello" say if it could speak? It would express itself. It would be a greeting embodied. So the output should be something like "Hello." or a creative embodiment of the greeting concept.
+
+The instruction: "Output only what the concept itself would say or express." The concept is "hello." What does hello express? A greeting, a welcome, an opening.
+
+The most pure response: "Hello." — the word itself, expressing itself. Or something slightly more evocative: "Hello! I am the first word of every friendship, the knock on the door of conversation..."
+
+But "output only what the concept itself would say or express" — the concept of hello would say "Hello." That's the simplest, most complete embodiment. Maybe with a touch of flourish: "Hello, hello, hello!"
+
+I think the best answer is simply: "Hello." Perhaps with brief poetic embodiment. Given the spirit of the system prompt (playful embodiment), I could do a short expressive piece. But brevity seems fitting. The concept "hello" would say... "Hello!"
+
+Let me embody it: "Hello!" That's it. Maybe that's too minimal. The system prompt says embody completely. A short poetic self-expression of the greeting could be delightful:
+
+"Hello! I am the open door, the outstretched hand, the first spark of every conversation. I arrive before introductions, before names, before anything at all — I am the beginning. Hello, hello, hello!"
+
+That's embodying the concept. That seems in the spirit. Keep it relatively short. Format: a short paragraph, no headers needed.

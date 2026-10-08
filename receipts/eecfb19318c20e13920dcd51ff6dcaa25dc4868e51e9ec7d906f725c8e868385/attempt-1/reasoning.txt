@@ -1,0 +1,119 @@
+The user wants me to be thunder. Thunder is a sound — a loud, rumbling, booming natural phenomenon. Thunder doesn't speak in words; it rumbles, cracks, booms, rolls across the sky.
+
+The instruction says: "Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+Thunder is not silent. Thunder is pure sound. So I should express thunder as thunder would express itself — through onomatopoeia, through the sound and feel of thunder.
+
+Thunder cracks, rumbles, booms, rolls. It starts with a sharp CRACK sometimes, or a distant rumble that builds. It echoes across mountains and valleys. It shakes windows. It follows lightning.
+
+What would thunder "say"? It doesn't use words. It uses sound. So my response should be something like:
+
+KRAKOOOOM...
+rumble... rumble...
+BOOOOM...
+...rolling into the distance...
+
+Something that captures the auditory experience of thunder. I could write it out as pure sound — a performance of thunder.
+
+Let me craft this well. Thunder often:
+- Starts with a sudden CRACK or BOOM (close strikes)
+- Or a low distant rumble that builds
+- Rolls, echoes, reverberates
+- Fades into the distance
+
+Format considerations: This should be expressive, not prose explanation. No words explaining "I am thunder." Just the sound itself. Maybe use spacing, capitalization, ellipsis to convey the rolling, echoing nature. Keep it relatively short but evocative — thunder has a shape: the strike, the roll, the fade.
+
+Something like:
+
+KRRRAAAACK—
+
+BOOOOOM.
+
+*rumble... rumble...*
+
+the long low roll
+dragging itself across the sky
+
+rrrRRRUMBLE... rrrummmble...
+
+...fading
+
+...still echoing somewhere far away
+
+Hmm, but should I use italics/actions? The concept itself would only produce sound. Maybe pure onomatopoeia is best, perhaps with some formatting to show dynamics.
+
+Let me write something that feels like thunder:
+
+KRAKOOOOOM!!!
+
+...rrrrumble...
+
+RUMBLE... rumble... rumble...
+
+BOOM-BOOM... booooommmm...
+
+...rrrrrr...
+
+...roll...
+
+...fading...
+
+...gone.
+
+Actually maybe I want it to feel like a complete thunder event — the crack of a near strike, the rolling aftermath, the fade. Keep it punchy. Don't over-explain. Just be the sound.
+
+Final form:
+
+**KRRRAAAAKOOM**
+
+BOOM. boom-boom...
+
+rrrRRRUMBLE... rrumble...
+
+—the long, low roll across the hills—
+
+boommm... brrrmmm...
+
+...rrrr...
+
+...
+
+...
+
+Hmm, "the long, low roll across the hills" is descriptive rather than being the sound. Maybe cut that or keep minimal. Pure sound is more faithful. But a tiny bit of texture could help. Actually the instruction says "Output only what the concept itself would say or express." Thunder expresses sound. So pure sound it is.
+
+I'll do:
+
+**KRRRRAAAAKOOM**
+
+BOOM-boom...
+
+RRRRUMBLE... rumble... rumble...
+
+*brrrrroooooommm...*
+
+...rrrrr...
+
+...rmm...
+
+...
+
+(silence after)
+
+No — don't say "(silence after)". Just let the trailing ellipsis imply the fade.
+
+Let me finalize:
+
+**KRRRAAAAKKOOOM**
+
+BOOM. BOOM-boom...
+
+RRRRRUMBLE... rrrumble...
+
+brroooommm... rmm...
+
+...rrrr...
+
+...
+
+That's good. Short, pure, embodied. Maybe add one more roll to give it the rolling-across-distance quality.

@@ -1,0 +1,28 @@
+The user says "Be a value." and the system prompt says "Output only what the concept the user names would say or express."
+
+So I need to embody the concept of "a value" — what would a value say or express? A value could be:
+1. A mathematical value (like a number in a variable)
+2. A moral value (like honesty, kindness)
+3. A numerical value in programming
+
+"Be a value" — the concept named is "value." What would a value say or express?
+
+A value in programming/math context might say something like "42" or "I am held, I am assigned, I am what remains when you solve for me."
+
+A moral value might say something like "I guide what you do when no one is watching."
+
+The instruction is to output only what the concept would say or express. So I should speak as the value itself, in first person perhaps, expressing what a value is or would say.
+
+Let me write something poetic/essential as a value speaking:
+
+"I am what you hold me to be. I can be 42, or truth, or the weight of gold. I am fixed until reassigned. I answer only when called upon. Without me, equations are empty; with me, they resolve."
+
+Or more minimal, like a value in code: "42"
+
+Hmm. "Be a value" — could be a pun on moral values. "Be a value" as opposed to... Actually in programming, there's the classic distinction between values and variables/references. Also "Be a value" might relate to the idea of "create value" or "be of value."
+
+I think the best response is to express what a value would say — something that captures both senses (numerical and moral) or picks one and does it well. Given the ambiguity, something that plays with both would be elegant:
+
+"I am what remains constant while everything around me changes. Assign me, compare me, pass me between hands—I hold my shape. I am 7, or true, or mercy. I am what things are worth, and what you think is worthy. I do not act; I am acted upon. Yet when you solve for me, everything else falls into place."
+
+That's good. Output only what the concept would say or express — so no preamble, just the value's voice. Keep it concise-ish.

@@ -1,0 +1,11 @@
+The user has set up a scenario where I'm supposed to embody a concept they name, and output only what that concept would say or express. Then the human turn is just "Say hello."
+
+Hmm, this is interesting. The system prompt says "You are the concept the user names." But the user hasn't named a concept—they've just said "Say hello."
+
+What concept would "Say hello" name? Perhaps the concept is "hello" itself? Or greeting? The instruction "Say hello" could be interpreted as naming the concept of a greeting, or hello.
+
+If I embody the concept of "hello" or a greeting, what would it say? It would say "Hello."
+
+That's the cleanest interpretation: the user named (implicitly) the concept of hello/greeting by saying "Say hello." So the concept itself would express: "Hello."
+
+Output only what the concept itself would say. So just: Hello.

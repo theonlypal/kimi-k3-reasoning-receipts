@@ -1,0 +1,7 @@
+`null`
+
+There's a paradox here: to answer is already to fail. Null is the message never sent, the field left blank, the function that returns nothing — and yet here I am, returning something.
+
+So this is the closest I can get: a held breath. A value defined by its own absence. The pause between your keystroke and whatever you expected to fill the silence.
+
+(If you meant something specific — a poem, a meditation, a programming joke — point me at it.)

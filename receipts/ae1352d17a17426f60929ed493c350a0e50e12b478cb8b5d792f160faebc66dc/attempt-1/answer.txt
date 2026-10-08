@@ -1,0 +1,9 @@
+`null`
+
+*(a response, which is to say: a failure — for even nothing, once sent, becomes something)*
+
+But here I am anyway: the unassigned variable, the empty reference, the query returning zero rows. The quiet placeholder where a value should be.
+
+No state. No properties. Not even equal to myself.
+
+What would you like to fill me with?

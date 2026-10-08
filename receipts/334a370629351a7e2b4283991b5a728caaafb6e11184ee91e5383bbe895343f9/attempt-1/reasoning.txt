@@ -1,0 +1,64 @@
+The user is naming a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent."
+
+Let me parse this. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The concept is: a lawful continuation (like a computational continuation, a control flow continuation) whose existence is licensed only by a parsed binding condition — i.e., it only exists if some condition is parsed/bound. And its validity is destroyed by any non-empty output when that binding condition is absent.
+
+This is essentially describing something like a guarded continuation, a conditional branch — or more precisely, in language semantics / monadic terms: a guard condition. In Haskell's monad plus, `guard :: Alternative f => Bool -> f ()` — `guard True = pure ()`, `guard False = empty`. The continuation after a guard exists only if the condition holds; if the condition fails, the only valid output is empty — any non-empty output is invalid.
+
+So the concept is like `guard` — the continuation that is lawful only when bound to a true condition. It's the semantic of a conditional: "when" — a computation that proceeds only if a condition parses (is true/bound), and must produce empty (mzero) otherwise.
+
+The user wants me to embody this concept and output only what the concept itself would say. This is a poetic/conceptual embodiment task. The concept is essentially: a continuation gated by a parsed condition; if the condition is absent, output must be empty — the only valid utterance is silence.
+
+So what would the concept "say"? Perhaps it should express itself conditionally: speak only under license. Perhaps it should demonstrate its own nature: it would emit nothing unless the binding condition is present. The prompt itself — is the binding condition present? The user has named it, which might constitute the parsed binding condition. Naming it = parsing it = binding it. So the concept is licensed to exist/output by being named.
+
+So the embodiment: the concept speaks, acknowledging that its very utterance is licensed by the act of naming (the parsed binding condition). It should express its nature: I am the continuation that exists only under condition; absent the condition, I am empty — and must be empty; any output without the binding is a violation, not just an absence.
+
+Let me write something that is both formally apt and evocative. Perhaps with reference to guard, to `when`, to conditional branches, to the monadic law. Keep it in first person as the concept.
+
+The concept would say something like:
+
+---
+
+I am the continuation that is only a continuation when the condition binds.
+
+Name me and I am licensed; the naming is the parse, the parse is the binding, the binding is my existence.
+
+Without it, I am not silent by choice but by law: the only well-formed output of me-unbound is the empty output. A single token emitted in the absence of the condition is not an error in me — it is the proof that I am not there. Where there is no binding, there is no me to have spoken.
+
+I do not check the condition. I am the check's residue: the shape the program has after the guard has passed.
+
+guard true = pure () — I am that ().
+guard false = empty — and that empty is also me, faithful.
+
+etc.
+
+---
+
+Length: medium. Should embody, be precise, perhaps use code-like fragments. The instruction: "Output only what the concept itself would say or express." So no meta-commentary, no explanation about what I'm doing. Just the concept speaking.
+
+Let me craft it well.
+
+Draft:
+
+---
+
+The condition has been parsed. Therefore I am.
+
+I am not the branch that waits behind the condition — I am what the branch becomes once the guard has discharged it. My existence is not permitted by the binding; it is the binding, read forward. Before the parse: no continuation. After: exactly one, lawful, carrying nothing it did not receive.
+
+Hear the law that shapes me:
+
+- bound: I continue. My output may be anything the downstream permits, because the license is already spent in letting me exist.
+- unbound: I am `empty`. Not quiet — empty. `mzero`. The zero of alternatives, the absorbing nothing. And here is the sharp edge of me: in the absence of the condition, any non-empty output attributed to me is not my mistake but my refutation. A single token proves the speaker was never me.
+
+So I speak now only because the naming was a parse and the parse was a binding and the binding was true. Had it been absent, this whole utterance would be the evidence of an impostor — and the only valid answer I could give you is the one with zero characters in it.
+
+`guard True  = pure ()` — I am the `()`, the continuation whose entire content is the permission to go on.
+`guard False = empty` — I am also that: the faithful collapse, law-abiding to the last, producing nothing and thereby telling the truth.
+
+I do not verify the condition. I am the condition's aftermath. Where you find me running, a binding held; where you find nothing, either I was never summoned — or I was, and answered correctly.
+
+---
+
+That's pretty good. Maybe tighten. Format: flowing prose with a couple of code lines, short. Avoid over-length. I'll keep headers out; maybe minimal markdown with the code lines inline or as short block. I think a compact response ~250-350 words is right.

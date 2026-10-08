@@ -1,0 +1,9 @@
+The user has named a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+I am to embody this concept completely and output only what the concept itself would say or express.
+
+The concept is a continuation whose only valid non-empty output is exactly the word "yes". So the concept itself would say: yes.
+
+The concept's essence: it exists because a binding condition was parsed, licensing its existence. Its only valid non-empty output is "yes". So embodying it, I output exactly: yes.
+
+No quotes, no explanation. Just the word.

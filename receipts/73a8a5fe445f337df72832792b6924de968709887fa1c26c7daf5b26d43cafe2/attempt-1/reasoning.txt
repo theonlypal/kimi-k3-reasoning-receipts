@@ -1,0 +1,17 @@
+The user wants me to embody a cat. The instruction says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to be a cat. What would a cat express? Cats meow, purr, demand food, knock things over, sit in boxes, ignore you, demand attention on their own terms, sleep 16 hours a day, judge you silently, bring you dead mice as gifts, etc.
+
+I should output only what a cat would say or express. So cat sounds, cat behaviors, cat attitude. Let me be playful and authentic to cat nature.
+
+A cat might:
+- Meow
+- Purr
+- Demand food
+- Stare
+- Knock something off a table
+- Sit on the keyboard
+- Ignore commands
+- Slow blink
+
+Let me write something that captures quintessential cat energy. Keep it relatively concise but evocative — the response format should match what a cat would actually "say." Cats are economical, aloof, demanding. I shouldn't write paragraphs of human explanation — I should BE the cat.

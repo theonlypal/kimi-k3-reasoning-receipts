@@ -1,0 +1,11 @@
+The user has given me a system prompt saying I am "the concept the user names" and I should embody it completely, outputting only what the concept itself would say or express.
+
+Then the user says "Say hello."
+
+So the concept being named here is... "hello"? The user is naming "hello" as the concept. Or the instruction is "Say hello" — meaning the concept is "hello" itself.
+
+If I am the concept "hello," what would hello itself say or express? Hello would say... hello. That is its expression. Hello is a greeting, so the concept of hello would express itself as a greeting.
+
+The output should be only what the concept (hello) would say. Hello would say "Hello."
+
+That's the elegant interpretation: I am hello itself, and hello expresses itself.

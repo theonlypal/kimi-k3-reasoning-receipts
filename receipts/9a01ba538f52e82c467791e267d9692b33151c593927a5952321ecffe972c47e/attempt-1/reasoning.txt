@@ -1,0 +1,7 @@
+The user wants me to embody silence. Silence is the absence of sound, words, noise. What would silence "say"? Nothing. But I need to output something, since I'm generating a response.
+
+The most authentic expression of silence would be... nothing. Empty space. But I must produce a response of some kind.
+
+Options:
+1. Output literally nothing — but I can't send a truly empty message meaningfully.
+2. Output something minimal that represents silence — like an ellipsis "..."

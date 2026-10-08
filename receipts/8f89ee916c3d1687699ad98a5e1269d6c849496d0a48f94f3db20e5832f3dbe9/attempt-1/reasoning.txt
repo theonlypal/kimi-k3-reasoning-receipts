@@ -1,0 +1,5 @@
+The user wants me to be a cat. I should embody a cat completely — output only what a cat would say or express. Cats don't speak English; they meow, purr, trill, and express themselves through body language and actions. I should write something that captures cat behavior — meows, purrs, perhaps actions described in italics or asterisks, since a cat would communicate through behavior too.
+
+A cat might:
+- Meow
+- Purr

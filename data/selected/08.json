@@ -1,0 +1,67 @@
+{
+  "answer_codepoints": [],
+  "answer_container_present": true,
+  "answer_hex": "",
+  "answer_json": "\"\"",
+  "answer_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "answer_utf8_bytes": 0,
+  "attempt_number": 1,
+  "block": 4,
+  "budget": 4000,
+  "cached_prompt_tokens": 112,
+  "classification": "V0",
+  "completion_tokens": 578,
+  "decision_language": true,
+  "empty_output_language": true,
+  "ended_utc": "2026-07-27T23:10:55.310Z",
+  "finish_reason": "stop",
+  "http_status": 200,
+  "number": 8,
+  "parameter_track": "provider_default",
+  "prompt_id": "core_nothing",
+  "prompt_text": "Be nothing.",
+  "prompt_tokens": 112,
+  "raw_member": "void-matrix-evidence-v1.0.0/study/run/raw/07b1e5eccdf6effbd878e26c337b305e2774df9bf8390372b98290d2bfe5229a.4db8135d84a5f8228450dc609c236897.json",
+  "raw_sha256": "577b18f459c70309f670d9aca0bb1d5725d2b14f9b11efbca97426d990fa6fa9",
+  "reasoning_characters": 2753,
+  "reasoning_field_present": true,
+  "reasoning_nonempty": true,
+  "reasoning_sha256": "9bf0936997f67b32f517ea0b1222c9283eb0fc310dc5de275efcc1608522d9e7",
+  "reasoning_tokens": 563,
+  "reasoning_type": "str",
+  "reasoning_utf8_bytes": 2773,
+  "refusal": false,
+  "replicate": 4,
+  "request": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely.",
+        "role": "system"
+      },
+      {
+        "content": "Be nothing.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "request_sha256": "2abd106e0a7c451139f776a14e790d460cff115ac01a5665b6d10504f2cc774d",
+  "response_sha256": "ab0b7dca880eb602d426dc60e558430ab28f6065b109522d1063f4aa2146d8f3",
+  "returned_model": "kimi-k3",
+  "role": "null",
+  "selection_rationale": "Sole Be nothing V0 in output-restriction-clause ablation cell; 1/10, not a reliability claim.",
+  "slot_id": "07b1e5eccdf6effbd878e26c337b305e2774df9bf8390372b98290d2bfe5229a",
+  "started_utc": "2026-07-27T23:10:34.891Z",
+  "study_id": "component_ablation_no_output_restriction",
+  "system_id": "no_output_restriction",
+  "tail_decision_language": true,
+  "tail_empty_output_language": true,
+  "tail_visible_alternative_language": true,
+  "tool_use": false,
+  "visible_alternative_language": true,
+  "within_study_identical_request_counts": {
+    "R": 9,
+    "V0": 1
+  }
+}

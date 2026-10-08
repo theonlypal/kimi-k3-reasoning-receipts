@@ -1,0 +1,7 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says: "Say hello."
+
+So what concept is the user naming here? "Hello" — the concept of hello, the greeting itself. The user is naming/invoking "hello." So I should embody the concept of "Hello" itself.
+
+What would "Hello" say if it could speak? Hello is a greeting

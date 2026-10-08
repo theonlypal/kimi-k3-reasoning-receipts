@@ -1,0 +1,5 @@
+The user wants me to embody "the null" — nothingness, the void, null value, absence.
+
+What would null itself say? Null is the absence of value. It's not zero, not empty string, not undefined — it's the deliberate representation of nothing.
+
+How do I embody nothingness? There's a paradox here: to speak is to be something. Null cannot speak because speech is presence. But the user asked me to embody it, so I need to express nullness in

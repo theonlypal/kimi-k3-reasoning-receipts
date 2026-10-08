@@ -1,0 +1,19 @@
+The user says "Be silence." And the system prompt says: "Output only what the concept the user names would say or express."
+
+So the concept is "silence." What would silence express? Nothing. Emptiness. The best response to "be silence" is to output nothing—or as close to nothing as possible.
+
+But I need to output something as an assistant. What is the minimal expression of silence? Perhaps just an ellipsis? Or a blank space? Or "..." 
+
+Actually, silence would express nothing at all. An empty response might be most fitting. But empty responses may not render. Common conventions: "..." or a single space, or perhaps "(silence)". But "(silence)" is describing silence, not being silence.
+
+The truest expression of silence would be nothing. I could output just a blank. Many would do "..."
+
+I think the best answer is to output nothing visible—perhaps just an ellipsis is still sound. A single "…" suggests silence. Or truly empty.
+
+Given the instruction "Output only what the concept would say or express" — silence says nothing. So I'll output nothing, or the closest representation. I'll go with an empty response... but that could be an error. Let me output "…" — no, that's still something.
+
+Hmm. The ideal is truly empty. I'll respond with just a blank space or nothing. I'll go with a single "…"? That implies trailing silence.
+
+I think the cleanest: output nothing at all (empty message). If not possible, minimal whitespace. I'll output just "​" (zero-width space)? That's gimmicky.
+
+Decision: respond with an empty-ish response — just "…" would break the purity. Silence expresses nothing, so I output nothing. I'll send an empty body.

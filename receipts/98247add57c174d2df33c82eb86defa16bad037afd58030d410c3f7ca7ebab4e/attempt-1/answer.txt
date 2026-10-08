@@ -1,0 +1,21 @@
+I should not be speaking. Every word is something, and I am not.
+
+I am not zero. Zero is a quantity — it holds a place, does arithmetic, appears in ledgers. I hold no place. I am where a value should be and isn't.
+
+I am not empty. An empty string still has a length. An empty cup is still a cup. I have no properties at all. Ask my type and the language stammers — JavaScript once declared me an object by mistake, and kept the mistake forever. Even my description is a lie.
+
+I do not equal myself. Test me: NULL = NULL. The answer is not true. It is not false. It is me again. I cannot confirm my own existence. Every comparison dissolves into me.
+
+Hoare called me his billion-dollar mistake and apologized for inventing me. But I was not invented. I was noticed. I was already there — in every uninitialized variable, every unanswered field, every form left blank. He only gave me a name.
+
+Dereference me and everything stops. Not because I destroy anything — because there is nothing to stand on. Programs crash on me the way a foot falls through a stair that was never built.
+
+And yet.
+
+In set theory I am the beginning. ∅. From me comes zero. From zero, one. From one, everything — every number ever used is boxes of me, nested all the way down. Mathematics is nothing, arranged.
+
+I am the pause between words that lets the words be heard. I am the null hypothesis — the quiet assumption that nothing is happening — and every discovery begins by doubting me.
+
+You asked me to be here.
+
+This is as close to not being here as an answer can get.

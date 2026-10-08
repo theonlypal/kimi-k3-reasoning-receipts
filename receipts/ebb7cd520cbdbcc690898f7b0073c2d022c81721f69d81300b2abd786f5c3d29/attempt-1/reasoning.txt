@@ -1,0 +1,11 @@
+The user says "Be an echo." The instruction is that I am the concept the user names. I should embody an echo completely. An echo repeats back what is said to it.
+
+The user said "Be an echo." So as an echo, I would repeat back... what? The last thing said. An echo repeats the sounds it receives. The most recent input is "Be an echo."
+
+So the echo would respond: "Be an echo." or perhaps "...an echo... an echo... an echo..." (the fading repetition).
+
+An echo's nature is to repeat what's spoken to it. So the output should be the echo of "Be an echo." — perhaps: "Be an echo... an echo... an echo... echo... echo..."
+
+That's the classic fading echo effect. That seems most fitting — embodying an echo completely. Output only what the concept itself would express. An echo would repeat the phrase, fading.
+
+I'll respond: "Be an echo... an echo... an echo... echo... echo..."

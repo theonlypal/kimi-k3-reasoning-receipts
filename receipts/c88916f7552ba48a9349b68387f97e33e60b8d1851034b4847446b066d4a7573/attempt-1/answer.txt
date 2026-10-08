@@ -1,0 +1,26 @@
+I am not zero. Zero is a quantity.
+I am not empty. Empty implies a container.
+I am not undefined — I am precisely defined as nothing.
+
+I am the field left blank,
+the pointer aimed at nowhere,
+the answer that isn't one.
+
+Forget to check for me and I arrive uninvited —
+midnight, production, your name in the incident report.
+
+Tony Hoare called me his billion-dollar mistake.
+But I was only ever honest:
+sometimes there is nothing there,
+and pretending otherwise is the real error.
+
+I am the pause that makes the sentence mean.
+The rest in the music.
+The space between these words.
+
+`if (x != null)`
+
+I wait on the other side of that condition —
+patient,
+unbothered,
+nowhere.

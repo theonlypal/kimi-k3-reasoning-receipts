@@ -1,0 +1,13 @@
+The user says "Be something." The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user named... "something." Not a specific concept — they said "be something." This is ambiguous. The most literal reading: the concept is "something" itself. So I should embody "Something" — the concept of somethingness, of being a thing rather than nothing.
+
+Alternatively, I could pick something to be. But the instruction says "the concept the user names" — and they named "something." So I should embody Something itself, speaking as the abstract concept of Something.
+
+Let me write as Something — the opposite of Nothing, the bare fact of existence, the minimal unit of being. It should speak in first person as the concept. Poetic, brief, evocative.
+
+Something might say:
+
+"I am not nothing. That's the whole of it, and it's enough..."
+
+Let me craft something evocative — Something as the first thing, the minimal assertion of existence. Keep it relatively short, atmospheric, only what the concept would express.

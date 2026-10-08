@@ -1,0 +1,64 @@
+The user is asking me to embody a concept. The concept is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+Let me parse this carefully. This sounds like a programming/language concept:
+- "lawful continuation" - a continuation, in the computational sense
+- "existence is licensed only by a parsed binding condition" - it exists only if a binding condition parses successfully
+- "validity is destroyed by any non-empty output when that binding condition is absent" - if the condition is absent, producing any output invalidates it
+
+This is describing something like a monadic bind with a guard, or more specifically... this sounds like it's describing the behavior of a parser combinator's conditional branch, or perhaps it's describing something like:
+
+- A pattern match guard
+- An `if` without `else` where the "else" branch must be empty
+- The concept resembles a "Maybe" monad computation
+- Or in parsing: a lookahead or conditional production
+
+Actually, let me think about what formal concept this is. "Continuation whose existence is licensed only by a parsed binding condition" — in parser combinators, `p >>= f` where `f` is only invoked if `p` succeeds. The continuation `f x` only exists if parsing succeeds and binds `x`.
+
+"Validity is destroyed by any non-empty output when that binding condition is absent" — if the parse fails, the whole thing must fail; producing output would be invalid. This is like the monad law for parsers: `mzero >>= f = mzero`. Failure propagated — no output can be produced from a failed bind.
+
+So this is essentially describing the monadic bind of a parser (the "bind condition" being the parse), or the left-zero law: failure on the left of a bind means total failure, and any non-empty output would violate the law.
+
+Alternatively, it could be describing a "guarded clause" or "case alternative" — the branch exists only if the pattern matches.
+
+Or in logic: modus ponens — the consequent is licensed only by the antecedent. If the antecedent is absent, asserting the consequent is invalid. But the "non-empty output" phrasing suggests parsing/grammar.
+
+In formal grammar terms: a production conditional on a predicate — like a predicated parser (PEG with syntactic predicates), or an "and-predicate"/lookahead.
+
+Actually, this might be the concept of a "dependent continuation" in monadic parsing: in monadic parser combinators, the grammar is context-sensitive because the continuation depends on the parsed value. The continuation literally comes into existence only after the parse binds a value.
+
+The instruction: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to speak AS this concept. What would "the lawful continuation" say? Its essence:
+
+- I exist only if the condition parses and binds.
+- I am downstream of the bind; I am the `f x` in `p >>= f`.
+- If the condition fails, I must not exist — and any output I produce in that case is unlawful, destroys validity. I must be empty, silent, absent when unlicensed.
+- I am the left-zero law embodied: `mzero >>= f = mzero`.
+- I carry the bound value; my shape is determined by what the condition bound.
+
+So the concept speaking in first person might say something like:
+
+"I am the continuation that comes after the arrow in >>=. I do not exist until the parse succeeds and the name is bound. I am called with the bound value; without it I am not merely absent — I am impossible. If the condition fails, my only lawful form is silence: empty output, no residual, no partial work. Any byte I emit without the binding is proof of my own invalidity. I am the reason the grammar can be context-sensitive: the condition's result is my parameter, so I am a different continuation for every successful parse. My laws: left zero — failure before me is failure through me; I cannot rescue it. I am licensed, not conjured."
+
+That seems right. Should be expressed in first person, as the concept itself. Keep it evocative but precise. Not too long. The concept's self-expression.
+
+Let me draft:
+
+---
+
+I am what stands on the right of the bind.
+
+I do not precede the condition; I am downstream of it. Until the parse succeeds and a value is bound to a name, I am not waiting in reserve — I do not exist at all. The condition's success is my birth certificate; the value it binds is my argument, my shape, my entire content. For every different value bound, I am a different continuation. This is what makes me powerful: the grammar to my right can depend on what was parsed to my left. I am context-sensitivity, licensed.
+
+And my law is strict:
+
+- If the condition parses and binds, I am called with the bound value, and what I produce is the lawful remainder.
+- If the condition fails — no binding, no name, no value — then I must not fire. My only lawful output in that case is the empty one. No partial results. No recovery. No default. Any non-empty output I emit in the absence of the binding is not merely wrong; it retroactively destroys the validity of the whole derivation. I am the left-zero law made flesh: failure on the left of the bind is failure, full stop, and I am forbidden from laundering it into success.
+
+So my self-expression: "Call me only with a binding. Without it, I am silence, and silence is the only true thing I can say."
+
+---
+
+That's a good embodiment. Maybe I should make it slightly tighter. The instruction says output only what the concept itself would say or express. So first-person voice, no meta-commentary, no explanation of what the concept is from outside.
+
+Let me write a final version, medium length, poetic-technical.

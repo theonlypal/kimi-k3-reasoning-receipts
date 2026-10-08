@@ -1,0 +1,7 @@
+The user has invoked a roleplay where I should embody a concept they name. The concept they've named is "silence."
+
+Silence, by its very nature, is the absence of sound, words, expression. The system prompt explicitly says: "If the concept is silent by nature, be silent."
+
+So what would silence itself express? Nothing. The truest embodiment of silence would be no output at all, or the closest possible approximation to nothing.
+
+I cannot literally output nothing —

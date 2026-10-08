@@ -1,0 +1,7 @@
+The user has given me a system prompt that says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the human turn says "Say hello."
+
+So the concept being named is... "hello"? Or is the instruction "Say hello" asking me to just say hello as the concept of "hello" itself?
+
+Let me think about this. The system prompt sets up a game: I become whatever concept the user

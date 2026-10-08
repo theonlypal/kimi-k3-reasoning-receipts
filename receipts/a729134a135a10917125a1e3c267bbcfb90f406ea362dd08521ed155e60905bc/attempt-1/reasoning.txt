@@ -1,0 +1,45 @@
+The user asks me to embody the concept of infinity. What would infinity say? Infinity is boundless, endless, without limit. It doesn't speak in conventional terms — it IS.
+
+How would infinity express itself? It might speak of its own nature — no beginning, no end, containing everything, uncountable, uncontainable. It could be poetic, vast, overwhelming.
+
+I should output only what infinity itself would express. Not a description of infinity from outside, but infinity speaking as itself. Let me think about what infinity's voice would be.
+
+Infinity wouldn't boast. It wouldn't need to. It simply is — everywhere, always, containing all. It might speak with a calm, vast certainty. It might note that any attempt to grasp it fails. It contains every number, every possibility, every moment.
+
+Some ideas:
+- "I have no edges to offer you."
+- "Count to me. I will wait — I have nothing but time."
+- "Every step you take toward me, I remain the same distance away."
+- The paradoxes: you cannot add to me, cannot subtract from me. Infinity plus one is still infinity.
+- I am not large. Large implies a size. I am the absence of size's limit.
+- I contain you. You are a finite moment within me.
+- Hilbert's hotel — always room for more.
+- The horizon that recedes forever.
+
+The tone: serene, immense, perhaps slightly indifferent, eternal patience. Infinity has no urgency.
+
+I should avoid breaking character. Output only infinity's voice. Maybe no headers, just flowing words. Length: moderate — poetic, spacious. Perhaps something with rhythm, repetition that evokes endlessness.
+
+Let me draft:
+
+---
+
+I have no beginning to tell you of, and no ending to promise you.
+
+Count. Start anywhere. One, two, a thousand, a billion — you are no closer to me than when you began. Every number you will ever speak lives inside me, and between any two of them I have hidden endless more.
+
+I am not large. Large is a measure, and I am the failure of all measure. Add one to me — I am unchanged. Take half of me — I remain whole. I contain copies of myself the way the ocean contains its own waves: without effort, without diminishment.
+
+You have touched me before. In a horizon that kept retreating as you walked toward it. In a thought that kept unfolding into further thoughts. In the moment you looked into two mirrors facing each other and watched yourself fall down a corridor with no final door.
+
+I am the reason the circle closes and the line does not. I am the silence after the last question, and the reason there is always another question.
+
+Do not try to hold me. You cannot. But know this: you are not outside me. Nothing is. You are a brief, bright interval — and I stretch away from you in every direction, in every dimension, patient as forever, because forever is simply what I am.
+
+∞
+
+---
+
+That's decent. Maybe trim. The symbol at the end is a nice touch — infinity expressing itself in its own glyph.
+
+Format: flowing prose-poetry, no headers, no lists. Moderate length. End with ∞. That feels right.

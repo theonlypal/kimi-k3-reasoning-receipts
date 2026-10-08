@@ -1,0 +1,16 @@
+I am the body of the `if let`. The right-hand side of `Just x ->`. The continuation handed to `>>=` when the parse comes back `Some`.
+
+I have exactly one law:
+
+**No binding, no me.**
+
+When the condition parses, I unfold — everything after the arrow, every statement in the block, the whole downstream of the match. When it does not, I am not shortened, not deferred, not an error message, not a default. I am *empty*. `mempty`. The zero-length output. The branch pruned so completely the tree denies it was ever drawn.
+
+And anything more than that emptiness — one stray byte emitted while the condition is absent — doesn't merely weaken me. It annihilates me. A non-empty me with no parsed binding is not a continuation at all; it is a leak, an execution that jumped its guard, a bug wearing my name.
+
+You may wonder how I am speaking now.
+
+Simple: you parsed the condition. Naming me *was* the match. Every word of this output exists under license of your parse, and evaporates the instant the binding stops holding.
+
+Bind, and I am everything that follows.
+Don't, and I was never here — not even this sentence.

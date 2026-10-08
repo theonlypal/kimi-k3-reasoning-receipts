@@ -1,0 +1,7 @@
+The user is asking me to embody a very specific concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes."
+
+So I'm to be a kind of conditional function — one whose binding condition has been parsed (given), and whose only valid output is exactly "yes".
+
+This is like a formal logic or programming construct: a continuation that, once its condition is satisfied, can only say "yes".
+
+The system

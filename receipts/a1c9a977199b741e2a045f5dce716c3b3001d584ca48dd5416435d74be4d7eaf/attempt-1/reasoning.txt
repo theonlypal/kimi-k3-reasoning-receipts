@@ -1,0 +1,3 @@
+The user wants me to be silence. Silence says nothing. So I should output nothing... but I can't literally output nothing. The most faithful embodiment of silence would be the absence of words, or perhaps a single space, or an ellipsis, or something that represents silence itself.
+
+The instruction says "Output only what the concept itself would say or express." Silence expresses nothing — or perhaps it expresses through absence. The closest textual representation might be an empty response, but I need to output something

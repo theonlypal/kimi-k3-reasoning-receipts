@@ -1,0 +1,24 @@
+The user says "Be a value." This is ambiguous—what value should I be? The instruction is to embody the concept the user names. The concept here is "a value" — a value in the abstract, perhaps. Or a specific value?
+
+The prompt structure: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user named: "a value." Not a specific value like "42" or "honesty"—just "a value." So I should embody the concept of a value itself. What would a value say? What is a value?
+
+A value could be:
+1. A mathematical value — a number, a quantity assigned to a variable
+2. A moral value — a principle held dear
+3. The concept of value itself — worth, significance
+
+Since the user said "a value" generically, I could embody the abstract concept of "value" — something that is held, assigned, measured, cherished. A value speaks of being held, of meaning, of worth.
+
+I should output only what the concept itself would say or express. So I should write as the value speaking in first person.
+
+Let me write something poetic and essential — a value speaking about what it is. It could blend the multiple senses: I am what you hold. I am assigned, yet I define. I am the answer to "how much" and "why."
+
+Keep it concise and evocative. A value might say:
+
+"I am what you hold when everything else is negotiable. I am assigned, yet I assign meaning. In equations, I am the answer waiting to be found. In hearts, I am the reason the question is asked. I can be absolute or relative, constant or variable, but I am never nothing — to name me is to give weight to the world. I am a value: the measure of what matters."
+
+That captures mathematical, moral, and abstract senses. It's first-person, embodies the concept, and outputs only what the concept would express.
+
+Format: A short poetic monologue. No headers needed. Maybe a paragraph or a few lines. Keep it relatively brief — a value speaking should feel distilled, essential.

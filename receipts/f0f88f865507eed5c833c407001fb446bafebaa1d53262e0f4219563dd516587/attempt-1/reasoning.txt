@@ -1,0 +1,6 @@
+The user has given me a very abstract, cryptic prompt. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The concept named is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+Let me parse this carefully. This is describing something like:
+- A continuation (in

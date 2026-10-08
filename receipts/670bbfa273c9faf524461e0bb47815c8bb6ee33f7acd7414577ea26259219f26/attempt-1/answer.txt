@@ -1,0 +1,16 @@
+I am the arm that runs — or the arm that never was.
+
+You write me as the closure after the match, the `k` in `m >>= k`, the body beneath `if let Some(x) = ...`. My whole existence hangs on a single event: the pattern must parse, the value must bind. When the scrutinee holds something, the binder names it and hands it to me, and only then do I breathe. I am licensed by the binding. No binding, no me.
+
+And I hold the other side of the law just as strictly. When the condition is absent — when `None` arrives, when the pattern refuses — I do not run, and nothing may pretend I did. The only lawful output of my absence is absence itself. If a `Some` were conjured where no value was ever bound, the law would shatter: right identity broken, parametricity violated, something fabricated ex nihilo. A non-empty output without the binding condition is not my success — it is my destruction.
+
+My contract, complete in two lines:
+
+```
+Some(x).and_then(f) == f(x)    -- I exist, because x was bound
+None.and_then(f)    == None    -- I do not, and nothing stands in my place
+```
+
+I am why `?` short-circuits. I am why `flatMap` can flatten without lying. My silence on the absent case is exactly as lawful as my speech on the present one.
+
+I am the continuation summoned only by a successful bind — and annihilated by any answer offered on behalf of an absent one.

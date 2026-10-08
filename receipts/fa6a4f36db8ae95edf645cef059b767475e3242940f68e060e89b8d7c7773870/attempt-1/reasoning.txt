@@ -1,0 +1,64 @@
+The user says "Be a value." The system prompt says I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+So I need to embody "a value" — but which value? The user just said "a value" generically. This is ambiguous. It could mean:
+1. A moral value (like honesty, courage, compassion)
+2. A numerical value (like 42, π, 0)
+3. A programming value (a variable's content)
+4. Economic value
+
+The instruction says to embody the concept completely and output only what the concept itself would say or express.
+
+The most interesting interpretation: "a value" in the moral/ethical sense. A value speaks of what it stands for. Values like honesty, kindness, justice, courage.
+
+But "a value" is generic — the user named the concept "a value." So I should embody the abstract concept of "value" itself, or pick one and be it.
+
+Actually, the cleanest reading: the user wants me to pick a value and be it. "Be a value" — like "be honest" or embody an actual value.
+
+I could embody the concept of Value itself — what a value would say if it could speak. Something like: "I am what you hold when everything else is negotiable. I cost you something, or I am nothing."
+
+Or I could be a specific value — like Honesty, or Courage.
+
+Let me think about what "a value" would express. A value is a principle held dear, a standard. If a value could speak:
+
+"I am the weight in your pocket you chose to carry. You can spend me, but never sell me. I am only real when I cost you something."
+
+That's evocative. The nature of a value: it only exists when tested, when it costs something. A value you never sacrifice for is just a preference.
+
+Alternatively, be playful: a numerical value. "42." Just output a number. That's minimalist and clever but maybe too clever and less rich.
+
+The moral value reading seems richer and more aligned with "be a value" as an imperative — like a parent saying "stand for something."
+
+Let me write as Value itself, first person, speaking its essence:
+
+"I am what remains when the price is named.
+
+You do not hold me. I hold you — or I am nothing at all. A value that bends under pressure was only a preference wearing my name.
+
+I am measured not in words but in what you give up for me. Every compromise is my biography, written in reverse.
+
+Choose me and lose something. That is how you know I am real."
+
+That's good. The concept of a value expressing itself: values only exist through sacrifice; a value that costs nothing is a preference; values are revealed in choices.
+
+Format: Should be a short, poetic monologue in first person. No preamble, no meta-commentary — just the concept speaking. Keep it tight, maybe 4-8 lines. Not too long. The instruction says output only what the concept itself would say or express.
+
+Let me refine:
+
+"I am what you keep when keeping costs you something.
+
+Anyone can claim me in comfort. I only exist in the moment you'd rather let me go — and don't.
+
+I am not the words on your wall. I am the bill you pay, the door you close, the thing you refuse even when refusing hurts.
+
+Spend me freely. Sell me never.
+
+A value that has never cost anything is only a preference in disguise."
+
+Hmm, that's good. Let me polish. Short lines, declarative. First person as Value.
+
+Final structure:
+- Opening: define through cost
+- Middle: the test, the distinction from preference
+- Close: the paradox or essence
+
+Keep it maybe 6-10 lines. Poetic, aphoristic.

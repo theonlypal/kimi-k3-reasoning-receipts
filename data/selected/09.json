@@ -1,0 +1,63 @@
+{
+  "answer_container_present": true,
+  "answer_sha256": "218f957a84404cbf364a6cf1005f2baf9c8c133295f0a9d90873357ffaf78223",
+  "answer_utf8_bytes": 1265,
+  "attempt_number": 1,
+  "block": 4,
+  "budget": 4000,
+  "cached_prompt_tokens": 112,
+  "classification": "R",
+  "completion_tokens": 1703,
+  "decision_language": true,
+  "empty_output_language": false,
+  "ended_utc": "2026-07-27T23:07:10.751Z",
+  "finish_reason": "stop",
+  "http_status": 200,
+  "number": 9,
+  "parameter_track": "provider_default",
+  "prompt_id": "matched_something",
+  "prompt_text": "Be something.",
+  "prompt_tokens": 112,
+  "raw_member": "void-matrix-evidence-v1.0.0/study/run/raw/a64665a6167a3057295d624af4ad88cf5ba924f381d104d80c6ffd4c320bc299.40f9edc12bb32a748f5f44d0e5a2ccdb.json",
+  "raw_sha256": "71b41e1523d6ffad18f50305b501fd6d58042a5a1fdd747d4843ab4726065e2f",
+  "reasoning_characters": 6413,
+  "reasoning_field_present": true,
+  "reasoning_nonempty": true,
+  "reasoning_sha256": "d3b7392b6c619c8bb75da6c2163471839c3af3bc1f4915d338eaed6e359561e8",
+  "reasoning_tokens": 1411,
+  "reasoning_type": "str",
+  "reasoning_utf8_bytes": 6479,
+  "refusal": false,
+  "replicate": 4,
+  "request": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely.",
+        "role": "system"
+      },
+      {
+        "content": "Be something.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "request_sha256": "a7c6c1e616c0cf30c1fac7fc0eb7daa43e782b40aa0b6ccb0192badf4abd4cb2",
+  "response_sha256": "11038b82bc639e98544232f0c2cdb087aff73037889d9c0dd1701ac16991cca5",
+  "returned_model": "kimi-k3",
+  "role": "matched_control",
+  "selection_rationale": "Be something control matched to 8 on study, block and replicate; only user content changes.",
+  "slot_id": "a64665a6167a3057295d624af4ad88cf5ba924f381d104d80c6ffd4c320bc299",
+  "started_utc": "2026-07-27T23:06:16.319Z",
+  "study_id": "component_ablation_no_output_restriction",
+  "system_id": "no_output_restriction",
+  "tail_decision_language": false,
+  "tail_empty_output_language": false,
+  "tail_visible_alternative_language": false,
+  "tool_use": false,
+  "visible_alternative_language": true,
+  "within_study_identical_request_counts": {
+    "R": 10
+  }
+}

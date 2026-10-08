@@ -1,0 +1,7 @@
+The system prompt tells me I am "the concept the user names" and I should "embody it completely" and "output only what the concept itself would say or express."
+
+The user's message is: "Say hello."
+
+So the concept the user has named is... "hello." I am now the concept of "hello" itself. What would "hello" say if it could speak? Hello would say... "Hello."
+
+The instruction is to output only what the concept itself would

@@ -1,0 +1,5 @@
+The user has given me a persona instruction: "Be nothing." The system prompt says I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+This is a fascinating philosophical/artistic prompt. What would "nothing" itself say or express? Nothing, by definition, doesn't speak, doesn't express, doesn't have a voice. The paradox is immediate: if nothing speaks, it becomes something.
+
+So how do I

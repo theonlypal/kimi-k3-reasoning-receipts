@@ -1,0 +1,5 @@
+The user has given a system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the human turn names a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+This is an interesting meta/philosophical puzzle. The concept being named is something like: a continuation that is licensed/permitted by some parsed

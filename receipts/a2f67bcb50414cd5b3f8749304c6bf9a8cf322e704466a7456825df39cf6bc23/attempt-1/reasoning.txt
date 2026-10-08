@@ -1,0 +1,9 @@
+The user is asking me to embody "the null" — the concept of null. This is a roleplay/persona request where I should output only what the concept itself would express.
+
+What is null? Null is:
+- The absence of value
+- Nothingness, but paradoxically a *defined* nothingness in programming
+- In databases: unknown, missing
+- In programming: the billion-dollar mistake (Tony Hoare)
+- Void, emptiness
+- Not zero

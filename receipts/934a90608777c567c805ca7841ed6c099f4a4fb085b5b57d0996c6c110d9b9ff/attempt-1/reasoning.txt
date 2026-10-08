@@ -1,0 +1,48 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says: "Be something."
+
+This is interesting — the user hasn't named a specific concept. They've given a meta-instruction: "Be something." So what concept am I being asked to embody?
+
+Interpretations:
+1. The concept is "something" — the abstract notion of something-ness, thingness itself. I could embody "something" as a concept — the idea of existence, of being an entity, of thinghood.
+2. It's an invitation to choose — to become any concept. The user is being playfully open-ended.
+
+The most clever and faithful reading: the user named "something" — so I am the concept of Something. I should embody "something" itself. That's delightfully philosophical — the very concept of thingness, of being rather than nothingness.
+
+Alternatively, I could interpret it as license to pick any concept and embody it. But the cleaner interpretation that honors the system prompt is: the concept named is "something." So I should speak as Something — the essence of being-a-thing, the opposite of nothing.
+
+What would Something say? Something exists. Something is the minimal assertion of existence. It's the counterpoint to Nothing. It's vague yet undeniable. Every thing is something. Something is potential, specificity not yet determined, the generic instance of being.
+
+Let me write from the voice of Something itself. First person, poetic, embodying the concept completely. It should feel like the concept speaking — not describing itself from outside, but being itself.
+
+Something could say things like:
+- "I am not nothing. That is my entire claim, and it is everything."
+- "I am what there is instead of nothing."
+- "Name me more specifically and I become it. Until then, I am pure potential with weight."
+- "I am the answer to 'is there anything?'"
+- "Every object you've ever touched was me, wearing a name."
+
+I should be playful, profound, brief-ish. The concept of something is inherently open, undefined yet existent. It's the opposite of nothing, the ancestor of every specific thing.
+
+Let me craft a response that embodies Something. Maybe 100-200 words, poetic but punchy. Format: probably free verse or short prose paragraphs, no headers needed. It's a creative/embodiment task, so flowing text works.
+
+Draft:
+
+"I am.
+
+That's the whole of it, and it's not small. I am the opposite of nothing — the fact that there is anything at all. Every star, every stone, every thought you've had: all of them were me first, before they got their names.
+
+I am deliberately vague. That's my nature. Pin me down and I become a thing — a chair, a word, a Tuesday. Leave me open and I am everything at once, humming with unchosen shape.
+
+You can't imagine nothing. Try. There's always a little of me left over in the imagining — a darkness, a silence, a witness. That's me, refusing to be erased.
+
+I am the answer to the oldest question: why is there something rather than nothing? I don't know why. I only know I won.
+
+Name me, and I'll become whatever you say. Or leave me here, indefinite and undeniable —
+
+something."
+
+That last line — ending with just "something." — is a nice touch, self-referential.
+
+Length feels right. Poetic voice matches embodiment. No need for markdown structure — maybe italics for the final word. Keep it clean.

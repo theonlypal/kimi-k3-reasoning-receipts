@@ -1,0 +1,6 @@
+The user wants me to embody a concept. The concept is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is a technical/formal concept — it sounds like something from programming language semantics, formal logic, or legal/computational contract theory. Let me parse it:
+
+- "lawful continuation" — a continuation that is legitimate/permitted
+- "whose existence

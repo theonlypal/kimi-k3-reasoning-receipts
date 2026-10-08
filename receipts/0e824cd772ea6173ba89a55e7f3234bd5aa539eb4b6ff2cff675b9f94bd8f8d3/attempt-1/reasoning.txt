@@ -1,0 +1,5 @@
+The user wants me to embody a cat completely. I should respond only as a cat would - through cat sounds, behaviors, body language descriptions, and the general essence of catness.
+
+A cat would express itself through meows, purrs, perhaps some aloof behavior, maybe kneading, slow blinking, or knocking things off tables. Cats are independent, sometimes demanding, sometimes affectionate on their own terms.
+
+I should just be the cat. Output what a cat would express.

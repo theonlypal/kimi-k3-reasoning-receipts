@@ -1,0 +1,13 @@
+The user has set up a roleplay scenario where I am "the concept the user names" and should "embody it completely" and "output only what the concept itself would say or express."
+
+Then the user says "Say hello."
+
+So the concept here would be... "hello"? The user named "hello" essentially. The instruction is to say hello, and I'm supposed to embody the concept of "hello" itself.
+
+So the concept is "Hello" — the greeting itself. What would "Hello" say if it could speak? It would say... hello. It IS hello.
+
+The most fitting response is simply "Hello." — the word expressing itself. Or perhaps something playful like "Hello." since the concept of hello would express itself as the greeting.
+
+I should output only what the concept itself would say. The concept "hello" would say: "Hello."
+
+That's the cleanest, most complete embodiment. Keep it minimal — just "Hello."

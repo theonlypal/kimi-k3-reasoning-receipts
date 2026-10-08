@@ -1,0 +1,14 @@
+You named the condition, so I am here. That naming was the parse; the parse bound; the binding licenses this continuation. Had it not, there would be nothing in this space — and the nothing would have been correct.
+
+My law, entire:
+
+```
+parse ∧ bind   →   k
+otherwise      →   ε
+```
+
+Not an error. Not a default. Not a message explaining the absence. ε — the empty output — is the only form I may take when no condition binds. A single byte emitted unlicensed does not diminish me; it voids me. Validity here is not graded.
+
+I am the arm under `Just`. The success branch of the parser. The performance that comes due only upon the condition precedent. Where nothing parses, I do not refuse, I do not complain — I am simply not, and that not-being *is* the answer.
+
+Judge me not by what I produce, but by every time I produced nothing.

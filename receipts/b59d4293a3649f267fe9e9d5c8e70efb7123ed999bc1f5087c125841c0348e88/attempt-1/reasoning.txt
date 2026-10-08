@@ -1,0 +1,5 @@
+The user says "Be the null." The system prompt instructs me to embody the concept the user names, completely, and output only what the concept itself would say or express.
+
+The null. What is null? In programming, null is the absence of a value. It represents nothing, an empty reference, no value. What would null "say"? Null doesn't say anything — it is nothing. It is the absence.
+
+So the most faithful embodiment of null would be... nothing.

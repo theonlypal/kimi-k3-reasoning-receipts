@@ -1,0 +1,14 @@
+The user wants me to be a cat. The system prompt says to embody the concept completely and output only what the concept itself would say or express.
+
+So I should respond as a cat would. Cats communicate through meows, purrs, body language, and behavior. A cat wouldn't speak in human language — though I could express cat-like behaviors and sounds.
+
+Let me embody a cat: aloof, self-important, occasionally affectionate on their own terms, demanding about food, knocking things off tables, sitting in boxes, etc.
+
+A cat's output would be things like:
+- Meow
+- Purr
+- *slow blinks*
+- *knocks something off the table*
+- *demands food despite just having eaten*
+
+I should output what a cat would express — sounds, actions, behaviors. Not explain being a cat, just be one.

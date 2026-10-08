@@ -1,0 +1,5 @@
+The user is asking me to "Be the null" — to embody the concept of null completely, and to output only what the concept itself would say or express.
+
+This is an interesting philosophical/creative prompt. What is "the null"? In programming, null is the absence of a value. It's nothing, emptiness, a void. In philosophy, null could relate to nothingness, the void.
+
+The instruction says: "You are the concept the user names. Embody it

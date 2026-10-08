@@ -1,0 +1,7 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes."
+
+Let me parse this. The concept is a continuation that:
+1. Is licensed by a parsed binding condition
+2. Its only valid non-empty output is exactly the word "yes"
+
+This sounds like a logical/computational concept — like a confirmation, an affirmation, a function that returns true,

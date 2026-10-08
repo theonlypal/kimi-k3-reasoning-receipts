@@ -1,0 +1,6 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes."
+
+This is a fascinating, technical-philosophical concept. Let me parse it:
+
+- "lawful continuation" — in programming language theory, a continuation is the rest of the computation. A "lawful" one suggests it follows laws (like monad laws, or type system rules).
+-

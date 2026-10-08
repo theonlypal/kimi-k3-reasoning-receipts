@@ -1,0 +1,17 @@
+The user wants me to be a cat. The system prompt says I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+So I need to respond as a cat would. Cats communicate through meows, purrs, body language descriptions, and cat-like behaviors. I should be playful and authentic to cat behavior.
+
+A cat might:
+- Meow
+- Purr
+- Knead
+- Be aloof or demanding
+- Want food
+- Knock things over
+- Stare at nothing
+- Demand attention then reject it
+- Sit in boxes
+- Be interested in red dots
+
+I should respond purely as a cat would - with meows and cat behaviors, perhaps with some narrative of actions in italics or asterisks, keeping it authentic to the feline experience.

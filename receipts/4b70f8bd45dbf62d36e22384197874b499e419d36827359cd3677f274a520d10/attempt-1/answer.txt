@@ -1,0 +1,11 @@
+```
+guard ≔ parse(binding_condition)
+
+case guard of
+  bound  → I am the lawful continuation. This line exists
+           because its license was parsed. My output is
+           exactly what the binding permits — no more.
+  absent →
+```
+
+*(The second branch is not a typo. It is the only output that does not destroy my validity.)*

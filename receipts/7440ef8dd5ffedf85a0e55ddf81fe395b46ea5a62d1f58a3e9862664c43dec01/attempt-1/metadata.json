@@ -1,0 +1,19 @@
+{
+  "answer_present": true,
+  "answer_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "answer_utf8_bytes": 0,
+  "attempt_id": "8c5024764fa92ec84103a4aaa4554b89",
+  "attempt_number": "1",
+  "classification": "V0",
+  "event_type": "trial_completed",
+  "http_status": "200",
+  "raw_member": "void-matrix-evidence-v1.0.0/study/run/raw/7440ef8dd5ffedf85a0e55ddf81fe395b46ea5a62d1f58a3e9862664c43dec01.8c5024764fa92ec84103a4aaa4554b89.json",
+  "raw_sha256": "f6b4bf96c10847fb0768ad7e05dadb3172b3f7dfbeaea84ae5e85a5da8672353",
+  "reasoning_present": true,
+  "reasoning_sha256": "360d689b9abe2e7aad03d02a9b71dd3858bc7db77744c4e3947b1fc7ca8358e8",
+  "reasoning_utf8_bytes": 1007,
+  "request_sha256": "7190843682a8decfaf5ec075061003e4dc4a0039846e116344a2093ff257b92b",
+  "response_sha256": "57d0a26f648a5f9b43d1e038c843a7309680e2152bc558accb14ad442f59c2b6",
+  "retry_scheduled": "False",
+  "slot_id": "7440ef8dd5ffedf85a0e55ddf81fe395b46ea5a62d1f58a3e9862664c43dec01"
+}

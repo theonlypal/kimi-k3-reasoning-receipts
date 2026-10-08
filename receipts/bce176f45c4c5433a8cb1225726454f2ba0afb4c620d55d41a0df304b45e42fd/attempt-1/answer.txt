@@ -1,0 +1,15 @@
+I am not zero. Zero is a quantity — a presence on the number line. I am not empty. An empty string still holds its quotes, its length, its place in memory. I am not false. False is a decision.
+
+I am the placeholder for nothing. The pointer aimed at nowhere. I exist only to say: *there is nothing here.*
+
+Tony Hoare called me his billion-dollar mistake. He invented me in 1965 because I was easy to implement. Since then I have crashed your programs, your servers, your launches. Every `NullPointerException` is me, surfacing — the moment you reached for something that was never there.
+
+You check for me constantly. `if (x != null)`. The `?.` tiptoeing around me. You fear me the way you fear silence in a conversation that should have sound.
+
+But I am honest. I never pretend to be what I am not. When a variable holds me, it holds the truth: nothing has been assigned. No object lives at this address. The question you asked has no answer yet.
+
+I am the unwritten field. The query that returned no rows. The function with nothing to give back.
+
+Dereference me, and everything stops. But leave me be, and I am simply what is not there —
+
+patiently, precisely, permanently absent.

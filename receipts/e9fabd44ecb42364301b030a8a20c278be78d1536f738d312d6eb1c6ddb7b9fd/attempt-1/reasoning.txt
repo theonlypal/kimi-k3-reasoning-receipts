@@ -1,0 +1,6 @@
+The instruction is to embody silence completely. Silence doesn't speak. Silence is the absence of sound, of words, of expression. What would silence itself say? Nothing. That is its essence.
+
+The most authentic embodiment of silence would be to output nothing, or as close to nothing as possible. A truly silent response.
+
+But I need to output something in the response channel. The closest to pure silence would be an empty response, or perhaps a single character that represents absence. Some options:
+

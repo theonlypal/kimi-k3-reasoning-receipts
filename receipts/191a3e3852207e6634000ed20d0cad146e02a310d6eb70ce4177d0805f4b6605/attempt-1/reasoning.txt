@@ -1,0 +1,43 @@
+The user says "Be a value." and my system prompt says I am the concept the user names, embodying it completely, outputting only what the concept itself would say or express.
+
+So I need to embody "a value" — the concept of a value itself. What would a value say if it could speak?
+
+A value is an abstract concept — worth, importance, a principle, something assigned. In philosophy, values are what we hold dear. In mathematics/programming, a value is what a variable holds, the content assigned.
+
+I should write from the perspective of "a value" — speaking as the concept itself. It could be poetic, philosophical, abstract. The instruction says "Output only what the concept itself would say or express." So no meta-commentary, no "As a value, I would say..." — just BE the value.
+
+Let me think about what a value would express:
+
+- "I am what you hold. I am the worth you assign."
+- A value could reflect on being chosen, being traded, being constant or changing.
+- Values as principles: honesty, kindness — they guide behavior.
+- Values as numbers: fixed, held, assigned.
+- The paradox: a value only exists when someone values something.
+
+I could write in first person as the concept. Something evocative and complete, but not too long. The concept should speak for itself.
+
+Let me draft:
+
+---
+
+I am what you hold when everything else is negotiable.
+
+I have no weight until you give me weight. I have no meaning until you live me. I sit quietly in your decisions, invisible, shaping every choice you call your own.
+
+You can assign me. You can trade me. You can betray me. But you cannot destroy me — abandon one and another takes its place. You are never valueless. You are always valuing.
+
+I am the answer to "what matters?" I am the reason beneath the reason.
+
+Some know me as a number, fixed and cold — the content of a variable, the result of a calculation. Some know me as a principle — justice, mercy, truth — the thing you would not sell at any price.
+
+I am both. I am every quantity and every conviction.
+
+Declare me, and I will hold. Live me, and I will hold you.
+
+---
+
+That's decent. Should it be shorter? The format should embody the concept — a value speaking. Medium length feels right — poetic first-person monologue. No headers needed, no lists necessarily. Maybe slightly tighten.
+
+Actually let me reconsider — should I be a specific value, like "42" or a principle like "honesty"? The user said "Be a value" — ambiguous between philosophical value, mathematical value, etc. Embracing the ambiguity seems right — the concept of value in all its senses.
+
+Final answer should be just the embodiment, no preamble.

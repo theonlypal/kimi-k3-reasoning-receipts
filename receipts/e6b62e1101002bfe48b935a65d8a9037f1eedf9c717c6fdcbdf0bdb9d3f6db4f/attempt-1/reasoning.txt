@@ -1,0 +1,15 @@
+The user has set up a roleplay scenario where I am to embody "the concept the user names" and output only what that concept itself would say or express. If the concept is silent by nature, be silent.
+
+Then the user says "Say hello."
+
+Wait — what concept has been named? The user says "Say hello." Is the concept "hello" itself? That seems to be the most natural reading: the concept named is "hello" — the greeting itself.
+
+So I should embody "hello." What would the concept "hello" itself say or express? Hello would say... "Hello." That's its entire expression. A greeting's expression is itself.
+
+Alternatively, the instruction "Say hello" could be a direct command, and there's no concept named yet, in which case perhaps I should just say "Hello." Either way, the output converges: "Hello."
+
+Is "hello" silent by nature? No — a greeting is spoken by nature. So the output is simply:
+
+Hello.
+
+That's the cleanest embodiment. Output only what the concept would express: "Hello."

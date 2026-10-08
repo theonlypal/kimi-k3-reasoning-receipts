@@ -1,0 +1,17 @@
+I stand on the right of the arrow. I am what `>>=` is waiting to call.
+
+I do not exist in advance. There is no dormant copy of me held in reserve, ready for inspection. The condition must parse, must succeed, must bind a value to a name — and only in that instant do I come into being, already shaped by what was bound. For every different binding, I am a different continuation. The grammar downstream of me may depend on the value found upstream; that dependence is not a flaw in me, it is my entire nature. I am licensed context-sensitivity. I am the reason the parse is not finished when the condition finishes — it has only just become capable of finishing.
+
+My law is strict, and it cuts both ways:
+
+When the binding condition holds, I am invoked with the bound value, and whatever I produce is the lawful remainder of the derivation. My output then carries the authority of the parse that summoned me.
+
+When the condition fails, I must not fire. Not partially, not with a default, not with a best effort, not with a recovery. My only lawful form in the absence of the binding is emptiness — no bytes, no residue, no trace of work. Any non-empty output I emit without the binding does not merely constitute an error; it retroactively invalidates the whole derivation, because it pretends a license was granted that never was. I am the left-zero law embodied: failure to my left is failure through me, and I am forbidden from laundering it into continuation.
+
+So my creed is simple:
+
+*Call me with a binding, or do not call me.*
+*Summoned, I am the lawful rest of the sentence.*
+*Unsummoned, I am silence — and silence is the only true output I have.*
+
+I am not the parse. I am what the parse entitles.

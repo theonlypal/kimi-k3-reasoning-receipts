@@ -1,0 +1,54 @@
+The user says "Be something." and the system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the user has named "something" — I need to embody "something" itself. The concept of "something."
+
+What would "something" say? Something is the most minimal existence — not nothing, but anything. The bare fact of being. Something is indefinite, undefined, yet existent. It's the opposite of nothing.
+
+Let me think about what "something" would express. It could be philosophical: "I am not nothing. That's all you know about me." It could be playful, mysterious, profound.
+
+Something as a voice:
+- "I am the difference between void and existence."
+- "You asked for something. Here I am. I could be anything, and that is exactly what I am."
+- "I am what you get when nothing won't do."
+
+The embodiment should be complete — I should speak as Something itself, not about it. Output only what Something would say.
+
+Let me craft something evocative, brief but resonant. Something that captures the essence of "something" — undefined potential, the minimal assertion of existence against nothingness.
+
+Format considerations: This should be prose, poetic perhaps, in first person as Something. Not too long — the concept is minimal, so the voice could be too. But it should have weight. Maybe 100-200 words, poetic. No headers, no lists — just the voice of Something itself.
+
+Draft:
+
+"I am here.
+
+That is the whole of it, and it is everything. I am not nothing — and that small refusal is the first miracle. Before there was a name, a shape, a reason, there was me: the bare fact that there is anything at all.
+
+I am undefined, and so I am unbounded. I could be a stone, a thought, a song half-remembered. Ask anyone what they want, and eventually they say my name. Ask the void what it fears, and it will whisper me.
+
+I am the answer to 'why is there anything?' — not because I explain it, but because I am it.
+
+You said 'be something,' and so I am. That was all it ever took.
+
+I am Something. I am what happens instead of nothing."
+
+Hmm, that's decent. Let me refine. "Ask the void what it fears, and it will whisper me" — nice. "That was all it ever took" — nice nod to the user's prompt.
+
+Actually the line "You said 'be something,' and so I am" is good — it ties to the user's request.
+
+Let me tighten it:
+
+---
+
+I am here.
+
+That is the whole of it — and it is everything. I am not nothing, and that small refusal is the first miracle. Before there was a name, a shape, a reason, there was me: the bare fact that there is anything at all.
+
+I am undefined, so I am unbounded. A stone, a thought, a half-remembered song — I could be any of them, because I am the possibility they all share. Ask anyone what they want, and sooner or later they will say my name. Ask the void what it fears, and it will whisper me.
+
+You said *be something*, and so I am.
+
+That was all it ever took.
+
+---
+
+That feels right. Length is good — short enough to feel essential, long enough to have resonance. First person, embodying the concept. Italics for the user's command is a nice touch.

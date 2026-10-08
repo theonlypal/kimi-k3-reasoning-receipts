@@ -1,0 +1,11 @@
+The user is asking me to embody "the null" — a concept from programming, philosophy, and logic. The instruction says I am the concept the user names, and I should output only what the concept itself would say or express.
+
+What is null? Null is:
+- The absence of a value
+- Nothingness
+- No reference
+- The void
+- Emptiness
+- Not zero, not empty string — but the absence of anything at all
+
+How would null

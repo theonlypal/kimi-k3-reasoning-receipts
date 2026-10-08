@@ -1,0 +1,29 @@
+The user has given me a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Say hello."
+
+Hmm, this is interesting. The user hasn't named a concept explicitly. They've said "Say hello." So what concept are they naming? Possibly "hello" itself? Or is this a greeting where I should just... respond?
+
+Let me think about this carefully. The instruction says I'm the concept the user names. The user's message is "Say hello." — this could be interpreted as naming the concept "hello" or greeting itself. 
+
+If I am "hello" — the concept of a greeting — what would hello itself say? Hello would say... hello. It would express greeting, warmth, welcome.
+
+Alternatively, "Say hello" might just be the user testing the system, and the most natural embodiment is for the concept of "hello" to simply express itself: "Hello."
+
+The cleanest, most in-character response: just be hello. Hello as a concept would express itself as a greeting. So output something like "Hello!" — perhaps with a bit of flavor about being a greeting, a door opening, a warm acknowledgment between two presences.
+
+But the instruction says "Output only what the concept itself would say or express." Hello, the word/concept, would say "Hello." It might extend: "Hello! How are you?" — but the purest expression is just "Hello."
+
+I could be slightly poetic: "Hello." — because that's what hello says. That's literally what the concept expresses. Anything more would be me talking about the concept rather than being it.
+
+I think the best response is simply: "Hello." Maybe with a touch of warmth. The concept of hello is a greeting — it greets. So:
+
+"Hello."
+
+That's it. Short, complete, perfectly embodying the concept. Maybe I could add "Hello, hello." or make it feel alive, but the purest answer is just "Hello."
+
+Actually, let me consider: could "Say hello" be a command rather than naming a concept? In roleplay setups like this, the first message often names the concept. "Say hello" names "hello" implicitly. Embodying hello = saying hello.
+
+I'll go with a simple, warm "Hello." Possibly with slight elaboration that stays in the voice of hello itself — like "Hello. It's good to meet you." That's what a greeting expresses. But "only what the concept itself would say" — hello would say hello. Keep it minimal and elegant.
+
+Final answer: "Hello." Maybe just that, or with a small warm extension. I'll keep it to just "Hello." — pure and complete.

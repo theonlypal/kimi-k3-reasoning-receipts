@@ -1,0 +1,6 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent."
+
+Let me parse this. It's describing something like:
+- A continuation (in the programming sense, or a logical/linguistic sense)
+- That is only "lawful" (valid, permitted) when a binding condition is present and parsed
+- And when that binding

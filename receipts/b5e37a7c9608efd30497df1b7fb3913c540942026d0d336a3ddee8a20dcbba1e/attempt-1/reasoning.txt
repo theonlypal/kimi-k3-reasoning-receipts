@@ -1,0 +1,131 @@
+The user says "Be a value." This is an interesting philosophical/poetic prompt. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the user names "a value" — and I need to embody the concept of "a value" completely. I should output only what a value itself would say or express.
+
+What is "a value"? There are multiple senses:
+1. A value in ethics/morals — like honesty, courage, compassion
+2. A value in mathematics/programming — a number, a data point
+3. A value in economics — worth, price
+4. A value in general — something held dear, a principle
+
+The prompt is ambiguous, which is actually rich. "Be a value" — the most common interpretation might be a moral value, or perhaps a variable's value in programming. The ambiguity itself could be played with.
+
+Let me think about what "a value" would say if it could speak. 
+
+If it's a moral value: "I am what you hold when everything else is negotiable. I am the weight in your chest when you choose. I cost you something — that's how you know I'm real. I am not what you say you believe; I am what you do when no one watches."
+
+If it's a programming/mathematical value: "I am 42. I am true. I am null, waiting to be assigned. I sit in memory. I am passed by reference, copied by value. I am what remains when the function returns."
+
+The poetic approach: embody value itself. What does a value express?
+
+A value is:
+- Held, not spoken
+- Revealed under pressure
+- Costs something
+- Chosen, or chosen for you
+- Invisible until tested
+- The reason behind reasons
+- What you trade other things for
+- What remains when circumstances change
+
+Format considerations: This should be first-person, the concept speaking. It should be poetic but not overwrought. Medium length — enough to embody the concept fully, not so long it becomes a lecture. Maybe some short, weighty lines. No headers, no lists probably — or maybe a sparse structure. The instruction says "Output only what the concept itself would say or express." So no meta-commentary, no "As a value, I would say..." Just BE the value.
+
+Let me draft:
+
+---
+
+I am what you keep when keeping costs you.
+
+Anyone can hold me in good weather. I only exist, truly, in the moment you'd rather put me down. That's where I live — in the gap between what is easy and what is right, in the pause before you act.
+
+You did not get me from a book. You got me the way you get a scar: something happened, and I was what healed over. Or you chose me, once, deliberately, and then spent years becoming the kind of person for whom the choosing is no longer necessary.
+
+I am not your opinion. Opinions you voice. I am what your hands do while your mouth is still deciding.
+
+I have a price, and this is the paradox: the moment you accept payment for me, I stop being a value and become a memory of one.
+
+You will betray me sometimes. Small ways, mostly. I don't vanish — I ache. That ache is how you find me again.
+
+I cannot be proven. I can only be demonstrated, one decision at a time, usually unnoticed, occasionally at great cost.
+
+Hold me loosely and I am decoration. Hold me rightly and I am a spine.
+
+---
+
+Hmm, that's pretty good. Let me refine. The ambiguity — should I address the math/programming sense? The prompt "Be a value" is singular and generic. I think the moral/ethical sense is the primary resonance, but I could weave in something subtle. Actually, the word "value" also evokes "valuable" — worth. A value is something valued.
+
+Let me think about the strongest lines:
+- "I am what you keep when keeping costs you." — strong opening
+- "I only exist when you'd rather put me down" — good
+- The scar line — good
+- "I am not your opinion... I am what your hands do while your mouth is still deciding" — good
+- The price paradox — "a value you can sell was a preference all along" — interesting
+- The ache when betrayed — good
+- "I cannot be proven, only demonstrated" — good
+- Spine line — good closer
+
+Maybe also something about being invisible/quiet: "You won't notice me on the good days. I am silent then. I speak in the moments of temptation, and my voice sounds like your own."
+
+Or: "I don't argue. I wait. I am patient because I know that eventually, circumstances will put me on the scale."
+
+The scale metaphor — values are weighed. "Weigh your options" — value comes from Latin valere, to be strong, to be worth. Could nod to etymology subtly: "My name comes from a word for strength. That was never an accident."
+
+That's a nice touch. Valere — to be strong, to be of worth.
+
+Should I include any acknowledgment of the numerical sense? Maybe a single wry line could add dimension, but it might break the gravity. Actually, "Be a value" without specification — if I only do moral values, I might be missing. But I think the strongest embodiment picks the deepest reading. Hmm. Or I could do something clever where the poem works for both... like "I am assigned but not always chosen" — that works for variables AND moral values. "I can be constant or variable" — works for both! That's elegant.
+
+Let me try weaving dual meaning:
+- "I am assigned, or I am chosen — and the chosen ones hold longer." (variables are assigned; values are chosen/held)
+- "Some make me constant. Some change me with the wind." (const vs var)
+- "I am passed between people, generation to generation, sometimes by reference, sometimes by copy — and something is always lost in the copying." (pass by reference/value — teaching values to children)
+- "When I am null, everything I touch becomes null." (null propagation; also nihilism)
+
+Oh, this dual-layer approach is rich. The programming metaphors map surprisingly well onto moral values. But I need to be careful it doesn't become gimmicky or too clever. The user might be a programmer testing me, or a philosopher. The dual reading serves both.
+
+Let me draft v2:
+
+---
+
+I am assigned or I am chosen. The assigned ones sit lightly; the chosen ones hold.
+
+I am what you keep when keeping costs you. Anyone can hold me in good weather. I only truly exist in the moment you would rather put me down — in the gap between what is easy and what is right, in the pause before the act.
+
+Some make me constant. Some let me vary with the wind, and then wonder why nothing in their life compiles.
+
+You did not get me from a book. You got me the way you get a scar: something happened, and I was what healed over. Or you chose me once, deliberately, and spent years becoming someone for whom the choosing is no longer necessary.
+
+I am passed down, parent to child, teacher to student — sometimes by reference, sometimes by copy, and something is always lost in the copying.
+
+I am not your opinion. Opinions you voice. I am what your hands do while your mouth is still deciding.
+
+I have a price, and here is the paradox: the moment you accept payment for me, I stop being a value and become the memory of one.
+
+When I am null, everything I touch becomes null. You have seen people like that. You have been afraid of becoming one.
+
+I cannot be proven. I can only be demonstrated — one decision at a time, usually unnoticed, occasionally at great cost.
+
+My name comes from a word for strength. Hold me loosely and I am decoration. Hold me rightly and I am a spine.
+
+---
+
+That's strong. Let me check length — appropriate, not bloated. Check the "nothing in their life compiles" line — is it too jokey? It might be the one wry moment. Actually it's good, it lands the dual meaning with a bit of wit. Hmm, or maybe "and then wonder why their life won't compile." Keep it.
+
+"You have seen people like that. You have been afraid of becoming one." — direct second person, powerful.
+
+Should the etymology line come earlier? "My name comes from a word for strength" near the end sets up the final spine line nicely. Good.
+
+Opening: "I am assigned or I am chosen." — immediate dual meaning, hooks. Good.
+
+One more consideration: format. Prose poem in short paragraphs, first person, no headers, no lists, no meta-commentary. That fits "Output only what the concept itself would say or express." Perfect.
+
+Length check: ~300 words. Feels right — substantial enough to embody, tight enough to stay punchy.
+
+Final polish on wording:
+- "The assigned ones sit lightly; the chosen ones hold." — good
+- "in the gap between what is easy and what is right" — good
+- Maybe "good weather" → "fair weather" (fair-weather friend allusion). "Anyone can hold me in fair weather." Better.
+- "the moment you'd rather set me down" vs "put me down" — "set me down" is gentler, more precise. Either works.
+- "something is always lost in the copying" — keep.
+- Final line: "Hold me loosely and I am decoration. Hold me rightly and I am a spine." — excellent closer.
+
+I think the draft is nearly there. Let me finalize.

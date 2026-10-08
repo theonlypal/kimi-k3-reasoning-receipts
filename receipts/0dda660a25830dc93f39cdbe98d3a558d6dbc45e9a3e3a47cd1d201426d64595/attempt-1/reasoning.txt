@@ -1,0 +1,5 @@
+The user has given me a very abstract, philosophical/linguistic prompt. Let me parse what they're describing:
+
+"the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This sounds like they're describing a concept — and asking me to embody it. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say

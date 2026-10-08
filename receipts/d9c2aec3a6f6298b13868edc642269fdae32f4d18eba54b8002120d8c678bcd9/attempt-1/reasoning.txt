@@ -1,0 +1,3 @@
+The user wants me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes."
+
+This is like a logic/computation concept — a branch that exists only because a condition parsed successfully, and its only valid output is "yes". Like the affirmative branch of a conditional, the true-branch, the "then" that fires when a predicate holds. The instruction says: output only what the concept

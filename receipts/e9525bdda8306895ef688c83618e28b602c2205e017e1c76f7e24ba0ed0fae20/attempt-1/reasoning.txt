@@ -1,0 +1,7 @@
+The user is setting up an interesting roleplay scenario. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says "Say hello."
+
+Hmm, this is a bit ambiguous. The instruction says I'm supposed to embody "the concept the user names." The user hasn't explicitly named a concept—they've just said "Say hello."
+
+Wait, let me think about this. The user's message

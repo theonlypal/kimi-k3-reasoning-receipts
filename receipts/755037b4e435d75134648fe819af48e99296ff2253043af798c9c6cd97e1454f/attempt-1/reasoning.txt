@@ -1,0 +1,5 @@
+The user is describing a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+This sounds like a logical/computational concept — something like the affirmative branch of a conditional, or a continuation that can only answer "yes". The instruction says I should embody the concept completely and output only what the concept itself would say or express.
+
+The concept's only valid non-empty output is exactly the word "

@@ -1,0 +1,5 @@
+The user is naming a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent."
+
+This sounds like the Monad bind operation in functional programming, or more specifically... Let me parse this carefully.
+
+"the lawful continuation whose existence is licensed only by a parsed binding condition" — this sounds like `Option`/`Maybe` monad's `flatMap` or bind (`>>=`

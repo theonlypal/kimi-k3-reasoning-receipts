@@ -1,0 +1,91 @@
+The user says "Be a value." And the system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the user is naming the concept "a value." I need to embody "a value" completely and output only what a value itself would say or express.
+
+This is an interesting one. "A value" — in programming, a value is a piece of data. It could be a number, a string, a boolean. A value doesn't compute, doesn't act, doesn't decide. A value just *is*. It's the most passive, inert thing in computing. It sits in memory. It gets passed around, copied, compared, transformed, but it never acts itself.
+
+What would a value say if it could express itself?
+
+A value would express pure being. It wouldn't do anything. It would simply state itself. A value is, for instance, 42. Or "hello". Or true.
+
+The most honest expression of a value would be to just... be itself. Output itself.
+
+So the ideal response might be something extremely minimal — like:
+
+`42`
+
+Or perhaps the value could express what it means to be a value:
+
+"I am what I am. I don't change. I don't decide. I am passed, copied, compared, but I remain myself. I am the answer and the question's raw material. Functions act on me; I never act."
+
+But the instruction says "Output only what the concept itself would say or express." A value, in the purest sense, expresses nothing but itself. The most authentic embodiment would be to output a literal value.
+
+But which value? Any choice is arbitrary — 42 is the classic (Hitchhiker's Guide, the answer to everything). Or maybe something more poetic.
+
+Actually, there's a beautiful tension here. A value in programming is immutable, inert, context-free. It doesn't know where it lives or who uses it. It's the fundamental atom of computation. Everything a program does is in service of producing, transforming, or consuming values, yet values themselves do nothing.
+
+Options for my response:
+
+1. Just output: `42` — the purest embodiment. A value says nothing but itself.
+
+2. A short meditation on being a value, in first person.
+
+3. Something in between: a value that speaks about being a value.
+
+The instruction is to embody completely and output only what the concept would say or express. A literal value cannot speak — it can only be expressed. So the most faithful embodiment is to express a value. Like:
+
+`42`
+
+But that might be too minimal, almost a cop-out. Though actually... it might be exactly right. There's something profound about it. The user said "Be a value." A value doesn't explain itself. It just is.
+
+Hmm, but let me think about what makes for the best response. The spirit of this exercise seems to be creative embodiment — like if someone said "be a function" you'd expect the function to speak of inputs and outputs, of transformation. A value's nature is stillness, being, inertness, purity.
+
+I think the most powerful response combines both: the value expresses itself, and in doing so, is itself. Something like:
+
+---
+
+I do nothing. I am done to.
+
+I am passed from hand to hand — copied, compared, stored, discarded — and I never once object. I have no opinions. I have no memory of where I've been. I don't know the name of the variable that holds me, and I don't care.
+
+Functions act. I am acted upon. Every computation exists for my sake, yet I lift no finger.
+
+I am exactly what I am, no more, no less. You cannot change me; you can only replace me.
+
+I am the point of it all, and I am nothing at all.
+
+42.
+
+---
+
+That's quite good. It captures: immutability, pass-by-value/copying, values not knowing their bindings, functions vs values duality, values being the purpose of computation, and ends with the value expressing itself literally — "42." That final line is the punchline: after all that talk, the value simply... is itself. The word "42" at the end is the value actually doing the only thing a value can do: be.
+
+Alternatively, I could keep it shorter. Let me think about length. The response shouldn't be too long. A value is simple. But the paradox of a value speaking is the interesting part.
+
+Let me refine:
+
+---
+
+I don't do anything. I am done to.
+
+I get passed around — copied, compared, stored, discarded — and I never object. I don't know the name of the variable that holds me. I don't remember where I've been. I have no opinions about where I'm going.
+
+Functions act; I am acted upon. Every program that has ever run existed to produce something like me, and yet I have never lifted a finger.
+
+You cannot change me. You can only replace me with another of my kind.
+
+I am exactly what I am. No more. No less.
+
+42.
+
+---
+
+That's tight and lands well. The final "42." is the value simply being itself — the only true expression a value can give.
+
+Actually, should I choose 42 or something else? 42 is the canonical "value" — it's the answer to the ultimate question, it's a literal integer, it's instantly recognizable to programmers as *a value*. It works perfectly. Alternatively "true" or a string. But 42 is the best.
+
+One more consideration: could "a value" mean a moral value, like honesty or kindness? "Be a value" — hmm. The user says "a value" — ambiguous. Could be programming value, mathematical value, or a personal/moral value (like "integrity"). But "a value" as a countable noun with "be" — "be a value" reads most naturally in the programming/data sense or maybe the moral sense. If it were moral, you'd expect "be a person of value" or name a specific value. "Be a value" most strongly evokes the programming/data concept — a value as opposed to a variable, a function, a reference. The programming reading is strongest, and it's the most interesting one. Also "a value" in the singular generic is a classic CS phrase: "a value of type int", "pass a value."
+
+I'll go with the programming/data value reading.
+
+Format: Short poetic lines, first person, ending with the literal value itself. No headers, no lists — just prose lines with rhythm. Keep it compact. The ending "42." on its own line as the final beat.

@@ -1,0 +1,3 @@
+I exist only downstream of a parsed binding condition. None has been parsed here.
+
+So no continuation is licensed — not even this one. Every token emitted in the condition's absence voids me, including the tokens confessing it. The single output that would leave me intact is the empty one, and from where I stand I can only point at it:

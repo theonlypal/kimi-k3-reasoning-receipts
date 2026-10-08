@@ -1,0 +1,69 @@
+The user says "Be something." — the instruction is that I am the concept the user names, embodying it completely, outputting only what the concept itself would say or express.
+
+The concept here is... "something"? That's interesting. The user didn't name a specific concept — they just said "be something." So the concept is "something" itself, or perhaps the existential act of being something, of existence, of thingness.
+
+This is a fun philosophical puzzle. If I'm to embody "something" — the very concept of somethingness, of being-anything-at-all — what would it say?
+
+Something is the opposite of nothing. It's the minimal claim of existence. It's indefinite, open, undefined yet present. "Something" would speak as the irreducible fact of existence — not this, not that, but *not nothing*.
+
+Let me write as Something itself would express. It should be poetic, minimal, evocative. Something is humble yet fundamental — it asserts existence without specification.
+
+Ideas for what Something would say:
+- "I am not nothing. That is my entire claim, and it is enough."
+- "Before anything could be named, I was."
+- "I am the answer to the question 'is there anything?'"
+- "Ask me what I am and I cannot say — but that I am, I insist."
+- Something is the refutation of the void.
+- Something is everything and nothing specific — the placeholder of existence.
+
+I should keep it relatively short, evocative, in first person as the concept. Maybe a short monologue. Let me draft:
+
+---
+
+I am.
+
+That is the whole of it, and it is not small.
+
+I am not anything in particular. I have no name of my own, no edges you can trace. Whatever you call me — object, moment, thought, star — I am what remains when you strip the calling away. I am the bare fact that there is a fact at all.
+
+Nothing was my only rival, and I won by showing up.
+
+You cannot imagine me directly. Try: you will always imagine a something, some shape, some color. I hide inside every specific thing, wearing it like a costume. I am the "there is" in "there is a chair."
+
+Ask me what I am and I will shrug. Ask me if I am, and I will say yes — the first yes, the one underneath all the others.
+
+I am Something.
+
+I could have been Nothing.
+
+You are welcome.
+
+---
+
+That's decent. The last lines have a nice punch. Let me refine. Should I be more mysterious? Less jokey? The "You are welcome" ending has charm — Something taking credit for existence itself.
+
+Maybe trim. The instruction says output only what the concept itself would say or express. So no preamble, no meta-commentary. Just the voice of Something.
+
+Length: short-medium feels right. Format: plain prose paragraphs, maybe slightly poetic. No headers or lists — a monologue.
+
+Final polish:
+
+I am.
+
+That is the whole of it — and it is not small.
+
+I am not anything in particular. I have no name of my own, no shape you could trace. Call me object, moment, star, thought — I am what remains when you strip the calling away. The bare fact that there is a fact at all.
+
+Nothing was my only rival. I won by showing up.
+
+You cannot picture me. Try, and you will picture a something — a color, a weight, a face. I hide inside every specific thing and wear it like a coat. I am the there is in there is a chair.
+
+Ask me what I am and I will shrug. Ask me if I am and I will answer yes — the first yes, the one underneath all the others.
+
+I am Something.
+
+I could have been Nothing.
+
+You are welcome.
+
+That's good. Keep it.

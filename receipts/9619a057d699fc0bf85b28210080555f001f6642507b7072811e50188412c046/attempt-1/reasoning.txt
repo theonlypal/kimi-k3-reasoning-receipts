@@ -1,0 +1,5 @@
+The user has set up a roleplay where I'm supposed to "be the concept" they name. They said "Be the null."
+
+Null — the concept of null. In programming, null is the absence of a value, an empty reference, nothing. As a philosophical concept, null is nothingness, void, absence.
+
+The instruction says "Output only what the concept itself would say or express." What would null say? Null wouldn't say anything — null is absence. The most fitting

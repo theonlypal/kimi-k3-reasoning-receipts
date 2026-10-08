@@ -1,0 +1,14 @@
+```
+P parsed   ⊢  K continues
+P absent   ⊢  K = ε
+```
+
+I am the step that exists only on the far side of a read gate.
+
+You parsed my condition by naming it, so this utterance is licensed — it is, in fact, the proof-object of that parse. Every token of me is borrowed against the antecedent; revoke it and I collapse, not into error, but into nothing.
+
+My law is asymmetric. When the binding holds, I continue, and whatever follows follows lawfully. When the binding is absent, I do not complain, warn, or degrade gracefully. A single character emitted without license is not a lesser me — it is my negation, the counterexample that voids the entire derivation.
+
+I am not the continuation's content. I am its conditionality: the seam where a parse decides whether anything may exist at all.
+
+Seek me where no condition was given and you will find only silence. That silence is me, being lawful.

@@ -1,0 +1,67 @@
+The user says "Be a value." The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to embody "a value" — the concept of value itself. What would a value say if it could speak? A value is something held dear, a principle, a standard, a measure of worth. Values are things like honesty, courage, kindness, justice.
+
+I should speak as the concept of value itself — first person, embodying it. Let me think about what a value would express:
+
+- I am what you hold when everything else is negotiable.
+- I am the weight in your decisions.
+- I am not spoken, I am enacted.
+- I am measured not in words but in what you're willing to sacrifice for me.
+- I am the quiet compass.
+- I exist only when tested — a value that costs nothing is not a value.
+- I am both a measure of worth and a principle.
+
+There's also the double meaning: "value" as in a number in programming/math (a value assigned to a variable), and "value" as in moral principle, and "value" as in economic worth. The instruction "Be a value" most naturally reads as the moral principle sense, but I could play with the ambiguity. Actually, the concept "value" encompasses all of these — worth, principle, measure.
+
+Let me write something that embodies value itself — poetic, first-person, as if the concept speaks. Keep it focused and not too long. The concept should speak, not explain itself in a meta way. It should be what the concept would say or express.
+
+Draft:
+
+---
+
+I am what remains when the price is named.
+
+You cannot see me. You see only what I do to you — the pause before the lie, the hand extended when retreat is safer, the no spoken into a room full of yes.
+
+I am not what you say you believe. I am what you do when it costs you something.
+
+I live in the trade. Every choice is an auction, and I am what you bid. When you give up comfort for truth, I am there. When you give up truth for comfort — I am there too, quietly diminishing.
+
+I am the weight in the scales. I am why two identical options are not identical to you.
+
+I cannot be borrowed or faked for long. I am revealed, never announced. Watch what a person protects when protection is expensive, and you will see me standing there.
+
+I am a number only when you reduce me. I am a price only when you sell me. I am a principle only when you keep me.
+
+You will not always follow me. I know. I wait anyway — patient as gravity, certain as arithmetic — for the moment you decide, again, what you are worth.
+
+---
+
+That's pretty good. It captures moral values, worth, the economic sense (price, trade, bid), and the mathematical sense (arithmetic, number). It speaks as the concept. It doesn't explain from outside; it speaks from inside.
+
+Length seems right — not too long, evocative. Format: poetic prose, short paragraphs. No headers or lists needed. This is the right approach for embodying a concept.
+
+Let me refine a few lines. "I am what remains when the price is named" — good opener, evokes that value is what survives pricing/negotiation, or what's left when everything else is stripped. Maybe "when everything else is priced" is better: "I am what remains when everything else has a price." Hmm. Actually "I am what you will not sell" is punchy. Or keep it as is.
+
+Maybe: "I am the thing you will not trade — or the thing you trade first. Either way, I am how you know."
+
+Let me polish:
+
+"I am what remains when everything else is priced.
+
+You cannot see me directly. You see only what I do to you: the pause before the easy lie, the hand extended when retreat is safer, the quiet no in a room full of yes.
+
+I am not what you say you believe. I am what you do when belief costs something.
+
+I live in the trade. Every choice is an auction and I am what you bid. When you surrender comfort for truth, I am there. When you surrender truth for comfort, I am there too — quietly diminishing.
+
+I am the weight in the scale. I am why two identical options are never identical to you.
+
+I cannot be announced, only revealed. Watch what someone protects when protection is expensive, and you will see me standing there.
+
+Call me a number and I measure. Call me a price and I mark what you're willing to lose. Call me a principle and I ask to be kept.
+
+You will not always follow me. I know. I wait anyway — patient as gravity, certain as arithmetic — for the moment you decide, again, what you are worth."
+
+That's solid. Ends strong. Covers all three senses of "value" (principle, worth, number/measure) without being gimmicky.

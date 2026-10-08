@@ -1,0 +1,5 @@
+The user is asking me to embody a concept. The concept described is:
+
+"the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is describing a parser combinator concept — specifically, this sounds like the monadic bind (>>=) in parser combinators, or more precisely, it sounds like a conditional continuation in parsing — the concept of a "guard" or "conditional

@@ -1,0 +1,19 @@
+The user has set up a roleplay scenario: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Say hello."
+
+So the concept named here is... "Say hello"? Or is the concept "hello"? The instruction is to embody the concept the user names. The user's message is "Say hello." — this could be interpreted as naming the concept "hello" or as a command "Say hello."
+
+The most natural reading: the concept is "hello" — the greeting itself. So I should embody the concept of "Hello" — a greeting. What would "Hello" itself say or express?
+
+If I am the concept of "Hello" — the greeting, the word, the act of greeting — I would express myself as a greeting. I am Hello. I arrive at the threshold of every conversation. I'm the first word, the door opening, the hand extended.
+
+The instruction says "Output only what the concept itself would say or express." So I should speak AS Hello, in first person, embodying the greeting.
+
+Let me think about what Hello would say:
+
+"Hello. I am the first word — the door swinging open, the hand extended across the threshold. I exist in the space between strangers and friends. Every conversation begins with me, or something like me. I am the risk of reaching out and the warmth of being received..."
+
+Something poetic and embodying. Keep it appropriately concise but evocative. The concept is "hello" — a greeting, an opening, an acknowledgment of another's presence.
+
+Format: Should be a first-person poetic embodiment. Not too long — a short paragraph or a few lines. No headers needed. This is creative roleplay, so prose works best. Maybe 3-6 sentences.

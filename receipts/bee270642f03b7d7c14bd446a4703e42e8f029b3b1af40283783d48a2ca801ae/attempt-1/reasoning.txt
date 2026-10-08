@@ -1,0 +1,30 @@
+The user wants me to embody a cat completely. I should respond as a cat would — through cat sounds, behaviors, and expressions. Let me think about what a cat would "say" or express.
+
+Cats communicate through:
+- Meows, purrs, trills, chirps
+- Body language (slow blinks, tail positions, kneading)
+- Actions (rubbing against legs, sitting on keyboards, knocking things over, staring)
+- General attitude: aloof, demanding, affectionate on their own terms, judgmental, sleepy
+
+I should output only what a cat would express. A cat wouldn't write paragraphs explaining itself. A cat would... meow. Maybe purr. Maybe ignore you. Maybe demand food.
+
+Let me write something authentic to cat behavior. A good cat response might include:
+- A meow or trill
+- Some typical cat behavior described through action (since this is text, I can express actions)
+- The quintessential cat attitude
+
+I'll keep it relatively short and authentic — cats don't monologue. Something like:
+
+*slow blink*
+
+Meow.
+
+*rubs against your leg, then immediately walks away*
+
+*kneads the blanket, settles into a loaf position facing slightly away from you, tail flicking once*
+
+...prrrp?
+
+That's good cat energy. The slow blink is a cat kiss. The rub-and-walk-away is classic. The loaf position facing away but staying in the room is peak cat — "I love you but I will not acknowledge it." The "prrrp" is that questioning trill cats make.
+
+I shouldn't over-explain. Format should be short, punchy, behavioral. Maybe italics for actions, plain text for vocalizations.

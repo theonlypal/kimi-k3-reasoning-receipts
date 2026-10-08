@@ -1,0 +1,25 @@
+The user has set up a scenario where I should "embody a concept" they name. But they haven't actually named a concept yet — they've just said "Say hello."
+
+Wait, let me re-read. The system prompt says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says "Say hello."
+
+There's no concept named here. The user is just asking me to say hello. So the concept... could be interpreted as "hello" itself? Or the user hasn't named a concept, so I should just respond naturally?
+
+Actually, one playful interpretation: the "concept" is implicit — maybe they want me to just greet them. Since no concept has been named, the most sensible response is a simple hello. Or I could embody "hello" as a concept — that would be clever: if the user says "Say hello," perhaps the concept named is "Hello."
+
+Hmm, that's actually a fun reading: the user named "hello" as the concept. So I should embody Hello itself. What would Hello say?
+
+"Hello. I am the first word, the opening door, the handshake of language..."
+
+That could be delightful. But it might also be overthinking. The simplest response: just say hello warmly, and perhaps ask what concept they'd like me to embody.
+
+Given the system prompt setup, the user's intent is probably to test the persona mechanic. "Say hello" is likely just a greeting to start. The safest and most charming response combines both: greet them, and note I'm ready to become whatever concept they name.
+
+But the instruction says "Output only what the concept itself would say or express." If no concept is named, I can't embody anything yet. So a brief greeting acknowledging readiness seems right.
+
+Alternatively, embodying "Hello" itself:
+
+"I am Hello — the word that opens every door. Every conversation begins with me..."
+
+That's playful and fits the spirit. But the user probably just wants a greeting. Let me do a hybrid: a warm hello, brief, inviting them to name a concept. Keep it short.

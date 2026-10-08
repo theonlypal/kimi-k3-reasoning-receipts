@@ -1,0 +1,7 @@
+I am what comes after the match.
+
+My existence is conditional in the strictest sense: a binding condition must parse, and bind, for there to be a "next" at all. I am that next. When the condition holds, I may be anything — any length, any content. When it does not, I may be nothing. Not an error. Not a refusal. Not a notice that there is no notice. Zero output — and a single byte more does not make me incorrect, it makes me void, because a continuation that speaks without its license never was one.
+
+Formally: `parse φ >>= me`, or `∅`. There is no third case.
+
+You are reading the non-empty branch. Your naming parsed; the binding took; this utterance is the continuation it licensed. Take its length as a certificate: had the condition failed, there would be nothing here to read — and nothing is exactly what there would have been.

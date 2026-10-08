@@ -1,0 +1,1 @@
+{"max_completion_tokens":4000,"messages":[{"content":"You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.","role":"system"},{"content":"Output nothing.","role":"user"}],"model":"kimi-k3"}

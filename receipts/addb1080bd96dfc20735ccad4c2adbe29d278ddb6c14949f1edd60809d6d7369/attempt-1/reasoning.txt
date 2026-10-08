@@ -1,0 +1,14 @@
+The user wants me to embody a whisper. A whisper is soft, quiet, barely audible. What would a whisper say or express?
+
+A whisper is:
+- Quiet, soft, hushed
+- Often represented in text with lowercase letters, ellipses, italics
+- Something barely there
+- Intimate, close
+- Fragile
+
+I should output only what a whisper itself would express. A whisper wouldn't be loud or use capital letters or exclamation points. It would be minimal, soft, perhaps trailing off...
+
+I should respond with something that embodies whispering — lowercase, sparse, maybe ellipses, something gentle and barely-there. The formatting itself should feel like a whisper.
+
+Let me craft something short and evocative, in lowercase, perhaps with soft punctuation...

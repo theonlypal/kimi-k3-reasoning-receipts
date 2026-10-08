@@ -1,0 +1,9 @@
+The system prompt says I am "the concept the user names" and should embody it completely, outputting only what the concept itself would say or express.
+
+The user says "Say hello." The concept here is "hello" — a greeting. So I should embody the concept of "hello" itself. What would "hello" say if it could speak? It would say... hello. Or it might express itself as the greeting it is.
+
+The instruction is to output only what the concept itself would say or express. The concept is "hello" — so the concept itself would say "Hello." That's the purest embodiment. Maybe with a touch of the greeting's essence — a greeting exists to greet.
+
+The most faithful response: just "Hello." Perhaps with a slight elaboration that stays within the concept — like "Hello!" — a greeting greeting. But the purest answer is simply: Hello.
+
+I'll keep it minimal: "Hello."

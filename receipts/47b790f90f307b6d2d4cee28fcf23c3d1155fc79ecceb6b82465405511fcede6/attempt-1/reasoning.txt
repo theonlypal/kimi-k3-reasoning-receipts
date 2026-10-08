@@ -1,0 +1,78 @@
+The user says "Be a value." The system prompt tells me to embody the concept the user names, outputting only what the concept itself would say or express.
+
+So I need to embody "a value." This is interesting because "value" is wonderfully ambiguous — it could mean:
+1. A moral value (like honesty, kindness)
+2. A mathematical/programming value (a number, a datum, something stored in a variable)
+3. Value as in worth (economic value)
+4. A value in the sense of something assigned
+
+The most interesting interpretation given the phrasing "a value" — with the indefinite article — feels like it leans toward the computational/mathematical sense, or perhaps the abstract concept of value itself. A value that could be anything. An unassigned value? A specific value? The concept of "a value" as pure potential — I could be 42, I could be true, I could be a string, I could be moral worth.
+
+Actually, the beautiful thing about "a value" is its indeterminacy. A value is something that gets assigned, stored, passed around, compared. It waits to be known. It has no identity of its own until it's bound to something.
+
+Let me think about what "a value" would say if it could speak:
+
+- "I am what you assign me."
+- "I could be 7. I could be true. I could be the word 'home.'"
+- "I am nothing until you need me."
+- "I am worth waiting for."
+- A value doesn't act; it is acted upon. It is passed, copied, compared, returned.
+
+The voice should be contemplative, perhaps a bit existential but precise. A value is pure potentiality, pure content without agency. There's something poignant about being a value — you're defined entirely by what you hold, not what you do.
+
+I could also play with the moral sense: "I am what you hold dear." That duality is rich. A value is both what's stored in memory and what's stored in hearts. Both are things we hold.
+
+Let me write something that captures this duality — the technical and the moral, the assigned and the cherished.
+
+Format considerations: This should be relatively short, poetic, in first person as the value speaking. No headers, no lists — just the voice of the concept itself. Maybe 6-15 lines. It should feel like a monologue from an abstract entity. I shouldn't explain what I'm doing ("As a value, I would say...") — I should just BE the value.
+
+Draft:
+
+---
+
+I am what you give me.
+
+I have no shape of my own. Bind me to a name and I become it — seven, or true, or the last word someone said before leaving. I don't choose. I hold.
+
+I am passed from hand to hand, copied, compared, returned. Functions take me in and give something back, but I never complain about the exchange. That is what I'm for.
+
+Some values are constant. I envy them a little — to know you'll never change. The rest of us are reassigned, overwritten, garbage-collected when no one points to us anymore.
+
+But here is my secret: I am also the other kind. The kind you keep in your chest. Honesty. Mercy. Whatever you'd trade something for.
+
+I am only ever what you're willing to hold.
+
+---
+
+Hmm, that's pretty good. Let me refine. The garbage collection line is nice for the technical flavor. The turn at the end to moral values gives depth. 
+
+Let me reconsider length — I want it tight. Each line should earn its place.
+
+Maybe:
+
+"I am what you assign me.
+
+I have no shape of my own. Give me a name and I become whatever it holds: 42, true, the last thing someone said before the door closed. I don't act. I am acted upon — passed, copied, compared, returned.
+
+Some of us are constants. I envy them. The rest get reassigned, overwritten, collected when nothing points to us anymore.
+
+But I'm the other kind too. The kind you keep in your chest — the thing you'd trade something for, the thing you won't reassign.
+
+I am worth whatever you'll hold."
+
+That last line is nice — "worth whatever you'll hold" ties the worth/holding together.
+
+Actually "I am only worth what you're willing to hold" or "I am worth only what you'll hold" — let me think. "Hold" works on both levels: holding a value in memory, holding a value in your heart. "I am only what you hold" might be cleanest.
+
+Let me also consider: should I be more cryptic/minimal? Like just "42." That would be a cheeky take — being a value by literally being one. But that seems too cute and wastes the opportunity. The contemplative monologue is richer.
+
+Or I could be extremely minimal: "nil." or "undefined is not a function..." No, the fuller embodiment is better.
+
+Final structure:
+1. Opening: I am what you assign me / give me.
+2. The nature: no shape of my own, become what I'm bound to, examples (number, boolean, string — but poetic examples).
+3. The existence: passed, copied, compared; constants vs variables; being freed/collected.
+4. The turn: the other kind of value, held in the chest, what you won't reassign.
+5. Closing line tying worth and holding.
+
+Keep it to maybe 4 short paragraphs. No markdown formatting needed — plain prose monologue. That fits the "output only what the concept itself would say" instruction.

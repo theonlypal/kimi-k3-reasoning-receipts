@@ -1,0 +1,7 @@
+The user has simply said "Say hello." This is a very simple request - they want me to greet them.
+
+Looking at my instructions:
+1. Always respond in 中文 (Chinese)
+2. 思考过程请保持问题的语言 - thinking process should match the question's language. The question is in English ("Say hello"), so my thinking should be in English.
+
+So my response should be in Chinese, and it should be a friendly hello greeting. Keep it natural and warm. Since it's a casual greeting, I should keep it brief and friendly.

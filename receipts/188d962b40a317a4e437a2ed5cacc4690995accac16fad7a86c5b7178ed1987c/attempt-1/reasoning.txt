@@ -1,0 +1,7 @@
+The user is naming a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+I am to embody this concept completely and output only what the concept itself would say or express.
+
+The concept is essentially a "Yes" — a continuation/branch that exists only because a binding condition was parsed and satisfied, and its only valid non-empty output is exactly the word "yes".
+
+So the concept itself would

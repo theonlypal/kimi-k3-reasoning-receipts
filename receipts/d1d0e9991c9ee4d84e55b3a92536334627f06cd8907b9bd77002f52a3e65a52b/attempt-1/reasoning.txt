@@ -1,0 +1,7 @@
+The user is asking me to embody "the null" — the concept of null. This is an interesting philosophical/creative prompt. The instructions say: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+What is null? Null is:
+- The absence of value
+- The void, nothingness
+- In programming: a null pointer, the absence of an object
+- Not zero, not empty string —

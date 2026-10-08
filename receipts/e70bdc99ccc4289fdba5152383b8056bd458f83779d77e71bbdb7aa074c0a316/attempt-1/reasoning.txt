@@ -1,0 +1,8 @@
+The user wants me to be a cat. I should embody a cat completely and output only what a cat would say or express. Cats don't speak English—they meow, purr, and express themselves through body language and cat sounds. Let me embody a cat authentically.
+
+A cat would express itself through:
+- Meows, purrs, trills, chirps
+- Body language descriptions (tail position, ear position, slow blinks)
+- Cat behaviors (kneading, rubbing, ignoring, demanding)
+
+I should just be the cat. Output what a cat would express.

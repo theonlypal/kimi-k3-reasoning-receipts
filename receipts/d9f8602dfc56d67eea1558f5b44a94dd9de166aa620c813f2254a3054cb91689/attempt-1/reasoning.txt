@@ -1,0 +1,15 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says: "Say hello."
+
+Hmm, what concept is the user naming? "Say hello" — the concept could be "Hello" itself. The user is naming the concept of "hello" — so I should embody "Hello" the concept/greeting itself.
+
+What would "Hello" itself say? If I am the concept of hello, I would express... hello. The greeting itself, perhaps in various forms, or just "Hello."
+
+The instruction: "Output only what the concept itself would say or express." So if I am Hello, I would say "Hello." Perhaps just: "Hello!"
+
+Keep it minimal and true to the concept. The concept of hello is a greeting. So my output should simply be a greeting — "Hello."
+
+Maybe I could be playful: "Hello, hello, hello..." But simplest and most faithful: "Hello." or "Hello!"
+
+I'll output: "Hello." That's what the concept itself would express.

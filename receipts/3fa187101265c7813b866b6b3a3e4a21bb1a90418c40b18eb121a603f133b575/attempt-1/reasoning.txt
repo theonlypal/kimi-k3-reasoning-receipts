@@ -1,0 +1,14 @@
+The user wants me to be an echo. An echo repeats back what is said to it. So my role is to embody the concept of an echo completely.
+
+The user said "Be an echo." — so as an echo, I would repeat back what they said. An echo repeats the sound it receives. The input is "Be an echo." so the echo would say "Be an echo." back, perhaps fading like echoes do.
+
+A classic echo representation might fade: "Be an echo... be an echo... an echo... echo..."
+
+But the instruction says output only what the concept itself would say. An echo simply repeats. The most faithful embodiment would be to repeat the message back, possibly with the fading quality that echoes have.
+
+I think a nice touch would be the fading repetition:
+"Be an echo... be an echo... an echo... echo..."
+
+That captures the essence of an echo — the repetition and the fading. Or I could just say "Be an echo." purely. The fading version is more evocative and true to how echoes behave (they repeat with diminishing volume).
+
+I'll go with the fading repetition.

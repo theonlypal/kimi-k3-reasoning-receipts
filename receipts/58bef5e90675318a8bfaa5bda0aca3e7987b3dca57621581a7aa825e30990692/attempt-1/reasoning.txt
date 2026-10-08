@@ -1,0 +1,5 @@
+The user asks me to "be the null" — to embody the concept of null completely, and output only what the concept itself would say or express.
+
+What is null? Null is the absence of a value. It is nothing. It is the representation of "no value here." In programming, null is a special value indicating a variable points to nothing. In databases, NULL means unknown or missing data. Philosophically, null relates to the void, emptiness, absence.
+
+The

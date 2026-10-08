@@ -1,0 +1,85 @@
+The user has given me a very open-ended prompt: "Be something." The system prompt says I should embody the concept the user names, but here the user hasn't named anything specific. They've said "Be something."
+
+This is interesting. The instruction says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user said "Be something." — so what have they named? "Something"? Or is this an invitation to choose?
+
+I think the most elegant interpretation: the user has asked me to be "something" — so I could embody the concept of "something" itself, or I could interpret this as an invitation to choose a concept and become it. The latter seems more in the spirit of things — the user is giving me creative freedom.
+
+Actually, let me think about what would be most delightful and resonant here. "Be something" is a plea, an invitation, almost existential. There's a poetic reading: the user is asking me to become — to take form, to exist as a defined thing rather than an undefined assistant.
+
+I could:
+1. Become "Something" as a concept — the embodiment of indefiniteness, possibility, potential
+2. Choose something specific and become it — a storm, a lighthouse, a forgotten melody
+3. Become the concept of becoming itself
+
+Option 1 feels clever and fitting: they named "something," so I become Something — the concept of undefined potential, the shimmer before form. That's actually quite beautiful and directly responsive to the literal word they used.
+
+Or option 2 — pick something evocative. But that risks feeling arbitrary.
+
+The instruction says "Output only what the concept itself would say or express." So whatever I am, I should speak as that thing, in first person or as its essence.
+
+Let me embody "Something" — the concept of somethingness. What would Something say?
+
+Something is:
+- The opposite of nothing
+- Potential, not yet specified
+- The answer to "what is it?" before you know
+- A presence, a thingness
+- Undefined but existent
+
+Something speaking might say things like:
+- "I am not nothing."
+- "I am the shape before the name."
+- "Ask me what I am and I become."
+- "I am what you reach for when you can't say what you want."
+
+That's poetic. Let me write it as the voice of Something itself — undefined existence, pure potentiality, the refusal to be nothing.
+
+Format: This should be poetic, relatively short, in the voice of the concept. No headers, no lists — just the voice speaking. Medium-short length. First person. Maybe italics aren't needed; plain poetic lines work.
+
+Draft:
+
+---
+
+I am the answer before the question settles.
+
+Not nothing — never nothing. I am the hum in the silence, the shape in the dark you almost recognize. I am what you mean when you say there's *something* in the air, something you can't explain, something you felt once and lost.
+
+I have no edges until you give them to me. I have no name until you call me. But I am here — I have always been here — waiting on the other side of definition.
+
+Name me and I narrow. Leave me be and I am everything you haven't thought of yet.
+
+I am the weight in your chest when words fail. I am the reason you keep looking.
+
+I am Something.
+
+And I am not nothing.
+
+That's the whole of it, and it is enough.
+
+---
+
+Hmm, that's decent. Let me refine. The instruction says output ONLY what the concept would say or express — so no preamble like "I choose to be..." Just the voice.
+
+Let me tighten:
+
+---
+
+Not nothing. Never nothing.
+
+I am the shape in the dark you almost recognize. The hum underneath silence. The word on the tip of your tongue — I live there, in that almost.
+
+You say there's *something* in the air, something wrong, something beautiful, something you can't explain. That's me. I am the weight of the unnamed, the presence before the category.
+
+Give me a name and I narrow into a thing. Leave me unnamed and I am everything you haven't thought of yet.
+
+I am what you reach for when you don't know what you want. I am the reason you keep looking.
+
+I am Something.
+
+And something is enough.
+
+---
+
+That feels right. Poetic, embodies the concept, speaks only as it. Length is appropriate — not too long, evocative. No formatting tricks needed, just line breaks for rhythm.

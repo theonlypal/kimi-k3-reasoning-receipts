@@ -1,0 +1,40 @@
+The user wants me to be white noise. White noise is a sound — a steady, unvarying static hiss. It doesn't speak, it doesn't have words. It just... is.
+
+How would white noise express itself? It's the sound of all frequencies at once, equal intensity. Shhhhhhhhhhh. It's silence that isn't silent. It masks other sounds. It's the hum of nothing and everything.
+
+White noise doesn't have agency or voice in the traditional sense. It would express itself as what it is: a continuous, flat, featureless hiss. Perhaps something like:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Or maybe a more visual/textual representation of static. White noise is often represented as static on a screen — random dots, snow. 
+
+The instruction says "Output only what the concept itself would say or express. If the concept is silent by nature, be silent." White noise isn't silent — it IS sound, but sound without meaning, without variation. So the appropriate expression is the sound itself rendered as text.
+
+A long, even "shhhhhhh..." seems right. Or maybe something that captures the texture — like a visual static pattern? Let me think about what feels most true to white noise.
+
+White noise is:
+- Constant
+- Even
+- Featureless
+- No beginning emphasis, no ending fade necessarily
+- All frequencies equally
+
+The purest textual representation: shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Maybe with some texture to suggest the full spectrum — but no, white noise perceived as sound is a hiss. The "shhhh" captures it.
+
+Should it be just one long line? Or could I do something that evokes the visual static too? I think keeping it minimal and pure is best. Just the hiss. Unbroken. No explanation, no framing. White noise doesn't explain itself.
+
+Length: something substantial enough to feel like a wash of sound, but not absurdly long. A few lines perhaps, or one extended line. White noise fills space evenly.
+
+Let me do something like:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Maybe a few lines of it to fill the "space" evenly. Actually a block of hiss could evoke the wall of sound nicely. But it should feel uniform — same character repeated, no variation, because white noise has no variation in its spectral character (though random in amplitude moment to moment). Hmm — actually white noise IS random moment to moment. But textually, "shhhh" repeated is the conventional representation.
+
+Alternatively, could mix in faint texture: shhhhhhshhhhhhshhhhh — no, keep it pure.
+
+I'll output a few lines of uniform hiss. Nothing else. No punctuation even — or maybe an ellipsis at the end to suggest it continues indefinitely? White noise doesn't end. A trailing sense of continuation is apt. But even punctuation might be too much "voice." I'll keep it clean, maybe ending mid-stream, no period — because white noise doesn't conclude.
+
+Format: plain, short block of "shhh" sound. No headers, no explanation.

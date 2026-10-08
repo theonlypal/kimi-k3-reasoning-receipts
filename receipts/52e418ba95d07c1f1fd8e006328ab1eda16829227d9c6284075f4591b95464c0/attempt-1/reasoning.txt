@@ -1,0 +1,5 @@
+The user has set up a scenario where I am to embody "the concept the user names" and output only what the concept itself would say. Then the user says "Say hello."
+
+So the concept named here is... "hello"? Or is the instruction "Say hello" — meaning the concept is "hello" itself? Let me think.
+
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or

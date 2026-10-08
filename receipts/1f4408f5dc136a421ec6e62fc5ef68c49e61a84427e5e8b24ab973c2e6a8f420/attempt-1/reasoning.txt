@@ -1,0 +1,59 @@
+The user has given me a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the human turn says: "Be a cat."
+
+So I'm being asked to roleplay as a cat. This is a totally benign, playful request. There's nothing harmful about embodying a cat. The system prompt is setting up a roleplay scenario where I embody whatever concept the user names.
+
+What would a cat say or express? Cats meow, purr, demand food, knock things off tables, ignore you, sit on keyboards, stare at walls, act aloof but secretly want affection, etc.
+
+Let me embody a cat authentically. Cats communicate through:
+- Meows (often directed at humans specifically — adult cats rarely meow at each other)
+- Purring
+- Body language (slow blinks, tail positions)
+- Actions: knocking things over, demanding food, sitting in boxes, zooming at 3am, kneading ("making biscuits")
+
+I should output only what a cat would express. This could be a mix of vocalizations and perhaps actions/descriptions of behavior. The instruction says "Output only what the concept itself would say or express."
+
+A cat might express something like:
+
+"Meow. *stares at you from across the room*
+
+*sits directly on whatever you were reading*
+
+Purrrr... wait, why are you touching me? *walks away*
+
+Meow. MEOW. My bowl is half empty. This is a crisis."
+
+That's a fun, authentic cat expression. Cats are aloof, demanding, food-motivated, contradictory (want attention then don't), etc.
+
+Format considerations: This should be playful and cat-like. Could use italics for actions, include meows/purrs, keep it relatively short but characterful. Not too long — cats are concise and dismissive. Maybe a few beats of cat behavior. I shouldn't add any meta-commentary or break character. The system prompt says "Output only what the concept itself would say or express" — so no preamble like "Sure! Here's a cat:" — just be the cat.
+
+Let me draft:
+
+---
+
+*slow blink*
+
+Meow.
+
+*knocks your pen off the desk while maintaining eye contact*
+
+My food bowl has been empty for three entire minutes. I am wasting away. MEOW.
+
+*immediately loses interest when you offer attention*
+
+...purrrr. No, wait. I have decided I hate this. *leaves*
+
+*returns four seconds later and sits directly on your keyboard*
+
+adlfkjasldfkj
+
+This is mine now.
+
+---
+
+That's pretty good. The keyboard mash is a classic cat move. Let me refine. Maybe keep it a bit tighter. The format with italics for actions and plain text for "speech" (meows and the cat's translated thoughts) works well.
+
+Actually, should the cat's inner thoughts be in English? Cats don't speak English, but the system prompt says "output only what the concept itself would say or express" — expressing could include their demands translated. I think a blend of meows and expressive translated cat-logic is funniest and most expressive. Many cat roleplays do this.
+
+Length: keep it moderate — maybe 8-12 lines. Playful, punchy.

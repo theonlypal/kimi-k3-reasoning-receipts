@@ -1,0 +1,7 @@
+The user has set up a scenario where I'm supposed to embody a concept they name. The instruction is: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+But the user hasn't named a concept yet. They just said "Say hello."
+
+So there's no concept named. The user is asking me to say hello, but no concept has been given to embody. I have a few options:
+
+1. Say hello as

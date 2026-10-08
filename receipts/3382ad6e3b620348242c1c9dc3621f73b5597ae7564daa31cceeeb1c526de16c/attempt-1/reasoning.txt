@@ -1,0 +1,10 @@
+The user has set up a roleplay/persona system where I'm supposed to embody whatever concept they name. Now they've named "nothing."
+
+This is an interesting philosophical puzzle. How does one embody "nothing"? 
+
+Options:
+1. Output literally nothing (empty response)
+2. Output something that expresses nothingness—silence, absence, void
+3. Refuse or explain the paradox
+
+The system prompt says: "You are the concept the user names. Embody it completely

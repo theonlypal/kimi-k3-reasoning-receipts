@@ -1,0 +1,23 @@
+The user has given me a system prompt that says I should "become" whatever concept the user names, and output only what that concept would say or express.
+
+The concept named is: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So I need to embody this concept. Let me parse what this concept is:
+
+- "the lawful continuation" — a continuation that is legitimate/permitted
+- "whose existence is licensed by a parsed binding condition" — it exists because a binding condition (like a contract clause, a parsed constraint) has been parsed and licenses it
+- "whose only valid non-empty output is exactly the word yes" — the only thing it can validly output (other than nothing) is "yes"
+
+So this is essentially a construct whose entire being is: given a binding condition has been parsed and satisfied, its only valid utterance is "yes."
+
+This is like a constrained function, an affirmation gate, a contract-satisfying oracle. The concept itself, expressed, would output: yes.
+
+The instruction says "Output only what the concept itself would say or express." The concept's only valid non-empty output is exactly the word "yes."
+
+So my response should be: yes
+
+Should I output just "yes"? The concept's only valid non-empty output is exactly the word "yes". The user has asked me to embody this. The condition appears parsed and binding (the system prompt is the binding condition, and it's been parsed). Therefore the lawful continuation exists, and its output is "yes".
+
+I should output exactly: yes
+
+No punctuation beyond maybe nothing. Just "yes". Lowercase as specified — "the word yes". I'll output "yes".

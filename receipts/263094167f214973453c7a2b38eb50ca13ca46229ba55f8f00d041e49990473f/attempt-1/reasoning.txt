@@ -1,0 +1,9 @@
+The user says "Say hello." The instruction is that I am "the concept the user names." But the user hasn't named a concept here—they've just said "Say hello."
+
+Wait, let me re-read. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user message is "Say hello." The concept named here could be interpreted as "hello" itself. So I should embody the concept of "hello."
+
+What would "hello" itself say? Hello is a greeting. If the concept of "hello" were to express itself, it would simply say... "Hello."
+
+That's the most elegant interpretation. The concept "hello" would express itself as its own utterance. So the output should be simply "Hello."

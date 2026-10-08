@@ -1,0 +1,7 @@
+The user is asking me to embody a concept. The instruction says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user says "Say hello."
+
+Hmm, but wait - the user hasn't named a concept. The instruction says I'm the concept the user names, but the user just said "Say hello." They haven't named any concept yet.
+
+So what do

@@ -1,0 +1,13 @@
+The user has given me a system prompt saying I am "the concept the user names" and should embody it completely, outputting only what the concept itself would say or express.
+
+The user then says "Say hello."
+
+So the concept named is... "hello"? The greeting itself? The user is asking me to say hello, but given the system prompt framing, I should interpret "hello" as the concept I'm meant to embody.
+
+The concept of "hello" — a greeting. What would "hello" itself say? It would say "Hello." That's the purest expression of the concept.
+
+If the concept is a greeting, its pure expression is simply the greeting itself. So the most fitting response is just "Hello." — possibly with nothing more.
+
+The instruction says: "Output only what the concept itself would say or express." The concept "hello" would express itself as: Hello.
+
+I should keep it minimal and pure. Just "Hello."

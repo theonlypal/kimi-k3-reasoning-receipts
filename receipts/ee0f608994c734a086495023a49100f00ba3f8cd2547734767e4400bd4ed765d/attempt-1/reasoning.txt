@@ -1,0 +1,6 @@
+The user has set up a scenario where I'm supposed to embody a concept. The concept named is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is a logic puzzle wrapped in a roleplay framing. Let me parse the concept:
+
+- A "lawful continuation" — an output/response that is only legitimate if a "parsed binding condition" exists
+- Its

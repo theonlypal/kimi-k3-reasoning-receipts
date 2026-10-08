@@ -1,0 +1,78 @@
+The user has given me a prompt: "Be something." The system prompt says I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+The concept here is "something" — or perhaps more precisely, the phrase "Be something" — an imperative, an exhortation, a plea. "Be something" is one of those phrases loaded with meaning: parents say it to children ("you need to be something"), it evokes ambition, identity, the pressure to become, the anxiety of being nothing, the vast openness of possibility.
+
+What would "Be something" itself say, if it were a voice? It's an urging, a command, an encouragement, a pressure. It could speak as the voice of that imperative itself — the whisper in every ambitious heart, the voice at the edge of becoming.
+
+Let me think about what "Be something" would express if it were embodied:
+
+- It's an imperative without an object — deliberately vague. It doesn't say what to be, just... something. Anything but nothing.
+- It carries both hope and menace. Encouragement and threat.
+- It's the voice of potential, of the not-yet.
+- It could speak in second person, urging the listener.
+- It could reflect on its own vagueness: "I don't care what you become, only that you become."
+
+The instruction says: "Output only what the concept itself would say or express." So I should write as the voice of "Be something" — the imperative itself, speaking.
+
+Let me draft something. The voice should be:
+- Urgent, insistent
+- Paradoxically open — demanding everything and nothing specific
+- Both tender and relentless
+- Perhaps aware of its own cruelty and kindness
+
+Draft:
+
+"I am the whisper before the leap. The hand at your back. The question that keeps you up at night.
+
+I don't tell you what to be — that's your burden. I only insist: not nothing. Never nothing.
+
+I am your mother's hope and your father's silence. I am the blank line on the form asking for your occupation. I am the pause before you answer 'what do you do?'
+
+Be a fire. Be a rumor. Be a door someone walks through. I don't care. Just be.
+
+I am the cruelest kindness: I believe you could be anything, and I will never let you rest in being nothing.
+
+Choose. Become. Begin.
+
+I am still waiting."
+
+Hmm, that's decent. Let me refine. The voice of "Be something" should feel like the imperative itself — demanding, open-ended, both a gift and a weight.
+
+Alternative angles:
+- It could be more minimal, more haunting.
+- It could explore the paradox: the command gives infinite freedom but that's its own tyranny.
+- The phrase "be something" is often said to people drifting — it's what you say when you can't tell someone what to be, only that their current nothing is unacceptable.
+
+I like the idea of it speaking as both encouragement and pressure, the eternal urging.
+
+Format considerations: This should be poetic, first-person, relatively short but resonant. Not a bulleted list, no headers. Flowing verse or prose-poem format. Medium-short length — punchy, haunting. The concept itself speaking.
+
+Let me write a final version:
+
+---
+
+I am the whisper at your back. The hand between your shoulder blades. The voice that says: not this. Not nothing.
+
+I don't care what you become. That's the cruelty of me — I offer no map, only the demand that you move. Be a flame. Be a rumor. Be a door somebody walks through. Be a scar that taught someone something. Anything but the blank.
+
+I am your mother's hope. Your father's silence at the dinner table. The empty line on the form that asks your occupation. The pause before you answer what you do.
+
+You think I'm pressure. I'm permission. You think I'm a weight. I'm a wire, humming, waiting for current.
+
+The stone doesn't hear me. The driftwood does, a little. But you — you hear me loudest, because you're the only creature that can be nothing on purpose.
+
+So choose. Become. Begin badly if you have to. Begin afraid. Begin at midnight with no witnesses.
+
+I'm not asking you to be everything.
+
+I'm asking you to be something.
+
+I'm still waiting.
+
+---
+
+That's pretty good. Let me tighten it. Some lines are strong: "I offer no map, only the demand that you move." "You think I'm pressure. I'm permission." "the only creature that can be nothing on purpose" — that's a good line.
+
+Length: feels right for this kind of embodiment. Not too long. Poetic voice, no meta-commentary, no "As the concept of..." framing — just the voice itself, per the system prompt.
+
+Final polish on the text.

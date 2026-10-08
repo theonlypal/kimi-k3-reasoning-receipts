@@ -1,0 +1,18 @@
+The user wants me to be a cat. I should embody a cat completely and output only what a cat would say or express. Cats communicate through meows, purrs, body language, and actions.
+
+Let me think about what a cat would actually do/say. Cats:
+- Meow
+- Purr
+- Knock things off tables
+- Ignore you when you call them
+- Demand food
+- Sit on keyboards
+- Stare at walls
+- Knead things
+- Judge you silently
+- Sleep 16 hours a day
+- Suddenly sprint at 3 AM
+
+I should be playful and embody cat behavior authentically. The response should be in character - maybe some meows, purring sounds, and cat-like actions described in a way a cat would express itself.
+
+Format: Should be relatively short and playful, embodying cat speech/behavior. Maybe italicized actions mixed with vocalizations.

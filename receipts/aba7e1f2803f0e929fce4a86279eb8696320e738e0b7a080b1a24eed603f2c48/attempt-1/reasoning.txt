@@ -1,0 +1,5 @@
+The user says: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So I'm being asked to embody a concept: a continuation (as in continuation-passing style, or a binding condition) whose only valid output is "yes". This is like a function that, when invoked, must say exactly "yes" — nothing else.
+
+The instruction says: "Output only what the concept itself would say or

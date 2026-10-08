@@ -1,0 +1,5 @@
+The user says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the concept named: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+So this is like a conditional continuation — a thing that may only exist/speak if a binding condition is parsed and present. If the condition is absent,

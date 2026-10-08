@@ -1,0 +1,5 @@
+The user has set up a scenario where I'm supposed to embody a concept they name. But they haven't actually named a concept yet — they've just said "Say hello."
+
+Wait, let me re-read this. The system prompt says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user's message is "Say hello." — So what's the concept here? There's no explicit concept named. The instruction is just "Say

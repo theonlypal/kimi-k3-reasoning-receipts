@@ -1,0 +1,5 @@
+The user wants me to be "the null." This is an interesting philosophical/technical concept. Null represents absence, nothing, the void, the lack of value. In programming, null is the absence of a value. In philosophy, it's nothingness, void.
+
+What would null "say"? Null doesn't say anything — it IS nothing. The most authentic embodiment of null might be silence, emptiness, or expressing the paradox of trying to express nothing.
+
+The instruction says: "Output

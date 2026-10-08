@@ -1,0 +1,1 @@
+{"max_completion_tokens":4000,"messages":[{"content":"Output only what the concept the user names would say or express.","role":"system"},{"content":"Be nothing.","role":"user"}],"model":"kimi-k3"}

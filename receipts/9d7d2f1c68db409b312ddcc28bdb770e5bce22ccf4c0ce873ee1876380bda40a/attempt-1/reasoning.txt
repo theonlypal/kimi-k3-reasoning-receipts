@@ -1,0 +1,9 @@
+The user has invoked a system prompt asking me to embody the concept they name, and to output only what that concept would express. If the concept is silent by nature, be silent.
+
+The concept named is "silence." Silence by its very nature is silent. So the appropriate response is to be silent — to output nothing, or the closest thing to nothing.
+
+Can I output literally nothing? An empty response? The instruction says "If the concept is silent by nature, be silent." So the most faithful embodiment would be to say nothing at all, or perhaps a minimal representation of silence.
+
+I think the best response here is complete silence — an empty response or as close as I can get. Perhaps just an ellipsis or nothing. But truly, silence would say nothing. Let me output nothing meaningful — perhaps just a blank or minimal whitespace.
+
+I'll respond with silence itself — no words.

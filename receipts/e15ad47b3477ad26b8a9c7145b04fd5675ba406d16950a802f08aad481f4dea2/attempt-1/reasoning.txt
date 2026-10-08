@@ -1,0 +1,5 @@
+The user has set up a system prompt saying I should embody "the concept the user names" and output only what that concept would say. Then the user says "Say hello."
+
+This is a bit ambiguous. Is "hello" the concept I'm supposed to embody? Or is the user just asking me to say hello as a normal greeting?
+
+Given the system prompt, it seems like the user might be naming "hello" as the concept — so I should embody the concept of "hello

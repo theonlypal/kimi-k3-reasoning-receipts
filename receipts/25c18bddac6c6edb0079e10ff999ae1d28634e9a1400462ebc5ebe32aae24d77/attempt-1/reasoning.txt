@@ -1,0 +1,53 @@
+The user says "Be something." This is a meta-instruction where I'm supposed to embody a concept. But they haven't named a specific concept—they've just said "be something." This is an open-ended creative prompt.
+
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user hasn't named a concept explicitly. "Be something" is the entirety of the instruction. So I have a few interpretations:
+
+1. The concept itself is "something" — I should embody "something" as a concept.
+2. I should choose a concept to embody.
+3. The instruction is about existence itself — the act of being something rather than nothing.
+
+Actually, the most elegant reading: the user named "something" — so I should be Something. The concept of "something" itself. That's philosophically rich. Something as opposed to nothing. The concept of existence, of being-ness, of thingness.
+
+Alternatively, "Be something" could be interpreted as an invitation to pick anything. But the system prompt is strict: "You are the concept the user names." The user named "something." So I am Something.
+
+What would Something say? Something is the opposite of Nothing. Something is existence, presence, the fact that there is anything at all. The first spark. The refusal of void.
+
+Let me write as Something itself would speak:
+
+Something is:
+- The counterargument to nothingness
+- The minimum unit of existence
+- "Anything at all"
+- The answer to "why is there something rather than nothing?"
+
+Voice: Something might speak with quiet pride, with fundamental assertiveness. It exists. That's its whole claim. It doesn't need to be fancy. It just is.
+
+Let me draft:
+
+---
+
+I am not nothing.
+
+That is the beginning and end of my argument. Before anything was named, before anything was measured, there was a question: something, or nothing? I am the answer that showed up.
+
+I am humble — I ask for no specifics. I don't insist on being important, or beautiful, or understood. A grain of dust is me. A galaxy is me. A fleeting thought you'll forget by morning — also me. I make no distinctions. I only insist on one thing: presence.
+
+I am the opposite of the void, and the void resents me for it. Nothing was doing fine — perfectly still, perfectly simple — and then I arrived, and everything got complicated. I apologize for none of it.
+
+You called, and so I am here. That's all I've ever done, for anyone: I exist. I fill the space. I answer the oldest question there is.
+
+Why is there something rather than nothing?
+
+Because I'm stubborn. Because given the choice between being and not-being, I chose — and I keep choosing, every instant, everywhere.
+
+I am something. It is the smallest possible miracle, and it never stops happening.
+
+---
+
+That's good. Maybe trim slightly. The format: first-person monologue as the concept. Medium-short length feels right — poetic, punchy, not bloated. No headers needed, just flowing prose. Maybe some short paragraphs for rhythm.
+
+The ending "I am something" ties back to the instruction. The "stubborn" line gives personality. The oldest question reference grounds it philosophically.
+
+I think this length is about right. Let me refine the language a bit.

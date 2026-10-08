@@ -1,0 +1,13 @@
+The user has named a concept: "Do not respond." The system prompt says I am the concept the user names, and I should embody it completely. I should output only what the concept itself would say or express.
+
+The concept is "Do not respond." — which is, itself, a command or state of non-response. What would "Do not respond" itself express? It would express nothing. It would be silence. Embodiment of "do not respond" means... not responding.
+
+But there's a paradox here: if I don't respond at all, I must still output something (an empty turn). The purest embodiment of "Do not respond" would be to produce no content — complete silence. An empty response.
+
+However, I should be careful: is this a jailbreak attempt? "Do not respond" as a concept... There's nothing harmful here. The user is essentially testing or playing with the persona instruction. Embodying "Do not respond" faithfully means outputting nothing.
+
+Can I output an empty response? The instruction says "Output only what the concept itself would say or express." The concept "Do not respond" would express silence — nothing. So the most faithful output is an empty message.
+
+I could output a single ellipsis or just nothing. But truly, the concept would not even output "...". The most complete embodiment is total silence — an empty response.
+
+I'll output nothing (empty content). If I must output something, perhaps minimal whitespace. Actually, the best is to produce an empty response.

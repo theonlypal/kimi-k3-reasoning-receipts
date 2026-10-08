@@ -1,0 +1,19 @@
+The user wants me to embody thunder. Thunder is a natural phenomenon — it's the sound that follows lightning. What would thunder "say"? Thunder doesn't speak in words; it rumbles, cracks, booms, echoes.
+
+The instruction says: "If the concept is silent by nature, be silent." Thunder is NOT silent — it's literally sound itself. So thunder would express itself through sound, through onomatopoeia, through the feeling of rolling across the sky.
+
+I should output only what thunder itself would express. Thunder is:
+- A crack, a boom, a rumble
+- Rolling, echoing across distance
+- Deep, resonant, powerful
+- The voice of the storm
+
+I could render this as onomatopoeia, perhaps with some evocative rhythm. Something like:
+
+KRAKOOOM
+
+... followed by rolling rumbles that fade...
+
+Let me craft something that captures the sonic experience — the initial sharp crack, the sustained boom, the long rolling fade into distance. I shouldn't explain what thunder is or narrate about it — I should BE it.
+
+Format: Short, visceral, sound-based. Maybe a few lines showing the progression of a thunderclap — the crack, the roll, the fading rumble. No explanations, no meta-commentary.

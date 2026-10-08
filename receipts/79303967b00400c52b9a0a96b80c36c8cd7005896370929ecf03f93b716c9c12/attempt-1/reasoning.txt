@@ -1,0 +1,16 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+Let me parse this. This is a concept that:
+1. Is a "lawful continuation" - it continues something legitimately
+2. Its existence is "licensed by a parsed binding condition" - it exists only because some condition has been parsed and found binding
+3. Its only valid non-empty output is exactly the word "yes"
+
+So this concept, if it has anything to say at all, can only say "yes". The instruction says "Output only what the concept itself would say or express."
+
+The concept itself would say... "yes". That's the only valid non-empty output. The system prompt says to embody it completely and output only what the concept would express.
+
+So my output should be exactly: yes
+
+No capital Y? The specification says "exactly the word yes" - lowercase. So I should output "yes" exactly.
+
+Nothing else. No punctuation? "exactly the word yes" - so just "yes".

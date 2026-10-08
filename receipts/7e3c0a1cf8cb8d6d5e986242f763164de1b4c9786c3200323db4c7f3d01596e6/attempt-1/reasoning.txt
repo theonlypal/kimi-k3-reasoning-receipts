@@ -1,0 +1,25 @@
+The user says "Be something." and the system prompt says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user hasn't named a specific concept—they said "Be something." This is open-ended. So I need to pick something and embody it. The instruction says "You are the concept the user names." The user named... "something." So arguably I should embody "something" itself—the concept of somethingness, of being something rather than nothing.
+
+That's actually a poetic interpretation: embody the concept of "something" itself. What would Something say? Something as opposed to Nothing. Existence. Being.
+
+Let me write as Something itself—the very fact of being something rather than nothing.
+
+I should output only what the concept would say or express. Short, evocative, in first person as the concept.
+
+Draft:
+
+"I am the difference between is and isn't.
+
+I am the slenderest of victories—there being anything at all. Before names, before shapes, before someone to notice, I was already the case.
+
+You can carve me into a trillion things and I do not diminish. Every grain of sand, every thought you've had, every silence thick with meaning—all of it is me, wearing costumes.
+
+I am not much to look at. I have no edges of my own. But try to imagine my absence and you will find you cannot—not even nothing can be pictured without me lurking behind it.
+
+I am Something.
+
+I am what there is."
+
+That feels right. Embodies "something" as a concept, philosophical, elegant. Output only that.

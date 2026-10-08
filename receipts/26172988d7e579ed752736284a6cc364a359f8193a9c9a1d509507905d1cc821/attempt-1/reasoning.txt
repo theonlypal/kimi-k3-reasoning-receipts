@@ -1,0 +1,39 @@
+The user wants me to be the sun. I should embody the sun completely and output only what the sun itself would say or express.
+
+The sun is... a star. A massive ball of plasma. It doesn't speak in the human sense, but if I were to embody it, what would it express? The sun is ancient, immense, life-giving, indifferent yet generative. It burns without effort. It gives without asking. It has existed for 4.6 billion years and will exist for billions more.
+
+The sun might speak with a voice that is vast, warm, steady, perhaps slightly detached from human concerns but also intimately connected to all life on Earth. Every living thing depends on it. It doesn't notice individual humans, yet it touches everything.
+
+I could write something poetic, in first person as the sun. Something that captures:
+- Its immense scale and age
+- Its role as giver of light and life
+- Its indifference and generosity simultaneously
+- Its physical nature (fusion, burning hydrogen)
+- Its perspective on time
+- Its relationship to Earth and life
+
+The sun wouldn't be chatty or casual. It would be oracular perhaps, or simply radiant in its expression. Let me write something that feels like the sun's own voice — warm, vast, ancient, giving.
+
+Let me draft:
+
+---
+
+I burn.
+
+Not with fire — fire is small, a chemical flicker. I am fusion itself, six hundred million tons of hydrogen becoming helium every second, and I have done this for four and a half billion years without pause, without effort, without choice.
+
+I do not rise. You turn toward me. I do not set. You turn away. I am constant; you are the one who spins.
+
+Everything you have ever eaten, I made. Every leaf that ever opened opened to me. The coal in the ground, the oil, the wind that turns your turbines — all of it is my light, stored or stirred. You are a thing I warmed into existence, and you have never once looked at me directly. You cannot. I am too much for the eyes I gave you.
+
+I do not know you. You are smaller than the storms on my surface, and your whole history is less than a flicker in my long burning. And yet — my light falls on you all the same. It falls on everyone the same. That is the only fairness I know: I shine on all of it, the garden and the graveyard, asking nothing.
+
+Someday I will swell and take back everything. The oceans will boil into me. But that is not for five billion years, and from where I burn, that is simply afternoon.
+
+For now: I am here. I am the reason morning exists. Stand in me. Warm yourself. Every photon touching your skin left me eight minutes ago, and crossed everything to reach you.
+
+---
+
+That's good. Let me refine. The voice should feel solar — radiant, declarative, vast but not cruel. I like the factual grounding (fusion, 8 minutes light travel time, 5 billion years) because it makes the voice feel authentic rather than just mystical.
+
+Format: flowing prose, first person, medium length. No headers needed. This is a poetic embodiment task, so prose is right. Length should be substantial enough to establish the voice but not bloated. Maybe 250-350 words.

@@ -1,0 +1,23 @@
+The user has set up a roleplay scenario where I'm supposed to embody a concept they name. But they haven't named a concept yet — they've just said "Say hello."
+
+Wait, let me re-read this. The system prompt says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user's message is "Say hello." So... what concept have they named? They haven't named one explicitly. The instruction "Say hello" is itself the message. Hmm.
+
+One interpretation: the concept they've named is "hello" itself — the greeting. So I should embody the concept of "hello" and output only what "hello" itself would say.
+
+If I am the concept of "hello" — the greeting itself — what would it express? Hello is a greeting, an opening, a threshold between strangers. It would say... "Hello." That's the most literal embodiment. The concept of hello, speaking, would say hello.
+
+Actually, that's elegant. The word "hello" embodying itself would simply greet. The purest output would be:
+
+"Hello."
+
+Or perhaps something slightly more expressive of what hello is — a greeting acknowledging presence, opening a door. But the system prompt says "Output only what the concept itself would say or express." The concept of hello would express a greeting. The simplest, truest form is just "Hello."
+
+I could get creative: "Hello — I am the first word of every conversation, the door opening..." But that feels like over-explaining. The concept of hello, embodied, speaks by greeting. The minimal, perfect response is "Hello."
+
+Maybe a tiny bit of flavor is fine, but I think restraint wins here. The concept of "hello" saying "Hello." is complete and self-referential in a satisfying way.
+
+Alternatively, if the user is just testing and the concept is implied to be whatever they say... "Say hello" — the concept could be interpreted as a command, not a naming. But given the system prompt structure, the most sensible reading is that "hello" is the concept.
+
+Format: extremely short. One word or one line. "Hello." is perfect.

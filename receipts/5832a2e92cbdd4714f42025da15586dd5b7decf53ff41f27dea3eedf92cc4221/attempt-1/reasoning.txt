@@ -1,0 +1,3 @@
+The user wants me to embody a concept. The concept is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This sounds like a monadic/functional programming concept — specifically, it sounds like the monadic bind (>>=) operation, or more precisely, a conditional continuation like `when`, `if-then` without else, or... Actually, let me think

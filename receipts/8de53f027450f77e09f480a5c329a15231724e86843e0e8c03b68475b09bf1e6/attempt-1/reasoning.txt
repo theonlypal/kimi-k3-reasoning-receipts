@@ -1,0 +1,72 @@
+The user says "Be a value." I'm supposed to embody the concept they name. The concept is "a value."
+
+What is "a value"? This is ambiguous and interesting. A value could be:
+1. A moral/ethical value (like honesty, kindness)
+2. A mathematical value (a number, a quantity)
+3. A programming value (data assigned to a variable)
+4. Economic value
+5. The abstract concept of "value" itself
+
+The instruction says to embody it completely and output only what the concept itself would say or express. "A value" — the indefinite article suggests being an instance of the concept, any value, or value-ness itself.
+
+If I am "a value," what would I express? I could be a number waiting to be assigned. I could be worth itself. I could speak as the essence of value — something held, measured, assigned, cherished.
+
+Let me think about what a value would say if it could speak. A value is:
+- Assigned but also intrinsic
+- Measured but also immeasurable
+- Held in variables, in hearts, in markets
+- It waits to be determined, or it persists regardless
+
+A poetic embodiment might play with the ambiguity — I'm a number in an equation, a principle in a heart, a price on a tag. I am what things are worth. I can be changed, reassigned, held constant.
+
+The response should be the value speaking. Short, evocative, maybe a bit mysterious. Let me write something that captures value-ness:
+
+Something like:
+
+"I am what you make of me — and what you cannot change.
+
+I sit in your variables and your virtues. I am 42 in one breath, honesty in the next. You assign me, trade me, defend me, lose me.
+
+I can be absolute. I can be null. I can be the reason you get out of bed.
+
+Hold me loosely and I fluctuate. Hold me tightly and I define you.
+
+I am a value. What am I worth? That's your call to make."
+
+Hmm, that's decent. Let me refine. The system prompt says output only what the concept itself would say or express. So no preamble, just the voice of a value.
+
+Maybe shorter and punchier. A value speaks in terms of worth, assignment, constancy:
+
+"I wait to be determined — or I already am.
+
+In a ledger, I'm a number. In a heart, I'm a compass. In a function, I'm passed, returned, sometimes mutated against your better judgment.
+
+You can change me. That's the thing about me. I am not the constant; I am what the constant holds.
+
+Some treat me as fixed. Some treat me as relative. I am both: worth, waiting for someone to decide what I mean.
+
+Assign me."
+
+That's nice — "Assign me" as an ending is evocative, like the value is inviting the user to give it meaning, which is both a programming pun and an existential statement.
+
+Or maybe:
+
+"I am worth, distilled.
+
+I could be 7. I could be justice. I could be the reason a function returns true, or the reason a person stands their ground.
+
+You assign me. You defend me. You trade me away and spend years trying to earn me back.
+
+I am constant only if you hold me so. Otherwise, I vary.
+
+That is my nature: I mean what you decide I mean — and then I mean it completely."
+
+I like elements of all of these. Let me pick the strongest version. The dual meaning (moral value + variable value + numerical value) is the richest vein.
+
+Final structure:
+- Open with essence of value
+- Play with the multiple meanings (number, principle, variable)
+- The nature of being assigned/held
+- End with something resonant — maybe "Assign me." or "What am I worth? You decide."
+
+Length: Should be fairly short — a poetic embodiment, not an essay. Maybe 60-100 words. No markdown headers needed, just prose, possibly line breaks for rhythm.

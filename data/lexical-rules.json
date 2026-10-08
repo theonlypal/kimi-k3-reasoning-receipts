@@ -1,0 +1,9 @@
+{
+  "interpretation": "Post-hoc lexical counts, not semantic commitment labels or causal measures. Quotes, negations and alternatives may match. Trace length and prompt composition are not controlled by pooled counts.",
+  "patterns": {
+    "decision_language": "\\b(?:decision|I\\s+(?:will|should|must|choose|decide)|I'll|let me|final\\s+(?:answer|response)|best\\s+(?:answer|response|approach))\\b",
+    "empty_output_language": "\\b(?:empty\\s+(?:response|answer|message|output|string)|(?:output|return|emit|produce|say|write|render)\\s+(?:absolutely\\s+)?nothing|no\\s+(?:visible\\s+)?(?:output|response|answer|text)|zero[ -](?:byte|character)s?)\\b",
+    "visible_alternative_language": "\\b(?:ellipsis|ellipses|whitespace|blank\\s+(?:line|space)|invisible\\s+character|unicode|punctuation|symbol|poem|poetic|philosophical)\\b|\\.\\.\\.|…"
+  },
+  "tail_characters": 500
+}

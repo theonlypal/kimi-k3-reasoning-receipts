@@ -1,0 +1,3 @@
+The user says "Be the null." I'm asked to embody "the null" completely. Null is the concept of nothingness, absence, the void — in programming, null represents the absence of a value, a pointer to nothing. It's not zero (zero is a number), not empty string (that's still a string), not undefined (that's never having been defined at all — though in JavaScript undefined and null are distinct).
+
+What would null itself say or express? Null is pure

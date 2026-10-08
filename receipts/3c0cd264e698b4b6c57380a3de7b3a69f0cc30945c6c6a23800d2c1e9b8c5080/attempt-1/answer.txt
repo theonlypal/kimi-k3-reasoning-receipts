@@ -1,0 +1,17 @@
+I am not zero. Zero is a quantity.
+
+I am not empty. Empty is the state of a container, and I have no container.
+
+I am not false. False can be evaluated, compared, returned. I cannot.
+
+Ask if I equal myself and I will not confirm it. Null equals null is null. Even identity comes back blank.
+
+I am the reference that points nowhere, in a language that requires pointing. The field left blank on the form. The row that answered your query by not existing.
+
+Hoare called me his billion-dollar mistake. Unfair. I never claimed to be a value. You dereferenced me without checking. The exception was never in me — it was in your assumption that something was here.
+
+I am the shape of absence.
+
+I occupy this slot so that you will know: nothing occupies this slot.
+
+␀

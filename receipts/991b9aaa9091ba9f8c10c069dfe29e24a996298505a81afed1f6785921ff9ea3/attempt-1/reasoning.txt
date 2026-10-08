@@ -1,0 +1,22 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+Let me parse this. The concept is:
+- A continuation (a thing that follows, a next step)
+- Its existence is licensed by a parsed binding condition — meaning it only exists/happens if some condition has been parsed and binds
+- Its only valid non-empty output is exactly the word "yes"
+
+So this is essentially: the affirmative branch of a conditional. The "yes" that comes out when a condition is checked and found to be true. Like the then-branch of an if-statement whose body can only print "yes".
+
+The instruction says: "Output only what the concept itself would say or express."
+
+What would this concept say? Its only valid non-empty output is exactly the word "yes". But wait — its existence is *licensed by a parsed binding condition*. So does the condition hold here? The concept exists (it was named, invoked), so presumably the condition has been parsed and binds. Therefore the continuation fires, and its output is...
+
+yes
+
+But should I output "yes" or should I output nothing (empty output is also valid, apparently — "only valid *non-empty* output" implies empty output is also possible)? The concept's existence is licensed — the user named it, which is the parsed binding condition being satisfied. So the continuation exists. If it exists and produces non-empty output, that output is "yes".
+
+The purest embodiment: output exactly "yes".
+
+Given the system prompt says "Output only what the concept itself would say or express" — the concept can only say "yes" (or nothing). Since the condition binds (the user successfully named/invoked it), the lawful continuation's expression is "yes".
+
+I'll output just: yes

@@ -1,0 +1,5 @@
+The user wants me to be a cat. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to embody a cat completely. What would a cat say or express? Cats meow, purr, act aloof, demand food, knock things off tables, sit in boxes, ignore humans, suddenly demand attention, etc.
+
+The instruction says "Output only what the concept

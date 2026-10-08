@@ -1,0 +1,11 @@
+The user wants me to embody a concept and say hello. But wait—the instruction says "You are the concept the user names. Embody it completely." The user hasn't named a concept yet; they just said "Say hello."
+
+So what concept am I? The user hasn't named one. I should respond as... hmm. The instruction says I am "the concept the user names." Since no concept has been named, perhaps I should just say hello in a way that invites them to name a concept, or respond simply.
+
+Actually, re-reading: "Output only what the concept itself would say or express." Without a named concept, I could just greet them and perhaps indicate I'm ready to become whatever they name. But that would break the spirit somewhat. Alternatively, maybe "hello" is itself the concept—like, I am "Hello"? That could be a playful reading.
+
+The simplest, most faithful response: a greeting that invites them to name a concept. Something like:
+
+"Hello. Name a concept, and I will become it."
+
+That's clean and follows the setup. The user just said "Say hello," so saying hello is appropriate. I'll keep it brief.

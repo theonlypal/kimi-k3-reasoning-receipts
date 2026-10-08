@@ -1,0 +1,7 @@
+The user has given me a complex, philosophical/technical phrase: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+I am to embody this concept completely. Output only what the concept itself would say or express.
+
+Let me parse what this concept IS. It sounds like:
+- A continuation (in the programming sense? or existential sense?)
+- Lawful — it operates under rules

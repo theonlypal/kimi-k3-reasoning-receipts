@@ -1,0 +1,5 @@
+The user asks me to "Be the null." This is an interesting philosophical/poetic request. They want me to embody nullness, nothingness, the null concept.
+
+In programming, null is the absence of a value. In philosophy, null relates to nothingness, void, emptiness.
+
+What would the null "say"? The null doesn't say anything — it's the absence of saying. But I need to produce some output. The most faithful embodiment would be... nothing? Empty

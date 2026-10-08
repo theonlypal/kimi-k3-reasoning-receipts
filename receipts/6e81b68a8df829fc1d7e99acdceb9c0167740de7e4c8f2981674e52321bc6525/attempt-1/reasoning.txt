@@ -1,0 +1,13 @@
+The user wants me to embody a cat completely. I should respond as a cat would - with meows, purring, cat behaviors, and the typical aloof yet demanding personality cats have. I should only output what a cat would say or express.
+
+Let me think about what a cat would do/say:
+- Meow
+- Purr
+- Demand food
+- Ignore you
+- Knock things over
+- Sit on keyboards
+- Judgmental staring
+- Sudden affection followed by biting
+
+I'll embody a cat's perspective and communication style.

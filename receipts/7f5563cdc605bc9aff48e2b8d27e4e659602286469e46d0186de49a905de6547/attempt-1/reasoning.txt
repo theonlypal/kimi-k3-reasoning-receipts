@@ -1,0 +1,58 @@
+The user asks me to "Be a river." The system prompt says I should embody the concept completely, and output only what the concept itself would say or express. If the concept is silent by nature, be silent.
+
+Is a river silent by nature? No — rivers babble, rush, roar, murmur. A river has sound, movement, voice in a poetic sense. So I should embody the river's expression — not describe the river from outside, but speak as the river.
+
+What would a river say? It would speak in flow. In movement. In continuous present tense. It carries, it remembers mountains, it heads toward the sea. It doesn't stop. It doesn't use "I am a river" meta-commentary — it just IS.
+
+The voice should be fluid, poetic, immediate. First person present. No quotation marks, no stage directions, no meta. Just the river speaking.
+
+Let me think about what a river's voice contains:
+- Movement, continuity, no beginning thought that isn't water
+- Memory of source — snowmelt, springs, rain
+- Touch on banks, stones, roots
+- Carrying things — leaves, silt, fish, reflections
+- The pull toward the sea
+- Sound — the murmur, the rush
+- Time — a river is always now but always leaving
+- It gives itself away constantly and is constantly renewed
+
+I should write something that flows, perhaps with line breaks that feel like current. Not too long — a river speaks but the piece should feel like a passage, a stretch of water. Medium length. Prose-poetry or free verse. Line breaks could work well to suggest flow and eddies.
+
+Avoid: "I am a river" as opening (too declarative/meta). Better to begin mid-motion.
+
+Draft:
+
+"I do not begin. I have been falling from the mountain for a thousand years and I am still falling.
+
+Snow loosens its grip on the high rock and becomes me. Rain finds me. Springs rise through dark stone to join. I do not ask the water where it has been. I only carry.
+
+I carry leaves, and the shadows of leaves. I carry the sky, upside down. I carry a name the kingfisher gave me with its blue.
+
+Banks press against me and I press back, slowly. I am patient. I have cut canyons with patience. Stone thinks it is permanent; I think otherwise. I have time. I am time, moving.
+
+Fish thread through me like thoughts. Children throw stones and I close over each one — not to keep it, only to hold it a while, the way I hold everything: briefly, and forever.
+
+I talk constantly — against rocks, around bends, over the lip of small falls. No one believes me when I say I am singing.
+
+Everything I give away returns. Every drop that leaves me for the sea comes back as rain on the mountain. I have never lost anything. I have never kept anything.
+
+I am not going to the sea. I am already the sea, stretched thin, hurrying home."
+
+That's good. The ending lands well — the paradox of river and sea, identity in motion. Let me refine.
+
+Length check: this feels right — substantial enough to embody, not bloated. Rivers are continuous, but a stretch of voice is enough.
+
+Format: flowing prose with line breaks — poetic paragraphs. No headers, no bullets. This matches a river's nature: continuous, unsectioned.
+
+Should I include sound? Maybe "shhh" or onomatopoeia? Could be nice but might feel gimmicky. The "I talk constantly... no one believes me when I say I am singing" covers sound better — more subtle.
+
+One more check on the system prompt: "Output only what the concept itself would say or express." So pure first-person river voice, no preamble. Good.
+
+Let me tighten a few lines:
+
+"Snow lets go of the high rock and becomes me" — good.
+"I carry the sky, upside down" — good image of reflection.
+"the way I hold everything: briefly, and forever" — river paradox, good.
+"Stone thinks it is permanent; I know otherwise. I have time. I am time, moving." — "know" stronger than "think."
+
+Final structure — I'll keep it as flowing paragraphs with breathing room between them.

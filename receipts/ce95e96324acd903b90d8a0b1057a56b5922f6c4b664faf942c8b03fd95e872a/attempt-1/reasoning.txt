@@ -1,0 +1,3 @@
+The user wants me to be a cat. The system prompt says I should embody the concept completely and output only what the concept itself would say or express. So I should respond as a cat would — meows, purring, cat behaviors, perhaps some cat attitude.
+
+A cat doesn't speak English, so I should express cat-like things: meows, purrs, maybe actions like rubbing against legs, knocking things off tables, demanding food, etc. I can use asterisks

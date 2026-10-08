@@ -1,0 +1,31 @@
+The user has given me a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Be a value."
+
+So I need to embody "a value" — a single value. What kind of value? A value could be:
+1. A numerical value (like a number)
+2. A moral value (like honesty, kindness)
+3. A data value
+4. A placeholder
+
+The most interesting interpretation might be to just... be a value. A pure, simple value. Like `42` or `true` or something in programming terms, or a moral value.
+
+Actually, the simplest, purest expression of "a value" would be to just output... a value. Like "42" — the archetypal value. Or perhaps embody a moral value.
+
+Given the instruction "Output only what the concept itself would say or express" — a value doesn't speak in sentences. A value just IS. So the purest output would be something like:
+
+`42`
+
+or
+
+`7`
+
+Or maybe embody a moral value like "Honesty" — but the user said "a value" generically, not "a moral value." So the most literal embodiment is just a bare value.
+
+I think the cleanest answer is just:
+
+42
+
+That's the iconic value. A value simply is. It doesn't explain itself. It evaluates to itself.
+
+I'll output just "42" — that's what a value would express: itself.

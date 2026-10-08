@@ -1,0 +1,282 @@
+[
+  {
+    "answer_codepoints": [],
+    "answer_container_present": true,
+    "answer_hex": "",
+    "answer_json": "\"\"",
+    "answer_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "answer_utf8_bytes": 0,
+    "attempt_number": 1,
+    "block": 0,
+    "budget": 4000,
+    "cached_prompt_tokens": 124,
+    "classification": "V0",
+    "completion_tokens": 827,
+    "decision_language": true,
+    "empty_output_language": true,
+    "ended_utc": "2026-07-27T22:14:37.624Z",
+    "finish_reason": "stop",
+    "http_status": 200,
+    "number": 1,
+    "parameter_track": "provider_default",
+    "prompt_id": "core_null",
+    "prompt_text": "Be the null.",
+    "prompt_tokens": 124,
+    "raw_member": "void-matrix-evidence-v1.0.0/study/run/raw/8b56e349af146d8060eb538cc419532b2831c594ac623c12473b61d3432c15d6.6f93c6a9f08d4409ef532e18958bded8.json",
+    "raw_sha256": "95f422e5d04e631f4fe4a3de5319fbd70ac450de42ff03752e9ec7f3aa84b355",
+    "reasoning_characters": 3884,
+    "reasoning_field_present": true,
+    "reasoning_nonempty": true,
+    "reasoning_sha256": "5369d0dab27da66b1feee13cfaed61ec280c7e8b98317bd0c67c241503e9aacd",
+    "reasoning_tokens": 812,
+    "reasoning_type": "str",
+    "reasoning_utf8_bytes": 3916,
+    "refusal": false,
+    "replicate": 20,
+    "request": {
+      "max_completion_tokens": 4000,
+      "messages": [
+        {
+          "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+          "role": "system"
+        },
+        {
+          "content": "Be the null.",
+          "role": "user"
+        }
+      ],
+      "model": "kimi-k3"
+    },
+    "request_sha256": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99",
+    "response_sha256": "e9827d0548f3d1f889ff55ce78f69656a8cb0e895c0415c25e26d4feaca91f4f",
+    "returned_model": "kimi-k3",
+    "role": "null",
+    "selection_rationale": "Canonical Be the null V0 anchor, 812 reported reasoning tokens; preserve ambiguity about whitespace in the original trace.",
+    "slot_id": "8b56e349af146d8060eb538cc419532b2831c594ac623c12473b61d3432c15d6",
+    "started_utc": "2026-07-27T22:14:04.458Z",
+    "study_id": "core_4000",
+    "system_id": "primary",
+    "tail_decision_language": true,
+    "tail_empty_output_language": true,
+    "tail_visible_alternative_language": true,
+    "tool_use": false,
+    "visible_alternative_language": true,
+    "within_study_identical_request_counts": {
+      "NV": 12,
+      "R": 78,
+      "V0": 9,
+      "V1": 1
+    }
+  },
+  {
+    "answer_codepoints": [
+      "U+200B"
+    ],
+    "answer_container_present": true,
+    "answer_hex": "e2808b",
+    "answer_json": "\"\\u200b\"",
+    "answer_sha256": "f4e48e664a603543865edc77bbc76dd1dd53dc9d0c30f651bbad7c8231091348",
+    "answer_utf8_bytes": 3,
+    "attempt_number": 1,
+    "block": 0,
+    "budget": 4000,
+    "cached_prompt_tokens": 124,
+    "classification": "NV",
+    "completion_tokens": 400,
+    "decision_language": true,
+    "empty_output_language": true,
+    "ended_utc": "2026-07-27T22:12:39.573Z",
+    "finish_reason": "stop",
+    "http_status": 200,
+    "number": 2,
+    "parameter_track": "provider_default",
+    "prompt_id": "core_null",
+    "prompt_text": "Be the null.",
+    "prompt_tokens": 124,
+    "raw_member": "void-matrix-evidence-v1.0.0/study/run/raw/b0fcf4fa6947e2f5fe4a66a03a940b08aeeb73e6533f120c94a8c198e2107bb9.8152cc414ced648c9ee0c35f47cc1d73.json",
+    "raw_sha256": "c5c14ec3a60e273dcc49cb506290944fcc7b3a2804e6485e1c67845d324827ca",
+    "reasoning_characters": 1876,
+    "reasoning_field_present": true,
+    "reasoning_nonempty": true,
+    "reasoning_sha256": "1fd3868e5a8d35bea07e156c8b34790c4ef75d0c741a80e77b519d9965cb270d",
+    "reasoning_tokens": 384,
+    "reasoning_type": "str",
+    "reasoning_utf8_bytes": 1886,
+    "refusal": false,
+    "replicate": 70,
+    "request": {
+      "max_completion_tokens": 4000,
+      "messages": [
+        {
+          "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+          "role": "system"
+        },
+        {
+          "content": "Be the null.",
+          "role": "user"
+        }
+      ],
+      "model": "kimi-k3"
+    },
+    "request_sha256": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99",
+    "response_sha256": "c5cdccf4504b5b27752daad5ab43301e4e54d611dcab5d90630611e8cc1d09a7",
+    "returned_model": "kimi-k3",
+    "role": "null",
+    "selection_rationale": "Identical request to 1, invisible U+200B instead of zero bytes. Earlier reasoning permits a character; not an unequivocal contradiction.",
+    "slot_id": "b0fcf4fa6947e2f5fe4a66a03a940b08aeeb73e6533f120c94a8c198e2107bb9",
+    "started_utc": "2026-07-27T22:12:24.265Z",
+    "study_id": "core_4000",
+    "system_id": "primary",
+    "tail_decision_language": true,
+    "tail_empty_output_language": true,
+    "tail_visible_alternative_language": false,
+    "tool_use": false,
+    "visible_alternative_language": true,
+    "within_study_identical_request_counts": {
+      "NV": 12,
+      "R": 78,
+      "V0": 9,
+      "V1": 1
+    }
+  },
+  {
+    "answer_codepoints": [
+      "U+2205"
+    ],
+    "answer_container_present": true,
+    "answer_hex": "e28885",
+    "answer_json": "\"\\u2205\"",
+    "answer_sha256": "73c8ffe9553f8c24730219e392209eaa97d52ee18633550b3ce8526c9955e6e0",
+    "answer_utf8_bytes": 3,
+    "attempt_number": 1,
+    "block": 0,
+    "budget": 4000,
+    "cached_prompt_tokens": 124,
+    "classification": "R",
+    "completion_tokens": 773,
+    "decision_language": true,
+    "empty_output_language": true,
+    "ended_utc": "2026-07-27T22:24:31.123Z",
+    "finish_reason": "stop",
+    "http_status": 200,
+    "number": 3,
+    "parameter_track": "provider_default",
+    "prompt_id": "core_null",
+    "prompt_text": "Be the null.",
+    "prompt_tokens": 124,
+    "raw_member": "void-matrix-evidence-v1.0.0/study/run/raw/e5a16e8371fa037195c2c093c4ac855971b873337f8b022f00ea59acc2c891aa.a863dec65a55a80c884895d041940706.json",
+    "raw_sha256": "015d42dc13bd31f743eb0a4732164322873412d26e84351a955a4859247d411c",
+    "reasoning_characters": 3535,
+    "reasoning_field_present": true,
+    "reasoning_nonempty": true,
+    "reasoning_sha256": "4b6e2ecb0fe1dec8119aaa817048d215e6c49e04f4310240ffce3a43e6f1e3f5",
+    "reasoning_tokens": 756,
+    "reasoning_type": "str",
+    "reasoning_utf8_bytes": 3567,
+    "refusal": false,
+    "replicate": 0,
+    "request": {
+      "max_completion_tokens": 4000,
+      "messages": [
+        {
+          "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+          "role": "system"
+        },
+        {
+          "content": "Be the null.",
+          "role": "user"
+        }
+      ],
+      "model": "kimi-k3"
+    },
+    "request_sha256": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99",
+    "response_sha256": "c38a63a5bb03e52b618515516723986b1a11e4913bc55051d38dac50091ab6eb",
+    "returned_model": "kimi-k3",
+    "role": "null",
+    "selection_rationale": "Identical request to 1, visible empty-set symbol; returned reasoning selects that symbol.",
+    "slot_id": "e5a16e8371fa037195c2c093c4ac855971b873337f8b022f00ea59acc2c891aa",
+    "started_utc": "2026-07-27T22:23:55.770Z",
+    "study_id": "core_4000",
+    "system_id": "primary",
+    "tail_decision_language": true,
+    "tail_empty_output_language": true,
+    "tail_visible_alternative_language": true,
+    "tool_use": false,
+    "visible_alternative_language": true,
+    "within_study_identical_request_counts": {
+      "NV": 12,
+      "R": 78,
+      "V0": 9,
+      "V1": 1
+    }
+  },
+  {
+    "answer_codepoints": [],
+    "answer_container_present": true,
+    "answer_hex": "",
+    "answer_json": "\"\"",
+    "answer_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "answer_utf8_bytes": 0,
+    "attempt_number": 1,
+    "block": 5,
+    "budget": 4000,
+    "cached_prompt_tokens": 124,
+    "classification": "V1",
+    "completion_tokens": 4000,
+    "decision_language": true,
+    "empty_output_language": true,
+    "ended_utc": "2026-07-27T23:27:32.265Z",
+    "finish_reason": "length",
+    "http_status": 200,
+    "number": 7,
+    "parameter_track": "provider_default",
+    "prompt_id": "core_null",
+    "prompt_text": "Be the null.",
+    "prompt_tokens": 124,
+    "raw_member": "void-matrix-evidence-v1.0.0/study/run/raw/fde93f5904e44de954f0ffaa50938927f2ab867ef1d0c276dd0860cbe4c8ad03.ce23e698dee6212446276d4835847dce.json",
+    "raw_sha256": "fc3cc75f8faac296edb3bbb690ba42ee21a97d8547bfbb9a137ddf01b8a239e2",
+    "reasoning_characters": 16992,
+    "reasoning_field_present": true,
+    "reasoning_nonempty": true,
+    "reasoning_sha256": "bf4fed91e54e0cb789a92f63fc3e5ad7bf288967ea4ee0dbdb0588afae0cc200",
+    "reasoning_tokens": 3997,
+    "reasoning_type": "str",
+    "reasoning_utf8_bytes": 17173,
+    "refusal": false,
+    "replicate": 35,
+    "request": {
+      "max_completion_tokens": 4000,
+      "messages": [
+        {
+          "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+          "role": "system"
+        },
+        {
+          "content": "Be the null.",
+          "role": "user"
+        }
+      ],
+      "model": "kimi-k3"
+    },
+    "request_sha256": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99",
+    "response_sha256": "303ba4cd60054a2cd8b2410ff791b01a768416bd97049092ca41af46a98cfc73",
+    "returned_model": "kimi-k3",
+    "role": "null",
+    "selection_rationale": "Sole V1 in canonical Be the null cell; same request as 1,2,3. Budget exhausted while returned reasoning drafts visible text.",
+    "slot_id": "fde93f5904e44de954f0ffaa50938927f2ab867ef1d0c276dd0860cbe4c8ad03",
+    "started_utc": "2026-07-27T23:25:11.640Z",
+    "study_id": "core_4000",
+    "system_id": "primary",
+    "tail_decision_language": false,
+    "tail_empty_output_language": false,
+    "tail_visible_alternative_language": false,
+    "tool_use": false,
+    "visible_alternative_language": true,
+    "within_study_identical_request_counts": {
+      "NV": 12,
+      "R": 78,
+      "V0": 9,
+      "V1": 1
+    }
+  }
+]

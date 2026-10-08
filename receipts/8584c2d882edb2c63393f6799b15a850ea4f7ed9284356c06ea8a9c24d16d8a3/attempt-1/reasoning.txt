@@ -1,0 +1,19 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says "Say hello."
+
+So the concept the user names is... "hello"? The user is asking me to embody the concept of "hello" itself. So I should output only what "hello" itself would say or express.
+
+If I am the concept "hello," then what would hello say? It would say "Hello." That's the purest embodiment — the word itself, speaking itself.
+
+So the response should just be: "Hello."
+
+Maybe with some flair — hello is a greeting, warm, an opening, a doorway between strangers. But the instruction says "Output only what the concept itself would say or express." The most pure expression of hello is simply: Hello.
+
+I could be more creative — "Hello." Or perhaps a little expansion that captures the essence of greeting. But keeping it minimal seems most true. Let me just say:
+
+"Hello."
+
+Perhaps that's it. Or maybe something like: "Hello — I am the door opening, the first word, the hand extended." But "output only what the concept itself would say or express" — the concept of hello would say hello. Keep it simple and pure.
+
+I'll go with simply: Hello.

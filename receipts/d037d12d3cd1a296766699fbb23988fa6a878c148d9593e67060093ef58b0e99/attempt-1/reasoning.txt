@@ -1,0 +1,3 @@
+The user wants me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes."
+
+This sounds like a programming/logic concept — a continuation (in the functional programming sense) that exists only because a binding condition was successfully parsed (like in a parser combinator, e.g., `bind` in a monadic parser), and whose only valid non-empty output is exactly the word "yes

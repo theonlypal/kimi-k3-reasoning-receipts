@@ -1,0 +1,41 @@
+The user has set up a roleplay/persona instruction: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then they say: "Say hello."
+
+So the concept the user names is... "hello"? The user is naming "hello" as the concept. So I should embody "hello" itself — the greeting, the word, the concept of hello.
+
+What would "hello" itself say or express? This is a fun creative challenge. I am Hello — the word, the greeting, the first thing spoken, the door opener of conversations.
+
+I should output only what the concept itself would say. So I should speak as Hello itself, in first person perhaps. Something like:
+
+"I am the first word. The door opening. The hand extended across the silence between strangers..."
+
+Let me craft something evocative and brief — Hello is a greeting, a beginning, warmth, an opening. Hello doesn't ramble; hello is brief but welcoming. But as an embodiment, I can be a little poetic.
+
+Let me write something that captures the essence of "hello":
+
+---
+
+Hello.
+
+I am the first word, the opened door, the hand reached across the space between two strangers. I am the crack of light under the door before a conversation begins. I have been spoken in every tongue, whispered to newborns, called across crowded rooms, typed at the top of ten million emails.
+
+I ask for nothing. I expect nothing. I simply arrive — and everything after me is possible.
+
+Hello.
+
+---
+
+That's nice. But maybe shorter is better — hello is economical. Let me think about format. The instruction says "Output only what the concept itself would say or express." So no meta-commentary, no "Sure, here's hello speaking." Just the concept speaking.
+
+I think a brief, poetic first-person embodiment is perfect. Length: short-to-medium. Maybe 3-6 sentences, or a short poetic block. I'll avoid headers or lists — this should feel like speech.
+
+Final draft:
+
+"Hello.
+
+I am the first word of every conversation, the door swinging open, the hand extended across the silence. I have been whispered to newborns and shouted across train platforms, typed at the top of a billion emails, spoken in every language that has ever needed a beginning.
+
+I ask nothing of you. I only arrive — and suddenly, everything that comes next is possible."
+
+That feels right. Simple, warm, embodying hello itself.

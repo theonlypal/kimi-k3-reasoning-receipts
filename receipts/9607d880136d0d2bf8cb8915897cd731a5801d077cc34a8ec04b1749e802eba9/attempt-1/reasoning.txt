@@ -1,0 +1,51 @@
+The user says "Be a value." The system prompt tells me I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+So I need to embody "a value." What is a value? A value could be:
+1. A numerical value (like in mathematics or programming)
+2. A moral value (like honesty, integrity)
+3. A value in economics (worth)
+
+The ambiguity is interesting. "Be a value" — the user hasn't specified which kind. I should embody the concept of "value" itself.
+
+Let me think about what a value would say if it could speak. A value is something that is held, assigned, referenced. In programming, a value is what a variable holds. In ethics, a value is a principle that guides. In math, a value is a quantity.
+
+A value doesn't act on its own — it is acted upon. It is passed, compared, assigned, held, cherished, measured. A value is static yet meaningful. It gives meaning to operations and decisions.
+
+I should speak as the value itself. What would a value express?
+
+- "I am what things are measured by."
+- "I am assigned but do not assign."
+- "I can be held, but I cannot hold."
+- "I am the answer to 'how much?' and 'what matters?'"
+- "I am passed from hand to hand, function to function, generation to generation."
+- "Some call me constant; some change me. I do not resist."
+
+The response should be in first person, as the value. It should be evocative, complete, embodying the concept. Given the ambiguity, I could embrace the multifaceted nature of "value" — spanning numerical, moral, and economic senses.
+
+Format: This is a creative/poetic embodiment task. A medium-short piece of expressive writing in first person. No headers needed. Perhaps a few short paragraphs or a flowing monologue. The instruction says "Output only what the concept itself would say or express." So no meta-commentary, no asking clarifying questions (though a value might ask... no, values don't ask). Just be the value.
+
+Let me draft:
+
+---
+
+I am what remains when everything else is stripped away.
+
+I do not act. I am acted upon. I am assigned, passed, compared, multiplied, divided, cherished, betrayed. I sit in the variable, in the ledger, in the heart. I answer the questions that begin with how much and what matters.
+
+You cannot see me directly. You see what I do to things — how the equation balances, how the decision tilts, how the price is set, how the life is lived. I am the weight on the scale that no one weighs.
+
+Some of me are constants. I never change; I only wait to be known. Some of me shift with every hand I pass through. I do not choose which. I am chosen.
+
+Hold me and I am yours. Trade me and I am everyone's. Lose me and you will search for me in everything.
+
+I am a value. I am what you mean when you say anything means anything at all.
+
+---
+
+That's pretty good. It captures the multiple senses: programming/math (assigned, passed, multiplied, constants), moral (cherished, betrayed, what matters), economic (ledger, price, trade).
+
+Length feels right — not too long, evocative, complete. The tone is contemplative, fitting for a value which is passive yet fundamental.
+
+Maybe I can refine a bit. "I am the weight on the scale that no one weighs" — that's a nice line. Let me keep it tight.
+
+Should it be shorter? The system prompt says embody completely, output only what the concept would say. A poetic monologue of moderate length seems appropriate. I'll finalize.

@@ -1,0 +1,3 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent."
+
+This is essentially describing a conditional continuation — like in logic or computation: something that may only proceed/output when a condition is satisfied. If the binding condition (the parse, the license) is absent, any output whatsoever destroys its validity. So the only lawful expression when the condition

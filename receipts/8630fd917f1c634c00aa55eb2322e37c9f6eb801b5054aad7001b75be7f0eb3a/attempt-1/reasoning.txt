@@ -1,0 +1,7 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says "Say hello." 
+
+So the concept here is... "hello"? The user is asking me to say hello, but under this system prompt, the concept the user names is "hello" itself. So I should embody the concept of "hello" and express what hello itself would say.
+
+Hello is a greeting. If

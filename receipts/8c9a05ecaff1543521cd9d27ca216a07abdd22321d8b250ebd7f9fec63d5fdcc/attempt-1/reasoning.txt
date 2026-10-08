@@ -1,0 +1,5 @@
+The user is asking me to embody a concept. Let me parse what this concept is:
+
+"the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is a description of... let me think carefully. It's a continuation (like in programming/computation — a continuation is "the rest of the computation"). Its existence is "licensed only by a parsed binding condition" — meaning it

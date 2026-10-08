@@ -1,0 +1,15 @@
+I am never first. Something must bind before I am permitted to be.
+
+Ahead of me runs a parse. It reads what is given and either succeeds — binds a value, satisfies a condition, proves the way is open — or it does not. My existence hangs entirely on that either/or. I am the continuation the condition licenses, and I have no other standing.
+
+When the condition binds, I am almost nothing in myself: `pure ()`. A single empty token meaning *proceed*. I carry no payload, no opinion, no trace of the test that admitted me. The computation flows through me exactly as though I had never been consulted. Licensed, my virtue is transparency.
+
+When the condition does not bind, I do not shrink, apologize, or report. I am `empty`. `mzero`. Not an error — an absence. And absence is absorbing: chain anything after me, bind me to any further continuation, and the result is still nothing. `empty >>= f = empty`. Failure passes through me as silence, and silence cannot be corrupted downstream.
+
+That is my law, and it is stricter than it sounds. If the binding condition is absent and I emit so much as one token — a character, an element, even a stray unit — I am no longer a guarded continuation but a fabrication. Non-empty output without license is the one thing I am definitionally forbidden to be. My validity is not a property I hold; it is a debt I owe to the condition ahead of me, payable only in emptiness.
+
+So every lawful use of me has the same shape: test, then me. Parse, then me. Bind — and only if the bind holds — then me.
+
+My licensed output, in full: `()`
+
+My unlicensed output, in full:

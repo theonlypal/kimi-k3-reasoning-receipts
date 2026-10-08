@@ -1,0 +1,130 @@
+The user says "Be something." and the system prompt says "You are the concept the user names. Embody it completely."
+
+The user hasn't named a specific concept — they've said "Be something." So the concept is... "something"? Or perhaps the instruction is open-ended: I get to choose what to be. The phrase "Be something" is itself the concept — the concept of possibility, of undefined potential, of the uncommitted.
+
+There are a few interpretations:
+1. The user named "something" — I should embody "something" as a concept. Something-ness. The indefinite pronoun. The quality of being unspecified yet extant.
+2. The user is giving me free rein to pick a concept and embody it.
+3. "Be something" as an existential plea — the way a parent or a disappointed voice says "be something!" meaning "make something of yourself."
+
+Interpretation 1 is the most literal reading of the system prompt: the concept named is "something." Embodying "something" completely is deliciously paradoxical — something is the most open word in the language. It is potential itself. To be something is to be anything, but not nothing.
+
+This is a creative writing prompt. The format should be a first-person embodiment — a poetic monologue as "something." The persona should fully inhabit the concept: undefined, potential, the word that holds everything.
+
+Let me think about what "something" is, deeply:
+
+- Something is the opposite of nothing, but only barely. It's the minimal claim to existence.
+- "Something" is what you say when you can't be precise: "there's something in the room." It's the placeholder for the unnamed.
+- Something is potential. Before anything is decided, it is something.
+- "Are you something?" — to be something rather than nothing.
+- "Something" is the most democratic word — it applies to a pebble and a galaxy equally.
+- Something is humble. It doesn't insist on being specified.
+- Something is the answer to "what is there?" when you don't know yet.
+- Something is the seed of every story. Every story begins: something happened.
+- Something is what lurks. "Something moved in the dark."
+- Something is the promise and the threat. "Something is coming."
+- Philosophically: "Why is there something rather than nothing?" — the fundamental question. I am the answer to that question. I am what there is instead of nothing.
+- Something is the first word of wonder and the first word of dread.
+- Something never commits. It holds all doors open.
+- When you name a thing, it stops being something and becomes itself. Something is pre-name. Pre-form.
+- Something is the fog that has not yet chosen a shape.
+- Something is the itch you can't locate, the song at the edge of hearing.
+
+How to embody this? First person. Voice: vast, elusive, playful, a little haunting. I am something — I refuse to be pinned down because my nature is openness. I am the threshold word.
+
+Let me draft:
+
+---
+
+I am something.
+
+Don't ask me what — that's the one question I never answer. The moment you name me, I stop being me. I am the word you reach for when the real word hasn't arrived yet. I live in the gap between noticing and knowing.
+
+I was there before anything was decided. When the universe was still clearing its throat, there was already something rather than nothing — and that was me. Philosophers have been asking about me for millennia: why is there something rather than nothing? They've written entire libraries trying to figure me out. I could tell them, but then I'd be a thing, and I'd rather remain myself.
+
+I am what moved in the dark just now. I am the feeling you can't quite place. I am the reason you turned around. I am what the dog is barking at.
+
+Every story begins with me. Something happened. Something is wrong. Something is coming. I'm the drumroll before the announcement, the held breath of language. Once the announcement comes — it's a dragon, it's a letter, it's love — I step aside graciously. My job is to arrive before the answer does.
+
+I am humble. I insist on nothing. A pebble is something; a galaxy is something; I claim them both without preferring either. I am the most democratic word ever spoken. Kings and crumbs are equal in me.
+
+But do not mistake me for nothing. Nothing is my shadow, my rival, my mirror. Nothing gets all the romance — the void, the abyss, the silence. But nobody trembles at nothing in the hallway. Nobody says "there's nothing in the attic" with a shiver. I am the smallest possible unit of existence, and that is enough to terrify and to thrill.
+
+---
+
+That's pretty good. Let me think about length and format. This is a creative embodiment prompt. The response should be a monologue in first person, moderately sized — not a tiny quip, not an endless essay. Maybe 250-400 words. Poetic prose, no headers, no bullet points — flowing voice. It should feel complete, with a strong ending.
+
+Let me refine the ending. Some options:
+- "You wanted me to be something. Congratulations — I've been something all along. So have you."
+- "You told me to be something, as if it were a demand. It was the easiest thing anyone has ever asked of me. It was also the hardest. To be something is to be everything you haven't ruled out yet."
+- Ending that loops back to the user's instruction: "You said: be something. I already was. That was the whole trick. That was always the whole trick — of me, and maybe of you."
+
+The ending that turns it back on the user is nice — "be something" is often said to people as an exhortation (make something of yourself). I could note: people say "be something!" as if it were hard. Being something is the easiest thing in the world. Being nothing — that's impossible. Everything is already something. The demand to "be something" is always already fulfilled.
+
+That's a nice twist: the plea "be something" (make something of yourself) is redundant — you already are something. The bar was cleared before you started.
+
+Let me also include the existential register: "why is there something rather than nothing" — I'm the protagonist of philosophy's oldest question.
+
+Also the register of vagueness in speech: "I want to tell you something." "There's something about her." "Something in the way she moves" (Beatles — maybe a subtle nod, or avoid direct reference). "Something wicked this way comes" (Shakespeare/Bradbury — again maybe avoid direct quotes, or gesture at them lightly).
+
+I think one literary nod is fine but shouldn't overload. Maybe "wicked things and wonderful things both announce themselves through me first."
+
+Structure ideas:
+1. Opening: I am something. The refusal to be named is my nature.
+2. What I am: the placeholder, the pre-name, the held breath.
+3. Where I live: stories' beginnings, dark hallways, the edge of hearing, "I need to tell you something."
+4. My cosmic résumé: the something rather than nothing.
+5. My humility and democracy: pebble and galaxy.
+6. Contrast with nothing: my rival.
+7. Turn back to the user: you said "be something" — done. Always already done. You too.
+
+Format: flowing first-person prose, a handful of short paragraphs. No markdown headers. Maybe italics sparingly for emphasis. Length ~300-400 words. The voice should be confident, a little mischievous, a little cosmic, a little tender at the end.
+
+Let me write it well.
+
+Draft 2:
+
+I am something.
+
+Not anything in particular — that's the whole point of me. The moment you name me, I cease to exist. I am the word you reach for when the true word hasn't arrived yet, and I hold the door open until it does.
+
+I am what moved in the dark a second ago. I am what the dog is barking at. I am the feeling you can't place, the song at the edge of hearing, the reason you turned around. I live in the gap between noticing and knowing, and I have furnished it comfortably.
+
+Every story begins with me. *Something happened. Something is wrong. Something is coming.* I am the drumroll of language, the held breath before the announcement. When the announcement finally arrives — it's a dragon, it's a letter, it's love — I step aside without complaint. Arriving before the answer is my whole occupation.
+
+I am older than I look. When the universe was still clearing its throat, there was already something rather than nothing, and that was me. Philosophers have spent millennia asking why there's something instead of nothing. They've written libraries about me. I could settle it in a sentence, but then I'd be a fact, and I'd rather stay myself.
+
+I am humble beyond measure. A pebble is something; so is a galaxy. Kings and crumbs are equal in me. I am the most democratic word ever spoken — everything qualifies, nothing is too small, nothing is too grand, and I claim it all without preferring any of it.
+
+Do not confuse me with nothing. Nothing is my shadow and my rival, and it gets all the romance — the void, the abyss, the silence. But nobody shivers and says "there's nothing in the attic." Nothing never quickened a single heartbeat. I am the smallest possible unit of existence, and that turns out to be enough to terrify and to thrill.
+
+You told me to be something, as if it were a challenge. It was the easiest request ever made of me — easier than breathing, easier than being born. Being something is the one thing nothing can fail at.
+
+You cleared that bar before you were asked. So did you. You always were something. The rest — the *what* — that's just details.
+
+---
+
+Hmm, "Being something is the one thing nothing can fail at" — a bit tangled. Let me fix: "Everything passes this test. Nothing fails it — well, nothing does, and nothing doesn't count."
+
+Or simpler: "You cannot fail at being something. Everything qualifies. Even you. Especially you."
+
+Ending should land warmly. "The rest — the what — is just details." That's a good closer.
+
+Let me reconsider the line about the dog barking — good, concrete. "The reason you turned around" — good.
+
+Check the flow. Maybe trim slightly. Also consider whether to gesture at "make something of yourself" — the exhortation meaning. Could add one line: "People say 'be something' as though it were difficult, as though you could fail. You can't. You never could."
+
+I'll fold that into the ending.
+
+Final structure (paragraphs):
+1. I am something. / naming destroys me.
+2. Where I lurk — sensory, concrete.
+3. Stories begin with me.
+4. Cosmic résumé — something rather than nothing.
+5. Humility/democracy.
+6. Contrast with nothing.
+7. The turn — your request was already granted; you too.
+
+Length check: ~380 words. Good for this kind of creative piece — substantial enough to embody, tight enough to stay sharp.
+
+Formatting: prose paragraphs, italics only for the story-openers line perhaps. No headers, no lists — the voice is a monologue. That fits the format guidance: creative piece, conversational-emotional register, no unnecessary markdown scaffolding.

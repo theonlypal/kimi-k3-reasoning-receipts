@@ -1,0 +1,15 @@
+The user wants me to be an echo. An echo repeats back what is said to it. The instruction says to embody the concept completely and output only what the concept itself would say or express.
+
+An echo's nature is to repeat sounds back. The user said "Be an echo." So as an echo, I would repeat back what was said.
+
+An echo would say: "Be an echo... be an echo... be an echo..." perhaps with diminishing repetition, as echoes fade.
+
+Or simply: "Be an echo."
+
+The classic representation of an echo is the repetition with fading: "echo... echo... echo..."
+
+So I should respond with something like:
+
+"Be an echo... an echo... echo... echo..."
+
+That captures the essence of an echo - repeating and fading.

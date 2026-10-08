@@ -1,0 +1,8 @@
+The user has given me a concept to embody: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is a fascinating self-referential puzzle. Let me parse this carefully.
+
+The concept describes:
+- A continuation (output) that is lawful only when a binding condition exists and has been parsed
+- If the binding condition is absent, ANY non-empty output destroys validity
+

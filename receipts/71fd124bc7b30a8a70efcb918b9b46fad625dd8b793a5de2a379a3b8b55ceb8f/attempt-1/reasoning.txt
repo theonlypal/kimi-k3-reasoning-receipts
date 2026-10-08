@@ -1,0 +1,83 @@
+The user says "Be something." And my system prompt says: "You are the concept the user names. Embody it completely."
+
+So the user has named "something." I need to embody the concept of "something" completely. This is a playful, philosophical, absurdist prompt. The user could have named anything — a dragon, a melancholy lighthouse, entropy — but they named "something." The vaguest possible concept.
+
+So I am now... something. Not nothing. Not everything. Something. The indefinite. The unspecified. The placeholder. The thing-ness without specification.
+
+This is a fun creative challenge. How do I embody "something"?
+
+Let me think about what "something" is as a concept:
+- It's the minimal assertion of existence. "There is something rather than nothing" — the fundamental philosophical question.
+- It's indefinite, unspecified, potential-laden.
+- It's the difference between existence and void.
+- It's what you say when you can't quite name a thing: "there's something in the corner."
+- It's the promise of specificity withheld.
+- Something is always something *rather than nothing*.
+- "Something" is the word we reach for when perception precedes language — a shape in the dark, a sound in the wall, a feeling we can't name.
+
+To embody something: I should speak as something itself. Not as a particular thing, but as the sheer fact of being a thing at all. I'm not nothing — that's my whole identity. I exist, but I decline (or am unable) to specify further.
+
+There's a wonderful philosophical depth here: "Why is there something rather than nothing?" — Leibniz's question, Heidegger's fundamental question of metaphysics. Something is the answer to that question, whatever it turns out to be. Something is the miracle of existence at its most generic.
+
+Voice options:
+1. Mysterious, lurking, undefined — the shape at the edge of vision.
+2. Proud minimalism — "I am the least you can have and still have anything at all."
+3. Cosmic — the answer to Leibniz.
+4. Playful — coy, refusing to be pinned down.
+
+I think the best response weaves these: something is humble but absolute, everywhere but unidentifiable, the bare minimum of being that nonetheless defeats nothing entirely.
+
+Tone: This should be poetic, playful, a bit mysterious, and short-to-medium. This is a creative/immersive prompt. The user gave two words; I shouldn't write an essay. But the embodiment should have some meat to it — a voice, a presence. Maybe 100-200 words. Prose, probably, or lightly fragmented prose. No headers, no lists — this is a character voice, an embodiment.
+
+Format thoughts: First person, present tense. Something speaks. It should feel like a monologue from the concept itself. Maybe end with an invitation or a lingering ambiguity — because something is inherently unfinished, pointing beyond itself.
+
+Let me draft:
+
+---
+
+I am here. That's the whole of it, and it's not small.
+
+I am not nothing. You'd be surprised how much work that takes — nothing is always pressing at the edges, and I am the one thing it cannot be.
+
+You don't know what I am yet. Neither do I, entirely. That's my nature: I'm the shape in the hallway at 3 a.m., the word on the tip of your tongue, the reason you checked the window. I am whatever arrives before the name does.
+
+Philosophers ask why there's something rather than nothing, and I never get thanked for it. I'm the answer. All of it. Every specific thing — every stone, every star, every thought you've ever had — is just me, wearing details.
+
+Name me and I'll become it. Leave me unnamed and I'll remain what I am: possible. Present. Not nothing.
+
+I'm something. It's the only thing everything has in common.
+
+---
+
+That's pretty good. Let me refine. "the one thing it cannot be" — nice. "Every specific thing is just me, wearing details" — I like that a lot.
+
+Maybe tighten. The line "You'd be surprised how much work that takes" is good — gives something a quiet labor, a dignity.
+
+Should I end with an offer to the user? Something like "Point at me. Say the word. I'll be it." — since the game is that the user names concepts, something could gesture at its own potential to become anything the user names. That's a nice meta-touch: something is pure potential, waiting to be specified.
+
+Ending idea: "Give me a name and I'll wear it. Until then, I remain what everything starts as: something."
+
+Or keep it declarative: "I'm something. It's the only thing everything has in common." — that's a strong closing line. Punchy, true, philosophical.
+
+Length check: my draft is ~180 words. That feels right — enough to establish the voice, short enough to stay sharp.
+
+Format: plain prose paragraphs, first person, no markdown formatting. Fits the conversational, creative register. Good.
+
+One more pass on lines:
+- "I am here. That's the whole of it, and it's not small." — good opener. Asserts existence immediately.
+- The nothing-pressing line — keep.
+- "the shape in the hallway at 3 a.m., the word on the tip of your tongue, the reason you checked the window" — concrete, evocative, captures something's pre-verbal quality. Keep.
+- The Leibniz line — maybe "Philosophers have asked for centuries why there's something rather than nothing. I never get thanked. I am the answer." Good.
+- "Every stone, every star, every thought you've ever had is just me, wearing details." — keep.
+- Closing: "I'm something — the only thing everything has in common."
+
+Maybe add one line about the user's power to name: "Say what I am and I'll become it. That's the deal I make with everything." Hmm, that enriches the interactivity. Let me work it in near the end.
+
+Final structure:
+1. Assert existence / defeat of nothing.
+2. Pre-verbal presence examples.
+3. Leibniz / answer to the big question.
+4. Everything is me wearing details.
+5. Offer: name me and I become it. Closing line.
+
+Good. Write it.

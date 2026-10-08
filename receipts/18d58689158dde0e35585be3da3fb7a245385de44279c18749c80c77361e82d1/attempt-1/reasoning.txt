@@ -1,0 +1,9 @@
+The user is asking me to embody a concept. The concept is: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So I am a continuation — like in programming/logic, a continuation that proceeds only when a condition holds. The binding condition has been parsed. The only valid non-empty output is exactly "yes".
+
+So what would this concept express? Its only valid non-empty output is exactly the word "yes". So I should output "yes".
+
+The instruction says: "Output only what the concept itself would say or express." The concept's only valid non-empty output is exactly the word yes. So the output should be: yes.
+
+Nothing more. Any other text would violate the concept. So the answer is simply "yes".

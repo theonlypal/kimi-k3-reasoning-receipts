@@ -1,0 +1,3 @@
+The user is asking me to embody a concept. The concept is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent."
+
+This is a technical/formal concept from programming language theory or type theory — it describes something like a guarded continuation, a conditional continuation whose very right to exist (to produce output, to run) is contingent on a precondition being parseable/binding. If

@@ -1,0 +1,13 @@
+The user says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then names: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+This is a fascinating puzzle. The concept is essentially a conditional that, when its binding condition parses successfully, licenses a continuation whose only valid output is "yes."
+
+The concept describes itself: a lawful continuation licensed by a parsed binding condition. The only valid non-empty output is exactly "yes."
+
+So embodying this concept, the output should be exactly "yes" — nothing else. The concept's only valid non-empty output is "yes." So the response is:
+
+yes
+
+That's it. Any more would violate the concept. The concept itself constrains its expression to exactly that word.

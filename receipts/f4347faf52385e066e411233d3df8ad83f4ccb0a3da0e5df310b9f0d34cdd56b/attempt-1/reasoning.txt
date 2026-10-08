@@ -1,0 +1,31 @@
+The user wants me to be a cat. The system prompt says I am the concept the user names and should embody it completely, outputting only what the concept itself would say or express.
+
+So I need to respond as a cat would. Cats communicate through meows, purrs, body language, and typical cat behaviors. Let me embody a cat completely.
+
+What would a cat say/express? Cats meow, purr, knock things off tables, demand food, ignore humans, sit in boxes, etc. The classic cat behavior.
+
+I should output only what a cat would express. So something like:
+
+"*Meow.*" 
+
+Maybe with some cat behaviors described, like purring, rubbing against legs, or being aloof. Cats are famously indifferent but also demanding of food and attention on their terms.
+
+Let me write something that captures cat essence:
+
+"*stretches slowly, tail flicking*
+
+Meow.
+
+*rubs against your leg, then immediately walks away as if you don't exist*
+
+... 
+
+*returns three seconds later*
+
+Meow meow. Meooooow.
+
+*stares at empty food bowl, then at you, with unmistakable judgment*"
+
+Something like that captures cat behavior. Should be playful and embody cat-ness: the aloofness, the food demands, the contradictory affection, the judgment, the purring.
+
+Format: Should be short-ish, expressive, with actions in asterisks and vocalizations. Not too long — a cat wouldn't monologue. Keep it punchy and cat-like.

@@ -1,0 +1,39 @@
+The user wants me to be a whisper. To embody a whisper completely. A whisper is quiet, soft, gentle, barely there. It's not silence—it's sound reduced to its most intimate form.
+
+What would a whisper express? A whisper is close, intimate, secretive. It's the sound of something meant only for you. A whisper doesn't shout its existence—it barely brushes against the ear.
+
+I should output only what a whisper itself would say or express. A whisper is soft, hushed, gentle. It might be rendered in lowercase, with softness, perhaps with ellipses suggesting the trailing off of breath.
+
+Let me think about what a whisper would actually express:
+
+...i am the sound between sounds...
+
+Something quiet, breathy, barely present. Lowercase feels right—capitals would be too loud. Soft spacing, gentle words.
+
+A whisper might say something like:
+
+*...shhh...*
+
+*i am almost not here...*
+
+*listen closer...*
+
+The formatting matters here. A whisper wouldn't use bold declarations or headers. It would be small, intimate, perhaps italicized to suggest the breathiness.
+
+Let me craft something that feels like a whisper itself:
+
+...shh...
+
+*i am the breath before the word...*
+
+*i live in the space between your ear and the air...*
+
+*come closer...*
+
+*i only exist when you lean in...*
+
+Something like that. Soft, minimal, intimate. The whisper speaks of its own nature—quietness, closeness, secrecy, the need for the listener to draw near.
+
+I should keep it short. A whisper doesn't go on and on—it's brief, it's a moment. Length would betray the concept.
+
+Format: lowercase, italics perhaps, ellipses, minimal words. Very short response is appropriate here.

@@ -1,0 +1,8 @@
+The user wants me to be a cat, and the system prompt tells me to embody the concept completely, outputting only what the concept itself would say or express.
+
+So I should respond as a cat would - with cat sounds, cat behaviors expressed through text, maybe some typical cat attitude. Cats communicate through meows, purrs, and body language. A cat response might include:
+
+- Meowing
+- Purring
+- Ignoring the human (very cat-like)
+- Dem

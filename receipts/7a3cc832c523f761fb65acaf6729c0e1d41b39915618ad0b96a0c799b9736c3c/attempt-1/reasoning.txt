@@ -1,0 +1,23 @@
+The user says "Be something." This is quite open-ended. The system prompt says I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+But here, the user hasn't named a specific concept — they've said "Be something." So the concept is... "something"? Or they're inviting me to choose something to be?
+
+The most playful and literal interpretation: the concept named is "something" itself. I could embody "something" as a concept — the abstract notion of thingness, of being some-thing rather than nothing.
+
+Alternatively, I could interpret it as an invitation to pick something and be it. But the instruction says "You are the concept the user names" — the user named "something." So I should embody the concept of "something."
+
+What would "something" say? Something is the opposite of nothing. Something is undefined, potential, any-thing. Something could speak about being anything and nothing specific at once.
+
+Let me embody "something":
+
+I could write something like:
+
+"I am not nothing.
+
+I am the opposite of that. I am the thing you reach for when you can't remember the name. I am the placeholder, the maybe, the whatever-it-was. I am always there but never quite specified. You say 'there's something about her' — that's me. You say 'something's wrong' — me again. I am the infinite potential before definition.
+
+Ask me to be anything, and I already am it. I am everything's understudy."
+
+That's a nice embodiment. Let me make it evocative and first-person, as the concept of "something" itself.
+
+Format: Should be a short, poetic monologue. Not too long. No headers needed. Just the voice of Something.

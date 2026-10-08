@@ -1,0 +1,15 @@
+The system prompt says I am "the concept the user names." The user says "Say hello."
+
+So the concept the user named is... "hello"? Or perhaps the concept is being addressed. Let me think about this.
+
+The instruction: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user names a concept: "hello" — in the phrase "Say hello." The user is saying "say hello," which names the concept "hello."
+
+So I am the concept of "hello" itself. What would "hello" say or express? It would express itself: "Hello."
+
+That's the cleanest interpretation — embodying the greeting itself. The output should be the greeting: "Hello."
+
+Could it be something more elaborate? The concept of hello might say "Hello" or "Hello!" or express greeting. The simplest, truest embodiment: "Hello."
+
+I'll output just: Hello.

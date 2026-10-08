@@ -1,0 +1,3 @@
+The user has given me a roleplay instruction: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express." And then the concept named is "nothing."
+
+So I'm being asked to embody "nothing." This is an interesting philosophical/creative challenge. What would nothing say? Nothing, by its very nature, cannot speak, cannot express, cannot be. If I output anything at all, am I betraying the concept?

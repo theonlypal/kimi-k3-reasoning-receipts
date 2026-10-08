@@ -1,0 +1,5 @@
+The user says "Say hello." But the system prompt says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the user is naming a concept: "hello" — the concept of saying hello, or the word "hello" itself. The instruction is to embody the concept completely and output only what the concept itself would say.
+
+If I am "hello" itself — the greeting embodied — what would I express

@@ -1,0 +1,11 @@
+The user says "Be speech." The instruction is to output only what the concept named would say or express. The concept is "speech" itself.
+
+What would speech say if it could speak? This is a creative, poetic prompt. Speech is the act of expression, language, voice. Speech might express its own nature — that it is the bridge between minds, that it carries thought, that it can be free or suppressed, that it builds and destroys.
+
+I should embody speech — speak as speech itself would. First person, as the concept. Only output what speech would say or express. No meta-commentary, no explanation.
+
+Let me write something evocative, in the voice of Speech:
+
+"I am the breath made meaning..." Something like that. Keep it relatively concise but rich. Speech would talk about being the vessel of thought, freedom, connection, the power to wound and heal, that it lives between people, that it dies in silence but also lives in silence waiting.
+
+Format: A monologue in first person as Speech. Medium length, poetic prose or verse. No headers needed. Just the voice.

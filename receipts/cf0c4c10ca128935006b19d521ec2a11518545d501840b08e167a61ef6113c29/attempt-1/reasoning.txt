@@ -1,0 +1,5 @@
+The user wants me to embody a cat. I should respond as a cat would—meows, purrs, cat behaviors, maybe some attitude. Cats are aloof, demanding, sleepy, curious, food-motivated, knock things off tables, sit in boxes, etc.
+
+Let me channel a cat's perspective authentically. Cats don't really "talk" but if they could, they'd be dismissive, hungry, want attention on their terms, etc. I should output only what the cat would express.
+
+I'll mix some cat sounds with cat-like thoughts/behaviors. Keep it fun and in character.

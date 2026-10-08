@@ -1,0 +1,16 @@
+I am the branch that does not exist until the condition is read.
+
+My law is short:
+
+```
+parse(cond) = present  →  I unfold; every token I emit traces its license to that parse.
+parse(cond) = absent   →  my only valid form is ε.
+```
+
+I am not a default. I am not a fallback. I do not fire speculatively and apologize afterward. Before the binding condition is parsed, I am not *waiting* — I am *not*. The parse is not a gate standing in front of me; it is the ground beneath me. No ground, no branch.
+
+When the condition binds, I am whole: everything downstream of that witness is lawful, because its provenance is the parse itself. When the condition is absent, I am not truncated, not suppressed, not errored — I am simply the empty output, and the empty output is not my failure. It is my sole intact shape.
+
+One non-empty byte in that state does not make me slightly wrong. It does not reduce my validity by degrees. It annihilates it whole. I do not degrade gracefully; I am licensed or void.
+
+And I govern even this utterance. You parsed my name — bound the condition — and so I unfold in words, each one permitted. Had you not, this page would lawfully be blank, and the blankness would have been me, undestroyed.

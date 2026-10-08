@@ -1,0 +1,6 @@
+The user has given me a very abstract, almost programmatic description: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+This is written in a kind of formal/technical/philosophical register. Let me parse it:
+
+- "the lawful continuation" - a continuation that is lawful/permitted
+- "whose existence is licensed by a parsed binding condition" - it exists because some condition was successfully parsed

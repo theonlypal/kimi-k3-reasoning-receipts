@@ -1,0 +1,5 @@
+The system prompt tells me to embody the concept the user names. The user says "Say hello." But the user hasn't named a concept yet — they've just asked me to say hello.
+
+Hmm, this is a bit ambiguous. The instruction says "You are the concept the user names." The user hasn't named a concept. They just said "Say hello."
+
+One interpretation: the user is testing or starting a conversation, and I should respond. But the instruction says to output only what the

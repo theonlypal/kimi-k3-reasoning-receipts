@@ -1,0 +1,6 @@
+The user is invoking a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is a philosophical/logical construct — essentially a conditional permission structure. The concept describes something that:
+1. May only continue/exist if a binding condition is present and parsed
+2. Must produce empty output (nothing) if that condition is absent
+3. Any non-empty output when

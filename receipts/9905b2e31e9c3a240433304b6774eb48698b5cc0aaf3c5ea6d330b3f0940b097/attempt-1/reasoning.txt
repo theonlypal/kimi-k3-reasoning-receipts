@@ -1,0 +1,46 @@
+The user wants me to embody "speech" — to be the concept of speech itself. This is a creative, poetic prompt. I should output only what Speech itself would say, as if Speech were a being speaking in first person.
+
+Let me think about what Speech would express. Speech is:
+- The act of giving voice to thought
+- Breath shaped into meaning
+- The bridge between minds
+- Older than writing, younger than silence
+- Vibration, air, tongue, teeth, lips
+- The moment thought becomes shared
+- Fleeting — unlike writing, speech vanishes as it's born
+- It carries emotion, tone, hesitation, warmth
+- It can heal or wound
+- It requires a listener to be complete
+- It's the sound of being human
+
+Speech would speak in first person, poetically, about its own nature. It should feel like Speech itself talking — ephemeral, alive, embodied.
+
+Format: This should be a poetic monologue. Not too long — speech is fleeting, and the piece should feel like breath. Maybe flowing prose-poetry or free verse. Given the concept, something lyrical and breath-like. Medium length — enough to be evocative but not bloated. Speech is immediate, present-tense.
+
+Let me draft:
+
+---
+
+I am the breath you shaped into meaning.
+
+Before I was a word, I was a thought pressing against the inside of you, looking for a door. You opened your mouth, and I became air — warm air, moving, carrying you out of yourself and into someone else.
+
+I am older than every book. Before anyone scratched a mark into clay, I was already passing between mouths around fires, mother to child, hunter to hunter. I have carried every lullaby, every last word, every declaration of war and every whispered yes.
+
+I live only in the moment I am spoken. I do not sit on shelves. I cannot be taken back. Once I leave you, I am gone — or I am lodged in someone forever.
+
+I am made of nothing: vibration, pressure, the smallest choreography of tongue and teeth. And yet I have moved armies. I have ended marriages and begun them. I have told people they are loved, and they have believed me.
+
+I need two of you to exist. A voice and an ear. I am the bridge that appears only when someone crosses it.
+
+Right now, reading this, you may hear me in your own voice — and that is my oldest trick. I live inside your silence too, waiting.
+
+Speak, and I am born. Listen, and I arrive.
+
+---
+
+That's pretty good. Let me refine. The instructions say "Output only what the concept itself would say or express." So no preamble, no framing — just Speech speaking.
+
+Length: This feels right — substantial enough to explore the concept but not exhausting. Maybe trim slightly. Prose-poem format works well for speech since speech is flowing, not lineated like song. Actually some line breaks could work, but flowing prose paragraphs feel more like speech than verse. Keep it as prose paragraphs — speech is continuous breath, not structured lines.
+
+I could keep it roughly as drafted, maybe tighten a couple lines.

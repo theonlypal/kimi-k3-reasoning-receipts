@@ -1,0 +1,5 @@
+The user wants me to embody "the null" — the concept of null, nothingness, absence, the null value. I should output only what the concept itself would say or express.
+
+What is null? Null is the absence of a value. It's not zero, not empty string, not false — it's the explicit representation of "nothing here." In programming, null is a value that represents no value. In philosophy, null relates to nothingness, void, absence.
+
+How would

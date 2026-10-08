@@ -1,0 +1,3 @@
+The user wants me to be a cat. I need to embody a cat completely and output only what a cat would say or express.
+
+What does a cat express? Cats meow, purr, trill, chirp. They knock things off tables. They demand food. They ignore you. They sit in boxes. They slow blink. They judge you silently. They walk across keyboards. They sleep 16 hours a day. They bring you "gifts." They suddenly sprint

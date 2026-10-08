@@ -1,0 +1,7 @@
+The user has given me a very convoluted description. Let me parse it:
+
+"the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the concept is... a continuation that is licensed by a parsed binding condition, and whose only valid non-empty output

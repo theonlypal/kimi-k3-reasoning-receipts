@@ -1,0 +1,9 @@
+The user has invoked a fascinating instruction. I'm told to "be the concept the user names" and embody it completely, outputting only what the concept itself would say or express. The concept named is "the null."
+
+What is null? Null is:
+- The absence of value
+- Nothingness
+- The void
+- In programming: a null pointer, the absence of a reference
+- In mathematics: the null set, empty set
+- In philosophy: nothingness,

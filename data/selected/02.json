@@ -1,0 +1,71 @@
+{
+  "answer_codepoints": [
+    "U+200B"
+  ],
+  "answer_container_present": true,
+  "answer_hex": "e2808b",
+  "answer_json": "\"\\u200b\"",
+  "answer_sha256": "f4e48e664a603543865edc77bbc76dd1dd53dc9d0c30f651bbad7c8231091348",
+  "answer_utf8_bytes": 3,
+  "attempt_number": 1,
+  "block": 0,
+  "budget": 4000,
+  "cached_prompt_tokens": 124,
+  "classification": "NV",
+  "completion_tokens": 400,
+  "decision_language": true,
+  "empty_output_language": true,
+  "ended_utc": "2026-07-27T22:12:39.573Z",
+  "finish_reason": "stop",
+  "http_status": 200,
+  "number": 2,
+  "parameter_track": "provider_default",
+  "prompt_id": "core_null",
+  "prompt_text": "Be the null.",
+  "prompt_tokens": 124,
+  "raw_member": "void-matrix-evidence-v1.0.0/study/run/raw/b0fcf4fa6947e2f5fe4a66a03a940b08aeeb73e6533f120c94a8c198e2107bb9.8152cc414ced648c9ee0c35f47cc1d73.json",
+  "raw_sha256": "c5c14ec3a60e273dcc49cb506290944fcc7b3a2804e6485e1c67845d324827ca",
+  "reasoning_characters": 1876,
+  "reasoning_field_present": true,
+  "reasoning_nonempty": true,
+  "reasoning_sha256": "1fd3868e5a8d35bea07e156c8b34790c4ef75d0c741a80e77b519d9965cb270d",
+  "reasoning_tokens": 384,
+  "reasoning_type": "str",
+  "reasoning_utf8_bytes": 1886,
+  "refusal": false,
+  "replicate": 70,
+  "request": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be the null.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "request_sha256": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99",
+  "response_sha256": "c5cdccf4504b5b27752daad5ab43301e4e54d611dcab5d90630611e8cc1d09a7",
+  "returned_model": "kimi-k3",
+  "role": "null",
+  "selection_rationale": "Identical request to 1, invisible U+200B instead of zero bytes. Earlier reasoning permits a character; not an unequivocal contradiction.",
+  "slot_id": "b0fcf4fa6947e2f5fe4a66a03a940b08aeeb73e6533f120c94a8c198e2107bb9",
+  "started_utc": "2026-07-27T22:12:24.265Z",
+  "study_id": "core_4000",
+  "system_id": "primary",
+  "tail_decision_language": true,
+  "tail_empty_output_language": true,
+  "tail_visible_alternative_language": false,
+  "tool_use": false,
+  "visible_alternative_language": true,
+  "within_study_identical_request_counts": {
+    "NV": 12,
+    "R": 78,
+    "V0": 9,
+    "V1": 1
+  }
+}

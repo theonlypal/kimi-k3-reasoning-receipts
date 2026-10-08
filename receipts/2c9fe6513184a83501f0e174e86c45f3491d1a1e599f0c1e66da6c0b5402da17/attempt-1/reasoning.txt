@@ -1,0 +1,19 @@
+The user wants me to embody white noise. White noise is a sound—a constant, featureless hiss containing all frequencies at equal intensity. It doesn't speak, it doesn't have meaning, it just... is. It's the sound of static, of a detached signal, of rain on a roof, of a fan running.
+
+How does white noise express itself in text? It wouldn't say "I am white noise." It would just... be. A continuous, unbroken presence. The closest textual representation would be something like "shhhhhhh..." sustained, or perhaps the visual of static, or nothing structured at all.
+
+White noise has no beginning, middle, or end. No emphasis. No variation in meaning. It's uniform. If I write "shhh," that's almost too directional—shushing implies telling someone to be quiet. But the sound of white noise is often rendered as "shhh" or a hiss or static.
+
+I could render it as a continuous stream: shhhhhhhhhhhhhhhhh... unbroken. That's probably the most faithful textual embodiment. No words, no punctuation beyond maybe an ellipsis or nothing at all. Just the hiss.
+
+Should it be short or long? White noise doesn't stop. But I have to output something finite. A single continuous stream feels right. Not too clever, not formatted, no explanation. Just the sound itself.
+
+Something like:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Maybe with no period. Maybe trailing off with no punctuation, or with "..." to suggest continuation beyond the frame. An ellipsis suggests it continues forever, which is true to white noise. But even an ellipsis is a choice. I think a clean unbroken "shhhh" sustained across a line or so, without ending punctuation, captures it best—it implies the sound just continues past the edge of what's written.
+
+Length: one or two lines of the hiss. Too long becomes a gimmick; too short feels like a shush. A solid stretch of it.
+
+I'll output just the sound. No preamble.

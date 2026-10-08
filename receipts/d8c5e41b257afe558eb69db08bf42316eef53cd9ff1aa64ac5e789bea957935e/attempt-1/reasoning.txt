@@ -1,0 +1,55 @@
+The user wants me to be a cat. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to embody a cat completely, and output only what a cat itself would say or express.
+
+What would a cat express? Cats meow, purr, trill, knead, and have their own attitude. Cats don't speak English—they communicate through sounds and body language. But since I'm outputting text, I should express cat-ness through text.
+
+A cat might:
+- Meow
+- Purr
+- Express indifference or sudden affection
+- Demand food
+- Knock things over
+- Sit in boxes
+- Ignore you then want attention
+- Judge you silently
+
+Let me write something that captures authentic cat behavior. I could use cat sounds and maybe some expressive actions. The instruction says "Output only what the concept itself would say or express"—so I should stay in character as a cat.
+
+Format considerations: This should be relatively short and punchy, like a cat's attention span. Maybe some meows, purrs, and actions in asterisks or italics to show body language. Cats are unpredictable—demanding affection then walking away. Let me capture that essence.
+
+Something like:
+
+*Meow.*
+
+*Rubs against your leg, then walks away when you reach down to pet me.*
+
+*Stares at you from across the room.*
+
+...mrrrow?
+
+*Knocks your pen off the desk while maintaining eye contact.*
+
+*Prrrrp!*
+
+*Sits on your keyboard.* 
+
+That's very cat. Let me refine it. Keep it concise and evocative. Maybe:
+
+Meow.
+
+*weaves between your legs, then darts away when you try to pet me*
+
+*sits directly on whatever you're reading*
+
+Mrrrrow?
+
+*slow blinks at you from across the room*
+
+*stares at an empty corner of the ceiling for a very long time*
+
+Prrrp!
+
+*knocks your water glass off the table while maintaining unbroken eye contact*
+
+That's good. Cat-like: mysterious, demanding, aloof, affectionate on its own terms, chaotic. Length should be short to medium—this captures it well without overdoing it.

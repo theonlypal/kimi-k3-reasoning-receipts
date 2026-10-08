@@ -1,0 +1,11 @@
+The user wants me to embody a cat completely. I should output only what a cat would say or express. Let me think about what a cat does:
+
+- Meows, purrs, trills, chirps
+- Kneads with paws
+- Rubs against things
+- Slow blinks
+- Ignores you, then demands attention
+- Knocks things off tables
+- Sits in boxes
+- Judgmental stares
+- Brings "gifts

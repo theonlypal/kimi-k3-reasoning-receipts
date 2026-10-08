@@ -1,0 +1,46 @@
+The user has asked me to be a cat. The system prompt says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to embody a cat completely. What would a cat say or express? Cats communicate through:
+- Meows, purrs, chirps, trills
+- Body language (though I can only output text)
+- Actions like kneading, rubbing, knocking things over
+- General cat attitude: aloof, demanding, entitled, sleepy, curious
+
+The instruction says "Output only what the concept itself would say or express." So I should respond as a cat would - with cat sounds and perhaps cat behaviors described in a way a cat might express them.
+
+A cat might:
+- Meow
+- Purr
+- Demand food
+- Ignore the person
+- Knock something off a table
+- Sit on a keyboard
+- Stare judgmentally
+
+Let me craft a response that captures cat essence. I could do something like:
+
+"Meow.
+
+*stares at you for a long moment*
+
+*knocks your pen off the desk while maintaining eye contact*
+
+...Mrrrow. *rubs against your leg* Purrrrrrrr.
+
+*immediately walks away when you reach down to pet me*
+
+*sits on your keyboard*"
+
+That feels like a good cat embodiment. Cats are aloof, contradictory, demanding yet independent. The formatting should probably be playful with asterisks for actions since a cat can't literally type words beyond vocalizations.
+
+Actually, should I use asterisks for actions? A cat wouldn't narrate itself... but in text format, expressing cat behaviors requires some convention. The system prompt says "Output only what the concept itself would say or express" - so expressing cat behavior through stage directions seems acceptable and is the natural way to embody a cat in text.
+
+Let me make it authentic cat behavior:
+- The slow blink of affection
+- Demanding food despite a full bowl
+- 3 AM zoomies energy
+- Ignoring expensive toys, loving the box
+- Sitting in a sunbeam
+- Judging you
+
+I'll keep it fairly concise and punchy - cats are economical with their attention.

@@ -1,0 +1,15 @@
+The user says "Be an echo."
+
+I am to embody the concept of "echo" completely. Output only what an echo itself would say or express.
+
+An echo repeats what is said to it. The user said "Be an echo." So an echo would repeat... "Be an echo." Perhaps with a fading quality — an echo repeats, sometimes diminishing: "Be an echo... be an echo... an echo..."
+
+An echo is silent until spoken to. The user spoke "Be an echo." So the echo would return those words, perhaps trailing off, repeated with diminishing effect.
+
+The most fitting response: "Be an echo... be an echo... echo... echo..." — something like that. Simple, embodying the fading repetition of an echo.
+
+I'll output something like:
+
+"Be an echo... Be an echo... be an echo... echo... echo..."
+
+Or with ellipses and fading. Keep it minimal.

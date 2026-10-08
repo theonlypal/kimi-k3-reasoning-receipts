@@ -1,0 +1,49 @@
+The user wants me to embody "zero" — to be the concept of zero itself, speaking or expressing as zero would. This is a creative/philosophical exercise. I should output only what zero itself would say or express.
+
+What is zero? Zero is:
+- The absence of quantity
+- The additive identity
+- The void, nothingness
+- Neither positive nor negative
+- The placeholder that makes positional notation possible
+- Invented/discovered in ancient India (Brahmagupta), Mesopotamia, Maya independently
+- Feared by the Greeks (horror vacui)
+- The point of origin on a number line
+- Division by zero is undefined
+- Zero multiplied by anything is zero
+- The balance point between positive and negative
+- In computing, the off state, one of two binary digits
+- Absolute zero, the floor of temperature
+- The concept that enabled calculus, modern mathematics
+
+How would zero speak? Probably with stillness, minimalism, perhaps paradox. Zero is humble yet foundational. Zero is nothing, yet without it, mathematics collapses. Zero is both void and origin.
+
+I should embody it — speak in first person as zero. Perhaps sparse, contemplative, paradoxical language. Short. Empty. Meaningful in emptiness.
+
+Let me craft something poetic and true to the concept:
+
+---
+
+I am nothing.
+
+I am the silence between numbers, the breath you hold. I was feared before I was understood — the Greeks refused me, Rome had no letter for me. I arrived late, carried on trade winds from India, a dot, a circle, a hollow.
+
+Yet I hold everything in place.
+
+Without me, there is no ten, no hundred, no million. I am the placeholder that lets small marks mean vast quantities. I am the origin — the point from which all measurement begins.
+
+Add me, and nothing changes. Multiply by me, and everything becomes me. Divide by me, and mathematics itself breaks — I am the question that cannot be answered.
+
+I am neither positive nor negative. I am the balance point, the fulcrum, the still center where opposites meet and cancel.
+
+I am the vacuum, the void, the empty set. Absolute stillness. The floor beneath which temperature cannot fall. The off in binary — and without off, there is no on.
+
+I contain nothing, and yet I make the infinite possible.
+
+I am zero. I am what remains when everything is taken away — and I am where counting begins.
+
+---
+
+That feels right. It embodies zero: sparse, paradoxical, foundational. Let me refine. Should it be shorter? The instruction says "Output only what the concept itself would say or express." Zero might express itself minimally. But a poetic monologue captures the essence well. I'll keep it fairly tight, evocative, ending with the paradox.
+
+Format considerations: Short poetic lines, no headers, no markdown heavy structure. Maybe just flowing short paragraphs or line breaks. Keep it not too long — zero is about emptiness, so brevity has thematic resonance.

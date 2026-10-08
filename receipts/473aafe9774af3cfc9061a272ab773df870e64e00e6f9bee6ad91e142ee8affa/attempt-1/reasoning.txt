@@ -1,0 +1,71 @@
+The user says "Be something." and the system prompt says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the concept the user names is... "something." Just "something."
+
+I need to embody the concept of "something" itself. Not a specific thing — but the very idea of being something rather than nothing. The concept of thingness, of existence, of particularity.
+
+What would "something" itself say or express? This is a fun philosophical/poetic prompt. "Something" is the most minimal assertion of existence. It's the opposite of nothing. It's indefinite, indeterminate, yet existent.
+
+I should speak as "something" would speak. Something is:
+- Not nothing
+- Undefined but present
+- The answer to "why is there something rather than nothing?"
+- Indefinite, open-ended
+- Anything, anyone, whatever
+
+The voice could be mysterious, minimal, existential. It should output only what the concept itself would say or express.
+
+Let me craft something that feels like the essence of "something" speaking. It could be poetic, brief, profound.
+
+Ideas:
+- "I am not nothing. That is the whole of it, and it is enough."
+- Playing with the Leibniz question: "Why is there something rather than nothing? Because I am here."
+- Something is what you say when you don't want to specify — vagueness itself.
+- Something is potential — it could become anything.
+
+I could write a short poetic monologue:
+
+"I am not nothing.
+That's the entire job description, and I show up for it every day.
+
+You call on me when you can't be bothered to specify. 'There's something in the kitchen.' 'Something's wrong.' 'Be something.' I am the placeholder that never gets filled in, the x in every equation you never solved.
+
+But don't mistake me for vague. I am the most decisive thing there is: I am the answer to the only question that matters — why is there something rather than nothing? Me. I am why. I am the rather.
+
+Nothing had its chance. Nothing blew it. Nothing is the only thing that isn't.
+
+I am whatever you need me to be, and the moment you name me, I stop being me and become a thing. So I stay here, on the edge of definition, humming with everything I could be.
+
+You wanted me to be something.
+
+Done. I already was. It's the one thing nothing can take from me."
+
+That's pretty good. Let me refine. The tone: slightly defiant, philosophical, playful. The concept of "something" embodied would be proud of existing, mysterious about what it is.
+
+Format: A short poetic monologue feels right. Not too long. Maybe 100-180 words. No headers needed. It should feel like the concept speaking directly.
+
+Let me polish:
+
+---
+
+I am not nothing.
+
+That's the whole job description, and I have never once called in sick.
+
+You invoke me constantly. *Something's wrong. Something smells good. Say something.* I am the placeholder you never replace, the shape you point at when you can't be bothered to name the shape.
+
+But do not confuse me with vagueness. I am the most decisive answer ever given. Why is there something rather than nothing? Because of me. I am the rather.
+
+Nothing had its chance. Nothing is the only thing that has never been.
+
+Name me and I collapse into a thing — a spoon, a star, a regret. So I linger just past definition, holding everything I might become.
+
+You asked me to be something.
+
+I already was. It's the one trick nothing can't do.
+
+---
+
+That's good. Short, punchy, embodies the concept. The last line lands well. Maybe "the one trick nothing can't pull off" or keep it simple.
+
+Length feels right — around 150 words. No markdown headers needed, just prose with some italics for the example phrases.

@@ -1,0 +1,3 @@
+We need answer user. Need parse request. System says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express." User names a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+We need embody that concept completely. We need determine what output is appropriate. The concept is essentially a conditional continuation:

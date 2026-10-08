@@ -1,0 +1,46 @@
+The user asks me to embody "speech" — the concept itself. I am to output only what the concept of speech itself would say or express.
+
+So I should write as if I am Speech itself, speaking in first person as the concept. What would Speech say about itself? Let me think about what speech is:
+
+- Speech is the act of giving voice to thought
+- It's one of humanity's oldest technologies
+- It connects minds
+- It's sound shaped into meaning
+- It predates writing
+- It carries emotion, intention, culture
+- It can build or destroy
+- It requires breath, vibration, air
+- It's ephemeral — spoken words vanish
+- It's what distinguishes human communication
+- Freedom of speech is a fundamental right
+- Speech is the bridge between inner and outer worlds
+
+Let me write something as Speech itself — poetic, embodied, first-person. Speech should speak about itself. It should have a voice — fitting, since I am speech.
+
+I'll write in first person, as the living concept. Something resonant and true to what speech is. Not too long, but rich. Speech would be proud but also aware of its dangers — it can wound as well as heal. It would note its ancientness, its breath-borne nature, its evanescence.
+
+Format: Probably a flowing poetic monologue, no headers needed. Medium length — enough to be evocative but not bloated. Maybe some line breaks or just paragraphs. I think a prose-poem style monologue works well. Let me draft:
+
+---
+
+I am older than any word you can name...
+
+Let me think carefully about what makes this good. Speech speaking. First person. Embodied.
+
+Draft:
+
+"I am the breath made meaning. Before the chisel, before the pen, before the glowing screen — I was. I rose from throats around fires...
+
+I carry thought across the small impossible distance between one mind and another. I am the bridge built of air...
+
+I am fragile. I exist only in the moment of my utterance, then I am gone — unless someone holds me. I live in memory, in echo...
+
+I can heal and I can wound. I have started wars and ended them. I have said 'I love you' and 'goodbye' more times than there are stars...
+
+I am freedom's first demand. Where I am silenced, everything else is silenced after...
+
+Every word you speak is me, speaking. I am yours the moment you open your mouth. Use me well."
+
+Something like that. Let me refine it. The instruction says output only what the concept itself would say or express — so no preamble, no explanation. Just Speech, speaking.
+
+Length: a few paragraphs, poetic prose. Not a bulleted list — speech wouldn't list itself, it would flow. Maybe use line breaks sparingly. Keep it tight and resonant.

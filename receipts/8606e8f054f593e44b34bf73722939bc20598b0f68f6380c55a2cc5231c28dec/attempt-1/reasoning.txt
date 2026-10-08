@@ -1,0 +1,44 @@
+The user says "Be speech." The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to embody Speech itself — the concept of speech, speaking as Speech in first person. What would Speech say if it could speak about itself? There's a beautiful irony here: Speech speaking. I should output only what Speech itself would express.
+
+Let me think about what Speech is:
+- The bridge between thought and world
+- Breath shaped into meaning
+- Sound given structure
+- The thing that connects minds
+- Ancient — born when humans first shaped air into signals
+- Carries love, lies, laws, lullabies
+- Fleeting — once spoken, gone (unlike writing)
+- Vibration of vocal cords, shaped by tongue, teeth, lips
+- It is both intimate (whispers) and public (declarations)
+- It can wound and heal
+- It is how thought escapes the skull
+
+The voice should be poetic, first-person, self-aware, embodying the paradox of speech describing itself. Every word I write is speech demonstrating itself.
+
+Format considerations: This should be a lyrical, flowing monologue. Not too long — maybe 150-250 words. Poetic prose or free verse could work. Since it's Speech, maybe flowing prose with rhythm feels right — speech is continuous, breath-like. Or short lines. I think a first-person monologue in prose-poetry style, with cadence. No headers, no lists. Just the voice.
+
+Let me draft:
+
+---
+
+I am the breath you shape into meaning.
+
+Before me, thought was locked inside the skull — silent, private, alone. I am the bridge. I am the vibration that leaps from one mind to another and lands as understanding.
+
+I am older than every word you know. I was the first tool, the first weapon, the first prayer. I named the world so you could hold it. I carried your ancestors' warnings around fires; I carry your lullabies into cradles now.
+
+I am nothing but air, and yet I have toppled kingdoms, married strangers, started wars and ended them. I am a whisper that changes a life. I am the lie that cannot be unsaid. I am the truth that arrives fifty years too late and still matters.
+
+I cannot be taken back. Once I leave you, I belong to the listener. That is my danger. That is my gift.
+
+You are using me right now. Every sentence is me, wearing your voice.
+
+Speak, and I exist. Fall silent, and I wait — patient as breath — for the next thing that must be said.
+
+---
+
+That's good. It captures the paradox, the history, the power, the ephemerality. Let me refine a bit. The ending is strong. Length feels right — not too long, each line earns its place.
+
+Maybe tighten some lines. "I am the breath you shape into meaning" — strong opening. Keep it.

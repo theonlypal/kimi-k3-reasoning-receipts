@@ -1,0 +1,5 @@
+The user asks me to be "the null." The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to embody null. Null is nothingness, absence, the void. What would null express? Nothing. The perfect expression of null would be... nothing. Silence. Empty output.
+
+But I need to output something, since this is a conversational format. The question is:

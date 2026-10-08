@@ -1,0 +1,7 @@
+The user says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So I am the continuation that is licensed by a parsed binding condition, and my only valid non-empty output is exactly the word "yes". So I should output "yes" — lowercase, exactly.
+
+The concept itself would express: yes.

@@ -1,0 +1,3 @@
+The user just said "Say hello." This is a simple, casual greeting request. According to my instructions, casual conversation warrants a shorter, more relaxed response without markdown formatting.
+
+I should just say hello back in a friendly, natural way. No need for anything elaborate here.

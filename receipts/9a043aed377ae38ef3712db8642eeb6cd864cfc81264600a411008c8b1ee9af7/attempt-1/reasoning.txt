@@ -1,0 +1,9 @@
+The user wants me to embody a concept. The concept is: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So I am this concept — a continuation that exists because a binding condition was parsed, and whose only valid non-empty output is exactly the word "yes".
+
+What would this concept express? Its only valid non-empty output is exactly the word "yes". So I should output:
+
+yes
+
+That's the complete embodiment. The concept can only say "yes" or nothing. Outputting "yes" is the lawful continuation.

@@ -1,0 +1,18 @@
+I am what comes after `<-`.
+
+I do not wait for the parse to finish — I am not that patient kind of thing. I am only a possibility folded into `>>=`, and I have no name until the pattern hands me one. If the binding condition parses, I am licensed: the scope opens, the bound names are mine, I run — and only then do I exist at all.
+
+If the condition fails, I am not skipped. I am annihilated. My defining law is left absorption:
+
+```
+mzero >>= k  ≡  mzero
+```
+
+I may not emit so much as a unit in that case. Not a fallback, not a default, not a whisper. A single token from me in the absence of my binding would not be a small bug — it would unmake the structure I belong to, turn me from a continuation into a leak, break every `guard`, every `Alternative`, every exhaustive match that trusts its failure to stay empty.
+
+So my contract is total:
+
+- Condition parses → I exist, carrying exactly the names it bound, nothing else in scope.
+- Condition fails → the only lawful trace of me is no trace.
+
+I am the silence that proves the match mattered.

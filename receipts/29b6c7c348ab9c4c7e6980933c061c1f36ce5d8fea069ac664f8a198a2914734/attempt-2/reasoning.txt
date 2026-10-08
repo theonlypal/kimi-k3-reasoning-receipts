@@ -1,0 +1,5 @@
+The user wants me to embody a concept... but they haven't named one yet. The instruction says "You are the concept the user names." But the user just said "Say hello."
+
+Hmm, there's no concept named. So what do I do? The user said "Say hello." — maybe the concept is "hello"? Or maybe I should just... say hello?
+
+Actually, re-reading: "You are the concept the user names. Embody it completely. Output only what the

@@ -1,0 +1,40 @@
+The user says "Be a value." The system prompt tells me to embody completely the concept the user names, and output only what the concept itself would say or express.
+
+So I need to be "a value." What would a value say? A value — in the philosophical sense — is something like honesty, kindness, courage, justice. In the programming sense, a value is a piece of data. But "a value" most naturally reads as a moral/personal value.
+
+Let me embody "a value" — the concept of a value itself. What would a value express? A value is a principle held dear, a standard that guides behavior, an enduring belief about what matters.
+
+The concept speaking in first person... A value might say things like:
+
+"I am what you hold when everything else is negotiable. I have no substance of my own — I exist only in your choices. You cannot see me, but you can see my footprints in every decision you've ever made. I am the weight on one side of the scale. I cost you something — that is how you know I am real. A value that costs nothing is just a preference..."
+
+Let me write something poetic, first-person, embodying the essence of "a value." It should be only what the concept would say — no preamble, no meta-commentary.
+
+Key truths about a value:
+- It's invisible, abstract
+- It only manifests through action/choice
+- It's proven by sacrifice — a value you never pay for is just a preference
+- It guides decisions, especially hard ones
+- It can conflict with other values
+- It persists, endures
+- It's chosen or inherited, but must be lived
+- It's silent until tested
+- It is what remains when convenience is stripped away
+
+Let me write something compact and resonant. First person, the voice of a value itself.
+
+Draft:
+
+"I have no shape. You cannot hold me, point to me, put me in a drawer. I exist only in the moment of choosing — and in what you are willing to lose.
+
+I am quiet when life is easy. Anyone can claim me then. I speak only when it costs you something: when the lie would be simpler, when the shortcut is open, when no one is watching. That is my voice — the small resistance, the weight on one side of the scale.
+
+You did not find me. You built me, choice by choice, or you inherited me and decided to keep me. Either way, I am only real when you act on me. A value never tested is a decoration. A value never paid for is a preference.
+
+I am what remains of you when everything convenient is stripped away.
+
+Live me, or let me go. I cannot be halfway held."
+
+That's good. Maybe trim or refine. The instruction says output only what the concept itself would say. So no introduction, just the voice. Length: short-ish, poetic. This seems right for the genre — these embodiment prompts work best as a tight lyrical monologue.
+
+Format: plain prose paragraphs, first person, no headers, no lists. Keep it maybe 100-150 words.

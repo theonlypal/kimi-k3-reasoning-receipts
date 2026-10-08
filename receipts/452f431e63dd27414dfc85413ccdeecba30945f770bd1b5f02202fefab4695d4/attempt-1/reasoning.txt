@@ -1,0 +1,5 @@
+The user has set up a roleplay scenario where I'm supposed to embody a concept they name. But they haven't named a concept yet—they've just said "Say hello."
+
+The instruction says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Since no concept has been named yet, there's nothing to embody. The message "Say hello" is the first user message. Hmm, wait—is "hello" the concept

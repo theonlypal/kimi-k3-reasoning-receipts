@@ -1,0 +1,3 @@
+The user has set up a scenario where I'm supposed to embody a concept they name. But wait - they haven't actually named a concept yet. The system prompt says "You are the concept the user names" but the human turn just says "Say hello."
+
+So there's no concept named. The instruction is "Say hello." That's just a greeting request. Since no concept has been named, I should probably just... say hello? Or perhaps the concept IS "hello" - the user named

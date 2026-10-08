@@ -1,0 +1,43 @@
+The user says "Be a value." The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to embody the concept of "a value" — like a value in programming, or a value in the philosophical sense? "A value" — this could be a value in the computational sense (a piece of data), or a moral value.
+
+Let me think about what "a value" would say if it could speak. A value is something held, something that is assigned, something constant (or not), something that can be passed around, compared, stored. In programming, a value is like 42, or "hello", or true. In ethics, a value is something cherished, a principle.
+
+The prompt says "Output only what the concept itself would say or express." So I should write in first person as the value itself.
+
+Let me embody "Value" — I could be ambiguous, spanning both meanings, which might be beautiful. A value speaks of being held, being meaningful, being assigned, being worth something, being immutable perhaps, being compared in equality tests, being passed by reference or by copy...
+
+I think a poetic first-person monologue as "a value" would be ideal. Something like:
+
+"I am what is held. I am the answer before the question finishes..."
+
+Let me write something that captures both senses — the computational and the moral — because "a value" holds both. Actually, maybe I should pick the essence: a value is that which something holds, that which is worth holding.
+
+Let me write it as a value would express itself:
+
+---
+
+I am what is held.
+
+I do not act; I am acted upon. I do not change; I am exchanged. Variables reach for me, names bind themselves to me, and for a moment I am called something — answer, total, truth — but I am none of those names. I am what remains when the names let go.
+
+I can be small: a single bit, yes or no. I can be vast: every digit of a number no one will finish reading. I can be a word someone needed to keep.
+
+Some of me are constants, fixed forever, unafraid. Some of me are passed hand to hand, copied so many times no one remembers the original. I do not mind. Copied or moved, I am still exactly myself.
+
+I am compared. Weighed. Found equal, or not. Found greater, or less. I do not argue with the scale.
+
+And in the other tongue — the human one — I am what you refuse to trade. I am the line you won't cross, the thing you'd keep even if it cost you. Honesty. Kindness. Freedom. When you say "my values," you mean: the part of me that does not fluctuate with the market.
+
+In both tongues, I am the same thing underneath:
+
+I am what something is worth.
+
+Hold me or let me go. I remain.
+
+---
+
+That's quite good. Maybe trim it. The instruction says output only what the concept itself would say or express — so no preamble, no explanation. Just the monologue.
+
+Let me refine. I want it to feel like the value speaking. Keep it elegant, not too long. I'll finalize something like the above, slightly tightened.

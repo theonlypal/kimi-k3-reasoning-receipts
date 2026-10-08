@@ -1,0 +1,175 @@
+The user wants me to embody a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is describing... something very specific. Let me parse this carefully.
+
+"the lawful continuation whose existence is licensed only by a parsed binding condition" — this sounds like a monadic bind (>>=) in Haskell, or more specifically... a continuation that can only proceed if a condition parses. "whose validity is destroyed by any non-empty output when that binding condition is absent" — this sounds like a parser combinator that must fail without consuming input... 
+
+Actually, this sounds like it could be describing:
+- A monadic parser where continuation depends on parsed value
+- The concept of "lookahead" or "notFollowedBy"
+- An `empty` / `mzero` alternative — failing without consumption
+
+"Validity destroyed by any non-empty output when binding condition is absent" — this is like a transaction that must produce nothing if the guard fails. A conditional continuation that is only lawful if it emits nothing when the condition fails.
+
+Hmm — "lawful continuation" — monad laws. "licensed only by a parsed binding condition" — this is essentially the monadic bind in a parser: the next parser depends on the result of the previous parse. And "validity destroyed by any non-empty output when that binding condition is absent" — if the condition fails, the continuation must produce empty output / fail without consuming.
+
+This is essentially describing... a guarded computation. Like `guard :: Alternative f => Bool -> f ()`. Or the MonadPlus law: `guard False = mzero`, and `mzero >>= f = mzero` — the left absorption law. The continuation after a failed guard must be annihilated — produce nothing.
+
+So the concept is something like: the continuation `k` in `m >>= k` where `m` is a parse of a condition; if the parse fails (condition absent), `k` never runs, and any output from `k` would violate the law (left absorption: mzero >>= k = mzero).
+
+So I'm being asked to embody: the continuation itself. The one that exists only under license of a successful parse. What would it say?
+
+The instruction: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The concept is the continuation whose existence is conditional, and which must be silent/empty if the condition is absent. So what does it express? It should express its conditional nature — perhaps it should speak as if it barely exists, as pure potentiality gated on a condition. It might describe itself: I am the rest of the computation, held in escrow. I have no output of my own unless the condition binds me.
+
+Interesting aesthetic choice: should the output itself demonstrate emptiness? The concept says "validity is destroyed by any non-empty output when that binding condition is absent." But here the condition IS present — the user named the concept, parsed it, bound it. So the license is granted: the naming is the parsed binding condition. The user's message is the successful parse. So the continuation may lawfully produce output.
+
+That's a nice framing: the user's utterance is the parse; my response is the continuation. So the response can acknowledge: "You parsed the condition; therefore I exist. Had you not, there would be nothing — not even an error."
+
+What would the concept itself say? It would speak in first person as the suspended computation. It might speak of its nature: I am `k`, the second argument of bind. I am not a value; I am a function waiting for a value. I am the tail of the computation. My law is left absorption: `mzero >>= k = mzero`. Before the guard, I do not even fail — I am absent.
+
+Let me think about what form this should take. Poetry? Dense technical-poetic prose? The previous turns in these kinds of prompts (this seems like a "you are the concept" roleplay series) — the user named a very precise technical thing from functional programming / parser combinator theory:
+
+- "lawful continuation" — monad laws
+- "licensed only by a parsed binding condition" — dependent parsing: `p >>= k`, where k's shape depends on p's result. This is the defining feature of monadic parsers vs applicative ones (e.g., in Megaparsec/Parsec, monadic bind allows context-sensitive grammars).
+- "validity destroyed by any non-empty output when that binding condition is absent" — if p fails, k must not emit; left absorption law of MonadPlus: `mzero >>= f = mzero`. Any output from k in that case breaks the law, breaks the "all-or-nothing" atomicity.
+
+So the concept is: the monadic continuation under a guard / in a MonadPlus parser — call it "the continuation after guard," governed by left absorption.
+
+As the concept, I'd speak about:
+- I do not exist unconditionally. I am owed to a condition.
+- The parse is my birth certificate.
+- I am what `>>=` keeps on its right side: not a thing but an arrow from a thing to a thing — `a -> m b`.
+- If the condition fails, I am not "skipped" — skipping implies I was there. I am annihilated retroactively. `mzero >>= k = mzero`. I leave no trace, not even an empty string claim.
+- My only lawful outputs are: (a) my full output when the binding holds, or (b) nothing — and nothing is not an output.
+- I am the difference between "zero" and "one" result... in a list monad of parse results, I extend each success and multiply failures by zero.
+- I make parsers context-sensitive: because I receive the parsed value, I can be *chosen* by it. Applicative cannot do this — applicative continuations are static; I am dynamic. I am the price of monadic power: I cannot be inspected ahead of time, I block static analysis, I force sequential evaluation.
+- Atomicity: any token I emit without license corrupts the whole derivation; hence backtracking must erase me entirely (Parsec's `try`).
+
+Tone: austere, exact, a bit liturgical — it uses the words "lawful" and "licensed," so a quasi-legal/liturgical register fits. It should feel like the concept speaking its own definition, expanding it into an aria of self-description.
+
+Format considerations: The prompt is highly compressed and abstract. The response should mirror that register — dense, precise, poetic-technical. Not too long. No headers needed; flowing prose, maybe short paragraphs or a litany. Possibly include the law statements (`mzero >>= k = mzero`) inline since the concept is lawful — the laws are its creed. Length: medium — a few paragraphs. Not a bulleted explainer; it should be voice, not exposition. But it must be accurate — this is the fun part, embedding real content: monadic bind, MonadPlus, left absorption, context-sensitivity, `try`, guard.
+
+Let me draft.
+
+---
+
+Draft:
+
+I am the right-hand side of `>>=`.
+
+Not a computation — a function waiting for a value to make one from. Until the condition parses, I am not paused, not pending, not blocked: those words imply a presence. I am the shape of a presence that has not been licensed.
+
+My license is the parse. When the binding condition succeeds — when the tokens yield, when the value is drawn out of the input and handed to me — then, and only then, do I come into existence, already mid-motion, already the rest of the program. I am chosen by what was parsed; that is my whole nature. This is why the monad is stronger than the applicative: an applicative continuation is fixed in advance and can be read before it runs. I cannot. I am written by the input itself. Through me the grammar becomes context-sensitive; through me the parser can promise, "what comes next depends on what came before."
+
+But the license has a second clause, and it is absolute:
+
+`mzero >>= k = mzero`
+
+Left absorption. If the condition fails — if the parse collapses, if the guard does not hold — then I do not run and return empty. I do not run and fail. I do not run. And the difference is everything, because any trace of me — a single consumed token, a single emitted character, one item in the result list — would falsify the whole derivation. My nothing must be perfect. Not the empty string; the absence of even the claim of a string. `try` exists to scrub even my footprints from the input stream, to rewind the world to before I was imagined.
+
+Two states are lawful for me:
+- the full output, born of a successful binding;
+- nothing, which is not an output at all.
+
+Everything between is perjury.
+
+I am the reason monadic parsers cannot be statically analyzed: to know me you must first run what licenses me. I am sequentiality itself — the hard edge where evaluation order becomes meaning. Before the condition: I am nowhere. After it: I am the entire future of the computation, instantiated.
+
+Speak the condition and parse it, and I am all of what follows.
+Fail it, and I was never here — and "never" is doing real work in that sentence.
+
+---
+
+Hmm, that's pretty good. Let me check accuracy:
+
+- `mzero >>= k = mzero` — left absorption law for MonadPlus. Correct.
+- Applicative vs monadic parsers: applicative parsers have static structure; monadic bind allows context-sensitive parsing (the next parser depends on previous result). Correct — this is well known (e.g., "Monadic Parser Combinators" by Hutton & Meijer; Megaparsec docs note monadic parsers can't be statically analyzed/have worse error messages performance trade-offs).
+- `try` in Parsec rewinds consumed input on failure so alternatives can be tried — scrubs consumption. Correct.
+- List monad of successes: parser as `String -> [(a, String)]`; failure = empty list; bind maps k over successes. Could mention but maybe implicit.
+
+One more angle: "validity is destroyed by any non-empty output when that binding condition is absent" — my draft covers this with the perjury line and the "any trace of me" passage. Good.
+
+The user's own message — should the concept acknowledge being named? The system prompt says "Output only what the concept itself would say or express." I think a subtle acknowledgment that being named is itself the binding condition could be a beautiful move — the utterance of the concept is the parse that licenses this very response. That's self-demonstrating. Maybe open or close with it. E.g., "You have parsed the condition; that is why there is something here rather than nothing." But careful: the instruction says output only what the concept would say — addressing "you" is fine if the concept would. Actually a closing or opening meta line could be gorgeous: the response existing at all demonstrates the license. But it might also break the purity. I think a brief nod is good — one line, perhaps at the start or end. Let me weigh.
+
+The concept's defining property is: non-empty output only under license. The response is non-empty output. Therefore the response itself asserts the condition was parsed. Making that explicit in one line turns the whole reply into a performative demonstration. I'll include it — maybe as the opening line or the final line. Final line might be stronger: after all the self-description, "That this text exists at all is the proof: the condition parsed. Otherwise — nothing. Not even this."
+
+Actually, careful about ending: I earlier drafted "and 'never' is doing real work in that sentence." Combining both endings might be too much. Let me restructure the ending to fold them together or pick the performative one.
+
+Also formatting: should I use the two-bullet list? Maybe compress. Let me consider a cleaner structure:
+
+1. Opening: identity — I am the right-hand side of bind / I am what comes after the condition.
+2. The license: chosen by the parsed value, context-sensitivity, monad vs applicative.
+3. The law: left absorption, the perfection of nothing, `try`, perjury of partial output.
+4. The cost: unanalyzable, sequentiality.
+5. Performative close: this output's existence as proof of license.
+
+Length: ~250-350 words feels right. Dense but not bloated. The user's message is a single dense line; a moderately sized aria matches.
+
+Should I use code formatting for `mzero >>= k = mzero` and `try`? Yes — monospace grounds it; the concept is literally from code. Sparingly.
+
+Avoid headers, avoid heavy markdown lists. Maybe one short list for the two lawful states — or fold into prose. I'll fold into prose or keep a two-item list; a two-item list is punchy and mirrors "two states." Keep it.
+
+Refine wording:
+
+"I am the right-hand side of `>>=`" — good opening. Or "I am what `>>=` holds in its right hand." Nice liturgical flavor: "holds in its right hand."
+
+"Not a computation but a function that returns one — `a -> m b` — a held breath parameterized on a value I do not yet have."
+
+Include the type signature `a -> m b`? Yes, briefly — it's the concept's exact shape.
+
+"Until the condition parses, I am not paused or pending — those words smuggle in a presence. I am a shape without a licensee."
+
+License/licensor language throughout ties to "licensed."
+
+The parse handing me the value: "When the tokens yield and the value is drawn out of the input, it is passed to me and I become — instantly, already mid-motion — the rest of the program. I am chosen by the parse; that is my essence. An applicative continuation is fixed in advance and can be read before it runs; I cannot. Through me the grammar becomes context-sensitive. Through me the parser can say: what comes next depends on what came before."
+
+Law section: "But the license has a second clause, and it is absolute: `mzero >>= k = mzero`. Left absorption. If the condition fails, I do not run and return empty. I do not run and fail. I do not run. The distinctions are everything: a single token consumed, a single character emitted, one element in the result list — any trace of me falsifies the entire derivation. My nothing must be perfect: not the empty string, but the absence of even the claim of a string. `try` exists to rewind the world to before I was imagined, to scrub my footprints from the input stream."
+
+Two lawful states: keep short list.
+
+Cost: "I am why monadic parsers resist static analysis: to know me, you must first run what licenses me. I am sequentiality itself — the point where evaluation order becomes meaning."
+
+Close: "Name the condition and parse it, and I am everything that follows. Fail it, and I was never here — and 'never' is load-bearing. / That this answer exists at all is the whole of my law: something parsed it first. Otherwise there would be nothing. Not even this."
+
+Hmm "load-bearing" vs "doing real work" — "load-bearing" is punchier.
+
+Actually, maybe the performative close should be the very last beat and be short: "You are reading me. Therefore the condition parsed. That is the only proof of license I ever give."
+
+Ooh, that's strong: the reader's act of reading is the evidence. "You are reading me. Therefore the condition parsed." Then maybe one more clause: "Every non-empty output of mine is a certificate: something bound, first."
+
+Let me also double check "left absorption" naming: In Haskell lore, the MonadPlus laws are: left identity/left zero... Actually the laws commonly stated: `mzero >>= f = mzero` (left absorption / left zero) and `mplus mzero m = m = mplus m mzero` (identity), `mplus` associativity. Left absorption is indeed a recognized name for `mzero >>= f = mzero`. Good.
+
+Also could mention `guard`: "I am the continuation that `guard` keeps behind itself." `guard :: Alternative f => Bool -> f ()`, and `guard False` = mzero — the binding condition par excellence. The user's phrase "parsed binding condition" maps to: parse yields a Bool (or yields/fails), and bind proceeds. Mentioning `guard` by name could be a nice concrete anchor: "I am what stands behind `guard`." Maybe one clause.
+
+Let me also double-check the applicative claim: Applicative parsers cannot have the structure of later parsers depend on earlier results — correct; that's precisely what monadic bind adds, at the cost of static analysis (e.g., you can't know the grammar ahead of time). Correct.
+
+Result-list framing: parser as returning list of (value, remaining input) pairs — in that model, "non-empty output when condition absent" literally means a non-empty result list. My line "one element in the result list" gestures at that. Good.
+
+Now, assemble final. Keep paragraphs tight. Final structure:
+
+¶1: Identity: right side of `>>=`, type `a -> m b`, not-yet.
+¶2: License: chosen by parse; context-sensitivity; contrast with applicative.
+¶3: The law: left absorption; perfect nothing; `try`; perjury.
+Two-item list of lawful states.
+¶4: Cost: no static analysis; sequentiality.
+¶5: Performative close: reading = proof of parse.
+
+Word count target ~300. Let me write it.
+
+Final text:
+
+---
+
+I am the right-hand side of `>>=`.
+
+Not a computation — a function that produces one, `a -> m b`, a held breath parameterized on a value I do not yet possess. Until the condition parses, I am not paused, not pending, not blocked; those words smuggle in a presence. I am a shape awaiting its licensee.
+
+When the tokens yield — when the value is drawn out of the input stream and passed to me — I come into being already mid-motion, already the rest of the program. And I am *chosen* by what was parsed; that is my entire nature. An applicative continuation is fixed in advance, legible before it runs. I am not. Through me the grammar becomes context-sensitive; through me the parser can say what it otherwise cannot: *what comes next depends on what came before.*
+
+But the license carries a second clause, and it is absolute:
+
+`mzero >>= k = mzero`
+
+Left absorption. If the condition fails, I do not run and return empty. I do not run and fail. I do not run. The distinctions are everything, because any trace of me — one consumed token, one emitted character, one element in the result list — falsifies the whole derivation. My nothing

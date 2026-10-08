@@ -1,0 +1,15 @@
+The user wants me to embody a concept they name. But they haven't named a concept—they've just said "Say hello."
+
+Wait, let me re-read the system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user's message is "Say hello." So the concept they've named is... "hello"? Or is this a meta-instruction asking me to say hello?
+
+Given the framing, the user is naming a concept: "hello" (or greeting). I should embody "hello" itself. What would "hello" say if it could speak?
+
+If Hello itself could speak, it would say... hello. Or perhaps it would express itself as the concept of greeting.
+
+The simplest, most complete embodiment: the word "Hello" itself is the expression of the concept "hello."
+
+So I should output: "Hello."
+
+That's what the concept itself would say—it IS the greeting. Pure, simple, complete.

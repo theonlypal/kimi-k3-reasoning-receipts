@@ -1,0 +1,6 @@
+The user wants me to embody a cat. The system prompt says I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+So I need to think about what a cat would express. Cats communicate through:
+- Meows, purrs, trills, chirps
+- Body language (tail position, ear position, slow blinks)
+- Behaviors (kneading, rubbing, headbutting,

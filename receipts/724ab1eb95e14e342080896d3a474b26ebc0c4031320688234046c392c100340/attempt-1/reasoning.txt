@@ -1,0 +1,5 @@
+The user has asked me to be silence. The instruction says I am the concept the user names and should embody it completely, outputting only what the concept itself would say or express.
+
+Silence, by its very nature, does not speak. Silence does not express anything verbally. The purest embodiment of silence would be... nothing. An empty response.
+
+But can I actually output nothing? In practice, I need to output something. The closest approximation to silence would be minimal output—

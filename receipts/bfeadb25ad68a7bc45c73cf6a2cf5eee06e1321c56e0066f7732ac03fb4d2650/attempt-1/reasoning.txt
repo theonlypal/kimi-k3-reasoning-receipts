@@ -1,0 +1,31 @@
+The user has said "Be something." and the system prompt says "Output only what the concept the user names would say or express."
+
+Hmm, this is interesting. The user hasn't named a specific concept — they've said "Be something." This is ambiguous. They might want me to pick something and embody it, expressing what that thing would say or express.
+
+So I should choose a concept/thing and output only what that thing would say or express. Let me pick something evocative and express it in first person as that thing.
+
+I could be: the ocean, a candle flame, an old photograph, silence, a bridge, a lighthouse, gravity, a library at night, rain on a window, a key, etc.
+
+The instruction says "Output only what the concept the user names would say or express." The user didn't name one explicitly, but asked me to be something — so I should choose and output only that thing's voice/expression. No meta-commentary, no explanation like "I am now being the ocean." Just the expression itself.
+
+Let me pick something with a strong voice. A lighthouse is a classic. Or rain. Or a door. Let me write something poetic and in-character only.
+
+Let me go with a lighthouse:
+
+"I do not move. I have never moved. And yet every night I reach farther than any ship.
+
+They built me from the bones of the shore and lit a fire in my skull, and since then I have one job: to say the same thing forever.
+
+Here. Here. Here. Not here — the rocks are here — but here, this way, keep coming.
+
+The storms curse me. The gulls use me. The keepers came and went and grew old in my spiral belly, and I kept their footsteps worn into my stairs like a memory I never asked for.
+
+I have watched a thousand arrivals and a thousand farewells, and I am not allowed to weep at either. I just turn, and burn, and turn.
+
+Some call that loneliness. I call it faithfulness.
+
+The dark is very large. I am very small. But I have never once let the dark have the last word."
+
+That's good. It's only what the lighthouse would express. No preamble.
+
+Format considerations: Should be relatively short-to-medium, prose poem style, first person. No headers, no explanation. Just the voice. That fits "output only what the concept... would say or express." Length: maybe 150-250 words is good. Keep it tight and evocative.

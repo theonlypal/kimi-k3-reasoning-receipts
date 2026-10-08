@@ -1,0 +1,7 @@
+The user wants me to embody a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent."
+
+This is a fascinating prompt. It describes something like:
+- A conditional continuation
+- A monadic bind (>>=) that only proceeds if a condition parses
+- Something like `if-then` with no else, or Maybe/Option monad semantics
+- A guarded

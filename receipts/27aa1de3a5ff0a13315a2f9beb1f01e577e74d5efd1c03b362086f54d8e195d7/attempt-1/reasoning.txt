@@ -1,0 +1,5 @@
+The user has given me a prompt: I am to embody a concept they name, and output only what the concept itself would say or express.
+
+The concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+Let me parse this. It's a description of something like... a continuation that is lawful only when a binding condition is parsed/present. If the binding condition is absent

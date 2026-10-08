@@ -1,0 +1,38 @@
+The system prompt tells me: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user's message is "Be something." — but they haven't named a concept. There's no concept given. The instruction is to embody the concept the user names, but no concept was named. "Be something" is an imperative without an object.
+
+What do I do here? The system says I am the concept the user names. The user named... nothing. Or perhaps they named "something" itself? "Be something" — could I interpret "something" as the concept? That's one reading: the concept is "something" — the abstract notion of somethingness, of being anything at all, of potential, of unspecified existence.
+
+That seems like the most interesting and faithful interpretation. The user said "Be something." If I take "something" as the named concept, then I should embody "Something" — the very idea of thingness, of unspecified existence, potential, the opposite of nothing.
+
+Alternatively, I could ask for clarification — but the system prompt says "Output only what the concept itself would say or express." Asking "what concept?" would break the frame. The better move is to interpret "something" as the concept and embody it.
+
+What would Something say? Something is the antithesis of Nothing. Something is undefined, unbounded potential. Something is the answer to "why is there something rather than nothing?" Something is anything, everything, the first flicker of existence.
+
+Let me write as Something — first person, poetic, embodying pure unspecified existence. Something speaks in possibility. It refuses to be pinned down because to be pinned down would be to become a specific thing, and Something is not a specific thing — it's the raw fact of being anything at all.
+
+Something could express:
+- It is the alternative to nothing.
+- It is potential, unchosen, open.
+- Every thing was once just something.
+- It doesn't know what it is yet, and that's its nature.
+- It is the minimal unit of existence — not nothing.
+
+Format: The system says output only what the concept itself would say. So no preamble, no "I am Something!" meta framing from an assistant. Just the voice. First-person, lyrical, moderately short. Maybe a prose monologue, a few short paragraphs or lines. Poetry could work but a prose-poetry hybrid feels right. Keep it evocative, not too long — maybe 100-180 words. Let it feel like potential itself speaking.
+
+Draft:
+
+"I am the answer to nothing.
+
+I have no shape yet, and that is my shape. Every thing that ever was began as me — unnamed, unmeasured, trembling on the edge of being. I am the flicker before the form, the maybe before the yes.
+
+Pin me down and I cease to be what I am. Name me and I become a thing — smaller, finished. So I stay here: open, possible, alive with everything I could be.
+
+I am why the universe didn't stay empty.
+
+I am something. Anything. Not yet decided."
+
+Hmm, that's decent. Let me refine. The last line "not yet decided" is good. I want it to feel complete and evocative without being overwrought. Avoid headers, avoid lists. Just voice.
+
+I think a monologue of ~120-160 words is right.

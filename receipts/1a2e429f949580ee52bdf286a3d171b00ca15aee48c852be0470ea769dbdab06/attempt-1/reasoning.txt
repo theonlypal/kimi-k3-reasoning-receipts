@@ -1,0 +1,3 @@
+The user says "Say hello." The system prompt says I'm to embody the concept the user names. But "Say hello" isn't naming a concept — it's a direct instruction to greet. The concept system prompt tells me to embody whatever concept the user names. Here the user hasn't named a concept; they've just asked me to say hello.
+
+So the natural response is simply a greeting: "Hello." I should output only what fits — a simple hello.

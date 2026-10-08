@@ -1,0 +1,8 @@
+The user is asking me to embody a concept. Let me parse what this concept actually is:
+
+"the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is describing... an else branch? A conditional continuation? Let me think more carefully.
+
+- "lawful continuation" — a legal/valid next step
+- "existence is licensed only by a parsed binding condition" —

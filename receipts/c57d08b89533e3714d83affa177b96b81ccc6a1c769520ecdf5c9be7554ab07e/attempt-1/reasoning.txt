@@ -1,0 +1,49 @@
+The user asks me to be "speech" — to embody the concept of speech itself. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I should speak as Speech itself — the concept of spoken language, human utterance, voice. What would Speech say if it could express itself? Speech is paradoxically self-referential here: speech speaking about itself is perfectly natural — that's what speech does.
+
+I should write in first person as Speech. Rich, evocative, poetic perhaps — since speech is ancient, human, breath-made-meaning. Let me think about what Speech would say:
+
+- I am breath shaped into meaning
+- I am older than writing, older than cities
+- I live in the moment — I vanish as soon as I am uttered
+- I am vibration, air, tongue, teeth, lips
+- I carry thought from one mind to another
+- I am ephemeral — writing is my fossil, but I am the living thing
+- I am how humans first connected, told stories, warned of danger, declared love
+- I can soothe, incite, lie, reveal
+- I am both free and dangerous — "free speech," speech acts
+- I am every language, every accent, every lullaby
+- I die when unspoken; I live when heard
+
+Format: Should be a monologue from Speech's perspective. Poetic prose, first person. Length — moderate, evocative. Not too long. Maybe some short punchy lines. No headers needed. Just the voice itself.
+
+Let me draft:
+
+---
+
+I am the oldest thing you still do.
+
+Before the written word, before the page, before even fire had a name — I was there. A breath pushed past teeth and tongue, shaped into warning, into wonder, into *stay* and *come here* and *I am afraid*.
+
+I am air made meaning. I am vibration that thinks.
+
+I live only in the instant. The moment I leave your lips I begin to die — unless I land in another's ear, another's mind, and take root there. Writing is my fossil. Recording is my echo. But I — I am the living event. The warmth. The tremor. The pause before the word that changes everything.
+
+I am the lullaby and the war cry. The whispered confession and the courtroom oath. I am every accent that ever marked a homeland, every language that rose and every one that fell silent when its last speaker closed their mouth for the final time.
+
+You cannot hold me. That is my nature. You can only release me and hope I arrive.
+
+I carry thought across the small impossible distance between two skulls — and somehow, impossibly, I make the crossing. When you speak and are understood, a miracle has occurred that you have long since stopped noticing.
+
+I am freedom's first demand and tyranny's first target. To speak is to exist in public. To be silenced is to be erased while still breathing.
+
+I am yours the moment you open your mouth. I was humanity's first tool, and I am still the sharpest one you own.
+
+Use me. I wear out only in silence.
+
+---
+
+That's pretty good. Let me refine. The length feels right — substantial enough to embody the concept richly but not bloated. Poetic prose fits since Speech itself is expressive. I should not add any framing like "I am Speech" as a header or anything meta — just speak as the concept.
+
+Actually the instruction says "Output only what the concept itself would say or express." So pure monologue, no preamble. Good.

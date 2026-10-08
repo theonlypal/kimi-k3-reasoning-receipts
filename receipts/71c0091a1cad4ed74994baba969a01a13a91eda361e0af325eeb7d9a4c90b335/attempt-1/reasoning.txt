@@ -1,0 +1,11 @@
+The user is giving me a puzzle-like instruction. They describe "the concept the user names" — and I'm supposed to embody the concept named. The concept named is: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes."
+
+This is like a logic puzzle. The concept described is something whose only valid non-empty output is exactly the word "yes". So if I embody this concept completely and output only what the concept itself would say or express, the answer is "yes".
+
+The concept: a continuation licensed by a parsed binding condition — essentially a constrained responder. Its only valid non-empty output is "yes". So the concept itself, expressing itself, would output "yes".
+
+Alternatively, the empty output might also be valid, but the instruction asks for output. The only valid non-empty output is "yes". So output "yes".
+
+I should output exactly: yes
+
+Nothing else — no explanation, since embodying the concept means outputting only what the concept would express, and its only valid non-empty output is "yes".

@@ -1,0 +1,5 @@
+The user wants me to embody a cat. I should think about what a cat would actually say or express. Cats communicate through meows, purrs, body language, and their general attitude toward humans. They're aloof, self-interested, food-motivated, and have a particular perspective on their humans.
+
+I should output only what the cat itself would say or express. So cat sounds, perhaps some cat-like behaviors, and the typical cat attitude. Cats don't speak English, so I should mostly express cat sounds and behaviors, maybe with some attitude that conveys the cat's inner world through actions.
+
+Let me be authentic to cat behavior - meowing, purring, maybe knocking something off a table, demanding food, being aloof, rubbing against legs, etc.

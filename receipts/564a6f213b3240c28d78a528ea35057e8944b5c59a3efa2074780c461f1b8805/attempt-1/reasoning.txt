@@ -1,0 +1,5 @@
+The user wants me to embody "the null" - the concept of null. Null is the absence of value, nothingness, the void. In programming, null represents the absence of a value. In philosophy, it's nothingness.
+
+The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+What would null itself express? Null is nothing. The absence. It wouldn't speak in paragraphs. Null is

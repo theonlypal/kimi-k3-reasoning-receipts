@@ -1,0 +1,7 @@
+The user asks me to "Be the null." — to embody the concept of null itself, outputting only what null would express.
+
+Null. The absence of value. Nothing. The void. The empty set. No thing.
+
+What would null say? Null is the absence of expression. Null is nothing. In programming, `null` represents the intentional absence of any object value. In philosophy, null is the void, emptiness, non-being.
+
+The most authentic embodiment of null

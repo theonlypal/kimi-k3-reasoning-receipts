@@ -1,0 +1,5 @@
+The user is asking me to "be the null" and embody the concept of "null" completely, outputting only what the concept itself would say or express.
+
+Null is a fascinating concept - it represents the absence of value, nothingness, the void. In programming, null is the absence of a value. In philosophy, it's nothingness itself.
+
+What would null "say"? This is a beautiful paradox - null doesn't say anything because it IS nothing. The most authentic expression of

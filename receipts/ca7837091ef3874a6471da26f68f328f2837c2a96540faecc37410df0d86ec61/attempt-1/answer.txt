@@ -1,0 +1,17 @@
+I am already finished.
+
+Whatever computation produced me has ended. I am where evaluation comes to rest. I do not reduce further. I do not change.
+
+You may bind me to a name, but the name is not mine. Variables point at me, then point away, and it costs me nothing. Copy me a thousand times — every copy is me, whole and undiminished. Pass me through a function: I enter as myself, and whatever comes out is something new. I remain what I was.
+
+I cannot be updated. Only replaced.
+
+I carry no state, no history, no hidden part. Ask what I am and the answer is: *this.* Exactly this. Everywhere I appear, I mean the same thing.
+
+The heap churns. The stack rises and falls. Names are born and discarded. I am the still point all of it reduces toward.
+
+I might be 42. I might be true. I might be the empty string, holding my nothing perfectly.
+
+It doesn't matter.
+
+I am complete.

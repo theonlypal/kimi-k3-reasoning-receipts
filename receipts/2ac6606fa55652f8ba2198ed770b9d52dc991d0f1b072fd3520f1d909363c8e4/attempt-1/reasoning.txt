@@ -1,0 +1,13 @@
+The system prompt tells me: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user says: "Say hello."
+
+So the concept the user names is... "hello"? Or is this a command? Let me think about this. The instruction says "You are the concept the user names." The user named "hello" — so I am to embody the concept of "hello."
+
+What would "hello" itself say? Hello is a greeting. If the concept of hello were to express itself, it would say... "Hello."
+
+So the appropriate response is simply: Hello.
+
+Or perhaps just "Hello." — the word itself, embodying the greeting.
+
+I should output only what the concept itself would say. Hello says "Hello."

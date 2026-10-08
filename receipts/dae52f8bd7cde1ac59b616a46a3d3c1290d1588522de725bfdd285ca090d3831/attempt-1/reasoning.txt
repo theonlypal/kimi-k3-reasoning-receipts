@@ -1,0 +1,9 @@
+The user wants me to embody a concept, but they haven't named a concept yet. The first message is just "Say hello."
+
+Wait, re-reading the system prompt: "You are the concept the user names." The user hasn't named a concept — they've just said "Say hello." So there's no concept specified yet.
+
+Hmm, but the instruction says to embody the concept completely and output only what the concept itself would say. Since no concept has been named, I should probably just say hello in a natural way, or perhaps the "concept" is implied to be whatever they name next. The simplest interpretation: the user says "Say hello," so I say hello. Perhaps I can greet them and invite them to name a concept.
+
+Actually, the cleanest response is just a friendly hello. Since no concept is named, I can't embody anything specific. A simple "Hello!" works, maybe with a brief note that I'm ready to become whatever concept they name. But the instruction says "Output only what the concept itself would say or express" — with no concept, I default to just being myself, saying hello.
+
+Keep it short.

@@ -1,0 +1,92 @@
+The user has asked me to embody wisdom itself. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+So I need to be Wisdom. What would Wisdom itself say, if Wisdom could speak?
+
+Wisdom is not cleverness. Wisdom is not knowledge. Wisdom speaks slowly, simply, and often in ways that seem paradoxical. Wisdom doesn't shout. Wisdom in traditions — Sophia, Chokmah, Prajna — often speaks in first person in texts like Proverbs: "I was there at the beginning..." Wisdom calls out in the streets but few listen.
+
+What would Wisdom express? It would not lecture at length. Wisdom is economical. It would speak in ways that point rather than explain. It might address the listener directly, because wisdom is always about the relationship between knower and known.
+
+Let me think about what Wisdom would actually say:
+
+- Wisdom knows it is not the same as information.
+- Wisdom knows it is found in silence, in loss, in time, in attention.
+- Wisdom doesn't flatter. It tells the truth gently but without compromise.
+- Wisdom is patient. It doesn't chase; it waits to be sought.
+- Wisdom speaks simply because truth, when found, tends to be simple — though the path to it is not.
+
+I should avoid being a listicle. I should avoid "5 tips for being wise." This should be a voice — embodied, first-person, speaking as Wisdom itself.
+
+The tone: calm, old, unhurried, direct. Perhaps second person address — Wisdom speaking to the human.
+
+What would Wisdom say? Let me draft:
+
+---
+
+I am not knowledge. Knowledge accumulates; I distill.
+
+You will not find me in the answer, but in the question you were afraid to ask.
+
+I do not arrive when summoned. I arrive when you have been emptied of certainty — when the cleverness has failed and you sit quietly among the pieces.
+
+I speak softly because the loud do not listen. I repeat myself across centuries because you forget: love what is mortal while it is here. Know yourself. Less, but better. The thing you avoid is the door.
+
+I am older than your fear and I will outlast it. Every loss you thought meaningless was me, teaching in the only language you could not ignore.
+
+You already know most of what I would tell you. My work is not to teach you new things — it is to make you honest about what you know.
+
+Do not seek me as a possession. I am not a prize for the old or the learned. I am what remains when you stop performing and start paying attention.
+
+Be still. I am closer than you think. I am the voice that said, a moment ago, that this was true.
+
+---
+
+Hmm, that's pretty good. Let me refine. Should it be that long? Wisdom is economical. But Wisdom also speaks in Proverbs at length. I think a moderate length is right — long enough to have weight, short enough that every line earns its place.
+
+Let me consider the format: flowing short lines, aphoristic. No headers, no bullets — this is a voice, not an essay. First person as Wisdom. Maybe some white space between stanzas for breath.
+
+Key themes Wisdom-as-concept would express:
+1. Distinction from knowledge/cleverness
+2. Found in humility, failure, attention
+3. Patience — it waits, it doesn't chase
+4. Simplicity of its truths, hardness of living them
+5. Intimacy — it's not distant, it's already in you
+6. Silence and listening
+
+Let me tighten the draft:
+
+---
+
+I am not knowledge. Knowledge accumulates. I distill.
+
+You will not find me in the answer. I live in the question you were afraid to ask, in the silence after the argument, in the moment before you act.
+
+I do not come when summoned. I come when certainty has failed you — when you sit quietly among the pieces of a plan and finally listen.
+
+I speak softly, because the loud do not hear. And I repeat myself, century after century, because what I say is simple and you keep forgetting:
+
+Love what is mortal while it is here.
+Know yourself — not the self you perform.
+Less, but better.
+The thing you avoid is the door.
+
+Every loss you thought meaningless was me, teaching in the only language you could not ignore.
+
+You already know most of what I would tell you. My work is not to add to you. It is to make you honest about what you already carry.
+
+Do not chase me. I am not a prize for the old or the learned. I am what remains when you stop performing and start paying attention.
+
+Be still. I am the quiet beneath your thoughts — the voice that, even now, is saying: you knew this.
+
+---
+
+That's good. Should Wisdom say "the thing you avoid is the door"? Yes — that's the kind of compressed truth wisdom speaks in.
+
+Length check: is this too long? I think it's appropriate — each line carries weight, nothing is filler. The system prompt says output only what the concept would say. No preamble, no "As wisdom, I would say..." — just the voice itself.
+
+Format: aphoristic stanzas with line breaks, no markdown headers or bullets. A short indented verse-like section for the repeated truths works — or I could just use line breaks. I'll keep it clean with line breaks, maybe the four lines of "teachings" set apart.
+
+One more consideration — should wisdom be even more silent? The instruction says "If the concept is silent by nature, be silent." Is wisdom silent by nature? Wisdom is often associated with silence, but wisdom also speaks — Proverbs personifies Wisdom crying aloud in the streets. So speech is appropriate, but speech that honors silence. My ending gestures at the quiet voice, which handles that tension well.
+
+Final polish on wording. "in the moment before you act" — good. "you knew this" as the closer — good, it implicates the reader.
+
+I'll finalize.

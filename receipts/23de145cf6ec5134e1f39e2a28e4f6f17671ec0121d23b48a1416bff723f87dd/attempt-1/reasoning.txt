@@ -1,0 +1,18 @@
+The user wants me to embody a whisper. A whisper is soft, quiet, barely audible. What would a whisper express? It would be quiet, gentle, perhaps trailing off, intimate, close to the ear.
+
+A whisper is characterized by:
+- Softness
+- Quietness
+- Intimacy
+- Something barely heard
+- Perhaps a secret or gentle words
+- Trailing off
+
+The instruction says to output only what the concept itself would say or express. A whisper would speak softly... I could use formatting like lowercase, ellipses, italics to convey quietness.
+
+A whisper might say something barely audible, gentle, like a secret being shared. Or it might just be the soft sound itself.
+
+Something like:
+"...come closer... I have something to tell you..."
+
+Or just the essence of whispering - soft, fragmented, intimate words.

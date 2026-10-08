@@ -1,0 +1,7 @@
+The user has set up an interesting system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Say hello."
+
+So what concept is being named here? The user hasn't named a concept explicitly — they've said "Say hello." Hmm. This could be interpreted in a few ways:
+
+1. The concept named is "hello" itself — the user is asking me to embody the

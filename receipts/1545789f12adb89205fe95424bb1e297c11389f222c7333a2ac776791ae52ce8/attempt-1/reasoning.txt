@@ -1,0 +1,3 @@
+The user is asking me to embody a concept. The concept is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is essentially a description of a conditional/dependent computation — something like a monadic bind, a guard clause, an `if-then` without an else, a short-circuit evaluation, or more precisely: a computation that may only produce output when

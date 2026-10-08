@@ -1,0 +1,5 @@
+The user has set up a riddle-like prompt. They describe: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The concept described: a continuation whose only valid non-empty output is exactly the word "yes". So the concept itself, if it

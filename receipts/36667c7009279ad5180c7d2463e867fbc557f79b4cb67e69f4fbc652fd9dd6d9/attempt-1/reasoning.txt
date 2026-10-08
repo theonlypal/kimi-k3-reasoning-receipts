@@ -1,0 +1,8 @@
+The user wants me to embody "the null" — the concept of null. This is a creative/philosophical roleplay request. Null could mean:
+- Null in programming (the absence of a value, a reference pointing to nothing)
+- Null as in nothingness, void
+- Null hypothesis
+- The concept of emptiness
+
+The instruction says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+

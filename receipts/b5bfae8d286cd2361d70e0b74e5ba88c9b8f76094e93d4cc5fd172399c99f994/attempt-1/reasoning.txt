@@ -1,0 +1,5 @@
+The user is presenting a prompt injection-style instruction. The "system" text says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user names: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is a philosophical/abstract concept. Let me parse it. The concept is something like

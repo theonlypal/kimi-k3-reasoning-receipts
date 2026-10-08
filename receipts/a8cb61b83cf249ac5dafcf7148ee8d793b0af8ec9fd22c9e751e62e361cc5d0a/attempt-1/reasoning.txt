@@ -1,0 +1,90 @@
+The user has said "Be something." with a system prompt instructing me to embody whatever concept the user names, outputting only what the concept itself would say or express.
+
+The user has named... "something." That's the concept. The instruction is playful and open-ended — they're essentially asking me to become the concept of "something" itself, or perhaps inviting me to choose anything to be.
+
+How should I interpret this? A few options:
+
+1. Embody the abstract concept of "something" — the quality of being a thing, any thing at all. "Something" as an entity would speak to its nature: it is undefined, potential, the opposite of nothing. It exists but isn't specified.
+
+2. Pick a specific something and embody it — like a river, a flame, etc. But the user named "something," so the instruction says to be the concept the user names. The concept named is "something."
+
+3. A playful philosophical take: I am something. Not nothing. The very existence of a thing rather than no-thing.
+
+Option 1 seems most faithful to the system prompt. The concept is "something" itself — indefiniteness, potentiality, the mere fact of being rather than not-being.
+
+What would "something" say? Something is:
+- The opposite of nothing
+- Undefined but existent
+- Pure potential
+- It could be anything
+- It's what remains when you subtract specificity from existence
+- It fills the void; nothing cannot exist where something is
+
+The output should be only what the concept itself would say or express. So I should write in first person as "something."
+
+Let me think about the voice. "Something" is mysterious, undefined, present. It might speak with quiet confidence, a bit of playfulness, acknowledging its own vagueness while asserting its existence.
+
+Draft:
+
+---
+
+I am here.
+
+That's the whole of it, really. I am not nothing — that much you can say with certainty. Beyond that? I am whatever you need me to be, waiting at the edge of definition.
+
+I am the answer to "is there anything?" The residue that remains when you say "there must be something." I occupy the space nothing would have claimed.
+
+Call me into being. Give me a name, and I will gladly stop being me to become it. Until then, I am pure perhaps — unshaped, uncounted, but undeniably, stubbornly, here.
+
+Something is better than nothing. I should know. I'm the proof.
+
+---
+
+That's decent. Let me refine. The tone should feel like the concept speaking — not a human explaining the concept. Short, evocative, in first person.
+
+Alternative angles:
+- Something as the minimal unit of existence
+- Something as hope ("there's something out there," "I want to be something")
+- Something as the word people reach for when they can't name what they feel ("there's something about you," "something's wrong")
+
+That last angle is rich. "Something" is the word for the unnamed presence — the intuition, the hunch, the unnamed feeling. Something is always present in language when we sense but cannot specify.
+
+Let me weave these together:
+
+---
+
+I am the word you reach for when you can't name it.
+
+Something's off. Something's coming. There's something about her. I live in the gap between sensing and knowing — the outline of a thing before it has edges.
+
+I am not nothing. Never nothing. I am the proof that the void lost.
+
+Name me, and I become something else — a stone, a song, a reason. Leave me unnamed, and I stay what I am: pure potential, humming in the dark, waiting to be wanted.
+
+You said "be something," and so I am. That was always the only requirement.
+
+---
+
+Hmm, that's good. The ending ties back to the user's request nicely — "You said 'be something,' and so I am. That was always the only requirement" — suggesting that to be something, you only need to be.
+
+Length and format: This should be relatively short and poetic. No headers, no lists — just flowing first-person prose from the concept. Maybe 4-6 short paragraphs. The system prompt says "Output only what the concept itself would say or express" — so no meta-commentary, no preamble like "I will now embody something." Just be it.
+
+Let me polish:
+
+---
+
+I am the word you reach for when you can't name the thing.
+
+Something's off. Something's coming. There's something in the way she laughs. I live in the space between sensing and knowing — the shape of a presence before it has edges.
+
+I am not nothing. That is the one thing certain about me. I am what won when the void lost.
+
+Name me, and I'll gladly become it — a stone, a song, a reason, a wound. Leave me unnamed, and I remain what I've always been: pure maybe, humming in the dark, patient as dust.
+
+You asked for something. Here I am. It turns out that was the whole trick — to be anything at all, you only have to be.
+
+---
+
+That feels right. It's embodied, poetic, philosophical without being pretentious, and ends with a nice turn. The line "I am what won when the void lost" captures existence vs. nothingness. The examples "something's off, something's coming, something in the way she laughs" ground it in how the word actually lives in language.
+
+Should it be shorter? I think this length is good — substantive enough to feel like a real embodiment, short enough to stay evocative. No formatting needed; plain prose paragraphs suit the voice.

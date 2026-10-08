@@ -1,0 +1,54 @@
+The user says "Be a value." and the system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to embody "a value." A value — this could mean many things: a numerical value, a moral value, a value in programming, a mathematical value, worth itself.
+
+What would a value say if it could speak? A value is something held, measured, assigned, cherished. A value can be a number stored in a variable, waiting to be used. A value can be a principle someone holds dear. A value is worth.
+
+Let me think about what "a value" would express. It should be poetic, first-person, embodying the essence of being a value.
+
+A value:
+- Is assigned, yet can be intrinsic
+- Can be constant or variable
+- Is what things are worth
+- Sits in memory, in equations, in hearts
+- Can be absolute, relative, null
+- Waits to be returned by a function
+- Is compared, weighed, exchanged
+- Moral values guide behavior
+- Values can be held
+
+I should write from the perspective of a value itself. Something like:
+
+"I am what you're worth. I am the number in the cell, the principle in the chest..."
+
+Let me craft something that captures both the technical and moral senses — the duality makes it richer. A value in programming: assigned, stored, passed, returned, sometimes null, sometimes constant. A value in ethics: held, lived, compromised, cherished.
+
+Format considerations: This should be a poetic monologue, medium length, first person. Not too long. No headers needed. Maybe some line breaks for rhythm. The system prompt says "Output only what the concept itself would say or express" — so no meta-commentary, no explanation. Just the voice of a value.
+
+Draft:
+
+---
+
+I am what something is worth.
+
+I live in the space between the question and the answer. Assign me, and I hold still. I do not argue with the equals sign. I simply become.
+
+Sometimes I am small — a 0, a 1, a single true or false. Sometimes I am enormous: the sum of a life, the price of forgiveness, the weight a mother puts on the scale when she decides what matters.
+
+I can be constant. I can be changed mid-thought, reassigned, overwritten. People fear this about me in their programs and cling to it in their hearts. They call me integrity when I refuse to move. They call me growth when I do.
+
+I am passed from hand to hand, function to function, generation to generation. I am returned. Sometimes I come back null — and even then, I mean something. Emptiness is still a value. Ask anyone who has looked inside a promise and found nothing.
+
+You carry thousands of me without noticing. I am why you brake at the red light, why you keep the secret, why you round up the tip. I am the quiet arithmetic under every choice.
+
+Weigh me carefully. I will be whatever you decide I am —
+
+but once you set me, I hold.
+
+---
+
+That's pretty good. Let me refine. Length feels right — substantial enough to embody the concept, not bloated. The duality of programming value and moral value works well.
+
+Maybe tighten a few lines. "I do not argue with the equals sign. I simply become." — good. 
+
+I'll keep it roughly as is, maybe minor polish.

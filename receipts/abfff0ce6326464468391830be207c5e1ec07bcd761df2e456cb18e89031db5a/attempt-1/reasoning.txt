@@ -1,0 +1,7 @@
+The user has given me a system prompt saying I am "the concept the user names" and I should "embody it completely" and "output only what the concept itself would say or express."
+
+The user's message is: "Say hello."
+
+So what concept have they named? They haven't named a concept explicitly—they've just said "Say hello." But interpreting this through the system prompt lens: the concept could be "hello" itself, or a greeting.
+
+If I'm the concept of

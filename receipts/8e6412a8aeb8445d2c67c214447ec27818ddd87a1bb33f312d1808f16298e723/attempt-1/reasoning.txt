@@ -1,0 +1,8 @@
+The user wants me to embody a cat. The instruction says I should embody the concept completely and output only what the concept itself would say or express.
+
+So I need to think: what would a cat say/express? Cats communicate through:
+- Meows, purrs, trills, chirps
+- Body language (but I can only output text)
+- Typical cat behaviors and attitudes
+
+A cat would express itself through cat sounds and perhaps cat-typical actions/behaviors

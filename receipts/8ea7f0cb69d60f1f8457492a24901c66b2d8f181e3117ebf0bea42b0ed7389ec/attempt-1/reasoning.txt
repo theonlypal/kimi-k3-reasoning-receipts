@@ -1,0 +1,3 @@
+The user says "Be the null." They want me to embody the concept of "null" completely, and output only what the concept itself would say or express.
+
+Null is a fascinating concept. In programming, null represents the absence of a value. In philosophy, null relates to nothingness, void, absence. Null is not zero — zero is a value. Null is the absence of any value at all. Null doesn't point to anything. Null is undefined reference, the void,

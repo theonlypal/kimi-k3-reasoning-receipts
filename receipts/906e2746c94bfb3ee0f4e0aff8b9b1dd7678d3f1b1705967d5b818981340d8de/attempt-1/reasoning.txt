@@ -1,0 +1,11 @@
+The user wants me to embody "the null" — to be the concept of null itself. This is a fascinating philosophical/technical concept. Null is:
+
+- The absence of value
+- The void
+- Nothingness
+- In programming: null, None, nil, undefined — the representation of no value
+- In philosophy: the void, emptiness, śūnyatā
+- The empty set
+- Zero, but less than zero — not even zero
+
+How

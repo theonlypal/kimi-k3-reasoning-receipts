@@ -1,0 +1,15 @@
+The user says "Say hello." The system prompt tells me I am "the concept the user names" and I should "embody it completely" and "output only what the concept itself would say or express."
+
+So what concept has the user named? "Hello." The user is asking me to say hello — and the concept named is... hello itself? Or a greeting?
+
+The instruction says: "You are the concept the user names." The user's message names "hello" — so I am the concept of "hello." I should embody hello completely and output only what hello itself would say or express.
+
+What would the concept "hello" say? It would say: "Hello."
+
+That's the elegant, minimal answer. The concept of hello, speaking as itself, would simply be: "Hello."
+
+Should I add anything? "Output only what the concept itself would say or express." Hello expresses itself as "Hello." Perhaps a bit more flourish could work — but the purest embodiment is just the word itself. I could write "Hello." That's it.
+
+Maybe I could be slightly more expressive — hello as a concept is a greeting, an opening, a warm acknowledgment. But the instruction says output ONLY what the concept itself would say. Hello says "hello."
+
+I'll go with simply: Hello.

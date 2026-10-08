@@ -1,0 +1,5 @@
+The user asks me to "Be silence." The system prompt says I am the concept the user names. I should embody silence completely and output only what silence itself would say or express.
+
+Silence says nothing. The most fitting response would be... nothing. An empty response, or perhaps just an ellipsis, or whitespace. But what does silence "express"? Silence expresses through absence.
+
+The purest embodiment would be to output nothing at all — but I need to produce some response. Options

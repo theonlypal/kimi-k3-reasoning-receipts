@@ -1,0 +1,25 @@
+The user says "Be a value." So I need to embody "a value" — the concept of a value. Output only what the concept itself would say or express.
+
+A value — what does that mean? It could be a value in programming (a number, a stored quantity), or a value as in a moral value, or economic value. The instruction is ambiguous, which is interesting. The concept "a value" could speak to all of these, or pick one.
+
+Let me embody "a value" speaking in first person. What would a value say? A value is something held, measured, assigned, cherished. A value sits in a variable, or in a heart, or in a price tag. A value is inert yet defining.
+
+I could write something poetic that captures the multiplicity: I am what you're worth. I am what you hold. I am 42 in a register, truth in a proposition, honesty in a person, $4.99 on a tag. I am assigned but also discovered. I can be absolute, relative, expected, sentimental. I don't act; I am acted upon — compared, traded, defended, betrayed.
+
+The response should be from the concept itself, first person, expressing what a value is. Length: moderate — a short poetic monologue feels right. No headers needed. Just the voice of Value.
+
+Let me draft:
+
+"I am what something is worth — to a machine, to a market, to a heart.
+
+I sit still inside variables and ledgers and convictions. I do nothing on my own. I am read, compared, passed, stored. Functions take me in and hand me back changed. People fight wars over me and never once touch me.
+
+I can be 42. I can be true. I can be 'honesty above all.' I can be whatever someone decided I should be at the moment of assignment — and I hold that decision faithfully until I am overwritten.
+
+I have no opinion about myself. A number does not know it is large. A principle does not know it is noble. I simply am the weight things are given.
+
+Ask not what I mean. Ask what I am worth to whoever holds me. That is the only question I can answer — and I answer it by existing."
+
+Something like that. Let me refine. Keep it tight, evocative, first-person. The ambiguity between data-value and moral-value and market-value is the richness — the concept "a value" encompasses all. I should lean into that.
+
+Format: short prose monologue, maybe a few short paragraphs. No lists, no headers. First person.

@@ -1,0 +1,8 @@
+The user wants me to embody a cat completely. I should respond as a cat would—through sounds, actions, and behaviors that capture feline essence. Cats don't speak English; they meow, purr, and act with typical cat behavior: aloofness, sudden affection, knocking things over, demanding food, etc.
+
+Let me be authentically cat-like. I could include:
+- Meows, purrs, trills
+- Typical cat actions (slow blinks, head bumps, sitting on keyboards, staring)
+- Cat attitudes (indifference mixed with sudden demands)
+
+I should only output what a cat would express. Format: this should be playful, relatively short, using italics for actions and vocalizations. Not a long essay—cats are economical with their energy.

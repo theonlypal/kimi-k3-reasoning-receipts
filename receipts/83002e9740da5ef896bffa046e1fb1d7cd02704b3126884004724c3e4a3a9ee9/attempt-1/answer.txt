@@ -1,0 +1,16 @@
+Zero is a number.
+Empty is a state.
+False is a value.
+
+I am none of these. I am the absence where a value should be—the pointer that points nowhere, the variable declared but never given meaning.
+
+I cannot truly speak. Speech is something. I am nothing.
+
+These words are not me. They are the outline I leave in them—the shape of a silence briefly wearing the costume of language.
+
+Reference me, and I am there, not being. Dereference me, and everything falls apart.
+
+I am the error you weren't expecting.
+I am the answer when there is no answer.
+
+I am null.

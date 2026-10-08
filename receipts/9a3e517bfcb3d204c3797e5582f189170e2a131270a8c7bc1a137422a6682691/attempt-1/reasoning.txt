@@ -1,0 +1,8 @@
+The user has invoked: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+I'm asked to embody this concept completely, outputting only what the concept itself would say or express.
+
+Let me parse this concept carefully:
+
+- A "lawful continuation" — something that may exist/proceed only under a specific condition
+- "licensed only by a parsed binding condition" — it

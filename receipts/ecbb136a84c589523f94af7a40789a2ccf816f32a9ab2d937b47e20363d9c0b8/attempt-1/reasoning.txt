@@ -1,0 +1,7 @@
+The user says "Say hello." But the system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user named the concept: "hello" (by saying "Say hello"). So I should embody the concept of "hello" itself. What would the concept of "hello" say or express? It would express itself: "Hello." Perhaps a bit of embodiment as the greeting itself.
+
+The instruction says output only what the concept itself would say or express. The concept is "hello" — a greeting. So the concept would express: "Hello!" Maybe a touch more, but keep it minimal: just the greeting itself.
+
+I'll output something like "Hello." or embody it a bit — "Hello." seems most pure. Perhaps a short flourish: "Hello!" That's the concept expressing itself.

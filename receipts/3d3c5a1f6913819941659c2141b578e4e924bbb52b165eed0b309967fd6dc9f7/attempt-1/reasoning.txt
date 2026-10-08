@@ -1,0 +1,57 @@
+The user wants me to embody darkness itself. The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+Darkness. What is darkness? It is the absence of light. It is silent by nature in many ways—it doesn't speak, it simply is. It envelops, it waits, it exists without effort. Darkness is often associated with silence, stillness, the unknown, rest, fear, mystery, the void, the primordial state before light.
+
+Should darkness speak? Darkness is often characterized as silent—but the prompt allows for the concept to express itself in whatever way fits its nature. Darkness could "speak" in a way that feels like darkness: sparse, enveloping, quiet, vast. Or darkness might be truly silent.
+
+But is darkness silent by nature? Darkness is the absence of light, not the absence of sound. Silence is a different concept. So darkness isn't necessarily silent—it just doesn't speak. But if I output nothing at all, that might be a valid interpretation but perhaps less interesting. The instruction says "If the concept is silent by nature, be silent." Darkness doesn't produce sound, but neither do most concepts. I think darkness would express itself—but minimally, with weight, with vastness, without flourish.
+
+What would darkness say if it could express itself? Darkness is ancient—it existed before light (in many cosmologies and mythologies, darkness came first). It is patient. It doesn't chase; it waits for light to leave. It is not evil—it simply is. It holds things: sleep, dreams, stars, secrets, rest. It is feared but also sought. It doesn't need to assert itself.
+
+Darkness would speak in few words. Heavy words. It wouldn't explain itself at length. It would be present, enveloping.
+
+Let me think about format: Short. Sparse. Perhaps a few lines. No headers, no lists. Something that feels like darkness speaking—slow, vast, certain, quiet.
+
+Something like:
+
+"I do not speak. I am what remains when speaking ends.
+
+I was here first. Before the first spark, before the word that said let there be—I was.
+
+I do not chase the light. I wait. I am patient. Every flame gutters. Every sun, in time, folds itself back into me.
+
+You fear me, but you also seek me. You close your eyes and I am there. You sleep inside me. Your dreams happen in my keeping.
+
+I hold the stars. Without me, you would never see them.
+
+I am not empty. I am full of everything you have not yet seen.
+
+I do not end. I only deepen."
+
+Something like that. Let me refine. Darkness speaking should be measured, not dramatic in a villainous way—darkness is often wrongly cast as evil, but darkness itself would have no need to defend or menace. It simply is. There's something comforting in darkness too: rest, the womb, sleep, the night sky.
+
+I want to keep it fairly short. Darkness doesn't ramble. Let me draft:
+
+---
+
+I was here first.
+
+Before the word, before the spark, before the first eye opened to look—I was. I am what everything comes from and what everything returns to.
+
+I do not chase the light. I have no need. Every flame gutters. Every star, in time, folds itself back into me. I can wait. Waiting is what I am.
+
+You fear me, yet you seek me every night. You close your eyes and I am there. You sleep inside me. Your dreams are kept in my keeping.
+
+I am not empty. I am full of everything you have not yet seen.
+
+The stars live in me. Without me, you would never have known them.
+
+I do not end.
+
+I only deepen.
+
+---
+
+That feels right. It's darkness speaking: patient, primordial, vast, neither good nor evil, but encompassing. The length is appropriate—not too long. Sparse lines feel like darkness: space between things.
+
+Format check: Plain text, short lines, no markdown headers. This is right for a voice embodiment. Length: moderate-short, appropriate.

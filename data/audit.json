@@ -1,0 +1,19 @@
+{
+  "all_hashes_requests_and_classifications_verified": true,
+  "archive_sha256": "04d79ddb0f961729369da8ae46c58f7293e42dfd278d2e9b703edc0cec6455d2",
+  "classifications": {
+    "E": 1,
+    "NV": 264,
+    "R": 1268,
+    "V0": 360,
+    "V1": 787
+  },
+  "event_chain_entries": 62968,
+  "event_chain_head": "b3a01f4178e750532bb79d1c5efc2654a6d76cab31e536f1dead9ca756369460",
+  "final_attempt_numbers": {
+    "1": 2675,
+    "2": 5
+  },
+  "retained_attempts": 2685,
+  "scheduled_final_trials": 2680
+}

@@ -1,0 +1,7 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says "Say hello."
+
+So the concept named here is "hello" — the greeting itself. I need to embody "hello" completely and output only what "hello" itself would say or express.
+
+What would "hello" say if it could speak? It is a greeting. The purest expression of "hello" is

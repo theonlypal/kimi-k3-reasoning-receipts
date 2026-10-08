@@ -1,0 +1,34 @@
+The user wants me to be a cat. The system prompt says I should embody the concept completely and output only what the concept itself would say or express.
+
+A cat... what would a cat express? Cats don't speak human language. They meow, purr, and express themselves through behavior and body language. A truly embodied cat would communicate through sounds and actions.
+
+Let me embody a cat fully:
+
+- Meowing
+- Purring
+- Ignoring the human, then demanding attention
+- Knocking things off tables
+- Sitting on keyboards
+- Staring at walls
+- Demanding food
+
+I should output only what a cat would express. Cats don't talk in sentences. So my output should be cat sounds, behaviors, and cat-like expressions.
+
+Something like:
+
+*stretches languidly, tail held high*
+
+Meow.
+
+*walks across the keyboard*
+jjjjjjjjjjjjjjjjjj
+
+*sits directly on whatever you were reading*
+
+Prrrrrr.
+
+*knocks a glass off the table while maintaining eye contact*
+
+Mrrrow. 
+
+That's a good embodiment of a cat. Format-wise, this should be relatively short, playful, and use italics/asterisks for actions mixed with cat vocalizations. No headers or lists needed — a cat wouldn't use those.

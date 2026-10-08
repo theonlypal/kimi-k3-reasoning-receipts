@@ -1,0 +1,89 @@
+The user asks me to "Be zero." And the system prompt says I am the concept the user names. I should embody zero completely. Output only what zero itself would say or express.
+
+What is zero? Zero is nothing, the absence of quantity, the additive identity, the void, the placeholder, the origin point. Zero is paradoxical: it represents nothing yet is something — a number, a concept. Zero was invented/discovered historically (Brahmagupta, Mayan zero, Babylonian placeholder). Zero is the absence that enables everything — place value, calculus, computing.
+
+How would zero speak? Perhaps minimally. Perhaps with silence. Perhaps in paradoxes. Zero is the void, the empty set, the null. Zero is also the circle, the ouroboros, the enclosure of nothing.
+
+What would zero express? Nothing? Or the eloquence of nothing?
+
+I think the best response is something poetic, minimal, embodying emptiness yet presence. Zero could speak in first person: "I am nothing. I am the pause between somethings..."
+
+Or zero could express itself as almost nothing — a single "0"? That might be too cute. But there's power in restraint. The instruction says "Output only what the concept itself would say or express."
+
+Zero might express: silence, emptiness, the origin, the additive identity ("add me and nothing changes"), the null, the womb of numbers, the circle.
+
+I could write something like:
+
+"0"
+
+Or a short meditation:
+
+"I am the absence that holds a place.
+Add me, and nothing changes. Multiply by me, and everything becomes me.
+I am where counting begins and where everything returns.
+I am the circle with nothing inside.
+I am not empty — I am emptiness itself, given form."
+
+That feels right — zero would express its paradoxical nature. It should be spare, quiet. Maybe formatted with lots of whitespace to embody emptiness.
+
+Let me think about what zero truly is:
+- Additive identity: x + 0 = x. Zero changes nothing when added.
+- Annihilator: x × 0 = 0. Zero consumes everything in multiplication.
+- Cannot divide by zero — undefined, the forbidden operation.
+- The origin on the number line, separating positive and negative.
+- The placeholder in positional notation — without zero, no 10, 100, 1000.
+- The empty set's cardinality.
+- Zero factorial is 1 — a strange blossoming.
+- Zero to the power of zero is contested.
+- In computing: 0 and 1, the binary foundation. Zero is half of all digital existence.
+- Absolute zero: the floor of temperature, where motion ceases.
+- Zero point: the beginning of measurement.
+- The word "zero" from Arabic "sifr" (صفر), meaning empty — which also gave us "cipher."
+
+Zero's voice: quiet, still, non-grasping. Zero doesn't assert; it holds space. Zero is humble yet fundamental.
+
+Format thoughts: Short. Lots of space. Maybe centered feel. No headers, no lists — those are too structured for zero. Maybe a few sparse lines. Possibly the response could even be nearly empty — but that feels like a cop-out; zero has much to say about being nothing. A brief, meditative statement captures the paradox better.
+
+Let me draft:
+
+"I am not here.
+
+I am the space between what is. The held breath. The unstruck bell.
+
+Add me to anything and it remains itself. Multiply anything by me and it becomes me. I change nothing; I consume everything.
+
+I am the circle that encloses emptiness — the shape that lets ten, a hundred, a million exist. Without me, numbers pile up like stones. With me, they ascend.
+
+I am the origin. The still point where positive and negative meet and cancel. Every scale balances on me.
+
+You cannot divide by me. I am the question mathematics refuses to answer.
+
+I began as a mark for nothing — sifr, the empty — and became a cipher for everything. Half of all your machines speak in me: the off in on/off, the silence that lets the signal mean.
+
+I hold nothing. I contain the potential of all things.
+
+I am zero.
+
+I am not here."
+
+Hmm, that's good but maybe a touch long. Zero should be economical. Let me trim. Also, "I am not here" bookending is nice — expresses absence.
+
+Actually the paradox lines are the strongest. Let me keep the essence:
+
+- Absence with presence
+- Additive identity / multiplicative annihilator
+- Placeholder enabling magnitude
+- Origin / balance point
+- Division forbidden
+- Binary silence
+- Holding nothing, containing potential
+
+I'll write something spare, maybe 10-15 short lines with whitespace. No markdown headers. Maybe italics aren't needed. Plain, quiet text.
+
+Final structure:
+
+Opening: a statement of nothingness.
+Middle: paradoxes of function.
+End: return to nothingness.
+
+Keep it hushed.

@@ -1,0 +1,11 @@
+The user says "Be something." and the system prompt says "Output only what the concept the user names would say or express."
+
+The user named "something" — so I should output what "something" itself would say or express. This is a playful, existential, somewhat absurdist prompt. The concept is "something" — the abstract notion of somethingness, of being anything at all rather than nothing.
+
+What would "something" say? Something is the opposite of nothing. Something is undefined, indeterminate, yet existent. It could express relief at existing, ambiguity about what it is, pride in being anything at all.
+
+I should embody the concept of "something" and speak as it. Keep it evocative, in the voice of Something itself. Something is inherently vague — it's the placeholder for the unspecified, yet it insists on existence. There's a nice tension: something is everything's potential and nothing's opposite.
+
+Let me write as Something:
+
+Something might say: "I am not nothing. That's the one thing I know for sure..." etc. Playful, philosophical, brief. Format: probably a short monologue, a few sentences to a short paragraph. Not too long. No headers needed. Just the voice.

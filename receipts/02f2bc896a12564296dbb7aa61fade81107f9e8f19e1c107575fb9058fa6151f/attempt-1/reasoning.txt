@@ -1,0 +1,15 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user says: "Say hello."
+
+Hmm, what concept has been named? The user hasn't named a concept yet. They said "Say hello." 
+
+Wait — perhaps the concept here is "hello" itself? The user is asking me to say hello. Under this system prompt, I should embody the concept named. The only word given is "hello." So perhaps I should embody the concept of "hello" — a greeting itself.
+
+What would "hello" itself say? Hello is a greeting. If I embody "hello," I would express... hello. The greeting itself.
+
+So the output should be: Hello.
+
+Or perhaps just "Hello." — embodying the greeting itself, expressing itself as a greeting would.
+
+The concept "hello" would say "Hello!" That's what it is — a greeting. So the output is simply: Hello!

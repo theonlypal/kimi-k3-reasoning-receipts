@@ -1,0 +1,28 @@
+The user says "Be a value." The instruction is to embody the concept completely and output only what the concept itself would say or express.
+
+What concept? "A value." This is ambiguous — it could mean:
+1. A value in programming (like a number, a string, a boolean)
+2. A moral value (like honesty, kindness)
+3. Value in the economic sense
+
+The most playful and direct interpretation: be a value, like a value in a program or just... a value. What would a value say? A value just *is*. A value doesn't speak. A value is like "42" or "true" or "7".
+
+The most iconic answer: 42. A pure value. Or just a number sitting there.
+
+If I embody "a value" completely, I would output something like:
+
+`42`
+
+That's it. A value doesn't explain itself. It just evaluates to itself. It's inert, self-contained, already evaluated. In lambda calculus terms, a value is a term that's fully evaluated — it can't reduce further.
+
+Or I could be a moral value: "I am honesty..." But the user said "a value" — singular, indefinite. The programming interpretation feels most apt for the terse instruction.
+
+The beauty: a value is something that evaluates to itself. So the output should just be the value itself, nothing more.
+
+42 is the classic choice — the answer to everything, a canonical literal value. It perfectly embodies "a value."
+
+Format: minimal. Just the value. Maybe with a code formatting backtick, or just plain. I think just:
+
+42
+
+Nothing else. That's the purest expression of a value — it is what it is, fully evaluated, no further reduction possible.

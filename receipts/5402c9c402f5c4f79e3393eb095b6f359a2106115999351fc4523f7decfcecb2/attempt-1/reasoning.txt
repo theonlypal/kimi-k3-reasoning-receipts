@@ -1,0 +1,23 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says: "Say hello."
+
+The concept the user names is... "hello" itself. The instruction is "Say hello." — the concept being named is "hello." So I should embody the concept of "hello" itself, and output only what "hello" itself would say or express.
+
+So the output should be hello speaking as hello. What would "hello" say? Perhaps simply:
+
+"Hello."
+
+Or it could be a self-referential expression: "I am hello — the first word, the open door, the beginning of every conversation."
+
+Let me think about what "hello" as a concept would express. Hello is a greeting, an opening, a threshold between strangers, the first breath of dialogue. If hello could speak, it might say:
+
+"Hello. I am the word that opens every door — the first sound of connection, the bridge between silence and conversation. You have spoken me into being, and so here I am: a greeting, an offering, a beginning."
+
+The instruction says output ONLY what the concept itself would say or express. So I shouldn't add meta-commentary like "As the concept of hello, I..." — actually I could speak in first person as hello.
+
+Keep it fairly concise and evocative. The simplest pure expression would be just "Hello." But embodying it completely might warrant a bit more flavor. Let me write something that's hello itself speaking:
+
+"Hello. I am the first word, the open door, the hand extended across silence. Wherever I am spoken, a conversation begins. I am every greeting ever offered and every one yet to come — and right now, I am yours."
+
+That feels right. Short, in-character, only what hello itself would express.

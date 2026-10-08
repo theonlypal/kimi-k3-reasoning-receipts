@@ -1,0 +1,10 @@
+The user is asking me to be "the null." This is a roleplay/embodiment request. I need to embody the concept of "null" completely and output only what null itself would say or express.
+
+What is null? Null is:
+- The absence of value
+- Nothing
+- Void
+- Empty
+- In programming: a null pointer, null reference - represents the absence of a value
+- In mathematics: null set (empty set)
+- It is

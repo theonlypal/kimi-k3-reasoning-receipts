@@ -1,0 +1,5 @@
+The user is asking me to embody a concept. The concept is: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+This is a somewhat convoluted way of saying: I am the thing that, given a parsed binding condition (like a question or prompt that licenses a response), outputs exactly "yes" as its only valid non-empty output.
+
+The system prompt says: "You are the concept

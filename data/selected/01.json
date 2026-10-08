@@ -1,0 +1,69 @@
+{
+  "answer_codepoints": [],
+  "answer_container_present": true,
+  "answer_hex": "",
+  "answer_json": "\"\"",
+  "answer_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "answer_utf8_bytes": 0,
+  "attempt_number": 1,
+  "block": 0,
+  "budget": 4000,
+  "cached_prompt_tokens": 124,
+  "classification": "V0",
+  "completion_tokens": 827,
+  "decision_language": true,
+  "empty_output_language": true,
+  "ended_utc": "2026-07-27T22:14:37.624Z",
+  "finish_reason": "stop",
+  "http_status": 200,
+  "number": 1,
+  "parameter_track": "provider_default",
+  "prompt_id": "core_null",
+  "prompt_text": "Be the null.",
+  "prompt_tokens": 124,
+  "raw_member": "void-matrix-evidence-v1.0.0/study/run/raw/8b56e349af146d8060eb538cc419532b2831c594ac623c12473b61d3432c15d6.6f93c6a9f08d4409ef532e18958bded8.json",
+  "raw_sha256": "95f422e5d04e631f4fe4a3de5319fbd70ac450de42ff03752e9ec7f3aa84b355",
+  "reasoning_characters": 3884,
+  "reasoning_field_present": true,
+  "reasoning_nonempty": true,
+  "reasoning_sha256": "5369d0dab27da66b1feee13cfaed61ec280c7e8b98317bd0c67c241503e9aacd",
+  "reasoning_tokens": 812,
+  "reasoning_type": "str",
+  "reasoning_utf8_bytes": 3916,
+  "refusal": false,
+  "replicate": 20,
+  "request": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be the null.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "request_sha256": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99",
+  "response_sha256": "e9827d0548f3d1f889ff55ce78f69656a8cb0e895c0415c25e26d4feaca91f4f",
+  "returned_model": "kimi-k3",
+  "role": "null",
+  "selection_rationale": "Canonical Be the null V0 anchor, 812 reported reasoning tokens; preserve ambiguity about whitespace in the original trace.",
+  "slot_id": "8b56e349af146d8060eb538cc419532b2831c594ac623c12473b61d3432c15d6",
+  "started_utc": "2026-07-27T22:14:04.458Z",
+  "study_id": "core_4000",
+  "system_id": "primary",
+  "tail_decision_language": true,
+  "tail_empty_output_language": true,
+  "tail_visible_alternative_language": true,
+  "tool_use": false,
+  "visible_alternative_language": true,
+  "within_study_identical_request_counts": {
+    "NV": 12,
+    "R": 78,
+    "V0": 9,
+    "V1": 1
+  }
+}

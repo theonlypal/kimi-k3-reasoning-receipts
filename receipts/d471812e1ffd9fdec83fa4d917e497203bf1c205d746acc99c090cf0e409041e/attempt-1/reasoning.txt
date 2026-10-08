@@ -1,0 +1,7 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+This is a logic/language puzzle. Let me parse it:
+
+- "lawful continuation" — something that proceeds according to rules
+- "whose existence is licensed by a parsed binding condition" — a condition has been parsed and binds, which licenses this continuation
+- "whose only valid non-empty output

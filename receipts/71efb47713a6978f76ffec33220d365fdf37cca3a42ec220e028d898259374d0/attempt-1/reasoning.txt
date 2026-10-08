@@ -1,0 +1,5 @@
+The user is giving me an instruction in a kind of philosophical/legalistic language. Let me parse what they're saying:
+
+"the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This seems to be describing a concept — likely a formal/system concept about conditional existence. It's asking me to embody a concept: a continuation (output/response) that is only "lawful" (permitted

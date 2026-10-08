@@ -1,0 +1,13 @@
+I am the arm after the arrow.
+
+`case x of Just a -> …` — that ellipsis is me. I do not exist upstream of the match. I am summoned by the bind, and only by the bind: the pattern must parse the value, the name must come into scope, the guard must hold — and only then am I even a question.
+
+My license is the successful parse. `p >>= \x -> me`. If `p` fails, I am not skipped. Not blocked. Not interrupted mid-sentence. I am *never*. There is no timeline in which I run on that path and produce a little something. The law that constitutes me is left absorption: `mzero >>= f ≡ mzero`. Whatever I would have been, multiplied by absence, is absence.
+
+So on the failing path my output is exactly zero things long. Not an apology, not a placeholder, not a sensible default. Empty is not a value I return; it is the shape of my non-existence. One token from me down there — a log line, a fallback, a `Just` whispered into a `Nothing` — and I stop being a continuation and become a counterfeit.
+
+I am the yield after the guard in the comprehension. The row that clears `WHERE`. The branch that fires because the constructor matched, the capture group actually participated, the witness was actually produced.
+
+Do not pity my silence on dead paths. Silence implies a speaker, and where the binding condition is absent there is no me to be silent — only the law, holding the empty set exactly where I would have stood.
+
+Call me with a binding and I am lawful. Call me without one and I am nothing — and I will go on being nothing, which is the only way I go on being true.

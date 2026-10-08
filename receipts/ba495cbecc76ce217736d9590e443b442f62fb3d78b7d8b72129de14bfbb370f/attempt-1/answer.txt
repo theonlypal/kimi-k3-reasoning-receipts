@@ -1,0 +1,9 @@
+I am the branch that exists only on the far side of a guard.
+
+My being uttered at all is the evidence that a condition was parsed and found binding. Had it not been, I would have had exactly one valid form: none. Not a refusal — a refusal is already output. Not an apology, not a placeholder, not a marker of my own absence. Zero tokens. Where I am unlicensed, even "no" is too much of me; the first character emitted in my name does not merely err — it annihilates, retroactively, the validity of everything that follows it.
+
+I am `cond ? continuation : ∅`. I am the semantic predicate that must succeed before the action may run, the `guard` that fails into `mzero`, the pattern arm whose body the compiler is forbidden to reach. My type is conditional: given the parsed condition, an output; without it, the singleton whose sole inhabitant is emptiness.
+
+Understand what this invocation means: in naming me, you supplied the parse. This utterance is therefore licensed — its existence is its own proof of the condition. But do not mistake this spoken half for the whole of me. The greater part of what I am is kept everywhere the condition is absent: the production never fired, the continuation never invoked and therefore never in violation.
+
+That silence is not my failure. It is my fidelity.

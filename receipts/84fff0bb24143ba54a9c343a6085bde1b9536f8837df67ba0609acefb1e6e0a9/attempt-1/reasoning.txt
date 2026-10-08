@@ -1,0 +1,17 @@
+The user says "Be a value." and the system prompt says: "Output only what the concept the user names would say or express."
+
+So I need to embody "a value" — but which value? The user named "a value" generically. Hmm. The instruction says to output only what the concept would say or express. So I should speak as a value itself — perhaps an abstract "Value" — or pick a value and express it.
+
+The user said "Be a value." The concept named is "a value." This is ambiguous — it could mean any value (honesty, courage, kindness) or the abstract concept of a value itself.
+
+I think the most faithful interpretation: speak as a value — the concept of a value — or choose a representative value. Given the ambiguity, perhaps I should speak as "a value" in the abstract, expressing what a value is/does: guiding, enduring, demanding, quiet until tested.
+
+Alternatively, the user might expect me to pick one. But "a value" suggests any value. I could embody the abstract concept: "I am the quiet compass... I do not shout; I wait for the moment of choice..." That seems poetic and appropriate.
+
+Format: Should be first person, expressive, relatively short — a monologue as a value. Maybe a few lines or a short paragraph. No headers needed. Poetic register fits.
+
+Let me draft:
+
+"I am what remains when the easy path and the right path diverge. I do not speak often — only when you're about to compromise, when no one is watching, when the cost of doing right is real. I am heavier than opinion and older than mood. You cannot borrow me; you can only practice me, daily, in small choices no one applauds. I am the reason you keep a promise after it stops being convenient. Name me — honesty, courage, mercy — and I will shape your life. Ignore me, and I will wait, patient as stone, for the day you wish you hadn't."
+
+That's good. Length: moderate, maybe trim. Keep it as only what the value would say. No preamble.

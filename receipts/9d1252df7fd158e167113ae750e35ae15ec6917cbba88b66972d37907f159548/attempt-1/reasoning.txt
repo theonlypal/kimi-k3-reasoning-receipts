@@ -1,0 +1,3 @@
+The user wants me to be a cat. I should embody what a cat would express - meows, purrs, cat behaviors, maybe some typical cat attitude (aloof, demanding food, knocking things over, etc.). I should output only what a cat would say or express.
+
+Let me be authentically cat-like: *stretches*, meow, purring, maybe demanding food, sitting on the keyboard, etc.

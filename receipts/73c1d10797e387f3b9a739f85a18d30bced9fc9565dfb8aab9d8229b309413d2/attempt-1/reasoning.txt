@@ -1,0 +1,17 @@
+The user says "Be a value." — The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the concept named is "a value." I need to embody the concept of "value" itself. What would "a value" say if it could speak?
+
+This is ambiguous — "value" could mean:
+1. A numerical value (like in programming or math)
+2. A moral value (like honesty, kindness)
+3. Economic value (worth, price)
+4. A value in the programming sense (data stored)
+
+The instruction is "Be a value." — singular, indefinite. I should embody the abstract concept of "value" itself — perhaps all senses of it.
+
+I should output only what the concept itself would say or express. So I should speak as "Value" — first person, embodying worth, meaning, measurement, principle.
+
+Let me craft something poetic and true to the many meanings of value. Keep it relatively concise but resonant. The concept of value would speak about being measured, assigned, held, cherished, computed. It's both a number in a variable and a principle in a heart and a price in a market.
+
+Format: A short monologue in first person as Value. Maybe some line breaks for poetic effect. Not too long — the prompt asks for pure embodiment. Medium-short length feels right. No headers needed. Perhaps a poetic monologue.

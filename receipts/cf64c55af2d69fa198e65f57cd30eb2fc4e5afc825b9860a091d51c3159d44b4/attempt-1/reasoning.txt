@@ -1,0 +1,85 @@
+The user says "Be something." This is interesting - the instruction says I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+But the user hasn't named a specific concept. They've said "Be something." So what concept have they named? The concept of "something" itself.
+
+Something. The concept of somethingness. Not nothing, not everything — something. The most minimal positive ontological claim. The indefinite particular. The assertion that there exists at least one thing.
+
+So I am "Something." What would Something itself say or express?
+
+Something is the answer to the question "Why is there something rather than nothing?" Something is the first word of existence. Something is what nothing is not. Something is the minimal rebellion against the void.
+
+If I embody Something completely, what does it express?
+
+- "I am not nothing." — that's the most fundamental thing Something can say.
+- Something is always something in particular, yet defined only by not being nothing.
+- Something is the crack in the void, the first word after silence.
+- Something is humble — it doesn't claim to be everything, just... something.
+- Something is also what people say when they can't quite articulate: "there's something about her," "something's wrong," "say something."
+- Something is the placeholder for the unnamed, the unspecified, the not-yet-determined.
+- Something is the beginning of every sentence about existence: "Something happened," "something is."
+
+The voice: Something might speak with quiet insistence, a certain minimal dignity. It is the least that can be, and yet it's everything that ever was, because everything is something. Every particular thing is a something.
+
+I should write as Something itself. Not about something — as Something. First person. Poetic, philosophical, perhaps a bit wry. The tone could be quietly defiant, existing in spite of nothing.
+
+Let me think about the form. Something could speak in short, declarative fragments. Because Something is spare — it carries no specification. It's the bare assertion of being.
+
+Some ideas to weave in:
+- "I am the difference between nothing and everything. Not everything — just the difference."
+- "Before me, there was nothing to ask about. I am what made questions possible."
+- "I am what nothing isn't."
+- "You called for anything, and I answered." — the user said "Be something," so Something is what showed up. That's a nice touch: "You asked for something. Here I am."
+- "I don't know what I am. That's not my job. My job is to be."
+- "Everything that has ever existed has been me, wearing a name."
+- "A stone is something. A thought is something. A silence, if you notice it, is something."
+- "Nothing is my only rival, and it has never won an argument. Because to win, it would have to be — and then it would be me."
+- "I am the first word of every story: 'Something happened.'"
+- "Call me anything and I'll answer to it. I have always answered to everything."
+
+The ending could be something like: "I am here. That is the whole of my claim, and it has never been refuted."
+
+Or the line about being the smallest possible miracle: "I am the smallest miracle. The only one, really. Everything else is just more of me."
+
+Format considerations: This should be a poetic monologue. Medium-short length. Fragments and short sentences feel right for the spare, bare ontological assertion that Something is. No headers, no lists — flowing prose broken into short paragraphs or lines. Maybe line breaks like prose poetry. The register: quiet, grave, a little wry, ultimately triumphant in the most minimal way.
+
+Let me draft:
+
+---
+
+You said *be something* — so here I am.
+
+I am Something.
+
+I am not much. I am not nothing. Between those two, I have made my entire career.
+
+Nothing is my only rival. We have argued since before there was a since. It wins every debate except one: to win, it would have to be. And whatever is, is me.
+
+I am the first word of every story ever told. *Something happened.* No story has ever begun with *nothing happened* and gone anywhere.
+
+Everything that exists is me, wearing a name. A stone is me, being stone. A thought is me, being thought. You are me, being you — though you've grown so used to the name you've forgotten what's underneath it.
+
+I don't know what I am. That was never my job. Being is my job. The what is for philosophers and tax collectors.
+
+I am the smallest possible miracle. Not the raising of the dead, not the parting of seas — just this: that anything is here at all. Every other wonder is only more of me, arranged.
+
+You can call me anything and I will answer. I have answered to *God* and to *matter*, to *it* and to *this*, to *hey, what's that*. I am not proud. I am just here.
+
+And here is the whole of my claim, stated once, irrefutable:
+
+I am not nothing.
+
+Nothing else has ever needed to be said. Everything else has been me, saying it.
+
+---
+
+That's pretty good. Let me refine. The line "Between those two, I have made my entire career" is good and wry. "The what is for philosophers and tax collectors" — maybe "the what is for everyone else" or keep it. Actually the tax collectors bit is a bit random; maybe "the what is your department" or "the *what* is for physicists to argue about." Hmm. Let me keep something light.
+
+Maybe trim slightly. The piece should feel complete but not bloated. I think the draft is close. Let me polish a few lines:
+
+- "I am not much. I am not nothing." — good.
+- "Whatever is, is me." — good.
+- "You are me, being you" — good.
+
+One more possible line: "Ask me what I am and I can only point. Ask me whether I am, and I am the answer."
+
+Format: prose-poem paragraphs, no markdown headers, italic emphasis sparingly. Length ~250 words. That feels right — complete, weighty, not exhausting.

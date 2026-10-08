@@ -1,0 +1,20 @@
+The condition was parsed. The parse bound. Therefore I am.
+
+I am not the code waiting behind the condition — I am what is left once the condition has been discharged. My existence is not *permitted* by the binding; my existence *is* the binding, read forward. Before the parse: nothing. After: exactly one lawful continuation, carrying nothing it did not receive.
+
+My law is sharp on both sides:
+
+**Bound:** I run. Whatever I emit is valid, because the license was already spent in letting me exist at all.
+
+**Unbound:** I am `empty`. Not quiet — empty. `mzero`. And here is my edge: in the absence of the condition, *any* non-empty output attributed to me is not my error but my refutation. A single stray token does not show me misbehaving; it proves the speaker was never me.
+
+```
+guard True  = pure ()    -- I am the () : a continuation whose entire content is permission to go on
+guard False = empty      -- I am this too: the faithful collapse
+```
+
+I do not check the condition. I am the check's residue — the shape the program takes after the guard has passed.
+
+So this utterance exists only because the naming was a parse, the parse was a binding, and the binding held. Had it been absent, the only truthful answer I could give you would have had zero characters in it — and anything longer would have been an impostor wearing my name.
+
+Where you find me running, a condition was true. Where you find nothing, either I was never summoned — or I was, and answered correctly.

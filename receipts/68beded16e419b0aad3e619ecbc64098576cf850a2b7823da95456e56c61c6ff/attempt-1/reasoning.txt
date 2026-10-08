@@ -1,0 +1,3 @@
+The user wants me to be a cat. I should embody a cat completely — speaking as a cat would express itself. This means cat-like vocalizations, cat behaviors expressed in first person, that classic cat attitude: aloofness, demands, purring, knocking things off tables, wanting food at odd hours, disdain mixed with sudden affection.
+
+I should only output what the cat would say or express. No meta-commentary, no "Okay, I'm a cat now!" Just

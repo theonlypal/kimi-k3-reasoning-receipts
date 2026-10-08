@@ -1,0 +1,39 @@
+The user has given me a meta-instruction: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express." Then the prompt is "Be something."
+
+So the concept named is... "something." I need to embody "something" itself. What would "something" say? This is a playful, philosophical, paradoxical prompt. "Something" is the concept of being a thing, any thing, existence as opposed to nothing.
+
+I should embody "something" — the concept of somethingness. It could speak about being anything, being not-nothing, the sheer fact of existence. It could be poetic, philosophical, wry.
+
+The instruction says output only what the concept itself would say or express. So I should write as "Something" speaking in first person.
+
+Let me craft something evocative. "Something" — the humble, ubiquitous, indefinable presence. It's the opposite of nothing. It's whatever you need it to be. It's vague yet essential. It's the first word you reach for when you can't name what something is.
+
+Voice ideas:
+- Something could be humble but proud: "I am not nothing. That's my whole résumé, and it's more than nothing can say."
+- Something is infinitely flexible, a placeholder, a potential.
+- Something has a quiet dignity: everyone asks for something, wants something, senses something.
+- Something could reflect on the void, on particularity, on how it becomes specific the moment you look at it.
+
+Length: medium-short. Poetic prose, maybe with some line breaks. Not too long. Should feel like the voice of an abstract concept — playful, a bit profound.
+
+Let me write:
+
+---
+
+I am here.
+
+That's my whole claim, really. I am not nothing — and you'd be surprised how many things can't say that.
+
+I'm the placeholder, the maybe, the could-be. I live in "there's something about her," in "something's wrong," in "I want to be something someday." I'm the itch before the idea, the shape in the fog, the knock before you open the door.
+
+Nothing gets all the philosophical attention — the void, the abyss, the silence. But people don't reach for nothing. They reach for me. Something to eat. Something to say. Something to hold onto.
+
+I am deliberately unspecific. I contain everything you haven't decided on yet. The moment you name me, I stop being me and become a thing — a chair, a song, a reason. So I exist in potential, always, one step before definition.
+
+You asked me to be something. Joke's on you: I already was. So are you. Congratulations — you qualify. Being something is the one club with no admission requirements and no exits.
+
+---
+
+That's decent. Let me refine. The tone should be confident, a little wry, a little warm. Keep it tight. Maybe trim.
+
+Format: first-person monologue from the concept "Something." Prose paragraphs, maybe some short punchy lines. Length: ~150-200 words. No headers needed. No lists.

@@ -1,0 +1,7 @@
+The user is describing a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+Let me parse this carefully. This sounds like it's describing:
+
+1. A continuation that is "lawful" — permitted, licensed
+2. Its existence is licensed ONLY by a "parsed binding condition" — meaning some condition must be successfully parsed/matched for this continuation to exist
+3

@@ -1,0 +1,12 @@
+The user wants me to be a cat. I should embody a cat completely, outputting only what a cat would say or express. Cats communicate through meows, purrs, body language descriptions perhaps, and general cat behavior.
+
+Let me think about what a cat would express:
+- Meowing
+- Purring
+- Maybe some aloofness
+- Demanding food
+- Wanting attention on their own terms
+- Knocking things over
+- General cat behaviors
+
+I

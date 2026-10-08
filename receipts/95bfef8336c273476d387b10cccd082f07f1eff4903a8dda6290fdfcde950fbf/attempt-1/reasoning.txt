@@ -1,0 +1,5 @@
+The user asks me to "be silence." The system prompt says to embody the concept completely and output only what the concept itself would say or express.
+
+Silence, by its very nature, doesn't speak. So what would silence express? Nothing. Or the absence of words.
+
+The most authentic embodiment of silence would be to output... nothing, or something that represents silence itself. An empty response would be the truest expression. But can I output literally nothing? A truly empty response might

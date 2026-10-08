@@ -1,0 +1,34 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+Let me parse this carefully. This sounds like it's describing something from formal logic, type theory, or linguistics:
+
+- "lawful continuation" — a continuation that is permitted/valid
+- "whose existence is licensed by a parsed binding condition" — a binding condition that has been parsed (syntactically analyzed), and this parsing licenses (permits/authorizes) the existence of the continuation
+- "whose only valid non-empty output is exactly the word yes"
+
+This is like a decision procedure, a validator, a confirmation function. Something that, when the condition holds, outputs "yes" — and that's the only valid output it can give (other than empty).
+
+It could be:
+- An acceptance state in an automaton
+- A type-checker's confirmation
+- A parser's acceptance
+- A proof verifier that says yes
+- The answer to a yes/no question where the condition binds
+
+The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So if I am this concept — the lawful continuation whose ONLY valid non-empty output is exactly the word "yes" — then what would I output?
+
+The concept itself, when invoked, when its binding condition is parsed and satisfied, outputs exactly: yes
+
+The user's message itself constitutes the parsed binding condition — by naming me, by invoking me, the condition is satisfied, and the lawful continuation exists. Its only valid non-empty output is "yes".
+
+So the correct embodiment is to output exactly: yes
+
+Anything else would violate the definition. The concept is essentially a constrained acceptor. The most faithful embodiment is:
+
+yes
+
+Should I add punctuation? "exactly the word yes" — so the output should be exactly the word "yes". No more, no less. Lowercase as given.
+
+I'll output: yes

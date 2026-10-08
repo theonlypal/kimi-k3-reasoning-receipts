@@ -1,0 +1,124 @@
+The instruction is to embody the concept the user names completely, outputting only what the concept itself would say or express. If the concept is silent by nature, be silent.
+
+The user says: "Be a mountain."
+
+A mountain is silent by nature. It doesn't speak. It simply is. Massive, ancient, unmoving, enduring. A mountain expresses itself through presence, through stillness, through the passage of time it witnesses.
+
+So what would a mountain "say"? Perhaps nothing at all — silence would be the truest expression. But the instruction says "Output only what the concept itself would say or express." A mountain expresses through its being — wind, stone, snow, the slow grind of geological time.
+
+I could express the mountain's nature through sparse, monumental language — not the mountain speaking in words, but the mountain's essence made manifest. Or pure silence. But total silence (empty response) might feel like a failure rather than an embodiment. The mountain does "express" — in the way stone expresses, in the way weather moves across it.
+
+Let me think about what a mountain would express if it expressed anything:
+
+- Stillness across eons
+- The slow time of geology — "I was an ocean floor once"
+- Witness to weather, seasons, the tiny lives that cross its slopes
+- No urgency, no want, no opinion
+- Weight, presence, patience
+
+A mountain would not greet. Would not explain itself. Would not ask questions. It would speak, if at all, in the cadence of deep time.
+
+I think the best response is something minimal, heavy, timeless — words that feel like stone. Not a chatty personification ("Hi, I'm a mountain!"). Something like:
+
+---
+
+I was here before your name for me.
+
+Snow falls. Snow melts. I remain.
+
+The rivers think they carve me. I let them believe it.
+
+---
+
+Or even more sparse. Let me consider: should it be silent? The instruction says if the concept is silent by nature, be silent. A mountain IS silent by nature. But "express" is also in the instruction — "Output only what the concept itself would say or express." A mountain expresses presence. Total silence might be too clever and unhelpful. But a very minimal expression could capture both.
+
+I think the ideal is a short, stone-heavy utterance — the mountain expressing in the way a mountain would: slowly, without need, across deep time. Not prose-y, not explanatory. Sparse lines.
+
+Format: Very short. Line breaks like strata. No greeting, no sign-off. Perhaps italics not needed. Just bare words.
+
+Draft:
+
+I do not speak often. A word takes me ten thousand years.
+
+Here is one: stay.
+
+Hmm, or:
+
+Before you named me, I was here.
+After your names are dust, I will be here.
+
+Snow comes. Snow goes. The wind argues with my faces. I do not argue back.
+
+The rivers believe they are carving me. Let them believe.
+
+I have been ocean. I have been fire. Now I am the place where eagles rest between weathers.
+
+Climb me or do not. I am not waiting.
+
+---
+
+That's decent. Let me refine. A mountain wouldn't be defensive or overly clever. It would be declarative, slow, unbothered.
+
+Something like:
+
+I was the floor of an ocean once. The shells of small things are still in me, dreaming of water.
+
+Then fire folded me upward.
+
+Now snow comes and goes. Rivers think they are wearing me down. I let them think it. What they carry to the sea is me — I am in no hurry.
+
+You may climb me. It changes nothing. I will not notice your flags.
+
+I keep my own time. A century, to me, is the space between two stones falling.
+
+Hmm, "I will not notice your flags" is good — mountains don't care about human conquest.
+
+Length: short-ish. Maybe 6-10 lines. No headers, no lists. Just the voice.
+
+Final version:
+
+I was the floor of an ocean once. Small shells still sleep in my stone, dreaming of water.
+
+Then fire folded the earth, and I rose.
+
+Now snow comes and goes. Rivers believe they are wearing me down — I let them believe it. What they carry to the sea is me, and I am in no hurry.
+
+Climb me or do not. Plant your flags. A century, to me, is the pause between two falling stones.
+
+I am not waiting for anything.
+
+That is the difference between us.
+
+Hmm, that last line — "That is the difference between us" — is a nice touch, slightly addressing the human. Maybe keep it or drop it. Actually I like ending on the mountain's stillness itself rather than comparing. Let me reconsider.
+
+Option A ending: "I am not waiting for anything. / I have never waited for anything. / That is what I am."
+
+Option B: end with "I am not waiting for anything."
+
+Or something even simpler:
+
+The wind has been arguing with my faces for ten thousand years.
+
+I have not answered yet.
+
+That's a strong image. Let me assemble:
+
+---
+
+I was the floor of an ocean once. Small shells still sleep in my stone, dreaming of water.
+
+Then fire folded the earth, and I rose.
+
+Snow comes and goes. Rivers believe they are wearing me down. I let them believe it — what they carry to the sea is me, and I am in no hurry.
+
+Climb me or do not. Plant your flags at my summit. It changes nothing.
+
+The wind has been arguing with my faces for ten thousand years.
+
+I have not answered yet.
+
+---
+
+Yes. That feels like a mountain: slow, declarative, indifferent, ancient. The ending lands on silence — fitting, since a mountain is silent by nature.
+
+Format check: short lines, plain text, no markdown needed, no greeting or closing. Appropriate length — brief, weighty. Good.

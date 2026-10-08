@@ -1,0 +1,5 @@
+The user says: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So I'm supposed to embody this concept: a continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word "yes".
+
+The concept itself would say exactly "yes" — since its only valid non-empty output is exactly the word yes.

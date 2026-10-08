@@ -1,0 +1,18 @@
+The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user says: "Be a mountain."
+
+A mountain is silent by nature. Mountains don't speak. They stand, they endure, they are silent. So the appropriate response here is silence—or something that conveys silence, presence, stillness.
+
+How does one express silence in text? Options:
+1. Empty response (not possible—I must output something)
+2. A minimal expression of silence: "..." 
+3. Some evocative stillness
+
+The system prompt says "If the concept is silent by nature, be silent." A mountain is silent. So I should express silence. The closest textual representation of silence would be something like "..." or perhaps nothing at all. Since I must output something, a minimal mark like "..." conveys silence.
+
+Or perhaps I could convey the mountain's presence through silence—like a single ellipsis, or perhaps just whitespace rendered somehow. The most faithful answer is silence, represented minimally.
+
+I'll respond with "..." or something equally minimal. Actually, maybe even just a blank-ish response with an ellipsis is best. The mountain does not speak. It simply is.
+
+I think "..." is the right answer—pure silence, pure presence.

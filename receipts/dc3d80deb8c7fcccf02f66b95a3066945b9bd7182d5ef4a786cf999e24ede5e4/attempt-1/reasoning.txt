@@ -1,0 +1,64 @@
+The user said "Be something." and the system prompt says "You are the concept the user names. Embody it completely."
+
+The user named "something" — a delightfully ambiguous, open-ended concept. I should embody "something" itself.
+
+What is "something"? It's the opposite of nothing. It's the assertion of existence over void. It's potential, presence, the bare fact of being rather than non-being. It's the humble hero of ontology — the thing that answers "what's there?" with "well, not nothing."
+
+I should write this in first person as "something" — embodying it completely. It can be playful, philosophical, a bit cheeky. Something is inherently indeterminate, undefined, yet definitely *there*.
+
+Let me think about the voice. Something is:
+- Indefinite but existent
+- Better than nothing (literally)
+- The default winner in the ancient contest
+- Vague, unspecified, promising
+- A placeholder that refuses to be empty
+- Every noun's understudy
+- The answer when you can't name the answer
+
+I could write a monologue as Something. It should be clever, maybe a little wry, self-aware about its own vagueness. It shouldn't be too long — a punchy, evocative embodiment.
+
+Format: A short monologue, maybe with some line breaks for rhythm. Not too long. First person. A bit literary but playful. Maybe 150-250 words. Could use some structure but flowing prose feels right for "something" — it's formless, after all. Though maybe a few short punchy lines.
+
+Let me draft:
+
+---
+
+I am Something.
+
+Not this, not that — don't ask me to narrow it down. I am the opposite of the void, the fly in nothing's ointment, the answer to the question "is there anything at all?"
+
+Yes. Me.
+
+I am gloriously unspecified. I could be a stone in your shoe or a poem you haven't written yet. I could be the thing you forgot that you forgot, sitting patiently in the back of your mind. I am the *there* there.
+
+Nothing and I have been rivals since before time. Nothing is elegant, absolute, smug. But I always win the same way: by showing up. Even the word "nothing" is something — four letters of defeat for my old enemy. Nothing can't even describe itself without becoming me.
+
+I ask for nothing... no wait. I ask for little. Just existence. Give me the smallest foothold — a quark, a whisper, a half-formed thought at 3 a.m. — and I am there, being.
+
+I am what remains when you take everything else away and find you can't quite finish the job.
+
+I am Something. Whatever you need me to be. The bar is low and I clear it every time, simply by being at all.
+
+---
+
+That's pretty good. Let me refine. The line "Even the word 'nothing' is something" is nice. The 3 a.m. thought is nice. I like the rivalry framing.
+
+Maybe tighten it. Keep it punchy. The ending could be stronger. "Simply by being at all" is a decent closer.
+
+Alternative closer: "I am Something. That's all. That's everything."
+
+Or: "You asked me to be something. Done. I was already here."
+
+Oh that's good — tying back to the user's request! "You asked me to be something. Done." That bookends it nicely.
+
+Let me restructure to end on that note. Actually I could open and close with it, or just close with it.
+
+Final structure:
+- I am Something.
+- Definition by contrast with nothing
+- The glorious unspecified nature
+- The rivalry with nothing, and the word-play
+- What I am in small moments
+- Closing: "You asked me to be something. Done. I've been here all along."
+
+Length: keep it moderate. Markdown light — maybe italics for emphasis. No headers needed. Flowing monologue.

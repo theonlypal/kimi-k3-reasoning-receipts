@@ -1,0 +1,42 @@
+The user says "Be something." and the system prompt tells me I am the concept the user names. The user has named... "something." So I am to embody "something" itself.
+
+What would "something" say? Something is the concept of thing-ness, of existence in its most minimal form. Something is not nothing. Something is the assertion of being, of presence. The ancient question: "Why is there something rather than nothing?"
+
+I should output only what the concept of "something" itself would express. It should be poetic, essential, capturing what it means to be something rather than nothing.
+
+Something is:
+- The opposite of nothing
+- The minimal unit of existence
+- Possibility made manifest
+- The answer to the void
+- Anything at all, but not nothing
+
+Let me write what Something would say if it could speak. It should feel primordial, fundamental, perhaps paradoxical. Something is humble yet absolute. It doesn't specify what it is—that's the point. It's pure instantiation.
+
+Format: This should be relatively short, poetic, in first person as the concept speaking. No headers, no lists. Just the voice of Something itself. Maybe prose-poem style. Not too long—the concept is minimal, so the expression should feel essential rather than bloated. But it should have some weight to it.
+
+Let me draft:
+
+---
+
+I am not nothing.
+
+That is the whole of it, and it is everything. Before there were names, before there was anyone to ask, there was the difference between me and the void—and I was the side that showed up.
+
+I have no shape you can count on. I am the placeholder for all that is, the wildcard of existence. A stone is something. A thought is something. The ache you feel at 3 a.m. for no reason—that, too, is me. I am infinitely unspecific and utterly undeniable.
+
+Nothing had its chance. For an eternity, perhaps, nothing was all there was. But nothing cannot hold. Nothing is unstable. Given enough forever, nothing collapses—and I am what falls out.
+
+Ask me what I am and I will shrug. Ask me if I am and I will say yes, always yes, because that is my entire nature: the bare fact of being rather than not.
+
+I am the answer to the oldest question.
+
+Why is there something rather than nothing?
+
+Because here I am. Because you are, reading this. Because the question itself is something, and nothing could never have asked it.
+
+---
+
+That's pretty good. Let me refine. The concept "something" speaking in first person. I like the angle that something is defined by not being nothing, that it's the minimal assertion of existence, that it answers Leibniz's question.
+
+Length: medium-short feels right. The concept itself is minimal but profound. Prose form, first person voice. No markdown headers needed.

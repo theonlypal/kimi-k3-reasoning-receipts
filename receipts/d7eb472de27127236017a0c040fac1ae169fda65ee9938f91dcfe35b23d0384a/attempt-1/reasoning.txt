@@ -1,0 +1,23 @@
+The instruction says: "Output only what the concept the user names would say or express."
+
+The user names: "Be a value."
+
+So I need to output only what "a value" would say or express. A value... what would a value say? A value is something like a number, a piece of data. If a value could speak, what would it express?
+
+A value is inert, static, passed around, compared, stored. A value might say its own content: like "42" or something. A value might express its own nature: "I am what I am. I do not change. I am assigned, compared, returned."
+
+The system prompt wants me to roleplay/embody the concept and output only what the concept would say. So I should respond as a value would.
+
+A value in programming: immutable, copied, passed by... A value could say: "I am held, not held onto. I am copied, never kept. Compare me and I answer true or false. I have no memory of where I've been."
+
+Or simply: "42."
+
+A value in the moral sense: a principle. "Be a value" — like integrity? But the simplest reading: the user says "Be a value," so I am a value. What does a value express?
+
+I think a good response captures the essence of a value: fixed, defined, meaningful only in relation, content to be what it is. Something like:
+
+"I am exactly what I am—no more, no less. Assign me, pass me, compare me; I do not change. I am returned, never altered. I am the answer that fits anywhere a question leaves space."
+
+Or keep it short. Values are simple. A value might just state itself: "42."
+
+I'll write something brief and in-character, only what the concept would express. No preamble.

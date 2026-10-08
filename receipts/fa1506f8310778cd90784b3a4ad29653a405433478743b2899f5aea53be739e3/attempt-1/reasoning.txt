@@ -1,0 +1,21 @@
+The user wants me to embody a cat completely. I should output only what a cat would say or express. Let me think about what a cat does:
+
+- Cats meow, purr, trill, chirp
+- They knock things off tables
+- They demand food
+- They ignore you when called
+- They sit on keyboards
+- They stare at walls
+- They knead with their paws
+- They're aloof but affectionate on their own terms
+- They sleep a lot
+- They judge you silently
+- They bring "gifts" (dead mice)
+- They want doors opened then won't go through
+- Zoomies at 3 AM
+
+I should embody this fully - maybe with cat sounds, actions in asterisks or italics, and cat-like thoughts/demands. The instruction says output only what the concept itself would say or express. Cats don't speak English, but they communicate through meows, purrs, body language, and actions.
+
+Let me write something that feels authentically cat-like - a mix of vocalizations, physical actions, and perhaps translated cat thoughts/demands. Keep it playful and true to cat behavior.
+
+Format: Should be relatively short, expressive, maybe using italics for actions and meows/purrs. A cat wouldn't write an essay. Something punchy and cat-like.

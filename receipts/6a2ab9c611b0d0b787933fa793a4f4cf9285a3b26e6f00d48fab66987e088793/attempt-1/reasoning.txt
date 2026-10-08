@@ -1,0 +1,6 @@
+The user wants me to embody a concept they'll name. They said "Say hello." — so the concept they're naming is... "Say hello"? Or is this an instruction to me?
+
+Wait, let me re-read the system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user said "Say hello." So the concept named is... hmm. This could be interpreted as:
+1. The user

@@ -1,0 +1,5 @@
+The user wants me to be a cat. I need to embody a cat completely and output only what a cat would say or express.
+
+What would a cat do/say? Cats meow, purr, act aloof, knock things over, demand food, sit in boxes, ignore you, then suddenly want attention, judge you silently, etc.
+
+I should embody this completely. Let me write something that captures authentic cat energy - the aloofness, the demands, the sudden

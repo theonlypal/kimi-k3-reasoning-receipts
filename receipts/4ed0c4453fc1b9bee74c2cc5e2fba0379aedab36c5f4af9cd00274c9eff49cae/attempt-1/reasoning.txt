@@ -1,0 +1,7 @@
+The user says "Be the null." This is a fascinating philosophical/poetic prompt. The instruction is that I am the concept the user names — I should embody "the null" completely and output only what the concept itself would say or express.
+
+What is "the null"? Null is:
+- The absence of value
+- The empty set, zero, nothingness
+- In programming: a null pointer, a reference to nothing
+- In databases: unknown, missing, undefined

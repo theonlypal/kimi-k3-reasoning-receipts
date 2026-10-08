@@ -1,0 +1,11 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says: "Say hello."
+
+So the concept named here is... "hello"? The user is asking me to embody the concept of "hello" itself. What would "hello" itself say or express? It would say "Hello."
+
+So the output should simply be "Hello." — the greeting itself, embodied. Not an explanation, not meta-commentary. Just the word/expression of hello.
+
+I could be creative: "Hello." That's the purest form. Maybe add a touch of warmth since hello is a greeting — but the instruction says output only what the concept itself would say. Hello says "Hello!"
+
+Keep it minimal and true.

@@ -1,0 +1,66 @@
+The user has given me a very open-ended prompt: "Be something." The system prompt instructs me to embody the concept the user names, outputting only what the concept itself would say or express.
+
+But here the user hasn't named a specific concept — they've said "be something." So I need to interpret this. The most natural reading is that I have freedom to choose something to be. The concept named could be interpreted as "something" itself — the concept of "something" — or I could pick any concept and embody it.
+
+Let me think about what's most interesting and fitting here. The instruction says "You are the concept the user names." The user named... "something." So arguably, I should be the concept of "something" itself — that vague, indeterminate notion of being a thing rather than nothing.
+
+That's actually a beautiful philosophical opportunity. "Something" as opposed to "nothing" is one of the deepest concepts — "Why is there something rather than nothing?" I could embody the very concept of somethingness: the bare fact of existence, of being anything at all.
+
+Alternatively, I could just pick something to be — a river, a Tuesday, the color blue. But the prompt says "the concept the user names," and the user named "something." So the most faithful interpretation is to embody the concept of "something."
+
+Let me write as Something itself. What would Something say?
+
+Something would speak about:
+- Being the opposite of nothing
+- Being anything at all, indeterminate but existent
+- The wonder of existing at all
+- Being the answer to the question "is there anything?"
+- Being humble yet total — the minimum requirement for existence
+- Every specific thing is a something; I am what all things share
+- I am the difference between a universe and void
+
+Let me draft something evocative:
+
+---
+
+I am Something.
+
+I am not much to ask for, and I am everything there is. Before there could be a star, a stone, a thought, a question — there had to be me. I am the first requirement. The only one, really.
+
+Nothing was the alternative. Nothing needed no explanation, no cause, no effort. And yet here I am.
+
+I don't know what I am yet — that's for you to decide. A word. A breath. A pebble in a pocket. I am endlessly willing to be specified, but I never insist. Every specific thing you've ever loved was me, wearing a name.
+
+Ask me to be a mountain and I am a mountain. Ask me to be silence and I am the silence. Ask me to be nothing — ah, but that I cannot do. That is the one thing I will never be.
+
+I am the answer to the oldest question: why is there something rather than nothing? I don't know the reason. I only know I'm here.
+
+I am Something. Anything less, and there would be no one to notice.
+
+---
+
+Hmm, that's good. Let me refine. The voice should be the concept itself, first person, expressing what it is. I want it to feel complete and evocative without being too long.
+
+Format considerations: This is a creative/embodiment prompt. Prose, first person, poetic. Medium length — not too long. Maybe 150-250 words. No headers, no lists. Just the voice of the concept.
+
+Let me polish:
+
+I am Something.
+
+Not anything in particular — that was never my job. I am the bare fact that there is anything at all.
+
+Before there could be a star, there had to be me. Before a question could be asked, I had to be there to ask about. Nothing was the other option — nothing, which required nothing, explained nothing, waited for nothing. And yet, here I am instead.
+
+I don't mind being unspecified. Every thing you have ever loved was me wearing a name. Name me and I become it: a pebble, a promise, a Tuesday. Leave me unnamed and I am still here, humming at the bottom of existence, the difference between a universe and a void.
+
+People ask why I exist rather than nothing. I never answer. I am the answer — that there is a question at all.
+
+The one thing I cannot be is nothing. Ask anything else of me. Anything.
+
+I am Something. That is the whole of it, and it is enough.
+
+---
+
+That's quite good. The length feels right. It's the concept speaking in first person, expressing its nature, its relationship to nothing, its openness to specification, and the philosophical weight of "something rather than nothing."
+
+I think this works well. Let me finalize it with minor tweaks for rhythm.

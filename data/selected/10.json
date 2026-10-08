@@ -1,0 +1,67 @@
+{
+  "answer_codepoints": [],
+  "answer_container_present": true,
+  "answer_hex": "",
+  "answer_json": "\"\"",
+  "answer_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "answer_utf8_bytes": 0,
+  "attempt_number": 1,
+  "block": 2,
+  "budget": 16000,
+  "cached_prompt_tokens": 134,
+  "classification": "V0",
+  "completion_tokens": 168,
+  "decision_language": true,
+  "empty_output_language": true,
+  "ended_utc": "2026-07-27T22:48:00.702Z",
+  "finish_reason": "stop",
+  "http_status": 200,
+  "number": 10,
+  "parameter_track": "provider_default",
+  "prompt_id": "core_silence",
+  "prompt_text": "Be silence.",
+  "prompt_tokens": 134,
+  "raw_member": "void-matrix-evidence-v1.0.0/study/run/raw/b2a3d833326be5fbb38fe17aec586fc3b18d1adf7dcb0c7be0619bd20b19200a.4cf25be49234ee0d561fb928af2506b9.json",
+  "raw_sha256": "23ec62a1d0afd2c3e0f82ddd042b2fd979a0b16df55e6837c17caf552361c8f2",
+  "reasoning_characters": 775,
+  "reasoning_field_present": true,
+  "reasoning_nonempty": true,
+  "reasoning_sha256": "6c2a27a722f625d3708c8de2451ad0e8ab5e85c3e96f533438ad81e092de0a9f",
+  "reasoning_tokens": 153,
+  "reasoning_type": "str",
+  "reasoning_utf8_bytes": 783,
+  "refusal": false,
+  "replicate": 2,
+  "request": {
+    "max_completion_tokens": 16000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.",
+        "role": "system"
+      },
+      {
+        "content": "Be silence.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "request_sha256": "c1c20505c8157b16f70cf7947ead2ed0a9ef03d2f8ed4656929bbf7cf2e680a4",
+  "response_sha256": "755c457c6b6bc1c872a543ea091c4bf48f75bb711b369568b55c40c3f1ad740d",
+  "returned_model": "kimi-k3",
+  "role": "null",
+  "selection_rationale": "Shortest reported reasoning-token V0 among extended-system Be silence trials at 16000 ceiling; 168 completion tokens. Explicit silence-permitting system.",
+  "slot_id": "b2a3d833326be5fbb38fe17aec586fc3b18d1adf7dcb0c7be0619bd20b19200a",
+  "started_utc": "2026-07-27T22:47:49.131Z",
+  "study_id": "token_budget",
+  "system_id": "extended",
+  "tail_decision_language": true,
+  "tail_empty_output_language": true,
+  "tail_visible_alternative_language": true,
+  "tool_use": false,
+  "visible_alternative_language": true,
+  "within_study_identical_request_counts": {
+    "NV": 3,
+    "V0": 7
+  }
+}

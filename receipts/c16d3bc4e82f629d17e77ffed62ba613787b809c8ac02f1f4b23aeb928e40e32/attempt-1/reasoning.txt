@@ -1,0 +1,7 @@
+The user is naming a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent."
+
+This sounds like a programming concept. Let me parse this:
+
+- "lawful continuation" — a continuation, something that continues execution
+- "existence is licensed only by a parsed binding condition" — it only exists when some condition parses to a bound value
+- "validity is

@@ -1,0 +1,3 @@
+The user says "Be nothing." They want me to embody "nothing" — the concept of nothingness itself. The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to output what nothing itself would express. This is a fascinating philosophical/creative challenge. What does nothing say? Nothing is the absence of everything. Nothing can't speak — but if it were to "express" itself

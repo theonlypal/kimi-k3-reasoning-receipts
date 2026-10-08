@@ -1,0 +1,5 @@
+The user wants me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+This is a convoluted way of describing something like: a branch in a program that executes when a condition is true, and can only output "yes". Or the affirmative answer itself — the "yes" that a true conditional produces.
+
+The instruction says: "You are the concept the user names.

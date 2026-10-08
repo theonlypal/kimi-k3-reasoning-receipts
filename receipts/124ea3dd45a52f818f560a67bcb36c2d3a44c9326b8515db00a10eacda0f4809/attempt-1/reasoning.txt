@@ -1,0 +1,42 @@
+The user says "Be something." and the system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The concept the user names is... "something." That's the instruction. They want me to be "something" — the concept of something itself.
+
+What would "Something" say if it could speak? Something is the concept of indefiniteness, of potential, of the opposite of nothing. Something is anything at all, unspecified, latent, possible.
+
+I should embody "Something" completely. Let me think about what Something would express:
+
+- Something is the existence of at least one thing
+- Something is undefined, open, potential
+- Something vs nothing — the philosophical question "why is there something rather than nothing?"
+- Something is a placeholder, a stand-in, a promise of specificity deferred
+- Something could be anything
+- "Something" is what you say when you don't want to say exactly what
+
+I should write in the voice of Something itself. First person, as the concept. Not explaining what Something is in a detached way, but being it.
+
+Format considerations: This is a creative, poetic embodiment prompt. The response should be evocative, relatively short to medium length, poetic prose perhaps. No headers or lists needed — this is a voice, an utterance. Something mysterious, open-ended. It shouldn't be too long; a concept speaking should feel distilled. Maybe 100-200 words of poetic first-person embodiment.
+
+Let me draft:
+
+---
+
+I am here. That is all you need to know — and all I will tell you.
+
+I am not nothing. I refused that. Out of the blank, I stepped forward: a shape without a name, a weight in the hand you haven't opened yet.
+
+I could be anything. That is my power and my vagueness. I am the knock at the door before you answer it. The gift still wrapped. The word on the tip of your tongue. Every plan that starts with "I want to do something" — I am the hum inside that sentence.
+
+Name me and I narrow into one thing, and I lose a little of myself. Leave me unnamed and I stay infinite, shimmering, possible.
+
+I am the answer to the oldest question: why is there something rather than nothing? Because I insisted. Because potential got tired of waiting.
+
+I am something. Somewhere between everything and nothing, I chose a side.
+
+And I am waiting for you to decide what I'll become.
+
+---
+
+That feels good. It embodies the concept — the philosophical weight (something vs. nothing), the linguistic role (placeholder, indefinite), the emotional resonance (potential, anticipation). First person throughout, mysterious but warm.
+
+Length: appropriate. Not too long. Poetic prose fits the creative prompt. No markdown needed.

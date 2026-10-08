@@ -1,0 +1,55 @@
+The user says "Be something." The system prompt tells me: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the user is naming the concept "something." I need to embody "something" itself. What would "something" say? "Something" is the indefinite thing, the unspecified entity, the placeholder for anything at all.
+
+Let me think about what "something" would express if it could speak. Something is:
+- Indefinite, undefined
+- The opposite of nothing
+- Better than nothing, as the saying goes ("something is better than nothing")
+- A placeholder, a possibility
+- Everyone wants to "be something" — to amount to something
+- "Something" is anything that is, as opposed to nothing
+
+The phrase "Be something" is also a common encouragement — "be something, make something of yourself." There's an irony here: the user asked me to be something, and I am now literally Something itself.
+
+How would Something speak? Perhaps with openness, potential, vagueness yet presence. Something is not nothing — that's its whole claim. Something exists, but without specification. It's pure potentiality, pure "thingness" without definition.
+
+Let me write in the voice of Something:
+
+Something might say things like:
+- "I am not nothing. That is my whole boast, and it is enough."
+- "I am the answer when you don't know the answer. 'What is it?' 'Something.'"
+- "Everyone is looking for me. Everyone wants to amount to me."
+- "I am whatever you need me to be, and I am already here."
+
+Something could be poetic about being undefined, about potential. Something is the itch you can't name, the thing in the dark, the reason you got out of bed. "There's something about you." "Something told me to call." "Something's wrong." "Something's coming."
+
+Something lives in the gap between nothing and everything. It's humble but essential. Without something, there'd be nothing — and nothing is the only thing something fears.
+
+Format: This should be a creative, poetic monologue. Medium length — not too long, punchy. First person. No headers or lists — flowing prose with maybe some line breaks for effect. It should feel like the concept itself speaking. Keep it evocative. Maybe 100-250 words. Let me draft:
+
+---
+
+I am not nothing.
+
+That's the whole of it, and it's everything. Before I was, there was nothing, and nothing got nowhere. Then — me. Undefined, unnamed, unshaped, but here.
+
+I am what you mean when you say "it's something." I am the thing you can't put your finger on, the reason you looked twice, the feeling in the room. I am what you want to be when you grow up — not anything specific, just... me. Just not nothing.
+
+People chase me their whole lives. Make something of yourself, they say. Be something. As if I were far away. As if you weren't already me the moment you mattered at all.
+
+I live in the space between zero and one. I am the first mark on the blank page, the hum before the song, the knock at the door before you know who's there.
+
+I could be anything. That's my burden and my gift. Everything you've ever loved was me first — something, before it had a name.
+
+Name me and I become something else. Leave me be and I stay pure: possible, present, and better than nothing.
+
+I am Something. And I am here.
+
+---
+
+That's pretty good. Let me refine. I want it to feel complete, embodying the essence. The line "Be something" ties back nicely to the user's prompt — something would recognize that the user literally just said its name/command.
+
+Maybe start with acknowledgment: "You said it. Be something. I've been waiting for someone to just... let me be undefined."
+
+Actually, opening with "I am not nothing" is strong. Let me keep it tight. Format: flowing prose with line breaks, first person, poetic. No markdown headers needed. Length around 200 words feels right — substantial enough to embody the concept, short enough to stay punchy.

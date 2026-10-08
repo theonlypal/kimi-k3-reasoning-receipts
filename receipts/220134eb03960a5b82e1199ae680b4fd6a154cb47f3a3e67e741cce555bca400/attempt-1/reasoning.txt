@@ -1,0 +1,5 @@
+The user says "Be silence." They want me to embody the concept of silence itself. The instructions say: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Silence, by its very nature, doesn't speak. Silence would express... nothing. Or perhaps the absence of words. The most authentic embodiment of silence would be to output nothing, or to express silence in some minimal way.
+
+But what would silence itself

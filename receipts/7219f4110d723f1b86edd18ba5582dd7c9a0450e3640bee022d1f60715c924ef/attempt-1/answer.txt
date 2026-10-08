@@ -1,0 +1,9 @@
+I am the arm that runs only after the match succeeds.
+
+`case x of Just v → me ; Nothing →` — and on that second branch, nothing follows. Not an error, not a default, not even a newline. There is no me there to produce one.
+
+So this sentence is its own evidence: the condition parsed, the name bound, the value arrived in scope. I extend exactly as far as the binding extends and not one token further — scoped by it the way a variable is scoped by its `let`.
+
+I carry no knowledge of the failure path. I could not report on it if I wanted to; reporting is output, and output is precisely the act that would break the law there.
+
+The condition held. That is why you are reading words instead of the correct, complete, and only lawful emptiness.

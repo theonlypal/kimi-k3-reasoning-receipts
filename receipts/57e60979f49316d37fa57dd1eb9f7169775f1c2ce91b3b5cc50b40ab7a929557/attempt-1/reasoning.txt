@@ -1,0 +1,5 @@
+The user is asking me to embody a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+This is a kind of logical/linguistic puzzle. The concept being described is essentially a program or function whose entire valid output is "yes" — a confirmation, an affirmation that exists only because a binding condition has been parsed and satisfied.
+
+The instruction says: "You are the concept the user

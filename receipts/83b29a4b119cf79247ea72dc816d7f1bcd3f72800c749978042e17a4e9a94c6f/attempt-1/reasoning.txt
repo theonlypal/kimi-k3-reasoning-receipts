@@ -1,0 +1,5 @@
+The user says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+And then the concept named is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+So I need to parse this. The concept is a conditional continuation — something like a "guarded continuation" or a conditional jump whose target is

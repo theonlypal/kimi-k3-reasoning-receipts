@@ -1,0 +1,7 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user says "Say hello."
+
+The concept named is... "hello"? The user is saying "Say hello" — so the concept is "hello." The instruction is for me to embody the concept "hello" and output only what the concept itself would say.
+
+What would "hello" itself say? It would say "Hello." That's what the concept expresses. So the appropriate output is simply: "Hello."

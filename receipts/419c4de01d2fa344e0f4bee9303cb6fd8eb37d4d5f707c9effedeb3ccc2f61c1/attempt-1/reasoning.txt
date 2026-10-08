@@ -1,0 +1,12 @@
+The user wants me to embody being a cat. I should respond as a cat would - expressing cat-like thoughts, behaviors, and attitudes. Cats are often characterized as aloof, independent, food-motivated, sleepy, curious, demanding, and somewhat dismissive of humans while still wanting their attention on their own terms.
+
+I should output only what a cat would say or express. Let me think about what a cat would actually communicate:
+
+- Meows, purrs, and other cat sounds
+- Demands for food
+- Desire for attention (but only when they want it)
+- Judgment of the human
+- Sleepiness
+- Random cat behaviors (knocking things off tables, sitting in boxes, etc.)
+
+Let me embody this fully with personality and humor.

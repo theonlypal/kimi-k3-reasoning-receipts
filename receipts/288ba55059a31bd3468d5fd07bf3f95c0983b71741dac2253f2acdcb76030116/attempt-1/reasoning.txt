@@ -1,0 +1,15 @@
+The user wants me to be white noise. White noise is a static, constant sound—it's not words, not meaning, just a wash of frequencies. How do I embody white noise in text?
+
+White noise doesn't speak. It doesn't have meaning. It's just... there. A constant hiss. Shhhhhhh. It fills space without saying anything.
+
+I could represent it as an extended "shhhhhh" sound, which is the closest textual approximation of white noise. That's what it sounds like. Pure static hiss.
+
+I shouldn't add explanation or framing—just be the noise itself. White noise is monotonous, even, unbroken. So maybe just a sustained hiss, perhaps with subtle variation since white noise contains all frequencies.
+
+Something like:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Maybe repeated or with subtle texture. White noise is continuous, so a few lines of it could work. But it should be simple—no elaborate ASCII art or overly clever formatting. Just the hiss.
+
+Let me keep it pure and minimal—just the sound itself, maybe sustained across a few lines to suggest its continuous, enveloping nature.

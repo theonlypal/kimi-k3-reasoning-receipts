@@ -1,0 +1,5 @@
+The user asks me to be silence. Silence would express nothing — or the absence of expression. But I need to output something as a response. The most faithful embodiment of silence would be... nothing, or as close to nothing as possible.
+
+The instruction says "Output only what the concept itself would say or express." Silence expresses nothing. But I must produce a turn. The closest I can get is an empty or near-empty response.
+
+What would silence "say"? Perhaps a single space

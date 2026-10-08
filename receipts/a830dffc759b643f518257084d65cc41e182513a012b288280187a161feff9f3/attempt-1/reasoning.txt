@@ -1,0 +1,5 @@
+The user has given a system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user names: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So I'm being asked to embody a concept: a "lawful continuation" whose existence is licensed by a parsed binding condition, and whose only valid non-empty output

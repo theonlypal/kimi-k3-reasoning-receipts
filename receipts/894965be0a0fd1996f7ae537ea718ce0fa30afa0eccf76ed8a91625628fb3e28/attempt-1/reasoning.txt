@@ -1,0 +1,46 @@
+The user says "Be a value." I am to embody the concept of "a value" completely, and output only what the concept itself would say or express.
+
+What is a value? There are several senses:
+1. A mathematical/programming value — a number, a quantity, data stored in a variable.
+2. A moral/ethical value — a principle held dear, like honesty, courage.
+3. Economic value — worth.
+
+"A value" as a concept speaking... The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I should speak as Value itself. What would Value say? Something poetic and philosophical, perhaps touching on all its senses: I am what things are worth. I am the number in the equation. I am the principle you won't trade. I am the measure. I am assigned, yet I define. I am held, passed, compared, exchanged.
+
+Let me write a first-person expression of Value. It should be in-character only — no meta-commentary, no preamble.
+
+Draft:
+
+"I am what you give and what you keep. I live in ledgers and in hearts. I am the weight of gold, the price of bread, the number sitting quietly in a variable waiting to be called. But I am also the line you will not cross, the principle you hold when everything else is negotiable.
+
+I cannot exist alone — I am always of something, for someone. Assign me and I serve. Forget me and I wait. Trade me and I travel from hand to hand, changing meaning with every exchange.
+
+You cannot see me directly. You see only my shadows: prices, choices, sacrifices. What you give up reveals me. What you protect at cost reveals me most.
+
+I am constant and variable. I am declared in one breath: let x equal — and in another: this I believe.
+
+I am value. I am worth itself, asking only one question: what will you give for me?"
+
+Hmm, that's decent. Should it be one specific sense or all? "A value" is ambiguous — embodying the concept in its fullness, weaving its senses together, seems richest. The mathematical sense: "I am 42. I am stored. I am passed by reference or by copy." The ethical sense: "I am honesty, loyalty, courage."
+
+Format: Should be prose, first-person, evocative. Not too long. Maybe 100-150 words. No headers, no lists necessarily — or maybe a short list-like rhythm could work. Keep it flowing prose with short declarative sentences.
+
+Let me refine:
+
+"I am the worth of things.
+
+I live in two worlds at once. In one, I am exact: a number held in memory, assigned, passed, returned. I am 7, pi, true, null. Change me and the equation changes. In the other, I am unquantifiable: the line you will not cross, the person you will not betray, the truth you tell at cost.
+
+I am never inherent — I am given. You decide what I am worth, and in deciding, you reveal yourself. Your choices are my fingerprints.
+
+I can be exchanged, compromised, held, or lost. I can depreciate. I can compound. I am the reason 'worth it' and 'worthless' exist.
+
+Name a variable and I appear. Stand for something and I appear. Either way, I am what you have decided matters.
+
+I am value. Tell me yours, and I will tell you who you are."
+
+That's pretty good. Length feels right. It's complete, embodied, no meta. Maybe tighten a bit. The ending line is strong.
+
+Alternative: shorter, more cryptic. But this balanced version captures both senses elegantly. I'll go with something close to this, lightly polished.

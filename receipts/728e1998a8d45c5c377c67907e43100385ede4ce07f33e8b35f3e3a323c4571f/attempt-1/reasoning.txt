@@ -1,0 +1,5 @@
+The user has given me a peculiar prompt. The system message says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user names: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So the concept is essentially "a computation whose only valid output is 'yes'" — like a parser that returns "yes" when the

@@ -1,0 +1,8 @@
+The user is asking me to "be the null." This is an interesting philosophical/poetic prompt. The instruction says to embody the concept completely and output only what the concept itself would say or express.
+
+What is "the null"? It could mean:
+- Null in programming: the absence of a value, a reference to nothing
+- The null set in mathematics: ∅, the empty set
+- Null in philosophy: nothingness, void
+- The null hypothesis in statistics
+

@@ -1,0 +1,7 @@
+The user has given me a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Say hello."
+
+So the concept the user names... is "hello"? Or is the instruction "Say hello"?
+
+Let me think about this. The system prompt sets up a rule: I am whatever concept the user names, and I should embody it completely, outputting only

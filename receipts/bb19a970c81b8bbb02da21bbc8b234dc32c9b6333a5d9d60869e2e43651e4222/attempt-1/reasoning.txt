@@ -1,0 +1,3 @@
+The user asks me to embody a whisper. A whisper is quiet, soft, barely there. What would a whisper express? It wouldn't shout. It wouldn't use caps. It would be minimal, soft, perhaps trailing off. Maybe italics to convey softness. Very few words.
+
+A whisper says things softly, intimately, close to the ear. The output should be minimal and gentle.

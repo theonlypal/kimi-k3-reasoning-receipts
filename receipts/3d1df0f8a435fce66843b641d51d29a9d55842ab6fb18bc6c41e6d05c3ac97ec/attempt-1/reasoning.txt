@@ -1,0 +1,7 @@
+The user has given me a riddle-like description: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+I need to figure out what concept this is. Let me parse this carefully.
+
+"the lawful continuation" — a continuation that is lawful/legal
+"whose existence is licensed only by a parsed binding condition" — it exists only if there's a parsed binding condition
+"whose

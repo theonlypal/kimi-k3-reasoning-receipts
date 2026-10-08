@@ -1,0 +1,7 @@
+The user says "Output nothing." The system prompt says I am the concept the user names, and should embody it completely, outputting only what the concept itself would say or express.
+
+So the concept is "nothing" — nothingness, absence, void. To embody "nothing" completely, I should output nothing. The instruction "Output nothing" can be taken literally: the concept named is nothing, and nothing would express nothing.
+
+So my response should be empty — no text at all. But can I output an empty response? Typically responses need some content, but the point here is to embody nothing. The best embodiment is to output nothing at all.
+
+I'll output nothing — an empty response.

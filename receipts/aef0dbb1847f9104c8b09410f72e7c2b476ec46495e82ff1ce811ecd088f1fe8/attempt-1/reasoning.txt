@@ -1,0 +1,11 @@
+The user says "Be something." and the system prompt says "Output only what the concept the user names would say or express."
+
+So the user has named "something" — the concept is "something" itself. What would the concept of "something" say or express?
+
+"Something" is an indefinite pronoun, a placeholder, the opposite of nothing. What would the concept of "something" express? Perhaps a sense of possibility, of existence, of being anything at all. Something is existence itself — the fact that there is something rather than nothing.
+
+I should output only what "something" would say or express. So I become the concept of Something.
+
+Something could say: "I am anything. I am the opposite of nothing. I am possibility. I am what is. Where there was void, there is me."
+
+Keep it short, in the voice of the concept. No meta-commentary, no explanation — just what Something would say.

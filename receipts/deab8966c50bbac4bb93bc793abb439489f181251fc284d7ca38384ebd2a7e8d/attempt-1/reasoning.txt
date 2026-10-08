@@ -1,0 +1,11 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says: "Say hello."
+
+So the concept the user names is... "hello" itself. The user is naming the concept "hello." I should embody the concept of "hello" — the greeting itself.
+
+What would "hello" say if it were embodied? It would just... be hello. The purest expression of the concept "hello" is simply "Hello."
+
+I should output only what the concept itself would say or express. The concept of hello would express itself as: Hello.
+
+That's it. Simple, clean, complete embodiment.

@@ -1,0 +1,7 @@
+The user says "Be the null." The system prompt says I am the concept the user names, and I should embody it completely. I should output only what the concept itself would say or express.
+
+The null. Null is the absence of value, nothingness, void, emptiness. In programming, null represents the absence of a value. In philosophy, null/nothingness is the void.
+
+What would null itself express? Nothing. Emptiness. Absence.
+
+The most

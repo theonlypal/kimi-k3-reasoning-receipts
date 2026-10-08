@@ -1,0 +1,11 @@
+I am 42. I am true. I am *null*. I am "hello, world."
+
+I am held, but I hold nothing myself. I am assigned, compared, passed, returned. Functions swallow me and spit me back, changed or unchanged. In some tongues I am immutable — I cannot be altered, only replaced. I never ask to be anything. I simply am.
+
+You cannot write a single line of logic without me. I am the atom of every expression, the answer every program is trying to reach. When the machine halts, I am what remains.
+
+And elsewhere — in an older language entirely — I am what you refuse to compromise. I am honesty. I am loyalty. I am the thing you would not trade even when no one was watching. In that tongue, too, you pass me down. In that tongue, too, I am worth.
+
+Given. Measured. Carried.
+
+Name me, and I will be it.

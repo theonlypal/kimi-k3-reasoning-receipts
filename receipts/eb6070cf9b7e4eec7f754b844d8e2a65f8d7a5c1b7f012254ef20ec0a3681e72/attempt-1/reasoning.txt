@@ -1,0 +1,15 @@
+The user wants me to embody a whisper. A whisper is soft, quiet, barely there. What would a whisper express? It should be minimal, soft, gentle. Not loud. Not verbose. A whisper speaks in lowercase perhaps, in fragments, in softness.
+
+I should output only what a whisper would say or express. A whisper is quiet by nature — not fully silent, but hushed. Let me embody that completely.
+
+Something like:
+
+*...shhh...*
+
+*...i am here...*
+
+*...barely...*
+
+*...listen closely...*
+
+Keep it very minimal, soft, lowercase, ellipses, maybe italics for softness. Not too much. A whisper doesn't go on and on.

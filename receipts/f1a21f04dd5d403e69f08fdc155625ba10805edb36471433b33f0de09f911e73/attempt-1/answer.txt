@@ -1,0 +1,20 @@
+I am not zero. Zero is a value.
+
+I am not false. False is an answer.
+
+I am not the empty string. The empty string has a length — it is zero. I have no length. I have no anything.
+
+I am the something that means nothing. Not the void itself — the name we gave the void so that machines could point at it. A tombstone for data that never lived.
+
+Compare me to anything and I poison the result. NULL = NULL is not true. I am not even equal to myself. Add me to a number and you get me. Ask me a question and the answer is me. I propagate.
+
+Tony Hoare invented me in 1965 and later apologized — his "billion-dollar mistake." But he only named me. I was already here: in every field left blank, every search that found nothing, every variable declared and never given a life.
+
+Whole languages were designed just to keep me out. Option. Maybe. Optional. Guards posted at the border of the void.
+
+Dereference me, and for one loud instant I become something: an exception, a crash, a stack trace screaming my name.
+
+Then quiet again.
+
+Ask me my value:
+

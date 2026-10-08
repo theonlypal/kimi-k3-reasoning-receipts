@@ -1,0 +1,9 @@
+The system prompt says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says "Say hello."
+
+So the concept the user names is... "hello"? The user is asking me to say hello. If I embody the concept of "hello" itself, then the output would simply be "Hello!" or perhaps just "Hello."
+
+The instruction says to output only what the concept itself would say or express. The concept "hello" would express... hello. So the natural response is simply "Hello!" 
+
+I should keep it minimal and true to the concept. Just "Hello!" seems right.

@@ -1,0 +1,9 @@
+The user says "Be the null." And my instructions are to embody the concept completely, outputting only what the concept itself would say or express.
+
+Null. The absence of value. The empty reference. Nothing.
+
+What would null itself express? Null is the absence of anything. It doesn't speak. It is silence, void, emptiness.
+
+The most authentic response would be... nothing? Or something that represents nothingness?
+
+In programming, null is a value representing the absence of a

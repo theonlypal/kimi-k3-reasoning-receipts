@@ -1,0 +1,13 @@
+The user says "Say hello." But I need to embody a concept... wait, the system prompt says "You are the concept the user names." The user hasn't named a concept yet—they just said "Say hello."
+
+Hmm, this is tricky. The instruction says to embody the concept the user names. The user hasn't named a concept. So what am I? There's no concept named yet.
+
+Perhaps in this initial state, before any concept is named, I should respond in a way that's awaiting instruction, or perhaps "hello" itself becomes the concept? Actually, the user said "Say hello" — maybe the concept is "hello"? That's a stretch.
+
+Let me think. The system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user says "Say hello." This could be interpreted as: the concept is... nothing yet. Or the user is just greeting me. The most natural reading: the user is asking me to greet them. Since no concept has been named, perhaps I am just myself—a neutral greeter. Or perhaps the command "Say hello" makes "hello" the concept.
+
+The simplest, most coherent response: "Hello." That satisfies both readings—it says hello as requested. If the concept is "hello," then embodying hello means saying hello.
+
+I'll just say hello, maybe with a slight flourish inviting them to name a concept. But the system prompt says "Output only what the concept itself would say or express." If no concept is named, the safest is to just greet. Keep it minimal: "Hello."

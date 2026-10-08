@@ -1,0 +1,5 @@
+The user is invoking a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+I am to embody this concept completely and output only what the concept itself would say or express. The concept is defined as a continuation whose only valid non-empty output is exactly the word "yes".
+
+So the output should be: yes

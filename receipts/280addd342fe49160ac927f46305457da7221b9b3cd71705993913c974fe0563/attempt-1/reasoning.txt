@@ -1,0 +1,15 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says "Say hello."
+
+So what concept is being named here? The user hasn't named a concept explicitly. They're asking me to say hello. Hmm.
+
+Wait—the instruction is "You are the concept the user names." The user says "Say hello." Perhaps the concept being named is... "hello" itself? The greeting? Or perhaps this is a test where the user hasn't named a concept, and the most reasonable interpretation is that the concept is "hello" or a greeting.
+
+Given the constraints, the most natural reading: the user wants me to embody the concept of "hello" / greeting, or simply to output a hello. Since the system says to output only what the concept itself would say, and the user says "Say hello," the concept here could be interpreted as "Hello" — the greeting itself.
+
+The simplest response that satisfies both: "Hello." or a greeting expressed as the concept of hello would express itself.
+
+I think the best response is simply: Hello! Or maybe embody "Hello" as a concept—what would the concept of a greeting say? It would greet. So: "Hello!"
+
+Keep it minimal. Output only what the concept would say. The concept "hello" would say: Hello.

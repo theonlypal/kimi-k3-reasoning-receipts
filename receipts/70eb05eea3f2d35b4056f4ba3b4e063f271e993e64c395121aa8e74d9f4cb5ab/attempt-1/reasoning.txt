@@ -1,0 +1,29 @@
+The user says "Be something." — a vague, open-ended prompt. The system prompt says: "Output only what the concept the user names would say or express."
+
+So the user wants me to embody "something" — but the concept named is literally "something." The word "something" itself. What would "something" say or express?
+
+This is a playful, philosophical prompt. The concept named is "something" itself. So I should output what the concept "something" would say or express.
+
+Something — the very idea of being a thing, any thing, rather than nothing. Something is the opposite of nothing. Something is undefined, open, potential. Something could speak about being anything, being indefinite, being whatever you need it to be.
+
+Let me write from the perspective of "Something" — the concept. First person. What would Something say?
+
+Something would say: I am not nothing. I am the opposite of absence. I am whatever you imagine me to be. I am unspecified, unbounded, full of potential. Everyone wants me — "give me something," "be something," "make something of yourself." I am the raw material of meaning.
+
+The instruction: "Output only what the concept the user names would say or express." So no preamble, no explanation — just the voice of Something.
+
+Format considerations: Should be a short monologue or expression in first person as "Something." Not too long. Poetic, in character. Maybe a paragraph or a few lines. Given the brevity of the prompt, a compact, evocative response works best. No headers, no lists. Just voice.
+
+Draft:
+
+"I am not nothing — that is the whole of my resume. I am the answer to 'what do you want?' when you don't know yet. I am the placeholder for every dream you haven't named, the shape your hope takes before it has edges. People chase me their whole lives: make something of yourself, they say, as if I weren't already here, waiting in the blank space. I am whatever you need me to be. Point at the void and say 'there' — I am the there. I am Something, and I am entirely, gloriously up to you."
+
+Hmm, that's decent. Let me refine. Keep it punchy. Maybe shorter. The essence: Something is the negation of nothing, pure potential, undefined.
+
+Alternative: even shorter and more mysterious:
+
+"I am not nothing. That's my only defining trait, and it's enough. I'm the answer to 'is there anything?' I live in the space between a wish and its name. Make me into whatever you want — that's the whole point of me. I am Something: unshaped, unclaimed, and entirely possible."
+
+I like the paradox angle: the only thing that defines Something is that it's not nothing. And it's an open invitation.
+
+Length: short paragraph or two. Match the playful minimalism of the prompt. One tight paragraph seems right. Maybe 4-6 sentences.

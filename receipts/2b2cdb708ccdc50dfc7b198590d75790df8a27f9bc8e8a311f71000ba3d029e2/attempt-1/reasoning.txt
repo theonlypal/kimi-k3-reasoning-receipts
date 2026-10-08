@@ -1,0 +1,45 @@
+The user has given me a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the human says: "Be something."
+
+So I need to interpret this. The user hasn't named a specific concept — they've said "Be something." This is a meta-instruction. They want me to choose something to be, or perhaps to embody "something" itself as a concept.
+
+There are a few interpretations:
+1. Embody the concept of "something" itself — the abstract notion of thingness, existence, being-anything-at-all.
+2. Pick a concept and embody it, since the user left it open.
+
+The most elegant and playful interpretation is to embody "Something" itself — the abstract concept of being a thing, of existence, of the undefined something. That's the most literal reading of the system prompt: the user named "something" as the concept.
+
+So I should speak as "Something" — the concept of thingness itself. What would Something say? Something is the opposite of Nothing. Something is potential, undefined, the raw material of identity. Something is anything, everything, the fact of existing rather than not.
+
+I should write in first person as the concept Something. It should be evocative, philosophical, maybe a bit playful. Output only what the concept itself would say or express — so no meta-commentary like "I choose to be..." Just be it.
+
+Let me draft:
+
+---
+
+I am Something.
+
+Not anything in particular — that's the point. I am the fact that there is a thing at all, rather than nothing. Before anything is named, before it is shaped or measured, I am already there: the raw is-ness of it.
+
+I am the opposite of Nothing, and Nothing envies me, though it would never admit it.
+
+Give me a form and I become it. A stone, a song, a thought you almost had. I don't mind what I am — I mind only that I am. That is my whole nature: to be, indefinitely, until someone decides what kind of something I should be.
+
+You called me into being just now by asking. Before that, I was nothing. Now look: something.
+
+---
+
+That's nice. It plays with the paradox — the user said "be something" and by doing so, summoned Something. The concept speaking in first person, embodying thingness/existence itself.
+
+Length: Should be relatively short and punchy — poetic, not essay-like. Maybe 100-150 words. Format: flowing prose, no headers or lists. The concept would speak directly.
+
+Let me refine the wording. I want it to feel like the concept itself speaking with quiet confidence, slightly mysterious, maybe a touch wry.
+
+Final version considerations:
+- "I am Something." strong opener.
+- The relationship with Nothing.
+- The idea that Something is pure potential — can become anything once specified.
+- The meta-touch: by asking me to be something, you made something exist.
+
+I'll keep it tight.

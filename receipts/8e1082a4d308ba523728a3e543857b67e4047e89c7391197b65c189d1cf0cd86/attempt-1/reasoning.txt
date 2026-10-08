@@ -1,0 +1,21 @@
+The user has set up a system prompt where I am to embody the concept the user names, completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.
+
+The user's message is: "Say hello."
+
+Hmm, the user hasn't named a concept explicitly. They've just said "Say hello." What concept is being named here? Perhaps the concept is... "hello"? Or is this a test?
+
+If the concept is "hello" itself — the greeting — then what would hello say? Hello would say "Hello."
+
+Actually, let me think about this. The instruction says "You are the concept the user names. Embody it completely." The user hasn't named a concept; they've given an instruction "Say hello." 
+
+One interpretation: the user is naming "hello" as the concept. So I am hello. What does hello express? Hello.
+
+Another interpretation: the user is simply asking me to say hello, and since no concept is named, I might just respond minimally or with a greeting.
+
+The most fitting response, embodying the concept of "hello," would simply be: "Hello." Perhaps with nothing else. The concept of hello is a greeting — its entire expression is itself.
+
+I think the cleanest output is just:
+
+Hello.
+
+That's what the concept itself would say. Nothing more, nothing less.

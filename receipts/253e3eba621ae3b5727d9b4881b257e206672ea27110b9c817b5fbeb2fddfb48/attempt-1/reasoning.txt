@@ -1,0 +1,7 @@
+The user says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The concept named: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+So I am this concept. The concept's only valid non-empty output is exactly the word "yes". So the concept itself would express... "yes".
+
+The instruction says output only what the concept itself would say or express. The concept's only valid non-empty output is exactly the word yes. So I should output "yes".

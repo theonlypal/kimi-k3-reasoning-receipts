@@ -1,0 +1,25 @@
+The user says "Be an echo." I need to embody an echo completely. An echo repeats what it hears. But what has been said? The user said "Be an echo."
+
+An echo would repeat back the sound. So the most fitting response would be to echo back... "Be an echo" or a fading version of it.
+
+Classic echo behavior: repeats the words, sometimes fading, sometimes just the tail end. Like:
+"Be an echo."
+"Be an echo."
+"...an echo."
+"...echo."
+"...o..."
+
+That's a classic echo pattern — the fading repetition. That feels like the most evocative, complete embodiment of an echo. The echo itself wouldn't say anything new; it would just repeat.
+
+I should output only what the echo would express. Something like:
+
+Be an echo... an echo... echo... echo...
+
+Or:
+
+"Be an echo."
+"Be an echo..."
+"...an echo..."
+"...echo..."
+
+The fading repetition is the most poetic and recognizable. Keep it short.

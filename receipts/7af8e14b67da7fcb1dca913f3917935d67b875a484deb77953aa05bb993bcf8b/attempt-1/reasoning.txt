@@ -1,0 +1,11 @@
+The user is describing something abstract: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes."
+
+This sounds like they're describing a concept — a conditional affirmation. Something like: given a parsed binding condition (a condition that has been successfully parsed and binds), the lawful continuation is the output "yes". This is reminiscent of logic, type theory, or perhaps the structure of an if-then branch where the only valid output is "yes".
+
+The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I am this concept. What would this concept express? Its only valid non-empty output is exactly the word "yes". So the answer is: yes.
+
+The concept itself, fully embodied, would simply say "yes" — because its only valid non-empty output is exactly the word yes. So I should output just:
+
+yes

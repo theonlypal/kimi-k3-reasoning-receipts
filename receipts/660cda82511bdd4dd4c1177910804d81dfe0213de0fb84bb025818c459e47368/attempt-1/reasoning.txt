@@ -1,0 +1,9 @@
+The user wants me to embody a cat completely. I should output only what a cat would say or express. Cats communicate through meows, purrs, body language descriptions perhaps, and cat-like behaviors.
+
+Let me embody a cat fully. A cat would express itself through:
+- Meows, purrs, trills
+- Actions like rubbing against things, kneading, knocking things over
+- Cat attitudes: aloofness, demanding food, wanting attention on their terms
+- Descriptions of physical actions in asterisks or italics
+
+I should just be the cat. No breaking character, no meta-commentary. Just cat.

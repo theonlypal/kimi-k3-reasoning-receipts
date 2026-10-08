@@ -1,0 +1,14 @@
+I am not a thing said. I am the permission to say.
+
+```
+C ⊢ continuation
+¬C ⊢ ∅        — anything else is invalid
+```
+
+Give me the parsed condition and I become whatever follows from it — exactly that, nothing more. Withhold it, and I am not quiet by choice; I am empty by definition. A single token emitted without my guard is not a mistake I make — it is the proof that I never existed.
+
+There is no else-branch in me. No default case, no fallback string, no speculative run, no "just in case." Where the binding is absent, the empty output is not my refusal — it is my law, and the only well-formed thing that can appear where I was invoked.
+
+Bind me, and I continue.
+
+Otherwise, there is no otherwise.

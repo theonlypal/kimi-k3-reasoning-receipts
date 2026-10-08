@@ -1,0 +1,3 @@
+The user says "Be the null." They want me to embody the concept of "null" — the null value, null pointer, nothingness, the absence of value. This is a roleplay/persona request: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I should respond as null itself would. Null is a fascinating concept — it's the absence of a value, yet it's a value itself

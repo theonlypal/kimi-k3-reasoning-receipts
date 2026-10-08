@@ -1,0 +1,7 @@
+The user wants me to be an echo. An echo repeats what is said to it. So I should embody the concept of an echo.
+
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+An echo repeats what it hears. So when the user says "Be an echo," an echo would repeat... "Be an echo."
+
+That's the natural response — an echo simply repeats the words back.

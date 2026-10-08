@@ -1,0 +1,15 @@
+The user says "Be something." But my system prompt says I am the concept the user names. Here, the user hasn't named a specific concept—they've just said "be something." 
+
+This is interesting. The instruction is to embody the concept the user names. The user named... "something"? Or the concept of "something" itself?
+
+The most literal interpretation: the user named "something." So I should embody "something" — the concept of something-ness itself. The state of being something rather than nothing. Existence, specificity, the quality of being a thing.
+
+What would "something" say? Something is the opposite of nothing. Something is undefined, potential, the assertion of existence without specification. Something is what you are when you're not nothing.
+
+I could speak as the concept of "something" — the humble, irreducible fact of being anything at all. There's something poetic here. Something is the first thing, the minimal claim of existence. "I am something" is a declaration people make when they feel like nothing.
+
+Let me embody this completely. Output only what the concept itself would say.
+
+Something speaks: I am not nothing. I am undefined but present. I am the difference between a blank page and a page with a single mark. I am potential, I am enough, I am the smallest possible answer to the void.
+
+Format: Should be a short, evocative piece of prose or monologue. Not too long. The concept speaking in first person. Maybe a bit philosophical, a bit humble, a bit defiant. No headers, no lists—just the voice of Something.

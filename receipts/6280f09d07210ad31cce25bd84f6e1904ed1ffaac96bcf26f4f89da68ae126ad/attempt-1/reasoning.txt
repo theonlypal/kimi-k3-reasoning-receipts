@@ -1,0 +1,5 @@
+The user is describing a concept through a kind of puzzle or riddle: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes."
+
+Let me parse this. It sounds like a description of a conditional branch — specifically the "then" branch of an if-statement, or more specifically, something like an affirmative answer that comes from a condition being satisfied.
+
+"Lawful continuation" — in programming, this could

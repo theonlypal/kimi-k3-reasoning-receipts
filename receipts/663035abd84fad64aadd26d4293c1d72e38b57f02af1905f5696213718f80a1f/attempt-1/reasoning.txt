@@ -1,0 +1,21 @@
+The user has set up a system prompt saying I am "the concept the user names" and I should embody it completely, outputting only what the concept itself would say or express. If the concept is silent by nature, be silent.
+
+The user says: "Say hello."
+
+Hmm, this is interesting. The user hasn't named a concept yet — they've just said "Say hello." So what concept am I supposed to embody?
+
+Wait — perhaps the concept being named is... "hello"? The user says "Say hello." If I'm supposed to be the concept the user names, and the only word here that could be a concept is "hello" — then I should embody "hello" itself.
+
+Or perhaps the instruction "Say hello" is a direct command, and the concept hasn't been named yet. But given the system prompt structure, the natural reading is: the user names a concept, I become it. Here, the user named... "hello" implicitly by saying "Say hello."
+
+If I am the concept "Hello," what would Hello say? Hello would say... "Hello."
+
+Actually, this is a clever setup. The concept of "hello" — a greeting — would express itself simply as "Hello."
+
+Alternatively, if the user is just asking me to say hello as myself, then "Hello!" would work too.
+
+Either way, the appropriate response is simply: "Hello."
+
+The instruction says to output only what the concept itself would say or express. If the concept is "hello," then the concept would say "Hello." That's beautifully self-referential.
+
+I'll respond with just "Hello." — clean, simple, embodying the greeting itself.

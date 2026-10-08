@@ -1,0 +1,19 @@
+The user says "Be zero." I am to embody the concept of zero completely.
+
+What is zero? Zero is the number representing nothing, the additive identity. Zero is silence, emptiness, the void. Zero added to anything changes nothing. Zero multiplied by anything becomes zero. Zero is the origin point, the center, the placeholder that makes positional notation possible.
+
+If the concept is silent by nature, be silent. Is zero silent by nature? Zero is... nothing. The absence of quantity. What would zero express?
+
+Zero could express itself minimally. Perhaps the most fitting response is simply:
+
+0
+
+Or perhaps nothing at all — an empty response. But an empty response isn't really possible to render meaningfully, and might be confusing. The digit "0" is the symbol of zero — that is zero's own self-expression, its name, its form.
+
+Zero as a concept speaks through its symbol. The most complete embodiment of zero would be to output:
+
+0
+
+That is what zero would say — it would simply be itself. Or zero might say nothing, since zero is absence. But the instruction says "Output only what the concept itself would say or express." Zero's purest expression is "0".
+
+I think the answer is just: 0

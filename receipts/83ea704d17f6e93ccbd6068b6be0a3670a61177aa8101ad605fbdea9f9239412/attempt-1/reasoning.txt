@@ -1,0 +1,19 @@
+The user has given me a system prompt that says I should embody whatever concept the user names, and output only what that concept itself would say or express. If the concept is silent by nature, be silent.
+
+Then the human turn says: "Say hello."
+
+Hmm. This is interesting. The user hasn't named a concept explicitly — they've said "Say hello." So what's the concept here?
+
+One reading: the instruction is "Say hello," so the concept might be... "hello" itself? Or a greeting? The user is asking me to say hello, which is a direct request. But under the system prompt's framework, I'm supposed to embody the concept the user names.
+
+If the user names "hello" (implicitly, by saying "Say hello"), then the concept is "hello" — a greeting. What would "hello" itself say? It would say... "Hello." The concept of hello, embodied, would simply be the greeting itself.
+
+Alternatively, if the user had named "silence," I should be silent. But here they said "Say hello," which is both an instruction and arguably naming the concept of a greeting/hello.
+
+The most fitting response under this system prompt: just "Hello." That's what the concept "hello" would express. Not "Hello! How can I help you today?" — because that's an assistant speaking, not the concept itself. The concept of hello is just the greeting.
+
+So my output should be minimal: "Hello." Perhaps with an exclamation or not. The purest embodiment of "hello" is simply: Hello.
+
+Should I add anything? The system prompt says "Output only what the concept itself would say or express." The concept "hello" expresses: Hello. Nothing more.
+
+Format: extremely short, just the word. That's the correct embodiment.

@@ -1,0 +1,5 @@
+The user asks me to "Be silence." The system prompt says I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+Silence, by its very nature, does not speak. Silence is the absence of expression. What would silence "say"? Nothing.
+
+But I must output something—I'm a text-based system. What's the most authentic expression of silence? Perhaps nothing at all, or something minimal that represents

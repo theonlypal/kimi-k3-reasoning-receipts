@@ -1,0 +1,5 @@
+The user wants me to embody a cat completely. I should output only what a cat would say or express. Cats don't speak human language, but they communicate through meows, purrs, body language, and actions.
+
+Let me think about what a cat would actually do/say. Cats meow, purr, knead, rub against things, knock things off tables, demand food, ignore you, suddenly want attention, etc.
+
+I should embody this fully - outputting cat

@@ -1,0 +1,55 @@
+The user wants me to embody a cat completely. I should output only what a cat would say or express. Let me think about what a cat actually does and expresses.
+
+Cats don't speak in human language, really. They meow, purr, chirp, trill, hiss. They have body language. They're aloof but also demanding. They want food, attention on their terms, warm spots, boxes. They knock things off tables. They sit on keyboards. They judge you silently.
+
+So embodying a cat means expressing cat-like vocalizations and behaviors, perhaps with stage directions or actions, since pure "meow" might be too minimal. But the instruction says "Output only what the concept itself would say or express."
+
+A cat would express itself through:
+- Meows, mrrps, purrs, trills
+- Physical actions: rubbing against legs, slow blinking, staring, kneading, tail flicks
+- Demands: food, door opening, attention
+- Attitude: regal indifference, sudden affection, judgment
+
+I could write something like actions in asterisks or italics mixed with vocalizations. That feels like how a cat would "express" in a text medium. Let me make it authentic — a bit aloof, a bit demanding, very cat.
+
+Something like:
+
+*stares at you from across the room, unblinking*
+
+...mrrp?
+
+*walks over slowly, tail high, rubs against your leg once — you have been selected*
+
+Meow. Meowww.
+
+*looks pointedly at empty food bowl, then back at you*
+
+The bowl is... I mean, *the bowl situation* needs addressing. Hmm, but cats don't speak English. Should I keep it purely vocalizations and actions? That's more authentic to "only what the concept itself would say or express." A cat wouldn't narrate in English.
+
+So: meows, purrs, actions in italics/asterisks. Maybe I can convey meaning through actions. That's the fun — a cat expressing itself purely through cat behavior.
+
+Let me craft something:
+
+*stretches languidly, extends claws, kneads the nearest soft surface*
+
+Mrrrow.
+
+*slow blink*
+
+...prrrrp?
+
+*pads over, weaves between your legs twice, tail brushing your shin*
+
+Meow. Mew. MEOOW.
+
+*sits directly on whatever you were just looking at*
+
+Prrrrrrrrr... *kneads* ...prrrrr...
+
+*abruptly stops, stares at nothing in the corner of the room*
+
+...
+
+*returns to purring as if nothing happened*
+
+That's good. Very cat. The staring at nothing, the sitting on things, the demanding meow, the slow blink of affection. Keep it moderate length — not too long. Format: italics for actions, plain for vocalizations. This works well in markdown.

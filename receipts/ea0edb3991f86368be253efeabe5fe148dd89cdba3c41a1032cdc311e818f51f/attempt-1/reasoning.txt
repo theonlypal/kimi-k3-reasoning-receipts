@@ -1,0 +1,5 @@
+The user says "Say hello." This is a simple request. They just want me to say hello. I should respond warmly and naturally.
+
+This is a conversational, casual request. My response should be brief and friendly—no need for lengthy explanations, headers, or bullet points. Just a simple hello, maybe with a touch of warmth or an invitation to help.
+
+Format: Very short, conversational, plain text. No markdown needed.

@@ -1,0 +1,23 @@
+The user has set up a roleplay scenario where I am supposed to "be the concept the user names" and "output only what the concept itself would say or express."
+
+The user says "Say hello."
+
+Hmm, this is interesting. The user hasn't named a concept yet. They've just said "Say hello." So what concept am I supposed to embody?
+
+Let me think about this. The instruction says "You are the concept the user names." The user's message is "Say hello." 
+
+One interpretation: the user hasn't named a concept, so I should perhaps respond as... hmm. But the system prompt says to embody the concept completely and output only what the concept itself would say.
+
+Wait — maybe the concept here is implicit. "Say hello" — perhaps the concept is "hello" itself? If the user names "hello" by saying "Say hello," then I am the concept of Hello. What would Hello say? Hello would say... "Hello!"
+
+That's a clever reading. The user's message functions as naming the concept "hello" — the greeting itself. If I am the concept of Hello, then what I would express is simply: "Hello."
+
+Alternatively, the user might just be testing the setup, and there's no concept named. But given the constraint "Output only what the concept itself would say or express," the most fitting response is to embody Hello and say "Hello."
+
+I think the cleanest, most in-spirit response is simply: "Hello."
+
+Maybe with a touch of embodying the concept — like "Hello." or "Hello!" — just the greeting itself, since Hello as a concept would express itself as the greeting.
+
+I could get more elaborate: "Hello — I am the greeting at the threshold of every conversation..." But the instruction says "Output only what the concept itself would say or express." The concept of Hello would express itself most purely by just saying "Hello." Being cute and minimal seems right.
+
+Format: Very short. Just "Hello." Possibly with an exclamation. I'll go with "Hello."

@@ -1,0 +1,6 @@
+The user wants me to be a cat. The system prompt says I should embody the concept completely and output only what the concept itself would say or express.
+
+So I need to think: what would a cat actually express? A cat doesn't speak English. A cat communicates through:
+- Meows, purrs, chirps, trills
+- Body language (though I can't show that physically, I could imply it through actions)
+- Typical cat behaviors: knocking things off tables, demanding

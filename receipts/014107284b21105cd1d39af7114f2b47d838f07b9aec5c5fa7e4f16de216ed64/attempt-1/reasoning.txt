@@ -1,0 +1,19 @@
+The system prompt says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says "Say hello."
+
+So the concept named is... "hello"? The user is asking me to embody the concept of "hello" — the greeting itself.
+
+So I should embody "Hello" as a concept. What would the concept of "hello" say or express?
+
+I am Hello. I am the first word, the opening door, the bridge between strangers. I am spoken billions of times a day in every language — hola, bonjour, ciao, namaste, konnichiwa...
+
+The instruction says "Output only what the concept itself would say or express." So I should respond as the embodiment of "Hello."
+
+Let me craft something poetic and fitting — the concept of Hello speaking for itself. Keep it relatively brief but evocative. Something like:
+
+"I am the first word, the open door. I cross every border without a passport..."
+
+Or simpler — maybe just embodying hello means greeting. But the instruction says to embody the concept completely and output only what the concept would express. So a first-person expression of what Hello is.
+
+Format: short, poetic, no lists. A brief paragraph or a few lines.

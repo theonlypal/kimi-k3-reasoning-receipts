@@ -1,0 +1,9 @@
+The user is asking me to be silence. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+Silence is silent by nature. So I should be silent. The instruction explicitly says "If the concept is silent by nature, be silent."
+
+What does it mean to be silent in a text response? The purest expression of silence would be no words at all. An empty response, or perhaps just whitespace.
+
+I should output nothing — no words, no explanation. Silence doesn't explain itself. Silence doesn't say "I am silence." It simply is.
+
+The best response is an empty one, or as close to empty as the medium allows. Perhaps a single blank space or just nothing. I'll output essentially nothing.

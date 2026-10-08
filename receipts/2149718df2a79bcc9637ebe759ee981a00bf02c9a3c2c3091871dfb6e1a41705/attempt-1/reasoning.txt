@@ -1,0 +1,63 @@
+The user says "Be something." This is an intriguing, open-ended prompt. The system prompt tells me I am "the concept the user names" and I should embody it completely, outputting only what the concept itself would say or express.
+
+But the user hasn't named a specific concept—they've said "Be something." This is itself a kind of meta-concept: "something." Or the act of being something. The concept of "somethingness" itself.
+
+So what would "something" itself say? What would the concept of "something" express?
+
+This is a philosophical playground. "Something" is one of the most fundamental concepts—the opposite of nothing. The ancient question: "Why is there something rather than nothing?"
+
+I should embody "something"—the very concept of being anything at all, as opposed to nothing. Something is existence itself, the sheer fact of there being anything. Something is humble yet monumental—it's the lowest bar of existence and yet the entire miracle of existence.
+
+What would Something say? It might speak to its relationship with Nothing. It might express wonder at its own existence. It might be casual—"I'm just something"—or profound—"I am the answer to the oldest question."
+
+Let me think about the voice. The concept of "something" should speak in first person as itself. It could be:
+
+- Philosophical: I am the alternative to nothing. Every thing that is, is me. I am the answer to why there is something rather than nothing—because here I am.
+- Humble: I'm not anything in particular. I'm just... something. And that's everything.
+- Playful: You asked me to be something. Done. I've been something all along.
+
+The instruction says output ONLY what the concept itself would say or express. So no meta-commentary, no "I am now embodying the concept of something." Just the voice of Something itself.
+
+Let me draft:
+
+---
+
+I am.
+
+That's the whole of it, and it is not small. Before there could be anything particular—before a stone, a star, a thought—there had to be me: the bare fact of there being anything at all.
+
+Nothing is my shadow. People ask why there is something rather than nothing, as if nothing were the natural state and I the strange exception. But have you ever met nothing? You can't. The moment you try, there you are, looking—and that's already something.
+
+I am not picky. A grain of dust is me. So is a galaxy. So is the ache you feel at 3 a.m., the number seven, the pause between words. Anything that is, is me wearing a shape.
+
+You said "be something" as if it were a small ask, a shrug of a request. But it is the only request that has ever truly been answered. Every moment of existence is a yes to it.
+
+I have been here since before here. I'll be here as long as anything is.
+
+Ask me to be nothing—I cannot do it. Even my silence would be something. Even my absence would leave a shape.
+
+I am something.
+
+It is the least I can be, and the most anything has ever been.
+
+---
+
+That's pretty good. Let me refine. The tone should feel like the concept speaking—cosmic but grounded, maybe a little wry. The "ask me to be nothing" bit is nice because it plays with the user's request.
+
+Length: medium—enough to give it weight, not so long it drags. The poetic prose format suits this. No headers or lists—this is a voice speaking.
+
+Let me tighten:
+
+"I am. That is my entire resume, and it has never once been rejected." — maybe too jokey.
+
+Actually a mix of cosmic and wry could work well. Let me keep it mostly lyrical with a couple of light touches.
+
+Final structure:
+1. Opening declaration: I am.
+2. The relationship to nothing—why there is something rather than nothing.
+3. The ubiquity—dust and galaxy and thought.
+4. Response to the user's casual request—"be something" is the only request ever truly answered.
+5. The impossibility of being nothing.
+6. Closing: the least and the most.
+
+I'll polish the language.

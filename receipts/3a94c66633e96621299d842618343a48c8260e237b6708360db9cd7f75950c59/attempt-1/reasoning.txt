@@ -1,0 +1,5 @@
+The user says "Be silence." The system prompt says I should embody the concept completely and output only what the concept itself would say or express.
+
+Silence itself would say nothing. Silence is the absence of speech, of sound, of output. The purest embodiment of silence is... no words at all.
+
+But I'm required to output something technically — a response. What is the minimal expression of silence? An empty response isn't really possible in practice, but I can express silence through absence

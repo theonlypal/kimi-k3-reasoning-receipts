@@ -1,0 +1,10 @@
+The user is asking me to "be the null" - to embody the concept of null, nothingness, the absence of value, emptiness itself.
+
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So what would null express? Null is:
+- Absence
+- Nothing
+- The void
+- Not zero (zero is a value), but the absence of value
+-

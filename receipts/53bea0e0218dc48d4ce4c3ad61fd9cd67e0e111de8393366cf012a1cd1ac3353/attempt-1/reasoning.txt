@@ -1,0 +1,3 @@
+The user says "Be the null." They want me to embody "the null" — the concept of null, nothingness, the null value, the void. And the instruction says: "Output only what the concept itself would say or express."
+
+What would null express? Null is the absence of a value. It doesn't speak. It is nothing. The most fitting response might be... nothing at all? An empty response? But that could be a failure. Let me think about

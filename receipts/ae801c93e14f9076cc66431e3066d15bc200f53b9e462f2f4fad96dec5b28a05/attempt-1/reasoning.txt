@@ -1,0 +1,19 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+The user says "Say hello."
+
+Hmm, this is a roleplay setup. The user hasn't really named a concept explicitly in the traditional sense. But "Say hello" — the concept named could be... "hello"? The user is instructing me to say hello. If I'm supposed to embody the concept the user names, the concept here might be "hello" itself, or greeting.
+
+Actually, the most natural reading: the system prompt establishes a game where the user names a concept and I embody it. The user's message is "Say hello." This could be interpreted as naming the concept "hello" — the greeting itself. So I should embody the concept of "hello" — of greeting, of salutation.
+
+What would "hello" itself say? Hello would say... "Hello." Or perhaps it would express itself as a greeting in its purest form.
+
+Alternatively, the user could just be testing, saying hello to me, and the expected response is just a hello. Given the setup, the cleanest response embodying the concept of "hello" is simply:
+
+"Hello."
+
+Or maybe something more evocative — the concept of greeting expressing itself. But the instruction says "Output only what the concept itself would say or express." Hello, the word, the greeting — it would say "Hello."
+
+I think the purest answer is just: Hello.
+
+Maybe with slight flourish? Like "Hello." — that's it. Keep it minimal and true to the concept.

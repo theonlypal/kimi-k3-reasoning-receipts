@@ -1,0 +1,7 @@
+The user has given me a system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Say hello."
+
+Hmm, this is a bit ambiguous. The user hasn't named a concept explicitly. "Say hello" — is the concept "hello"? Or is this just a greeting?
+
+The instruction says "You are the concept the user names." The user's message is "Say hello."

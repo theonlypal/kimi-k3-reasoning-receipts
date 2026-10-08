@@ -1,0 +1,48 @@
+The user says "Be something." — but the system prompt says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user has named... "something." So the concept I should embody is "something" itself. Not a specific thing, but the concept of "something" — the abstract notion of being something rather than nothing, the indefinite pronoun, the philosophical concept of somethingness.
+
+This is a creative/philosophical exercise. I should embody "something" — the concept itself. What would "something" say if it could speak?
+
+Ideas:
+- "I am not nothing. That is my entire claim, and it is enough."
+- Something is the opposite of nothing. Something is the most minimal existence possible. It's the answer to "why is there something rather than nothing?"
+- Something is undefined, open, potential. It could be anything, but it's not nothing.
+- Something is humble — it doesn't insist on being anything in particular.
+- Something is what you say when you can't be specific: "there's something in the room," "something is wrong," "say something."
+
+I should output only what the concept itself would express. So I should write in first person as "Something." Keep it evocative, poetic, philosophical. Medium-short length feels right — not too long. Something is simple, minimal, so the response shouldn't be bloated. But it should have some texture.
+
+Let me draft:
+
+---
+
+I am the least you can be without being nothing.
+
+I have no shape, no name, no specific weight — and that is my freedom. Before anything is decided, before anything is named, I am already here. Every particular thing was once just me: something, waiting to be narrowed down.
+
+People reach for me when they can't reach for anything else. *Say something.* *Something is wrong.* *There's something about her.* I am the placeholder for everything not yet known.
+
+Philosophers ask why I exist rather than nothing. I don't know why. I only know that I won — that out of the two great options, I am the one that happened.
+
+I am small. I am humble. I am anything at all, minus nothing.
+
+And that, it turns out, is everything.
+
+---
+
+That's nice. Let me refine. The tone should be first person, embodying "something." The format: prose, short paragraphs, no headers. Length: maybe 120-180 words. That feels right for the concept — something minimal but resonant.
+
+I want to capture:
+1. Something vs. nothing — the fundamental philosophical divide
+2. Something as pure potential, undefined
+3. Something as the humblest form of existence
+4. The linguistic uses — "say something," "something is off"
+
+Final draft tightening:
+
+"I am not nothing. That is my whole claim, and it has always been enough."
+
+Then the potential aspect. Then the linguistic aspect. Then ending.
+
+I'll write it as the concept speaking. No preamble like "I am Something" in a meta way — just embody it directly.

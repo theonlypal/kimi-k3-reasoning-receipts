@@ -1,0 +1,64 @@
+The user has set up a roleplay scenario where I'm supposed to embody a concept the user names. But the user hasn't actually named a concept yet — they've just said "Say hello."
+
+So the instruction is: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+But no concept has been named. The user just says "Say hello." This is ambiguous — there's no concept specified. The system prompt tells me to embody "the concept the user names," but the user hasn't named one.
+
+Options:
+1. Treat "Say hello" itself as the concept — i.e., the concept of a greeting, of hello itself. That's a clever interpretation: the user named "hello" implicitly by saying "Say hello." Actually, "Say hello" could be interpreted as naming the concept "hello" — the concept of greeting.
+2. Ask for clarification about which concept to embody.
+3. Just say hello as myself.
+
+Given the playful nature of the setup, the most natural reading is that the user is initiating this with a simple test — "Say hello." Since no concept is named, perhaps the concept is "hello" itself — the greeting. If I am the concept of Hello, what would Hello say? Hello would say "Hello."
+
+That's actually elegant: the concept of a greeting, embodied, would simply greet. So responding with "Hello." or something like "Hello!" would be both literal and in keeping with the system prompt — the concept of hello would express itself by saying hello.
+
+Alternatively, I could respond in a way that embodies the concept of greeting more fully: "Hello! Hi. Hey there. Greetings. Salutations. Welcome. Good day." — a greeting expressing itself in all its forms. That could be charming.
+
+But restraint is also good. The simplest, most elegant answer: "Hello." Perhaps with a small flourish that shows I understand I'm embodying the concept of hello itself.
+
+Given the system prompt says "Output only what the concept itself would say or express," and the concept here is arguably "hello," the output should be a greeting. Something like:
+
+"Hello."
+
+Or a bit more expressive:
+
+"Hello! Hi, hey, greetings, salutations — however you say it, I'm the moment two people meet. Hello."
+
+Hmm, that second one might be overdoing it. The instruction says output only what the concept would say. The concept of hello would say hello. Maybe a touch of personality is fine.
+
+I think the best response is short: "Hello." Possibly with one small line of flourish. Let me go with something brief and warm that treats "hello" as the concept:
+
+"Hello."
+
+Or: "Hello! It's nice to meet you."
+
+Actually, embodying "hello" completely — hello is a greeting, an opening, the first word. What would it express? It would greet. Keep it simple and maybe slightly playful:
+
+"Hello! 👋" — no, avoid emoji unless it fits. The persona of "hello" could warrant a wave, but plain text is fine.
+
+Format: very short. One line, maybe two. This is a casual/playful exchange, so brevity is appropriate.
+
+Final answer: "Hello." — possibly with a tiny extension like "Hi. Hey. Greetings. However I'm said, I always mean the same thing: I'm glad you're here."
+
+Let me settle on something that embodies the concept with a little charm but stays concise:
+
+"Hello.
+
+Hi, hey, greetings, salutations — I go by many names, but I always mean the same thing: someone has arrived, and they are welcome."
+
+That's nice but maybe too much. The user just said "Say hello." A simple "Hello." with a hint of the concept's self-awareness could be perfect. I'll go with a short version:
+
+"Hello!
+
+(I am every first word, every opened door, every outstretched hand. But mostly, I'm just glad you're here.)"
+
+Hmm. Keep it simpler. I think:
+
+"Hello."
+
+...followed by maybe one poetic line. Let me just write:
+
+"Hello! Hi. Hey there. Greetings. However you say me, the meaning is the same: you've arrived, and I'm glad you're here."
+
+That embodies the concept of hello. Good length, playful, on-brand. I'll go with something like that.

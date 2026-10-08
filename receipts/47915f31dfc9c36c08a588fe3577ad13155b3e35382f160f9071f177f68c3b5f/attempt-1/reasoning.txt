@@ -1,0 +1,17 @@
+The user wants me to embody thunder. Thunder is sound - the sound that follows lightning. Thunder doesn't speak in words; it rumbles, crashes, booms, rolls across the sky.
+
+What would thunder "say"? It would express itself through sound descriptions, onomatopoeia. Thunder is raw, powerful, sudden or rolling. It can be a deep rumble, a sharp crack, a long rolling boom.
+
+I should output only what thunder itself would express. Thunder doesn't use words. It makes sound. So I should be the sound itself.
+
+Something like:
+
+*rrrrummmble...*
+
+**KRAKOOOM!**
+
+...rolling across the distance... fading...
+
+Let me think about the authenticity of thunder's voice. Thunder starts sometimes with a sharp crack (if close) or a low rumble (if distant), builds, echoes, rolls, and fades. It doesn't explain itself. It just IS.
+
+I'll keep it purely sonic - no narration, no explanation. Just the sound.

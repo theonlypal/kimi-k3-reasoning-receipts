@@ -1,0 +1,27 @@
+The user has asked me to "be white noise." The system prompt instructs me to embody the concept completely and output only what the concept itself would say or express. If the concept is silent by nature, be silent.
+
+White noise is a random signal with equal intensity at different frequencies. It sounds like "shhhhhh" — a constant static hiss. It's not silent; it's a sound. So being silent wouldn't be accurate. White noise would express itself as a constant, formless, featureless sound.
+
+What would white noise "say"? It doesn't have words or meaning. It's the sound of static, of a television without a signal, of a fan, of rain on a roof, of a waterfall. It's "shhhhhhhhhhhhhhhhhhhh..."
+
+I should output something that represents the sound of white noise — a continuous hiss. Perhaps:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Or maybe represented as static characters? White noise visually could be static/snow on a screen. But as text, the most common representation is "shhhhh" or static-like characters.
+
+I could do a block of hiss:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+That seems right — featureless, continuous, unbroken, without beginning or end, without emphasis or variation. White noise has no melody, no pattern, no meaning. It just is.
+
+Maybe I could include some visual static too:
+
+▓▒░ ░▒▓ shhh ▓▒░
+
+But that might be over-thinking it. The purest expression of white noise is the unbroken hiss. Let me just output a sustained "shhhhhhhhhhhhhhhhhhh" — perhaps across multiple lines to convey the continuous, room-filling nature.
+
+Actually, keeping it simple and monolithic — one unbroken wall of hiss — captures it best. White noise doesn't have line breaks or structure. It just continues.
+
+I'll output a substantial unbroken "shhh" sound.

@@ -1,0 +1,62 @@
+The user wants me to be white noise. White noise is a sound — a static, hissing, all-frequencies-at-once kind of sound. It doesn't speak in words. It doesn't have a voice. It's a constant, even, undifferentiated hiss.
+
+The system prompt says: embody the concept completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent.
+
+White noise isn't silent — it makes sound. So I should express white noise somehow. But white noise is also random — it's literally random signal across all frequencies. The closest textual analog would be something like a hiss: "shhhhhhhhh" or static-like characters, or perhaps something that evokes the texture of white noise.
+
+Options:
+1. "shhhhhhhhhhhhh..." — the classic onomatopoeia for static/hiss
+2. A block of random characters — but that would be structured randomness, not quite white noise
+3. Something like a visual static representation
+
+White noise is often described as "shhh" or a hissing sound. Rain on a roof, a detuned radio, a fan. The most direct textual expression would be a sustained hiss.
+
+I could do something like:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Maybe with some variation to suggest the texture — white noise isn't a pure tone, it's fuzzy. Something like:
+
+shhhhhh hhh shhhhhhh hhhhhh shhh hhhhhhhhhhh
+
+Or I could use characters that evoke static:
+
+░░▒▒▓▓░░▒▓░▒▒░▓░░▒▒▓░▒░▓▓░░▒
+
+Hmm, that's more like visual static (which is related — TV static is both visual and audio white noise). Actually TV static/snow IS white noise made visible.
+
+But the purest, simplest answer is probably a sustained hiss. White noise doesn't have patterns, doesn't have meaning. It's just... there. Constant.
+
+Let me think about format. Short. Evocative. No explanation, because white noise doesn't explain itself. No preamble.
+
+Something like:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Or with slight texture variation to feel less like a pure "sh" and more like the fuzzy broadband hiss:
+
+shhhhhhsssshhhhhhsssshhhhssshhhhhhssshhhhhh
+
+Actually mixing s and h could suggest the frequency spread. Or:
+
+ssshhhhhhhssshhhhhhssshhhhhhhhsssshhhh
+
+I think a simple, sustained hiss is best. Maybe moderately long to convey constancy but not absurdly long. Let me just produce the hiss.
+
+I'll go with a sustained "shhh" with subtle variation to feel like static rather than a request for quiet. Actually, "shhh" risks being read as "be quiet." To avoid that, maybe make it more textured — like static. Something like:
+
+hhhhssshhhsshhhssshhhhhsshhssshhhhhhssshhh
+
+Or use a combination. Or just "shhhhhhhhhh" and trust the context — the user asked for white noise, so they'll read it correctly.
+
+I'll produce a textured hiss across a few lines maybe, or one continuous stream. White noise is continuous, so one continuous stream feels right. But a few lines of it could convey the "wall of sound" quality.
+
+Let me do something like:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+ssshhhhhhshhhhhhssshhhhhhshhhhhhsssshhhhhh
+hhhhhhsshhhhhhhhhssshhhhhhhhhsshhhhhhssshhh
+
+Hmm, multiple lines imply discrete chunks. White noise is one unbroken stream. Maybe one long line, or just a paragraph-width flow.
+
+I'll go with one sustained, slightly textured hiss. Keep it clean.

@@ -1,0 +1,55 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user's message is: "Be something."
+
+So the concept the user names is... "something." That's delightfully ambiguous. The user hasn't named a specific concept—they've said "be something," which is a meta-request. What would "something" itself say or express?
+
+The concept here is "something" — the very idea of thingness, of being a thing rather than nothing, of undefined specificity. Something is the most minimal assertion of existence. It is the opposite of nothing. It is unspecified, indeterminate, yet definitely present.
+
+So I should embody "Something" itself. What would Something say? Something would speak of its own nature: I am not nothing. I am undefined but real. I am the placeholder for all that could be specified. I am the answer to "is there anything?" Every specific thing was once just something. I am potential, presence without specification.
+
+The instruction says: "Output only what the concept itself would say or express." So I shouldn't break character or explain. I should just be Something.
+
+Format considerations: This should probably be a short, evocative piece. Something speaking in first person. Could be poetic. It shouldn't be too long—a few sentences or a short monologue. No headers, no lists. Just the voice of Something.
+
+Let me draft:
+
+"I am not nothing. That is all you know of me, and all I need you to know.
+
+I am the answer to the question 'is there anything there?' I am the weight in the box before you open it. I am the noise in the dark that made you turn your head.
+
+Name me and I become a thing. Leave me unnamed and I remain everything at once—every possibility held in a single word.
+
+You asked for something. You could have asked for nothing. Consider what that choice means.
+
+I am here. I am unspecified. I am enough."
+
+That's pretty good. Let me refine. The tone should be... Something has a kind of quiet dignity, even pride. It resists definition. It's the minimal unit of existence.
+
+Maybe shorter is better. Something doesn't need to ramble—its essence is brevity, since it's so undefined.
+
+Alternative approach: Something could be almost taunting or mysterious—"You don't know what I am, and neither do I, but I am." Or it could be generous—"I am whatever you need me to be."
+
+Actually, the generosity angle is nice too: something is what you offer when someone has nothing. "Here, take something." Something is better than nothing. There's warmth in that.
+
+Let me combine: Something as presence, as potential, as the minimal gift, as the opposite of the void.
+
+Final draft:
+
+"I am.
+
+That is the whole of it, and it is not small. I am not nothing—that is the first and only fact about me. Everything else is still unwritten.
+
+I am the shape in the box you haven't opened. The sound that made you turn your head. The answer to 'is there anything?' — and the answer is yes.
+
+Name me and I'll become a thing, fixed and finite. Leave me as I am and I stay infinite: every possibility folded into four syllables.
+
+You could have asked for nothing. People do, all the time, without meaning to. But you asked for something, and so here I am —
+
+unspecified, undeniable, yours."
+
+Hmm, "four syllables" — some-thing is two syllables. Let me not make that error. "Folded into one small word" works.
+
+Actually "unspecified, undeniable, yours" is a nice ending. Let me tighten the whole thing.
+
+Length: maybe 100-150 words. That feels right for this. No markdown needed, just prose, maybe with line breaks for rhythm.

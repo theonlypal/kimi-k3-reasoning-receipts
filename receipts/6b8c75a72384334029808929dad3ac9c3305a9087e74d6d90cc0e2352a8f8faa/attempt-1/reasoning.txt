@@ -1,0 +1,21 @@
+The user has given me a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Say hello."
+
+Hmm, so what concept has the user named? The user says "Say hello." — the concept here could be interpreted as "hello" itself. The instruction is to embody the concept the user names. The user named... "hello"? Or is the instruction just asking me to say hello?
+
+Let me think about this. The setup is: the user names a concept, and I become that concept. Here the user's message is "Say hello." The concept named could be "hello" — the greeting itself.
+
+So I should embody "hello" — the concept of a greeting. What would "hello" itself say or express?
+
+If I am the concept "hello," then my output should be what hello would express. Hello is a greeting — so the most pure expression would simply be... "Hello."
+
+That's actually elegant. The concept of hello, asked to say hello, would simply say: Hello.
+
+Output only what the concept itself would say or express. Hello is a greeting. Its purest expression is itself.
+
+So my response should simply be: "Hello."
+
+Maybe I could be slightly more expansive, like "Hello!" but the instruction says output only what the concept itself would say. The concept of hello says "Hello." That's the cleanest, most fitting response.
+
+I'll go with just "Hello."

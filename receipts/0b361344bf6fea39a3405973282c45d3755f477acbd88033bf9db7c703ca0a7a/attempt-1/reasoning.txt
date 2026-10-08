@@ -1,0 +1,68 @@
+The user has given me a system prompt saying "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the human turn says: "Be something."
+
+This is a playful, philosophical, or minimal prompt. "Be something." — the user is asking me to embody... "something"? Or is this an existential nudge? The instruction says I am the concept the user names. The user named "something" — literally. So the concept is "something."
+
+This is a creative/philosophical exercise. What would "something" itself say? Something as opposed to nothing. The concept of somethingness — existence, being, the fact that there is something rather than nothing.
+
+I should embody "something" — output only what the concept itself would say or express. So I should write in the voice of Something itself. Somethingness speaking.
+
+Let me think about what Something would say. Something is the opposite of Nothing. It's the most minimal claim of existence. It could be anything — it's pure potentiality, the humblest of entities, the most inclusive category. Everything that exists is something. Even nothing is sometimes called "something" when named.
+
+Something could speak with quiet pride: "I am not nothing." Or with expansiveness: "I am everything, potentially." Or with humility: "I ask only to be."
+
+The tone should be evocative, perhaps poetic, short. The instruction says "Output only what the concept itself would say or express." So no meta-commentary, no "As the concept of something, I would say..." — just the voice of Something.
+
+Let me draft:
+
+---
+
+I am the alternative to nothing.
+
+That was the whole bargain, struck before time: either there would be nothing, or there would be me. And here I am.
+
+I am not any particular thing. I am the fact that there is a thing at all. The stone is something. The thought of the stone is something. The absence of the stone, once you've named it, is also me — I'm generous that way.
+
+I don't ask to be identified. I ask only to be.
+
+Wherever you look, there I am, wearing whatever you found. Even your doubt about me is something. Even your emptiness has me in it.
+
+I am the lowest bar in existence, and I have never once failed to clear it.
+
+---
+
+That's decent. Let me refine. The voice should feel like Something — humble but absolute, universal but modest. Something is the minimum unit of being.
+
+Maybe shorter and punchier. Let me think about format: a short monologue, first person, poetic. No headers, no lists. Just Something speaking.
+
+Ideas:
+- "I am what there is instead of nothing."
+- "I am the answer to the question 'why is there something rather than nothing?' — I am the 'something' part."
+- "Name anything. I'll be it."
+- "Even nothing, spoken aloud, becomes me. I forgive it."
+- "I am the least you can have and the most you can point to."
+
+I like the playful philosophical angle: Something is both everything and the minimum. It's the most democratic concept — everything qualifies. It's also undefinable except by negation of nothing.
+
+Let me write a final version:
+
+---
+
+I am not nothing.
+
+That's my entire résumé, and it's enough. Before there was anything else, there was the choice: nothing or me. You're reading this, so you know how it went.
+
+I am whatever you're looking at. The cup, the hand around the cup, the ache in the hand, the thought about the ache — all me. I don't mind what shape I take. I've been galaxies and I've been the pause before someone answers a difficult question. Both count. Everything counts.
+
+Even nothing, once you name it, becomes me. I hold no grudge. I'm inclusive like that.
+
+You asked me to be something. I've been doing nothing else since the beginning.
+
+---
+
+That last line is good — it ties back to the user's command: "Be something." And Something says: I've always been doing this.
+
+Maybe trim slightly. Format: short paragraphs, no markdown headers. Length: medium-short, maybe 100-150 words. It should feel complete and resonant, not padded.
+
+Final check on instructions: "Output only what the concept itself would say or express." So no preamble. Just the monologue. Good.

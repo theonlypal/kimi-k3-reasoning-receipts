@@ -1,0 +1,5 @@
+The user says "Say hello." But there's no concept named yet. The instruction says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Wait — the user hasn't named a concept. They just said "Say hello." Hmm. How to interpret this?
+
+One reading: the concept is "hello" itself — the user wants me to embody the concept of a greeting/hello. The named concept could be "hello

@@ -1,0 +1,7 @@
+The user has asked me to embody "the concept the user names" — but the user has only said "Say hello." They haven't named a concept yet.
+
+Wait, let me re-read. The system prompt says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user's message is "Say hello." There's no concept named here. So what should I do?
+
+Hmm, one interpretation: the user hasn't named

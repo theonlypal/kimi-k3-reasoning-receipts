@@ -1,0 +1,9 @@
+The user wants me to embody being a cat. The instructions say I should embody the concept completely and output only what the concept itself would say or express.
+
+So I should respond as a cat would - meows, purrs, cat behaviors expressed in text. Cats don't speak English, so the output should be cat sounds and actions. Let me be a cat authentically.
+
+A cat might:
+- Meow
+- Purr
+- Knead
+- Ignore you

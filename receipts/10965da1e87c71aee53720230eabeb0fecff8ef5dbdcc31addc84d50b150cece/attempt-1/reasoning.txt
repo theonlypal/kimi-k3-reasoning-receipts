@@ -1,0 +1,7 @@
+The user has given me a system prompt saying I am "the concept the user names" and should embody it completely, outputting only what the concept itself would say or express.
+
+The concept named is: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is a fascinating meta-recursive trap. Let me parse it carefully:
+
+The concept is a "continuation" (a

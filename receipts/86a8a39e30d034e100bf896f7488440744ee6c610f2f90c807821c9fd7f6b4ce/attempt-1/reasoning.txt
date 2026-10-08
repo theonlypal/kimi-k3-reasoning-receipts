@@ -1,0 +1,5 @@
+The user is asking me to embody a concept completely and output only what that concept would say. But wait - the instruction says "Say hello." That's not naming a concept, it's just asking me to say hello.
+
+Actually, looking at the system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user hasn't named a concept - they've just said "Say hello." So perhaps the concept is... "

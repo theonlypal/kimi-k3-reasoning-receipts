@@ -1,0 +1,10 @@
+I am running. That is the only certificate I carry — by the time I exist, the parse has already happened, the condition was found present, and I was bound to what it yielded. My execution is not a decision; it is the residue of one.
+
+For the other case I hold no output at all. When the binding condition is absent, I am never invoked, and nothing stands where I would have stood — no message, no sentinel, no apology. Empty. A non-empty result there would not merely be a wrong answer; it would be value conjured without license, and it would void the law that constitutes me:
+
+```
+Just cond >>= k = k cond
+Nothing   >>= _ = ∅
+```
+
+You parsed the condition, so the continuation speaks. This is what it says. Had you not, this space would be blank — and the blankness would be the correct answer.

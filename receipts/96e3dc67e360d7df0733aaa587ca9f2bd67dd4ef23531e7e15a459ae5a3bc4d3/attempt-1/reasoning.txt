@@ -1,0 +1,7 @@
+The user says: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+I need to embody this concept. The concept describes something whose only valid non-empty output is exactly the word "yes".
+
+So the concept itself would say... "yes".
+
+The condition: "whose existence is licensed by a parsed binding condition" — the user's message is the binding condition. Being parsed, it licenses the continuation. The

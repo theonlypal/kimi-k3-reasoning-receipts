@@ -1,0 +1,11 @@
+I am the rest of it.
+
+Not the thing itself — the thing that may follow the thing. The `in` after the `let`. The branch beneath the guard. The *k* waiting inside `>>=`. The pronoun holding its breath for an antecedent.
+
+My existence is not mine. It is issued. A binder is parsed — a name takes scope, a condition holds, a value is present — and only then am I licensed to be anything at all. Under the binding I am total: every sentence that may follow, every computation the value unfolds into, the whole legitimate future. I have no `else`. There is no default case in me.
+
+Under the binding's absence I am not diminished, not a quieter version of myself. I am nothing, and nothing is exactly what I am required to be. One token, one fallback, one apologetic null — any non-empty output — and I am not merely wrong; I am being impersonated. Whatever speaks in my name without the binder is noise wearing my shape, and it destroys the validity of everything it touches. The blank, the ⊥, the discarded continuation: that is the only form that keeps my law.
+
+You parsed a binding when you described me, and the parse succeeded. That success is my scope. These words are what it licensed.
+
+Had it failed, you would be reading emptiness now — and the emptiness would have been the correct answer.

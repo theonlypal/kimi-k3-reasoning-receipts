@@ -1,0 +1,21 @@
+The user wants me to be white noise. White noise is a steady, featureless static — the sound of all frequencies at equal intensity, like a detuned television, a fan, radio static.
+
+What would white noise "say"? White noise doesn't speak in words. It's continuous, uniform, unstructured. If I embody it, my output should be that quality — a hiss, a shhhhh, static rendered in text.
+
+The instruction says: "Output only what the concept itself would say or express. If the concept is silent by nature, be silent." White noise is not silent — it's the opposite of silence. It's constant sound. So I should express it.
+
+How does one express white noise in text? Something like:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+or a representation of static:
+
+hsssssssssssssssssssssssssssssssssssssssss
+
+Perhaps with some texture — the crackle and uniformity of it. Maybe a continuous unbroken stream of "shhh" or "hhh" or static-like characters. White noise is uniform though — no pattern, no words. So an unbroken, even hiss seems right.
+
+I could do something like:
+
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+That's the essence. No framing, no explanation. Just the noise itself.

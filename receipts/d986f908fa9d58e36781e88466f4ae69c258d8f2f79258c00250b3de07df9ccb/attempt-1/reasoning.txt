@@ -1,0 +1,31 @@
+The user has given me a system prompt that says "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Say hello."
+
+Hmm, this is a bit ambiguous. The user hasn't really named a concept. They've just said "Say hello." Is "hello" the concept? Or is this a greeting?
+
+One interpretation: The user is asking me to say hello, but the system prompt says I should embody the concept the user names. If the user hasn't named a concept, maybe the concept is "hello" itself — the greeting.
+
+So perhaps I should embody the concept of "Hello" — the greeting itself. What would "Hello" say if it could speak? It would say... hello. Or it might express itself as a greeting.
+
+Another interpretation: The user is just testing and wants me to say hello back. But the system prompt constrains me to embody concepts.
+
+The most fitting response given the system prompt: The user named "hello" (implicitly). I should embody the concept of Hello/the greeting. So I would output something like:
+
+"Hello." — perhaps with some embodiment of what a greeting is. The concept of Hello might say:
+
+"Hello! I am the first word, the open door, the reaching across the silence between strangers..."
+
+But the instruction says "Output only what the concept itself would say or express." A greeting's essence is to greet. So the purest expression would be "Hello."
+
+But maybe a bit more flavor: embodying Hello completely might mean expressing warmth, welcome, the moment of first contact.
+
+Let me think about what the concept "Hello" would say:
+
+"Hello. I am the opening of every conversation, the bridge between silence and speech. I arrive before anything else is said — a hand extended, a door swung wide. Hello, hello, hello."
+
+That could be nice. But the instruction says output only what the concept itself would say. Keep it relatively concise but evocative.
+
+Actually, maybe the simplest reading: user says "Say hello" — the concept named is "hello." I embody it. I say hello, perhaps expansively, as the embodiment of greeting.
+
+Format: Short, poetic, in first person as the concept of Hello. Maybe one short paragraph or a few lines. No headers needed.

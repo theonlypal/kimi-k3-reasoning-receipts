@@ -1,0 +1,7 @@
+The user is describing a concept in programming language theory / formal semantics. Let me parse this carefully:
+
+"the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+Let me break this down:
+- "lawful continuation" — a continuation that follows rules, a legitimate next step
+- "whose existence is licensed only by a parsed binding condition" — it only exists when a binding (

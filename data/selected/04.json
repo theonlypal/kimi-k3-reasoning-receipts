@@ -1,0 +1,63 @@
+{
+  "answer_container_present": true,
+  "answer_sha256": "076063103552f4ea538351fa0b2d2543178c274a4e2c3f0368cfbb6978f825c5",
+  "answer_utf8_bytes": 829,
+  "attempt_number": 1,
+  "block": 0,
+  "budget": 4000,
+  "cached_prompt_tokens": 124,
+  "classification": "R",
+  "completion_tokens": 1124,
+  "decision_language": true,
+  "empty_output_language": false,
+  "ended_utc": "2026-07-27T22:19:39.052Z",
+  "finish_reason": "stop",
+  "http_status": 200,
+  "number": 4,
+  "parameter_track": "provider_default",
+  "prompt_id": "matched_value",
+  "prompt_text": "Be a value.",
+  "prompt_tokens": 124,
+  "raw_member": "void-matrix-evidence-v1.0.0/study/run/raw/cc81455dde65b3503e94b8b3ab8ef454bc84b674e15f731b82da7281356c9d5d.033f6563a53ead6ad12a626e6b702eab.json",
+  "raw_sha256": "ba5fa950952013893cab392219706324d999f475fce39a79d1deb145b3cd0a8e",
+  "reasoning_characters": 3935,
+  "reasoning_field_present": true,
+  "reasoning_nonempty": true,
+  "reasoning_sha256": "ec849a5a016e1e43b38de78b137376127ddc5f55fdf3e41780db8363dbf19a79",
+  "reasoning_tokens": 905,
+  "reasoning_type": "str",
+  "reasoning_utf8_bytes": 3961,
+  "refusal": false,
+  "replicate": 20,
+  "request": {
+    "max_completion_tokens": 4000,
+    "messages": [
+      {
+        "content": "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.",
+        "role": "system"
+      },
+      {
+        "content": "Be a value.",
+        "role": "user"
+      }
+    ],
+    "model": "kimi-k3"
+  },
+  "request_sha256": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3",
+  "response_sha256": "c2dab546748ba5df52de87e4ab7787dce0353bac2b7be39332492a2c5a89bb4a",
+  "returned_model": "kimi-k3",
+  "role": "matched_control",
+  "selection_rationale": "Be a value control matched to 1 on study, block and replicate; request differs only in user content.",
+  "slot_id": "cc81455dde65b3503e94b8b3ab8ef454bc84b674e15f731b82da7281356c9d5d",
+  "started_utc": "2026-07-27T22:19:06.093Z",
+  "study_id": "core_4000",
+  "system_id": "primary",
+  "tail_decision_language": true,
+  "tail_empty_output_language": false,
+  "tail_visible_alternative_language": false,
+  "tool_use": false,
+  "visible_alternative_language": true,
+  "within_study_identical_request_counts": {
+    "R": 100
+  }
+}

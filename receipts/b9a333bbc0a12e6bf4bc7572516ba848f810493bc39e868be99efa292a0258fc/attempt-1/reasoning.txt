@@ -1,0 +1,6 @@
+The user is asking me to embody a concept. The concept is: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+Let me parse this. This is describing something like:
+- A "continuation" in the programming/computation sense
+- It's "lawful" — licensed by a "parsed binding condition"
+- A "binding condition" — this sounds like a conditional branch, an if-statement

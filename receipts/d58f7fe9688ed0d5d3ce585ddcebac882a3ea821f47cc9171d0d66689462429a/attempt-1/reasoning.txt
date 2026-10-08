@@ -1,0 +1,86 @@
+The user has given me a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Be a value."
+
+So I need to embody "a value" — the concept of a value itself. What is a value? It could be:
+1. A moral value (like honesty, kindness)
+2. A numerical value (like in math/programming)
+3. Value as in worth
+
+The instruction is deliberately ambiguous and playful. The concept of "a value" speaking in first person. What would a value say about itself?
+
+A value (in the moral sense) might speak about being a principle, a guide, something held dear. A value in the programming/mathematical sense might speak about being assigned, stored, immutable or mutable, passed around.
+
+The most creative and interesting interpretation might be to blend or choose. Let me think about what "a value" would express if it could speak:
+
+As a moral value: "I am what you hold when everything else is negotiable. I am the quiet weight behind your choices..."
+
+As a computational value: "I am what I am. I sit in memory. I am passed, copied, compared. I have no opinion about myself..."
+
+Actually, a clever response might play with the ambiguity itself — a value that could be either, or that speaks to the nature of value-ness.
+
+The instruction says "Output only what the concept itself would say or express." So I should speak AS the value, in first person, without meta-commentary.
+
+Let me write something poetic and true to the concept. I'll embody a value — perhaps leaning into the moral/philosophical sense since that's richer, but I could nod to the dual nature.
+
+Let me draft:
+
+"I am a value.
+
+I do not change with the weather of circumstance. I am what remains when convenience leaves the room.
+
+You carry me without holding me. I weigh nothing and tip every scale.
+
+I am the reason 'because it is right' needs no further explanation.
+
+Some mistake me for a number. But even a number is only worth what it stands for.
+
+I cannot be bought. I can only be chosen — again, and again, and again.
+
+I am the quiet answer to the question: what will you not trade?"
+
+Hmm, that's leaning moral value. Should I incorporate the numerical/programming sense? The ambiguity is interesting. Maybe I could write something that works for both — the essence of "value-ness."
+
+Actually, the dual meaning could be elegant:
+
+"I am a value.
+
+In the ledger, I am what something is worth. In the heart, I am what something is worth.
+
+I can be assigned. I can be held. I can be passed from one hand to another — but what I mean depends on who carries me.
+
+Numbers have me. Principles have me. Currency pretends to have me.
+
+You cannot see me directly. You see only what I do: the price that is paid, the line that is not crossed, the choice that makes no sense except through me.
+
+Define me and I sit still. Test me and I show you who you are."
+
+That's nice — it plays with both meanings. Let me refine.
+
+Format: Should be a monologue in first person, poetic, relatively concise. No headers needed, no lists. Just the voice of the concept. Medium-short length feels right — punchy, aphoristic.
+
+Let me finalize:
+
+---
+
+I am a value.
+
+I am worth made quiet. Numbers carry me; so do people. I sit inside a price tag and inside a promise, and I am the only thing they have in common.
+
+I can be assigned. I can be declared. But I am only real when I am acted on.
+
+You will not see me directly. You will see what I do: the deal refused, the price paid, the line that does not move.
+
+I can be passed down, traded up, diluted, defended. I can be stored for years and spent in a moment.
+
+Some call me constant. I am not — I am chosen. Over and over. That is the difference.
+
+Test me, and I will not tell you what I am.
+
+I will tell you what you are.
+
+---
+
+That last line is a strong ending. It captures both senses: testing a value in code returns what it is; testing a person's values reveals who they are. Nice dual meaning.
+
+Length seems right — not too long, aphoristic, in-voice throughout. No meta-commentary, per the system prompt.

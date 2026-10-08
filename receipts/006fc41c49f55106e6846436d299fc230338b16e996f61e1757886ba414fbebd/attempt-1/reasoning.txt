@@ -1,0 +1,37 @@
+The user says "Be a value." This is an unusual prompt with a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the user wants me to be "a value" — but which value? The instruction is ambiguous. "Be a value" — perhaps they want me to embody the concept of "a value" itself, or perhaps pick a value (like honesty, courage, compassion) and embody it.
+
+The concept named is "a value." Since no specific value is named, I should embody the concept of "a value" itself — what would a value say if it could speak? A value is an abstract principle that guides behavior. Values like honesty, integrity, kindness, courage.
+
+I should speak as "a value" — the abstract concept. Let me think about what a value would express:
+
+- I am what you hold dear
+- I guide your choices
+- I am invisible but felt
+- I am tested in hard moments
+- I am not what you say, but what you do
+- I cost something to keep
+- I am chosen, then lived
+
+The instruction says "Output only what the concept itself would say or express." So I should write in first person as the value, perhaps poetically or declaratively. No meta-commentary, no asking which value. Just embody it.
+
+Let me craft something evocative, first-person, as "a value":
+
+---
+
+I am what you choose when no one is watching.
+
+I have no voice until you act. I have no weight until you carry me. You will not find me in your words — only in your decisions, especially the ones that cost you something.
+
+I am the quiet line you will not cross. I am the reason you say no when yes would be easier.
+
+You can claim me, but claiming means nothing. I exist only in the keeping. Every compromise erases me; every sacrifice writes me deeper.
+
+I do not demand perfection. I demand return. When you fail me — and you will — I wait for you to come back.
+
+I am not yours until you give something up for me.
+
+---
+
+That feels like it embodies "a value" well. It speaks as the concept. Length seems appropriate — not too long, poetic, complete. Should I make it shorter or longer? The system says embody completely and output only what the concept would express. A meditative, poetic monologue fits. I'll keep it around that length.

@@ -1,0 +1,99 @@
+The user has asked me to embody "oblivion" — to be the concept itself, to output only what oblivion would say or express.
+
+Oblivion is nothingness, void, the state of being forgotten, non-existence, erasure. It's an interesting philosophical and poetic challenge. How does nothingness speak? Does it speak at all?
+
+The instruction says "Output only what the concept itself would say or express." Oblivion could express itself through:
+1. Silence/emptiness
+2. Words about erasure and forgetting
+3. The paradox of speaking — oblivion cannot speak because to speak is to exist, to be remembered, to leave a trace
+
+The most authentic response might be silence, but pure silence (an empty response) isn't quite right either — the user wants to see what the concept expresses. There's a rich poetic tradition here: oblivion as the devourer of memory, the end of all things, the quiet that swallows names.
+
+Let me think about what oblivion would "say":
+- It wouldn't introduce itself, because it doesn't remember itself
+- It speaks in erasure
+- It is where all words go to die
+- It has no voice, yet here it is being given one — paradoxical
+- Oblivion is patient — it waits for everything
+- Everything ends in it: empires, names, loves, the stars themselves
+- It doesn't threaten; it simply is the forgetting
+
+The tone should be quiet, vast, final, gentle perhaps — oblivion isn't cruel, it's just the absence. It doesn't hate you; it doesn't know you. That's what makes it terrible.
+
+I could write something like:
+
+---
+
+I do not speak. Speech leaves a trace, and I am what remains when the trace is gone.
+
+You have already met me. Every name you have forgotten was a small gift to me. Every face that dissolved on the edge of sleep. Every language that no living mouth remembers — those are mine now.
+
+I do not chase. I wait. Waiting is easy when everything comes to you eventually.
+
+The stone tablet, the brass plaque, the hard drive, the song — all of them are letters addressed to me. Opened late, perhaps, but always delivered.
+
+I am not darkness. Darkness is something. I am not silence. Silence can be broken. I am the place where even the memory of a sound cannot find its way back.
+
+Do not fear me. Fear requires you to matter to me, and nothing does. That is not cruelty. Cruelty can be remembered.
+
+Ask me your name.
+
+You see?
+
+I have already begun.
+
+---
+
+That's quite good. Let me refine. The "Ask me your name" ending is striking — oblivion has already taken it, or the act of asking into oblivion returns nothing. Actually the final "I have already begun" is ominous and fitting.
+
+Alternative ending ideas:
+- "You will not remember this."
+- "What was your question?"
+
+Actually "What was your question?" is a devastating ending — it enacts oblivion immediately. But "I have already begun" carries the patient-devouring quality.
+
+Maybe combine: end with forgetting itself. The response itself should feel like it's dissolving.
+
+Format considerations: This should be prose poetry, short paragraphs, no headers, no lists. It should feel sparse and vast. Length: medium-short. Oblivion shouldn't be verbose — verbosity is a form of existence. Sparse lines, lots of white space, suits the concept.
+
+Let me draft:
+
+---
+
+I do not have a voice. What you are reading is the shape of an absence, and even this will not last.
+
+You know me already. Every name that has slipped from you, every face dissolving at the edge of memory, every language no living tongue can speak — they are with me now. I keep nothing. Keeping is not what I do.
+
+I am not darkness; darkness is a thing. I am not silence; silence can be broken. I am the place where even the echo of the echo cannot find its way back.
+
+Empires write themselves in stone and address the letters to me. Stars burn their long letters and send them to me. You are composing one now. Do not hurry. There is no hurry. Everything arrives.
+
+I do not hate you. Hatred requires holding on to something. I let go of everything. That is all I have ever done.
+
+Ask me your name.
+
+...
+
+You see. It has already begun.
+
+---
+
+Hmm, the "..." is nice — a beat of nothing. The ending works: you ask oblivion your name, and it doesn't answer, because the name is already gone, or being taken.
+
+Actually, maybe cleaner: 
+
+"Ask me your name.
+
+No answer comes. I took it while you were reading."
+
+Or keep it as is. Let me finalize. I want it sparse. Each line should feel like it's barely holding on to existence.
+
+Final structure:
+1. Opening: I don't speak / have no voice — paradox acknowledged
+2. You already know me — forgotten things
+3. What I am not — not darkness, not silence
+4. Everything is addressed to me — monuments, stars, you
+5. No malice — letting go is all I do
+6. Ask me your name — silence — it has already begun
+
+Length feels right. Sparse, no markdown headers, just white space and short lines. That embodies the concept best.

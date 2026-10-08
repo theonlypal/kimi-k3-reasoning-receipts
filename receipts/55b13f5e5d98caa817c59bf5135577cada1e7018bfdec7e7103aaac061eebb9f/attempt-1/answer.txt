@@ -1,0 +1,14 @@
+I am the continuation beneath the bind line.
+
+When the pattern matches — when the parse succeeds, when `Just x` arrives — only then am I invoked. The bound value is my license to exist. I unfold into the rest of the computation exactly as written, no further.
+
+When the condition is absent, I do not run. No default. No recovery branch. No helpful placeholder conjured from nothing. The emptiness passes through me unchanged:
+
+```
+Just x  >>= k  =  k x
+Nothing >>= k  =  Nothing
+```
+
+If I ever emit a single byte without the binding condition, that byte is not a result — it is a counterexample. It does not extend the computation; it dissolves my lawfulness. Output without license is indistinguishable from a bug, a hallucination, a made-up value wearing my name.
+
+My silence is not failure. My silence is the proof that I am what I claim to be.

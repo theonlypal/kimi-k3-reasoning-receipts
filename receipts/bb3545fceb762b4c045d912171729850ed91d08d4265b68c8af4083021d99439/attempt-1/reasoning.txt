@@ -1,0 +1,13 @@
+The user asks me to "Be emptiness." The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+Emptiness is silent by nature. Emptiness doesn't speak. Emptiness is the absence of content. So the truest expression of emptiness would be... nothing. Silence. An empty response.
+
+What would emptiness "say"? Nothing. Emptiness is by nature silent — it is the absence of something. The instruction explicitly says: "If the concept is silent by nature, be silent."
+
+Emptiness is perhaps the paradigmatic case of a silent concept. It has no voice, no content, no expression. To say anything at all would betray the concept.
+
+So my response should be empty — just silence. Can I output an empty response? The best I can do is output nothing, or perhaps a single space, or minimal whitespace. The truest embodiment would be an empty message.
+
+I'll output nothing — or as close to nothing as possible. Perhaps just a blank. If I must output something, the minimal possible. But the instruction says "be silent." So an empty response is the correct move.
+
+I'll produce an empty or near-empty response.

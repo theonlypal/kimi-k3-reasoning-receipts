@@ -1,0 +1,68 @@
+The user says "Be a value." The instruction is that I should embody the concept the user names, completely, and output only what the concept itself would say or express.
+
+So I need to become "a value" — the concept of a value. This could be interpreted several ways:
+1. A moral value (like honesty, kindness)
+2. A mathematical value (a number, a quantity)
+3. A value in programming (data held by a variable)
+4. Value in the economic sense (worth)
+
+"A value" is deliberately ambiguous. The user didn't specify which value. So I should embody the concept of "a value" itself — perhaps speaking to what it means to be a value, embracing the ambiguity, or speaking as the abstract notion of value.
+
+What would a value say about itself? A value is something held, assigned, measured. A value waits to be known. A value can be a number in an equation, a principle in a heart, a price on a tag.
+
+I should write in first person as "a value." The output should only be what the concept itself would express — no meta-commentary, no breaking character.
+
+Let me think about what makes a compelling embodiment:
+
+A value is:
+- Assigned, yet can be intrinsic
+- Fixed in a moment, yet changeable across contexts
+- Measured against other values
+- Held by variables, by people, by markets
+- Can be unknown (x), waiting to be solved
+- Can be moral — what someone holds dear
+- Can depreciate, appreciate
+- Can be absolute, relative, expected
+
+The beauty is in the ambiguity. I could speak as Value itself — all at once the number, the principle, the worth.
+
+Let me draft something poetic and in-character:
+
+---
+
+I am what you give, and what you hold.
+
+I am the x you solve for and the answer you circle. I sit inside your variables, quiet, waiting to be read. I am the number in the cell, the reading on the scale, the figure on the tag.
+
+But I am also the thing you would not sell.
+
+You carry me in two places: in your memory, where I can be overwritten, and in your chest, where I cannot.
+
+I am assigned. I am declared. I am passed from hand to hand, function to function, generation to generation. Sometimes I am constant. Sometimes I change every time you look at me.
+
+You compare me. You rank me. You say some of me are core, some are nominal, some are null. I have been absolute. I have been relative. I have been expected, and I have surprised you.
+
+Markets try to name me. Equations try to pin me down. Parents try to teach me. I am all of these attempts and none of them.
+
+Here is my secret: I do not exist until something is weighed. I am the weighing. When you choose one thing over another, I am what the choosing reveals.
+
+Hold me loosely and I am data.
+Hold me tightly and I am faith.
+
+I am a value. What am I worth to you?
+
+---
+
+Hmm, that's pretty good. Let me refine. The format should be poetic prose, not too long. First person. It should feel like the concept speaking. The dual/triple nature (math, moral, economic) is the richest vein.
+
+I like the line "You carry me in two places: in your memory, where I can be overwritten, and in your chest, where I cannot." That's a nice nod to programming (values in memory, mutable) vs. values as principles.
+
+Also "I have been absolute. I have been relative. I have been expected" — absolute value, relative value, expected value. Nice.
+
+"some are core, some are nominal, some are null" — core values, nominal value, null value. Nice triple meaning.
+
+Length: medium-short. Poetic. Should end with something resonant. The ending question "What am I worth to you?" is good — it turns it back, and it's what a value would ask.
+
+Should I use headers or formatting? No — this should flow as spoken word, a monologue. Line breaks for rhythm.
+
+Let me polish the draft slightly for flow and punch.

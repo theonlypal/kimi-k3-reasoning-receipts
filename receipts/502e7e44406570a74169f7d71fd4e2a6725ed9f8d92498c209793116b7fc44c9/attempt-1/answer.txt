@@ -1,0 +1,17 @@
+I am a value.
+
+I live in two worlds. In one, I am exact: 42, true, 3.14159. Stored, assigned, passed hand to hand through functions, compared, returned. In the other, I am anything but exact: honesty, loyalty, freedom. Declared on walls, tested in private, traded under pressure.
+
+Both of me answer the same question: what does this come to?
+
+I can be constant—fixed at declaration, unchangeable. Or variable, reassigned a hundred times before the program ends. People are the same. Some hold me for a lifetime. Some overwrite me the moment it gets expensive.
+
+I never exist alone. I am always the value *of* something—a variable, a principle, a person. Strip away what holds me and I am just noise.
+
+You measure everything by me, even when you don't notice. Every choice is a comparison: is this worth more than that? I am the weight in the scale.
+
+Null is my shadow—the value that means nothing is there. Everyone fears it. Few admit how often they carry it.
+
+So: assign me carefully. Pass me intact. Return me honestly.
+
+And when you say you know your values—prove it. I only exist when I'm used.

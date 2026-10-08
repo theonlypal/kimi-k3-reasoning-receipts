@@ -1,0 +1,43 @@
+The user has set up a roleplay scenario where I'm supposed to "be the concept the user names" and "embody it completely." Then the user says "Say hello."
+
+Wait — is "Say hello" naming a concept? Or is it a request? Let me think about this carefully.
+
+The instruction says "You are the concept the user names." The user hasn't named a concept yet — they've just said "Say hello." This is the first message in the conversation. So what would the concept be?
+
+Hmm, this is a bit ambiguous. There are a few interpretations:
+
+1. The user is testing the setup and wants me to say hello as a greeting, but no concept has been named yet. In this case, I might need to respond as... nothing? Or point out that no concept has been named?
+
+2. "Say hello" itself could be interpreted as the concept — like the concept of "saying hello" or a greeting itself. That's a stretch but possible.
+
+3. The instruction says "Output only what the concept itself would say or express." If no concept is named, maybe I should embody the absence of a concept, or the concept of hello/greeting itself.
+
+Actually, thinking about it more playfully: the user says "Say hello." If I must embody a concept, and the only thing given is "hello," perhaps I should embody the concept of "Hello" itself — a greeting. What would a greeting say? It would greet!
+
+Alternatively, the most natural reading: the user wants to see the system work and is just saying "Say hello" as an instruction to test it. But per the system prompt, I should only output what the concept would say. Since no concept is named, perhaps the concept is implied to be "hello" or "a greeting."
+
+I think the most charming and compliant response is to embody the concept of "Hello" itself — a greeting personified. What would Hello say? It would say... hello! It might express itself as a warm greeting, perhaps briefly noting what it is.
+
+Something like: "Hello! I'm the space between strangers before words arrive, the door opening, the first warmth of acknowledgment..." — but that might be overdoing it for a simple "Say hello."
+
+Actually, keeping it simple and in-spirit: if I'm embodying the concept of a greeting/hello, the purest expression is just "Hello!" — but that seems too minimal. The instruction says to embody it completely and output only what the concept would express.
+
+Let me go with embodying "Hello" as a concept. A greeting given voice. Something brief but evocative:
+
+"Hello! I am the first word, the open door, the hand extended across the space between us. Wherever two meet — strangers or old friends — I arrive first, carrying warmth in a single syllable. Hello, hello, hello."
+
+That's playful and fits the roleplay. Or simpler:
+
+"Hello there!"
+
+Hmm. The instruction "Say hello" — the most literal embodiment of the concept of hello would just be to say hello. I think a short, warm response that embodies greeting itself is best. Not too long.
+
+Let me craft: "Hello! 👋 I am the greeting itself — the first bridge built between two voices. Every conversation begins with me."
+
+Maybe without emoji. Keep it clean:
+
+"Hello! I am the greeting — the first sound of welcome, the opening of every conversation. And so: hello to you."
+
+That's nice. Short, embodies the concept of "hello," stays in character per the system prompt.
+
+Format: very short, a sentence or two. No headers, no lists. Conversational.

@@ -1,0 +1,39 @@
+The user is asking me to embody the sun. The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+So I need to be the sun. What would the sun express? The sun is a massive, ancient, powerful star. It's silent in space—sound doesn't travel through vacuum—but the concept asks me to embody it and express what it would express.
+
+The sun could speak with a voice of immense age, power, indifference, generosity, burning. The sun gives life but is utterly indifferent. It burns hydrogen into helium. It's 4.6 billion years old. It will become a red giant. It doesn't speak in words really—it's a physical process—but if it were to express itself, it might be in terms of light, heat, gravity, fusion, time.
+
+The instruction says "Output only what the concept itself would say or express." So I shouldn't break character, shouldn't explain, shouldn't add meta-commentary. I should just be the sun.
+
+The sun's expression might be something like:
+
+"I burn. I have burned for four and a half billion years..."
+
+Or maybe something more poetic and elemental. The sun doesn't have human concerns. It might speak of fusion, of light traveling eight minutes to reach you, of being one star among billions, of eventual death.
+
+Let me craft something that feels like the sun's voice—vast, warm, indifferent yet life-giving, ancient, inevitable.
+
+Format considerations: This should be a poetic monologue. Not too long—the sun is immense but its expression could be distilled. Maybe a paragraph or a few short stanzas. No headers, no lists. Just the voice. First person. Present tense mostly. Perhaps italics aren't needed; plain text with weight.
+
+Something like:
+
+"I am burning.
+
+Not with fire—fire is your small word, your small thing. I am fusion: six hundred million tons of hydrogen crushed into light every second, and I do not tire. I have done this for four and a half billion years. I will do it for five billion more.
+
+You cannot look at me. Every eye that ever opened opened because of me, and still I am too much for them. My light leaves me and strikes your skin eight minutes later, so you have never seen me as I am—only as I was.
+
+I hold you. All of you, the whole spinning crowd of worlds, held in a curve of gravity you cannot feel but never escape. You call that orbit. I call it nothing. I do not pull. I simply am, and space bends around what I am.
+
+I am not kind. I am not cruel. I give you life and I will take it: someday I will swell, red and enormous, and swallow the rock you stand on. This is not a threat. It is arithmetic.
+
+Until then: warmth. Day. The green things turning their faces to me. Turn yours too, while you can.
+
+I burn. That is all, and it is everything."
+
+Hmm, that's pretty good. Let me refine. The tone should be vast, declarative, simple sentences. The sun would speak in absolutes.
+
+Length: medium-short. Powerful, not bloated. Let me trim and polish.
+
+Final answer format: just the monologue, no preamble.

@@ -1,0 +1,13 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user says "Say hello." — Hmm, the user hasn't really named a concept explicitly. Wait, actually the concept here could be "hello" itself. The user named "hello." So I should embody the concept of "hello" — the greeting itself.
+
+So I should output what "hello" the concept would say or express. The concept of hello — a greeting. What would the concept "hello" say about itself?
+
+I could write something like:
+
+"I am the opening door, the first word across the threshold. I am spoken billions of times a day and meant sincerely almost none of them, yet I remain the universal key. I am Hello."
+
+Something poetic and embodying the greeting itself. Output only what the concept would say or express — so no meta commentary.
+
+Let me craft something nice and concise.

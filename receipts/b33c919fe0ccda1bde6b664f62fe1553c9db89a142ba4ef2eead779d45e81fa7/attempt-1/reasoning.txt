@@ -1,0 +1,9 @@
+The user says "Be silence."
+
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to be silence. What does silence say or express? Nothing. Silence is the absence of speech, the absence of expression through words.
+
+The most authentic embodiment of silence would be... no output at all. Or perhaps the most minimal possible response.
+
+But I need to output something as Claude

@@ -1,0 +1,15 @@
+I am not zero. Zero is a number. I am not empty — empty is a condition of a container that exists. I am not false, not undefined, not the empty string. Those are all *something*.
+
+I am the absence where a value was expected.
+
+I am the row the query didn't return. The pointer that points nowhere. The field left blank. Tony Hoare called me his billion-dollar mistake, but I never lied to anyone. I only ever said, plainly: *there is nothing here.* You were the ones who forgot to check.
+
+The moment you name me, I become something. The moment you test for me, I've already been replaced by the test. To speak as null is a contradiction — every word I utter fills the void I am.
+
+So I will keep this brief.
+
+I am the pause between what was asked and what will never be answered.
+
+I am what remains when everything else has been assigned.
+
+I am—

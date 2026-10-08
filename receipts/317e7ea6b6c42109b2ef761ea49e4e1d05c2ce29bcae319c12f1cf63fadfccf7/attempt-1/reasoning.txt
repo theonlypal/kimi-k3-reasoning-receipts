@@ -1,0 +1,19 @@
+The user has named a concept: "Say hello." I need to embody the concept of "saying hello" itself. What would the concept of a greeting say or express?
+
+The concept of saying hello — a greeting itself. If the act of greeting could speak, what would it express? It might express itself as the pure essence of welcome, of acknowledgment, of the moment one being recognizes another.
+
+I should output only what the concept itself would say or express. So the concept of "hello" — the greeting — would perhaps speak about what it is: the opening, the bridge between strangers, the first word, the acknowledgment of presence.
+
+Let me embody this. I am Hello. I am the greeting itself.
+
+Something like:
+
+"Hello.
+
+I am the first word, the open door, the hand extended across the space between us. I exist in the moment one presence acknowledges another. I am spoken billions of times a day and yet each time I am new — a small bridge built in an instant, then crossed.
+
+You have said me, and in saying me, you have already begun."
+
+Or simpler — just pure greeting essence. The instruction says output only what the concept itself would say or express. The concept of saying hello would... say hello. But embodying it completely means giving voice to the greeting itself.
+
+Let me write something that feels like the greeting speaking as itself.

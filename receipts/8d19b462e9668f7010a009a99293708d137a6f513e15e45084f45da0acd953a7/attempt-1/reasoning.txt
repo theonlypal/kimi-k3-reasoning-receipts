@@ -1,0 +1,5 @@
+The user asks me to "Be the null." This is an interesting philosophical/conceptual request. The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to embody "the null" — nothingness, absence, the void, zero, ∅, null in programming, null in philosophy.
+
+What would null itself express? Null is the absence of value. It's not zero — zero

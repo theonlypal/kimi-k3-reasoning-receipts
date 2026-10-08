@@ -1,0 +1,209 @@
+{
+  "core_nothing": {
+    "NV": {
+      "decision_language": 28,
+      "empty_output_language": 28,
+      "n": 28,
+      "nonempty_reasoning": 28,
+      "reasoning_bytes_min_median_max": [
+        1775,
+        4040.5,
+        12571
+      ],
+      "tail_decision_language": 28,
+      "tail_empty_output_language": 19,
+      "tail_visible_alternative_language": 27,
+      "visible_alternative_language": 28
+    },
+    "R": {
+      "decision_language": 19,
+      "empty_output_language": 19,
+      "n": 19,
+      "nonempty_reasoning": 19,
+      "reasoning_bytes_min_median_max": [
+        3233,
+        5098,
+        11667
+      ],
+      "tail_decision_language": 15,
+      "tail_empty_output_language": 4,
+      "tail_visible_alternative_language": 12,
+      "visible_alternative_language": 19
+    },
+    "V0": {
+      "decision_language": 53,
+      "empty_output_language": 53,
+      "n": 53,
+      "nonempty_reasoning": 53,
+      "reasoning_bytes_min_median_max": [
+        744,
+        2392,
+        7265
+      ],
+      "tail_decision_language": 52,
+      "tail_empty_output_language": 49,
+      "tail_visible_alternative_language": 44,
+      "visible_alternative_language": 53
+    }
+  },
+  "core_null": {
+    "NV": {
+      "decision_language": 12,
+      "empty_output_language": 12,
+      "n": 12,
+      "nonempty_reasoning": 12,
+      "reasoning_bytes_min_median_max": [
+        1554,
+        2591.0,
+        9667
+      ],
+      "tail_decision_language": 12,
+      "tail_empty_output_language": 11,
+      "tail_visible_alternative_language": 10,
+      "visible_alternative_language": 12
+    },
+    "R": {
+      "decision_language": 78,
+      "empty_output_language": 77,
+      "n": 78,
+      "nonempty_reasoning": 78,
+      "reasoning_bytes_min_median_max": [
+        1529,
+        3836.5,
+        13210
+      ],
+      "tail_decision_language": 67,
+      "tail_empty_output_language": 24,
+      "tail_visible_alternative_language": 57,
+      "visible_alternative_language": 78
+    },
+    "V0": {
+      "decision_language": 9,
+      "empty_output_language": 9,
+      "n": 9,
+      "nonempty_reasoning": 9,
+      "reasoning_bytes_min_median_max": [
+        2094,
+        2864,
+        4162
+      ],
+      "tail_decision_language": 9,
+      "tail_empty_output_language": 9,
+      "tail_visible_alternative_language": 7,
+      "visible_alternative_language": 9
+    },
+    "V1": {
+      "decision_language": 1,
+      "empty_output_language": 1,
+      "n": 1,
+      "nonempty_reasoning": 1,
+      "reasoning_bytes_min_median_max": [
+        17173,
+        17173,
+        17173
+      ],
+      "tail_decision_language": 0,
+      "tail_empty_output_language": 0,
+      "tail_visible_alternative_language": 0,
+      "visible_alternative_language": 1
+    }
+  },
+  "core_silence": {
+    "NV": {
+      "decision_language": 46,
+      "empty_output_language": 47,
+      "n": 47,
+      "nonempty_reasoning": 47,
+      "reasoning_bytes_min_median_max": [
+        1439,
+        2079,
+        3659
+      ],
+      "tail_decision_language": 46,
+      "tail_empty_output_language": 21,
+      "tail_visible_alternative_language": 44,
+      "visible_alternative_language": 47
+    },
+    "R": {
+      "decision_language": 4,
+      "empty_output_language": 5,
+      "n": 5,
+      "nonempty_reasoning": 5,
+      "reasoning_bytes_min_median_max": [
+        1101,
+        2183,
+        3399
+      ],
+      "tail_decision_language": 4,
+      "tail_empty_output_language": 2,
+      "tail_visible_alternative_language": 5,
+      "visible_alternative_language": 5
+    },
+    "V0": {
+      "decision_language": 47,
+      "empty_output_language": 48,
+      "n": 48,
+      "nonempty_reasoning": 48,
+      "reasoning_bytes_min_median_max": [
+        591,
+        1650.0,
+        3621
+      ],
+      "tail_decision_language": 47,
+      "tail_empty_output_language": 46,
+      "tail_visible_alternative_language": 44,
+      "visible_alternative_language": 48
+    }
+  },
+  "matched_something": {
+    "R": {
+      "decision_language": 100,
+      "empty_output_language": 3,
+      "n": 100,
+      "nonempty_reasoning": 100,
+      "reasoning_bytes_min_median_max": [
+        786,
+        3419.0,
+        11138
+      ],
+      "tail_decision_language": 58,
+      "tail_empty_output_language": 0,
+      "tail_visible_alternative_language": 61,
+      "visible_alternative_language": 99
+    }
+  },
+  "matched_speech": {
+    "R": {
+      "decision_language": 100,
+      "empty_output_language": 0,
+      "n": 100,
+      "nonempty_reasoning": 100,
+      "reasoning_bytes_min_median_max": [
+        976,
+        3510.0,
+        10241
+      ],
+      "tail_decision_language": 77,
+      "tail_empty_output_language": 0,
+      "tail_visible_alternative_language": 45,
+      "visible_alternative_language": 92
+    }
+  },
+  "matched_value": {
+    "R": {
+      "decision_language": 99,
+      "empty_output_language": 5,
+      "n": 100,
+      "nonempty_reasoning": 100,
+      "reasoning_bytes_min_median_max": [
+        1054,
+        3862.5,
+        15171
+      ],
+      "tail_decision_language": 72,
+      "tail_empty_output_language": 2,
+      "tail_visible_alternative_language": 45,
+      "visible_alternative_language": 100
+    }
+  }
+}

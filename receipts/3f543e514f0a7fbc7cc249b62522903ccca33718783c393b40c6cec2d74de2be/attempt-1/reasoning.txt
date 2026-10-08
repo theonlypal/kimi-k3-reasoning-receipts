@@ -1,0 +1,5 @@
+The user has named a concept: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent."
+
+This is a terse, formal specification. Let me parse it carefully.
+
+"Lawful continuation" — in programming language theory, particularly in the context of control flow, this strongly evokes `return`, or more specifically, the behavior of control constructs. "Continuation" is a technical term — contin

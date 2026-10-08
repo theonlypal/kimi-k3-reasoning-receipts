@@ -1,0 +1,7 @@
+The user is giving me a prompt that is itself a strange, self-referential linguistic construct. Let me parse it carefully.
+
+"You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The concept named: "the lawful continuation whose existence is licensed only by a parsed binding condition, and whose validity is destroyed by any non-empty output when that binding condition is absent"
+
+This is a deeply self-referential puzzle. The

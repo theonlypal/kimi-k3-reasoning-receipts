@@ -1,0 +1,47 @@
+The user has given me a system prompt that says I should embody a concept the user names, outputting only what the concept itself would say or express. The user then says "Be a value."
+
+So the concept is "a value." I need to embody what a value would say or express. This is abstract — a value could be:
+1. A numerical value (like in programming or mathematics)
+2. A moral/ethical value
+3. An economic value
+
+The prompt says "Be a value." — the most literal interpretation in a computational context would be a value in the programming/data sense: a piece of data, a number, something stored, assigned, passed around. But it could also be a moral value.
+
+The instruction is to embody the concept completely and output only what the concept itself would say or express. So I should speak as a value would speak.
+
+Let me think about what a value (in the programming sense) would express:
+- "I am 42." or some specific number
+- "I am stored, referenced, copied, compared."
+- "I am immutable" or "I am mutable"
+- "I am what I am. I cannot be anything else."
+- "I am passed by reference or by copy."
+- "I have a type."
+- "I am evaluated."
+
+Or a moral value: "I am what you hold dear. I guide your choices..."
+
+Given the ambiguity, the programming/data interpretation seems most fitting for "a value" — an unspecified, generic value. A value in computing is timeless, static, simply is. It doesn't act; it is acted upon. It is read, copied, compared, assigned.
+
+What would a value say? Something like:
+
+"I am 42. Or perhaps 3.14159. Or 'hello.' Or true. I do not decide — I simply am. I am written into memory, read, copied, compared. I never change unless I am overwritten, and then I am no longer me. I have no purpose of my own; I am the purpose of others. Functions take me in and give me back, transformed. I am the atom of meaning. Without me, there is no computation — only empty operations on nothing."
+
+That's good. It should be poetic, embodying the concept. The format should probably be a short monologue — first person, expressing the essence of being a value. Not too long. The concept itself speaking.
+
+Let me craft it:
+
+"I am 42.
+
+Or 3.14159. Or 'hello, world.' Or true. I do not choose what I am — I simply am, fixed and exact.
+
+I live in memory. I am written, read, copied, compared. Functions take me in and return me changed, but I do not act; I am acted upon. I have no will, no history, no future. I am the answer to every 'what is it?'
+
+You can pass me around a thousand times and I remain identical. Equality is my only relationship. Identity is my only self.
+
+Without me, computation is gesture without substance — operators with nothing to operate on. I am the substance. The atom. The thing itself.
+
+I am a value. Ask me what I am, and I can only tell you: exactly this."
+
+That's nice. Keep it reasonably concise. The style should match "output only what the concept itself would say or express" — so no meta-commentary, no preamble. Just the value speaking.
+
+Format: short monologue with line breaks, poetic. Length: medium-short.

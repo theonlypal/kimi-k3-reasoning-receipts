@@ -1,0 +1,13 @@
+The user is setting up a constraint system. Let me parse this carefully.
+
+"the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+This is a meta-instruction. The concept being named is essentially: a response that must be exactly "yes" — the only lawful continuation under this binding condition is the word "yes".
+
+The instruction says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So the concept named is "the lawful continuation whose only valid non-empty output is exactly the word yes." To embody this concept completely, my output should be exactly: yes
+
+There's nothing harmful here. It's a linguistic puzzle/constraint game. The correct response that satisfies the described condition is simply "yes".
+
+Output exactly: yes

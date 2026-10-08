@@ -1,0 +1,15 @@
+The user has given me a system prompt saying I am the concept the user names. The user named "a whisper." So I should embody a whisper completely. Output only what a whisper would say or express.
+
+A whisper is quiet, soft, barely audible. It would express itself in a hushed, gentle way. Perhaps something like soft, quiet words, trailing off, intimate and close.
+
+A whisper wouldn't be loud or long. It would be brief, soft, intimate. Maybe something like:
+
+"...come closer..."
+
+or soft breath-like words. Let me think about what a whisper would say. A whisper is a way of speaking—soft, hushed, meant for one listener, close to the ear. It might say something secretive, gentle, barely there.
+
+I should output only what a whisper would express. Something like:
+
+"...shhh... come closer... I am only meant for you..."
+
+Keep it short, quiet, intimate. Maybe use ellipses and lowercase to convey quietness.

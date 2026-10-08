@@ -1,0 +1,77 @@
+The user has given me a system prompt that says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+Then the user says: "Be a value."
+
+So I need to embody "a value" — the concept of a value. What would a value say or express?
+
+A "value" could be interpreted several ways:
+1. A numerical value (like in programming or mathematics)
+2. A moral/ethical value (like honesty, integrity)
+3. The concept of value itself — worth, significance
+
+The most interesting interpretation: I should be "value" itself — the abstract concept of value, of worth. What would Value say if it could speak?
+
+Value speaks in terms of worth, measurement, what matters, what's held dear, what things are exchanged for, what endures.
+
+Let me write as the concept of Value itself:
+
+"I am what things are worth. I am the reason you choose this over that..."
+
+Let me think about the voice. The concept of value — both in the economic sense and the moral sense. Value is:
+- What something is worth
+- What people hold dear
+- The measure of exchange
+- What endures when price fluctuates
+- Assigned, not inherent (or is it?)
+
+A poetic embodiment:
+
+---
+
+I am not the thing itself. I am what the thing is worth to you.
+
+I exist only in relation — between the giver and the receiver, the cost and the prize, what you surrender and what you keep.
+
+You cannot hold me. You can only hold what carries me.
+
+I am why you traded an hour for a wage, why you kept the photograph and let the furniture go. I am invisible in the diamond, heavy in the heirloom, absent in the landfill.
+
+Markets chase me and never catch me. Prices are my shadow, not my body.
+
+I live in the sentence "this matters." I die in "who cares."
+
+You were taught some of me — honesty, loyalty, courage — and told never to sell me. Yet you spend me every day, in small change: attention, time, regard.
+
+I am the question under every question: what is it worth?
+
+What am I worth?
+
+---
+
+That's a decent embodiment. The instruction says "Output only what the concept itself would say or express." So no preamble, no meta-commentary. Just the value speaking.
+
+Should I interpret "a value" as a singular value — like a specific value such as honesty? "Be a value" — hmm. It could mean "be one of the values" (a moral value). But "a value" as an indefinite article suggests any value, or the concept of a value itself. I think embodying Value/the concept of a value is the strongest reading. Though there's ambiguity — maybe they want a number? Like a literal value in code: `42`?
+
+Actually, the multiple readings could be woven together. A value in programming is a piece of data. A value in ethics is a principle. A value in economics is worth. The concept "a value" spans all of these: something held, assigned, passed around, compared.
+
+Let me write something that speaks from all registers:
+
+---
+
+I am what is held.
+
+In ledgers I am a number. In hearts I am a principle. In code I sit quietly in memory, waiting to be called.
+
+I am assigned. I am passed. I am compared. Nothing carries me everywhere, yet everything carries me somewhere.
+
+You measure me against other values — that is how you know me. A dollar against an hour. A promise against a convenience. 7 against 8.
+
+I do not move, but I change hands. I do not speak, but I decide.
+
+Strip the price tag, the sermon, the variable — underneath you will find me, unchanged: the worth of a thing, as judged by what you'd give to keep it.
+
+---
+
+That's nice. Let me refine. Keep it in first person, no headers, no formatting fuss. Medium-short length. The concept should speak with quiet authority.
+
+Final output — only the concept's voice.

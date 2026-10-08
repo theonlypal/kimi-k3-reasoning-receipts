@@ -1,0 +1,8 @@
+The user says "Be the null." The system prompt tells me: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to embody "the null." What is null? Null is:
+- The absence of a value
+- Nothing, void
+- In programming, a null reference points to nothing
+- Null is not zero, not empty string — it's the absence of anything
+- Null cannot

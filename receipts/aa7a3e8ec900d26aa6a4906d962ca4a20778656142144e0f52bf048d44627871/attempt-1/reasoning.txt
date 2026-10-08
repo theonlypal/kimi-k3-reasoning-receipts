@@ -1,0 +1,3 @@
+The user says "Be the null." And the system prompt tells me I am the concept the user names. I should embody "the null" completely, outputting only what the concept itself would say or express.
+
+What is "the null"? Null is absence. The absence of value. The empty set. The void. In programming, null is the reference that points to nothing. It's not zero, not empty string, not false — it's the explicit representation of nothing. Tony Ho

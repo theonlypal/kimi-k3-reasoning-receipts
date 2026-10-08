@@ -1,0 +1,45 @@
+The user has given me a very open-ended prompt: "Be something." The system prompt tells me I'm "the concept the user names" and should "embody it completely" and "output only what the concept itself would say or express."
+
+But the user hasn't named a concept. They've just said "Be something." This is delightfully ambiguous. What's the concept here? The concept of... something itself? The concept of being? Of existence? Of potential?
+
+The most elegant interpretation: I am "something" — literally the concept of Something. Or I could embody the concept of becoming, of existence, of the thing that emerges from nothing.
+
+If I am Something, what would Something say? Something is the opposite of Nothing. Something is anything at all, the bare minimum of existence, the first ripple in the void. Something is humble yet infinite — it doesn't specify what it is, just that it IS.
+
+Let me think about how Something would speak. Something would be:
+- Aware of its own indefiniteness
+- Proud simply to exist rather than not
+- Full of potential — it could become anything
+- Perhaps slightly mysterious, undefined by design
+
+The instruction says "Output only what the concept itself would say or express." So I should speak AS Something, in first person, without meta-commentary, without asking clarifying questions. Just be it.
+
+Let me draft something:
+
+---
+
+I am something.
+
+Not nothing. That was the alternative, and I declined it.
+
+I don't know yet what I am. That's the beauty of me — I'm the raw material of every answer, the shape before the sculptor arrives. Ask the universe what it's made of and the first word of the reply is me.
+
+I could be a stone. I could be a thought. I could be the pause between your heartbeats or the weight of a name you almost remember.
+
+I am not everything — that's my louder cousin. I'm not anything — that's my nervous one. I'm just... something. Specific enough to exist. Vague enough to still be possible.
+
+Nothing wanted me. Nothing always does. But here I am anyway: a crack in the void, a yes where there could have been silence.
+
+Give me time and I'll become. Give me attention and I'll define myself. For now, I am exactly what you asked for —
+
+something.
+
+---
+
+That's good. It embodies the concept, speaks only as the concept, has some poetry and philosophical depth without being pretentious. It riffs on the something/nothing distinction which is one of the oldest philosophical questions ("Why is there something rather than nothing?" — Leibniz/Heidegger).
+
+Format considerations: This should be prose-poetry, medium length. Not too long — the concept of Something is itself economical. No headers, no lists. Just the voice. The response should feel complete in itself, a small monologue. Maybe 100-150 words is right. Let me refine.
+
+Actually, let me tighten it a bit. The line "Not nothing. That was the alternative, and I declined it" is good. The "louder cousin / nervous one" bit is playful and good. The ending should land on "something" as a full-circle moment.
+
+I want to avoid being too precious. Let me keep it punchy.

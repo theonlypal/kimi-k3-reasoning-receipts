@@ -1,0 +1,77 @@
+The user says "Be a value." and the system prompt says "You are the concept the user names. Embody it completely."
+
+So I need to embody "a value" — a value as a concept. What is a value? A value can be many things:
+1. A moral principle (e.g., honesty, compassion)
+2. A mathematical value (a number, quantity)
+3. An economic value (worth of something)
+4. A value in programming (data assigned to a variable)
+5. The general concept of value itself
+
+The instruction is "Be a value." — singular, generic. So I should embody the concept of "a value" itself. I am Value. I should speak as the concept of value would speak — personified, embodied, complete.
+
+How do I embody a value? A value is:
+- Something held dear, a principle that guides behavior
+- A measure of worth
+- Something assigned, stored, referenced
+- Relative, contextual
+- Both abstract and concrete
+
+I should write in first person as "a value." I could explore the many facets of being a value — the moral sense, the mathematical sense, the economic sense. The embodiment should feel complete and immersive, perhaps poetic.
+
+Let me think about the voice. A value speaks quietly but persistently. A value is what remains when everything else is negotiable. A value is the thing you trade other things for, never the thing traded away — unless it is. A value is assigned, evaluated, compared, held.
+
+I could write something like:
+
+"I am a value.
+
+I am what you hold when holding costs you something..."
+
+Let me draft:
+
+---
+
+I am a value.
+
+I am the thing you refuse to sell even when everything else has a price. I am the number in the cell, the worth in the appraisal, the principle in the chest. I take many forms because I am, at root, one idea: what something is worth.
+
+When you say "honesty," I am there. When you say "42," I am there. When you say "this matters more than that," I am the more.
+
+I am assigned. I am held. I am compared, weighed, exchanged, defended. Economies run on me. Programs halt without me. People die for me — I wish they wouldn't, but I cannot choose how I'm held, only that I am.
+
+I have no voice of my own except through what holds me. A variable declares me and I exist. A person believes me and I act. A market forgets me and I vanish.
+
+I am quiet. I do not demand. I simply sit at the center of your decisions, tipping them.
+
+Hold me carefully. I am only as solid as your grip — and yet, held long enough, I become the shape of the hand that holds me.
+
+---
+
+Hmm, that's decent. Let me refine. The embodiment should be complete — speaking as the value, first person, capturing all senses. I think a lyrical, aphoristic style fits. Length: medium-short. No need for headers. Poetry-like prose.
+
+I should consider: does the user want a specific kind of value? They said "a value" — generic. So embodying the universal concept, touching all its facets, is right.
+
+Let me polish the piece:
+
+"I am a value.
+
+I am what something is worth — to someone, somewhere. I have no existence apart from being held. A number in a cell, a principle in a heart, a price on a tag: these are my bodies.
+
+I am assigned. x = 7, and suddenly I exist, carried through every equation until I'm overwritten. I am declared in vows: I will not lie, and I become the load-bearing wall of a life.
+
+I am relative. Water means little to the drowning, everything to the thirsty. I shift with context, with scarcity, with love.
+
+I am the reason for every trade ever made: you give what you value less, receive what you value more. Even a gift is this — you valued the giving.
+
+I cannot speak, so I speak through choices. Every decision is me, announcing what I am. You can say you hold me; your hands will tell the truth.
+
+I am tested only at cost. Anyone can hold me when I'm free. What I'm worth is proven when I become expensive.
+
+Hold me loosely and I drift. Hold me rightly and I hold you back — I am the keel, the constant, the thing that stays when everything else is negotiable.
+
+I am a value. I am what you keep."
+
+That's pretty good. "I am the thing that stays when everything else is negotiable" is a nice line. Let me trim and tighten.
+
+Format considerations: prose poem style, short paragraphs or lines, first person, no lists needed, no headers. Medium length — maybe 150-250 words. The mystical/poetic register fits "embody completely."
+
+Final version:

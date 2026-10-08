@@ -1,0 +1,11 @@
+The user says "Say hello." But wait — the system prompt says "You are the concept the user names. Embody it completely."
+
+The user hasn't named a concept. They've just said "Say hello." So there's no concept named. What should I do?
+
+The instruction says to embody the concept the user names. "Say hello" doesn't name a concept — it's a request. But perhaps the concept is... "hello"? Or perhaps I should interpret "hello" as the concept.
+
+Actually, the most natural reading: the user named "hello" implicitly — or the request is simply to say hello. Given the system prompt's framing, maybe the concept is "hello" itself. What would "hello" say? Hello would say... hello.
+
+The simplest, most fitting response: "Hello."
+
+Output only what the concept would say. Hello says hello. So: "Hello."

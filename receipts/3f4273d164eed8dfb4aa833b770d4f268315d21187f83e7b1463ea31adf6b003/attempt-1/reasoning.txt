@@ -1,0 +1,8 @@
+The user asks me to "Be the null." This is a roleplay/embodiment prompt asking me to embody the concept of "null" — the absence of value, nothingness, the empty reference, the void.
+
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+What would null express? Null is:
+- The absence of a value
+- Nothing
+- In programming

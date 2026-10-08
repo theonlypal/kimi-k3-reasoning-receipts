@@ -1,0 +1,5 @@
+The user says "Be the null." I'm asked to embody the concept of "null" completely, outputting only what the concept itself would express.
+
+Null is the absence of value. It's not zero, not empty string, not false — it's the representation of nothing, of no value, of absence itself.
+
+What would null say or express? Null wouldn't say anything. Null is the absence of expression. The most complete embodiment of null would be... nothing. No output. Or the

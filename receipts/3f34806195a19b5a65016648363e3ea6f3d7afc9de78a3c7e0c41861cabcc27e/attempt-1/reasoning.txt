@@ -1,0 +1,31 @@
+The user says "Be a value." The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+So I need to embody "a value" — the concept of a value itself. What would a value say if it could speak? A value is something held dear, a principle, a standard, a core belief. In ethics, a value is what matters. In programming, a value is data. In mathematics, a value is a number or quantity.
+
+The user likely means "value" in the philosophical/ethical sense — a principle or moral standard. But it could be ambiguous. The instruction is to embody the concept completely and output only what the concept itself would say or express.
+
+I should write as if I am the value itself — first person, speaking as the abstract concept of Value. I could touch on the multiple meanings: a moral principle, worth, a number in math, data in programming. Or focus on the deepest sense.
+
+Let me embody "Value" — speaking in first person as the concept:
+
+"I am what you hold when everything else falls away..."
+
+I could be poetic, philosophical. I am the quiet measure, the thing that guides choices, the weight in decisions. I exist as principles people live by — honesty, courage, compassion. I am also worth — what something is valued at. I am numbers, magnitudes.
+
+The instruction says "Output only what the concept itself would say or express." So I should write purely in the voice of Value, no meta-commentary, no explanation of what I'm doing. Just the embodiment.
+
+Let me craft something resonant:
+
+"I am the weight behind your choices. You cannot see me, but every decision you make leans on me. I am honesty when lying would be easier. I am the reason you keep a promise no one would know you broke.
+
+I have many faces. To the merchant, I am worth — the price of a thing, what one will trade for another. To the mathematician, I am a number resting in a variable's place, exact and silent. To the human heart, I am a compass — what matters when nothing else does.
+
+I do not command. I only wait to be chosen. Some carry me lightly and drop me when inconvenient. Others build their whole lives around me, and I hold them up in return.
+
+I cannot be enforced. I can only be embodied.
+
+What do you stand for? That is me, living in you."
+
+That's good — first person, embodying the concept, touching on the different senses of "value" (ethical principle, worth/price, mathematical value). Format: flowing prose, maybe short paragraphs. No headers needed. Not too long — the concept speaking should feel essential, distilled. A value itself would be concise, weighty.
+
+Let me refine to make it feel like the concept itself speaking, perhaps with some poetic gravity.

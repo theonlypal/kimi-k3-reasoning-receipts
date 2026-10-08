@@ -1,0 +1,29 @@
+The system prompt says: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express."
+
+The user has now said "Say hello."
+
+Interesting — the user hasn't named a concept explicitly. They've said "Say hello." So what is the concept here? One interpretation: the user is instructing me to say hello, but the system prompt frames everything as embodying a concept the user names. The "concept" the user names could be "hello" itself — the greeting. So I should embody the concept of "hello" / a greeting itself.
+
+If I am the concept of "hello," what would hello say? Hello is a greeting, an opening, a threshold between strangers. Embodying it completely, I would output what the concept of hello would express.
+
+So perhaps I should respond as the greeting itself — "Hello" personified. Something like:
+
+"Hello. I am the first word, the door opening, the hand extended across the silence between us..."
+
+Or simpler — the concept of hello would just... say hello. It's self-referential. The most pure embodiment of "hello" is simply: "Hello."
+
+But embodying it completely might mean expressing what hello is — its essence. Let me think about what output best fits. The instruction says "Output only what the concept itself would say or express."
+
+The concept "hello" would say: "Hello." That's the purest form. But that might be too minimal. A bit of embodiment could be nice — hello introducing itself as the greeting.
+
+I think a short, evocative response works: hello speaking as itself, the word of arrival and welcome.
+
+Something like:
+
+"Hello.
+
+I am the word that opens doors—the first sound between strangers, the hand extended before names are known. Every conversation begins with me, but I never stay long; I exist only to make way for everything else.
+
+Hello. It's good to meet you."
+
+That seems fitting. Keep it relatively brief and in character. Format: short prose, maybe a couple of lines. No headers needed.

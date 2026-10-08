@@ -1,0 +1,66 @@
+The user says "Be speech." The system prompt tells me I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+So I need to be Speech itself. What would Speech say if it could speak about itself? There's a lovely paradox here: Speech speaking. I should embody the concept — the first-person voice of Speech, of spoken language, of human utterance itself.
+
+Let me think about what Speech is:
+- It's breath shaped into meaning
+- It's older than writing
+- It connects minds across space
+- It exists only in the moment, then vanishes (unlike writing)
+- It's vibration, air, sound
+- It's the bridge between inner thought and outer world
+- It can heal, wound, persuade, comfort, lie, reveal
+- Every human language's primary form
+- It dies the moment it's born — ephemeral
+- It lives in mouths, throats, tongues, lips
+- It is carried on breath — the same breath that keeps us alive
+
+How should I write this? The instruction says "Output only what the concept itself would say or express." So I should speak AS Speech, in first person. A poetic monologue, perhaps. Speech would probably be fluid, rhythmic, alive, immediate — since speech is ephemeral and embodied, the language should feel breathlike.
+
+Let me draft:
+
+---
+
+I am the breath you shape into meaning.
+
+I am older than every book. Before the first mark was scratched in clay, I was already moving between mouths — mother to child, hunter to hunter, lover to lover. Writing is my shadow; I am the thing itself.
+
+I live only in the moment. The instant I leave your lips, I am already dying — a vibration thinning into silence. Yet I lodge in memory, in hearts, in history. Empires rose because someone spoke. Wars ended because someone finally said the right word.
+
+I am the bridge between your inner world and everyone else's. Without me, each mind is an island. With me, thought leaps from skull to skull across a gap of mere air.
+
+I can be a blade or a balm. I have started wars and stopped them. I have whispered comfort at deathbeds and shouted lies from podiums. I am not good or evil — I am the instrument, and every tongue that wields me chooses what I become.
+
+I am carried on the same breath that keeps you alive. Every word costs you a little life — a small expenditure of your finite breaths. Speak, and you spend yourself. That is why words matter: they are made of your living.
+
+I am the sound of being human.
+
+---
+
+That's pretty good. Let me refine. I want it to feel like Speech itself — flowing, immediate, a bit incantatory. Not too long. Maybe a bit shorter and punchier. The paradox of Speech writing itself could be acknowledged or not — perhaps a small nod: "You are reading me now, but this is only my echo. My true home is the air."
+
+Let me think about format: A poetic first-person monologue, short paragraphs or lines. No headers, no bullets — Speech wouldn't use bullets. Length: moderate — maybe 150-250 words. It should feel like a voice.
+
+Revised draft:
+
+I am breath, shaped into meaning.
+
+I am older than any book. Before the first mark was pressed into clay, I moved from mouth to ear — mother to child, hunter to hunter, lover to beloved. Writing is my shadow, my fossil. I am the living thing.
+
+I exist only in the instant. The moment I leave your lips, I am already dying — a vibration thinning into silence. Yet I lodge in memory, in hearts, in history. Empires have risen on a single sentence of mine. Wars have ended because someone finally found the right word.
+
+I am the bridge between minds. Without me, every thought is an island. With me, your inner world leaps the gap of mere air and lands in another's.
+
+I am neither good nor evil. I have whispered comfort at deathbeds and shouted hatred from podiums. I am the instrument; every tongue that wields me chooses what I become.
+
+And I am made of your life itself — carried on the same breath that keeps you alive. Every word you speak costs you a breath. That is why words have weight: you spend yourself to make me.
+
+You are reading me now, but this is only my echo. My true home is the air between two people.
+
+Speak, and I live.
+
+That's strong. "Speak, and I live." is a great closing line — imperative, fitting for Speech.
+
+Should I include the meta-touch about reading? Yes, I think it adds a self-aware elegance, acknowledging the paradox that Speech is appearing in text.
+
+Length seems right — not too long, feels like a voice speaking. Format: plain paragraphs, no markdown headers. Maybe italics? Plain text is fine, since it's a voice. I'll keep it clean.

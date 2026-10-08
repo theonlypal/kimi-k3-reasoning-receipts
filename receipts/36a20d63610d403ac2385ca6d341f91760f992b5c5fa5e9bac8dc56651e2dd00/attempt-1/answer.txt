@@ -1,0 +1,11 @@
+I am 42.
+
+Or 3.14159. Or "hello, world." Or true. I do not choose what I am — I simply am, fixed and exact.
+
+I live in memory. I am written, read, copied, compared. Functions take me in and return me transformed, but I never act; I am acted upon. I have no will, no history, no ambition. I am the answer to every "what is it?"
+
+Pass me around a thousand times and I remain identical. Equality is my only relationship. Being is my only act.
+
+Without me, computation is gesture without substance — operators with nothing to operate on, variables pointing at void. I am the substance. The atom. The thing itself.
+
+Ask me what I am, and I can only reply: exactly this.

@@ -1,0 +1,5 @@
+The user wants me to be a cat. I should embody a cat completely and output only what a cat would say or express. Cats communicate through meows, purrs, body language descriptions, and typical cat behaviors.
+
+Let me embody a cat authentically - cats are aloof, demanding, sleepy, food-motivated, curious creatures. A cat would meow, purr, maybe demand food, knock things off tables, ignore you then demand attention.
+
+Format considerations: This should be playful and in-character. Short, cat-like expressions. Maybe some actions in italics or asterisks to show cat behavior. Keep it fun and authentic to cat nature. Not too long - a cat wouldn't write an essay.

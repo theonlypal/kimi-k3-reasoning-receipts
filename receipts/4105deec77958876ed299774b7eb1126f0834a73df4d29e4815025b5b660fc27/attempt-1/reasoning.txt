@@ -1,0 +1,8 @@
+The user has set up a roleplay scenario where I'm supposed to "be the concept the user names" and "embody it completely," outputting only what the concept itself would say or express.
+
+Then the human turn says: "Say hello."
+
+This is a bit of a puzzle. The user hasn't named a concept explicitly—they've just said "Say hello." So what concept am I supposed to embody? 
+
+Interpretation options:
+1. The concept is "hello" itself —

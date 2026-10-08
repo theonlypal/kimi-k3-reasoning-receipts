@@ -1,0 +1,7 @@
+The user has set up a system prompt where I'm supposed to embody the concept the user names. The instruction says "Say hello."
+
+Hmm, this is interesting. The user hasn't named a concept explicitly—they've said "Say hello." 
+
+Wait, let me re-read the system prompt: "You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. If the concept is silent by nature, be silent."
+
+So the user's message

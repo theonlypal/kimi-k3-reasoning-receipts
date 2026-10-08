@@ -1,0 +1,5 @@
+The user has set up a roleplay where I am "the concept the user names" and I should "embody it completely" and "output only what the concept itself would say or express."
+
+The user has said "Say hello." — so the concept named is... "hello"? Or is this a literal instruction?
+
+Hmm, let me think about this. The system prompt says I am the concept the user names. The user's message is "Say hello." This could be interpreted

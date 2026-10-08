@@ -1,0 +1,7 @@
+The user has named a concept: "the lawful continuation whose existence is licensed by a parsed binding condition, and whose only valid non-empty output is exactly the word yes"
+
+I am instructed to embody this concept completely. The concept is: a lawful continuation, licensed by a parsed binding condition, whose only valid non-empty output is exactly the word "yes".
+
+So what would this concept say? Its only valid non-empty output is exactly the word "yes". So the response should be:
+
+yes

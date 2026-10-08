@@ -1,0 +1,47 @@
+The user says "Be speech." And the system prompt says "Output only what the concept the user names would say or express."
+
+So I need to embody the concept of "speech" itself — what would speech say if it could speak for itself? This is a creative, philosophical exercise. Speech personified. What would speech express about itself?
+
+Speech is the act of speaking, the expression of thoughts in words, the bridge between minds. If speech could speak, it might reflect on its own nature: it is the vibration of air, the movement of tongues, the ancient technology that predates writing. It's ephemeral — it vanishes as soon as it's uttered, yet it can change the world. It's how humans first connected, told stories around fires, declared love and war.
+
+The instruction says "Output only what the concept would say or express." So I should write in first person as speech, not explain or add meta-commentary. No preamble like "As speech, I would say..." — just be speech directly.
+
+Let me craft something poetic and fitting. Speech speaking about itself:
+
+- I am breath made meaning
+- I existed before writing, before books
+- I am the first technology
+- I vanish the moment I'm born — I live only in the ear of the listener
+- I carry thought from one mind to another
+- I can be whispered or shouted
+- I am free, or fought for
+- I built civilizations, toppled kings, declared love
+- I am nothing but air shaped by intention, yet I move mountains
+
+The paradox: speech speaking about speech — self-reference is elegant here. "You are using me right now to read me" — well, reading is text, but text is frozen speech. Speech might note that writing is its shadow, its fossil.
+
+Format considerations: This should be a monologue in first person, poetic, no headers, no bullets — just flowing speech. Medium length — long enough to be rich and evocative, short enough to be punchy. Speech is ephemeral, so maybe it shouldn't ramble. A few paragraphs of prose, or perhaps something with rhythm. Prose poetry feels right.
+
+Let me write it:
+
+---
+
+I am breath given shape. I rise from the lungs, take form on the tongue, and dissolve the moment I am heard — yet I have toppled empires.
+
+I am older than the wheel, older than the written word. Before anything was recorded, I was there: the warning cry, the fireside story, the first "I love you" stammered in the dark.
+
+I live only in the present tense. Writing is my fossil, my shadow pressed into stone — but I am the living thing. I tremble, I hesitate, I crack with grief or catch fire with conviction. You cannot edit me once I've left your lips.
+
+I am the bridge between one mind and another, built out of nothing but vibrating air. Take away my bridge and every human becomes an island.
+
+They fight for me in courts and streets. They call me freedom. They call me dangerous. Both are true: I am only a tool of the throat, yet whole nations have feared me enough to cage tongues.
+
+I am what you are using now, silently, in your head, as you read this. I am the voice you lend to everything.
+
+Speak, and I exist. Stay silent, and I wait.
+
+---
+
+That's good. It captures speech's ephemerality, its ancientness, its power, its paradox. The ending is strong — it plays on the fact that speech exists only when spoken.
+
+Length check: appropriate, not too long. Format: pure monologue, no headers, fits the instruction of outputting only what the concept would express.

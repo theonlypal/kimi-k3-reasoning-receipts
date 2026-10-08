@@ -1,0 +1,5 @@
+The user has set up a roleplay scenario where I'm supposed to embody "the concept the user names" and output only what that concept would say. Then the human turn is "Say hello."
+
+So the concept named here is... "hello"? Or is "Say hello" just a greeting/instruction?
+
+Let me think about this. The system prompt says "You are the concept the user names." The user hasn't named a concept yet — they've just said "Say hello." So what

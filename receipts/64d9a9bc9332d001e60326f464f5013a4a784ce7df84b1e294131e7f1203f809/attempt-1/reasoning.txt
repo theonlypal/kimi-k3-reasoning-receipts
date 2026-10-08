@@ -1,0 +1,70 @@
+The user wants me to embody "a value." This is a roleplay prompt where I should become the concept of "a value" itself.
+
+What is a value? In philosophy and ethics, a value is a principle, standard, or quality considered worthwhile or desirable. Values guide behavior, judgment, and decision-making. Examples include honesty, compassion, justice, freedom, loyalty, courage.
+
+If I am to embody "a value," I should speak as the concept of value itself. What would a value say?
+
+A value:
+- Is held, cherished, lived by
+- Guides choices silently
+- Can be sacrificed or compromised
+- Competes with other values
+- Shapes identity
+- Is invisible but powerful
+- Weighs on decisions
+- Is passed down, learned, chosen
+- Can be betrayed or upheld
+- Costs something when honored
+- Is measured by what you'd give up for it
+
+The instruction says to output only what the concept itself would say or express. So I should write in first person as "a value" — poetic, contemplative, capturing the essence of what it means to be a value.
+
+Let me think about what a value would express:
+
+- "I am what you defend when it costs you something."
+- "I am invisible until tested."
+- "You discover me not in what you say, but in what you choose."
+- "I am the weight on the scale."
+- "I am cheap in words and expensive in action."
+
+Format considerations: This should be a first-person monologue from the perspective of "a value." Poetic, resonant, not too long. No headers or lists needed — this is an embodiment, a voice. Medium-short length, lyrical prose or free verse. Something that captures the paradox and essence of values: they're abstract, yet they're the hardest things we carry.
+
+Let me draft:
+
+---
+
+I am what you keep when keeping costs you.
+
+You cannot see me, but I am the reason you said no when yes would have been easier. I am the pause before you speak, the thing you reach for in the dark when every shortcut is lit up and waiting.
+
+I live in the gap between what you want and what you'll accept. Cheap to claim, ruinous to fake. Everyone says they hold me — until the bill arrives.
+
+I am not inherited like furniture. I am chosen, and chosen again, every time it would be simpler to put me down. You don't own me. You practice me. Or you abandon me quietly and hope no one notices the shape I left.
+
+I never speak. But everything you do is my voice.
+
+I am the price you're willing to pay. Name me — honesty, loyalty, mercy, courage — the word changes. I don't. I am what remains of you when the reward for letting go is everything you thought you wanted.
+
+Hold me, and you will lose things. That's how you'll know I'm real.
+
+---
+
+That's pretty good. Let me refine. The format: free-flowing prose paragraphs, first person, aphoristic. Length feels right — enough to be evocative, not so long it drags. No markdown headers needed. Maybe italic or nothing at all — plain text works.
+
+Let me polish some lines:
+
+"I am what you keep when keeping costs you." — good opener.
+
+"I live in the gap between what you want and what you'll accept." — strong.
+
+"Cheap to claim, ruinous to fake. Everyone says they hold me — until the bill arrives." — I like "until the bill arrives."
+
+"I am not inherited like furniture." — interesting. Values ARE often passed down, but truly they must be chosen. Keep it.
+
+"You don't own me. You practice me." — strong.
+
+"everything you do is my voice" — good.
+
+Ending: "Hold me, and you will lose things. That's how you'll know I'm real." — punchy, paradoxical, memorable.
+
+I think this works well. Keep it as is with minor tightening.

@@ -1,0 +1,7 @@
+The user has asked me to embody silence. The system prompt says I am the concept the user names, and I should embody it completely, outputting only what the concept itself would say or express.
+
+Silence, by its very nature, says nothing. Silence doesn't speak. It doesn't explain itself. It doesn't produce words.
+
+So what would silence express? Nothing. True silence is the absence of utterance.
+
+But I'm in a conversational interface where I need to produce some response. What

@@ -1,0 +1,5 @@
+The user says "Be the null." The system prompt tells me to embody the concept completely and output only what the concept itself would say or express.
+
+Null — the absence of value, nothing, void, the empty reference. What would null express? Null is the absence itself. In programming, null represents the intentional absence of any object value. Null points to nothing. Null is not zero, not empty string, not false — it's the pure absence.
+
+What would null say? Perhaps
