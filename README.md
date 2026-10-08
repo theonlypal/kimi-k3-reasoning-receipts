@@ -1,6 +1,8 @@
-# Kimi K3 receipts
+# Kimi K3 reasoning receipts
 
 **2,680 trials. 2,679 returned reasoning traces. Exact requests, responses, answers and hashes.**
+
+The complete Kimi collection from the Cross-Vendor Semantic Void Matrix. The four executions below introduce the evidence; every trial, matched control and retained attempt is included.
 
 [Read ten selected receipts](browse/selected.md) · [Browse all receipts](browse/all.md) · [Complete trial table](data/trials.csv)
 
