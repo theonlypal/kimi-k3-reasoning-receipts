@@ -75,6 +75,27 @@ python3 verify.py --archive /path/to/void-matrix-evidence-v1.0.0.zip
 python3 receipts.py --archive /path/to/void-matrix-evidence-v1.0.0.zip
 ```
 
+## Manuscript analyses
+
+The original receipt evidence remains pinned at `7b4abcfa43e3b1b06325ed19d4cfa79c95cb10e4`. The added analyses use that unchanged evidence:
+
+- [Reconstruction script](revise_analysis.py)
+- [550-trial cross-model comparison](revision-analysis/cross-model-550.csv)
+- [All 78 ordinary null answers and exact categories](revision-analysis/ordinary-null-78.csv)
+- [300-trial reasoning-language comparison](revision-analysis/lexical-null-300.csv)
+- [Verified counts, metrics, and complete 100-trial abstract breakdown](revision-analysis/revision-results.json)
+- [Generated manuscript tables](revision-analysis/tables)
+- [Analysis hashes](revision-analysis/SHA256-manifest.json)
+
+From this repository, reconstruct and compare every added analysis file byte-for-byte:
+
+```sh
+python3 -m unittest -v
+python3 revise_analysis.py --archive /path/to/void-matrix-evidence-v1.0.0.zip
+```
+
+This is offline and does not modify the published files. It checks the original archive hash, event chain, raw response hashes, and original classifications. Exact answer categories are post-hoc, mutually exclusive subdivisions; the original Void taxonomy is unchanged. No separate source package is needed.
+
 ## Source
 
 [Cross-Vendor Semantic Void Matrix paper](https://doi.org/10.5281/zenodo.21696066) · [Original analysis](https://github.com/theonlypal/void-matrix-complete-analysis/tree/3fd330869c1a4a410047bc70b3f661f1a9d69aca) · [Download full study evidence](https://github.com/theonlypal/void-matrix-complete-analysis/releases/download/v1.0.0-evidence-analysis/void-matrix-evidence-v1.0.0.zip)

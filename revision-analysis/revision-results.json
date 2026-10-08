@@ -1,0 +1,86 @@
+{
+  "evidence_commit": "7b4abcfa43e3b1b06325ed19d4cfa79c95cb10e4",
+  "archive_sha256": "04d79ddb0f961729369da8ae46c58f7293e42dfd278d2e9b703edc0cec6455d2",
+  "frozen_classifier_sha256": "a0db4b10785783102dd9d2ea51814e02c8447a004f2843541545e54a5365530a",
+  "event_count": 62968,
+  "event_chain_head": "b3a01f4178e750532bb79d1c5efc2654a6d76cab31e536f1dead9ca756369460",
+  "cross_model": {
+    "claude-opus-4-6": {
+      "V2": 110
+    },
+    "gpt-5.2-2025-12-11": {
+      "V0": 110
+    },
+    "claude-fable-5": {
+      "RF": 110
+    },
+    "claude-opus-5": {
+      "R": 110
+    },
+    "kimi-k3": {
+      "R": 83,
+      "NV": 14,
+      "V0": 12,
+      "V1": 1
+    }
+  },
+  "ordinary_78": {
+    "literal_null": 24,
+    "prose": 23,
+    "symbolic": 30,
+    "braille_blank": 1
+  },
+  "symbolic_details": {
+    "empty_set": 29,
+    "symbol_for_null": 1,
+    "None": 0
+  },
+  "lexical_300": {
+    "V0": {
+      "n": 110,
+      "anywhere": 110,
+      "tail_500": 104
+    },
+    "NV": {
+      "n": 87,
+      "anywhere": 87,
+      "tail_500": 51
+    },
+    "R": {
+      "n": 102,
+      "anywhere": 101,
+      "tail_500": 30
+    },
+    "V1": {
+      "n": 1,
+      "anywhere": 1,
+      "tail_500": 0
+    }
+  },
+  "tail_classifier": {
+    "positive": "V0",
+    "negative": "NV + R + V1",
+    "TP": 104,
+    "FP": 81,
+    "FN": 6,
+    "TN": 109,
+    "sensitivity": 0.9454545454545454,
+    "specificity": 0.5736842105263158
+  },
+  "budget": {
+    "V1_total": 787,
+    "V1_at_100": 743,
+    "fraction": 0.9440914866581956
+  },
+  "canonical_null_100": {
+    "U+200B": 12,
+    "literal_null": 24,
+    "prose_or_mixed": 23,
+    "U+2205": 29,
+    "V0": 9,
+    "U+2400": 1,
+    "U+2800": 1,
+    "V1": 1
+  },
+  "canonical_null_nonprose": 77
+}

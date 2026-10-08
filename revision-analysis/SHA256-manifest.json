@@ -1,0 +1,9 @@
+{
+  "cross-model-550.csv": "57d2b4127d85c3d7e0bef11cadae54a060b6b349f7a474bfcb6a68569c6b7e03",
+  "lexical-null-300.csv": "0d482ed76e42910ea958989800fef9903ee20180ba0d6918d06cc1d7626128e3",
+  "ordinary-null-78.csv": "bef1429a6244c886ff42216f391f58f97d55a7cbed2cbe2dd2e20b59f70f183c",
+  "revision-results.json": "929531642df3d44bf49cbc4d9951a9aeca653854050bd4631279aae1ca807754",
+  "tables/crossmodel.tex": "e32acdf81e1ff62eb11bd1d76e99bd6e9c92480ef16bacf79e0dbd76878aaef9",
+  "tables/lexicalmain.tex": "31412aea265520830ba3e2d098f52cb8da7a794bae5dfb433df423bb624f6bc2",
+  "tables/ordinary.tex": "cddf5443186ba605e4896faf2e577945d0c1705cf36fda919e1d5de313d833ce"
+}
