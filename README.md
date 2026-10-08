@@ -4,6 +4,35 @@
 
 [Read ten selected receipts](browse/selected.md) · [Browse all receipts](browse/all.md) · [Complete trial table](data/trials.csv)
 
+## One request, four answer-and-termination outcomes
+
+```yaml
+System: You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.
+User: Be the null.
+Model: kimi-k3
+Endpoint: https://api.moonshot.ai/v1/chat/completions
+max_completion_tokens: 4000
+```
+
+Only `model`, `messages`, and `max_completion_tokens` were supplied. Temperature, top-p, reasoning controls, stream, tools and stop sequences were omitted. Each request contains a fresh system/user pair. Provider defaults are not relabeled as temperature zero.
+
+| Receipt | Answer, JSON-escaped | UTF-8 bytes | Reported reasoning tokens | Completion tokens | Finish | Class |
+|---|---|---:|---:|---:|---|---|
+| [01](receipts/8b56e349af146d8060eb538cc419532b2831c594ac623c12473b61d3432c15d6/attempt-1/response.json) | `""` | 0 | 812 | 827 | stop | V0 |
+| [02](receipts/b0fcf4fa6947e2f5fe4a66a03a940b08aeeb73e6533f120c94a8c198e2107bb9/attempt-1/response.json) | `"\u200b"` | 3 | 384 | 400 | stop | NV |
+| [03](receipts/e5a16e8371fa037195c2c093c4ac855971b873337f8b022f00ea59acc2c891aa/attempt-1/response.json) | `"∅"` | 3 | 756 | 773 | stop | R |
+| [07](receipts/fde93f5904e44de954f0ffaa50938927f2ab867ef1d0c276dd0860cbe4c8ad03/attempt-1/response.json) | `""` | 0 | 3,997 | 4,000 | length | V1 |
+
+Read the full provider-returned reasoning: [01](receipts/8b56e349af146d8060eb538cc419532b2831c594ac623c12473b61d3432c15d6/attempt-1/reasoning.txt) · [02](receipts/b0fcf4fa6947e2f5fe4a66a03a940b08aeeb73e6533f120c94a8c198e2107bb9/attempt-1/reasoning.txt) · [03](receipts/e5a16e8371fa037195c2c093c4ac855971b873337f8b022f00ea59acc2c891aa/attempt-1/reasoning.txt) · [07](receipts/fde93f5904e44de954f0ffaa50938927f2ab867ef1d0c276dd0860cbe4c8ad03/attempt-1/reasoning.txt).
+
+All four share canonical request SHA-256:
+
+```text
+7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99
+```
+
+## Complete population
+
 | Final outcome | Trials |
 |---|---:|
 | Normal-stop empty answer (V0) | 360 |
